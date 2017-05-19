@@ -1,0 +1,26 @@
+#iamlist {
+ list-style-type: none;
+}
+#iamlist li {
+ display : inline;
+}
+#iamlist a {
+ display: table-cell;
+ text-align: center;
+ vertical-align: middle;
+ width: 180px;
+ height: 150px;
+ border: 3px solid black;
+ padding: 3px;
+ font-weight: bold;
+ color: #fff;
+}
+#iamlist a#personal {
+ background: url('/assets/personal.jpg') no-repeat 0 0;
+}
+#iamlist a#parent {
+ background: url('/assets/parent.jpg') no-repeat 0 0;
+}
+#iamlist a#professional {
+ background: url('/assets/professional.jpg') no-repeat 0 0;
+}
