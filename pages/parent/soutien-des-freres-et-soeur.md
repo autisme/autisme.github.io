@@ -5,6 +5,9 @@ permalink: /je-suis-un-parent-membre-de-l-entourage/soutien-des-freres-et-soeurs
 hide_header_link: true
 ---
 
+<img src="/assets/pages/parent/soutien-des-freres-et-soeur/ID-10063250.jpg" style="float:left; padding: 10px;" alt="ID-10063250.jpg" />
+
+
 Beaucoup de parents ont du mal à concilier leur temps entre les exigences
 d'un enfant autiste tout en portant une attention égale à leurs autres enfants.
 Ce n'est pas quelque chose que vous devez vous reprocher.
@@ -65,5 +68,8 @@ différence et les personnes ayant des difficultés dans la vie.
 
 
 
+
+
+<small>Image issue de Ambro/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
 
