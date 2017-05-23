@@ -8,7 +8,7 @@ hide_header_link: true
 <img src="/assets/pages/personal/vie-sociale/ID-100456462.jpg" style="float:left; padding: 10px;" alt="ID-100456462" />
 
 La socialisation avec d'autres personnes est quelque
-chose que la plupart des gens font. Cela peut contribuer au bien-être et àune vie saine.
+chose que la plupart des gens font. Cela peut contribuer au bien-être et à une vie saine.
 Cela dit, pour les personnes atteintes d'autisme, la socialisation peut être difficile.
 C'est quelque chose qui n'a souvent pas de règles claires,
 donc il est difficile de savoir à quoi s'attendre.
@@ -23,7 +23,7 @@ la socialisation et souhaitent socialiser.
 Cela signifie simplement qu'une personne peut vouloir 
 Toutefois, il peut être difficile de socialiser normalement et préfèrent le faire
 d'une manière légèrement différente, plus contrôlée. Cela 
-peut-être plus difficile au début mais comme tout dans la vie, cela s'apprend…
+peut être plus difficile au début mais comme tout dans la vie, cela s'apprend…
 
 
 <blockquote>
@@ -49,25 +49,25 @@ Les seules choses que vous devriez chercher à changer sont les
 mauvaises habitudes ou les comportements négatifs qui peuvent être des obstacles à l'amitié,
 Autrement soyez fier de vous qui vous êtes !
 Vous devriez chercher des amis qui vous aiment pour qui vous êtes.
-S'ils ne vous plaisent pas pour ce que vous êtes, oubliez-les!
+S'ils ne vous plaisent pas pour ce que vous êtes, oubliez-les !
 
 ### Soyez impliqué dans les associations et les organismes
 
 Si vous trouvez que socialiser dans un endroit non structuré est difficile, pourquoi ne vous
-impliquez vous pas dans un club ou une association ?
-Vous aurez l'aupportunité de rencontrer des gens du même âge que vous et qui partagent vos intérêts.
+impliquez-vous pas dans un club ou une association ?
+Vous aurez l'opportunité de rencontrer des gens du même âge que vous et qui partagent vos intérêts.
 Cela peut être plus facile pour démarrer une conversation et briser la glace.
 
 ### N'ayez pas peur de franchir le pas
 
-Si vous êtes invité quelque part. cela peut être très effrayant. Vous pouvez être anxieux à propos
+Si vous êtes invité quelque part. Cela peut être très effrayant. Vous pouvez être anxieux à propos
 des choses qui pourraient mal se passer. Essayez de dépasser cela. Si cela ne fonctionne pas,
 vous pouvez toujours retourner chez vous et réessayer une autre fois mais si vous y allez,
-vous pourriez vous amuser plus que vous ne le penser.
+vous pourriez vous amuser plus que vous ne le pensez.
 
 ### Soyez discipliné dans vos compétences en communication
 
-ssurez-vous de montrer de l'intérêt pour ce que les autres personnes racontent
+Assurez-vous de montrer de l'intérêt pour ce que les autres personnes racontent
 et de ne pas parler uniquement de vos propres intérêts.
 Si vous présentez un intérêt pour les autres, ils sont plus susceptibles d'être intéressés
 par ce que vous avez à dire et de vous intéresser davantage.
@@ -78,7 +78,7 @@ activités qui pourraient vous intéresser.
 
 ### Soyez vigilants sur ce que vous dites
 
-Lorsque vous discutez avec d'autres personnes, essayez de ne rien dire qui pourrait être considéré comme inaproprié.
+Lorsque vous discutez avec d'autres personnes, essayez de ne rien dire qui pourrait être considéré comme inapproprié.
 Ne posez pas de questions sur des détails très personnels.
 Ne critiquez pas les autres personnes.
 Enfin ne soyez pas ennuyé si quelqu'un dit quelque chose de faux. Certaines personnes n'aiment pas être corrigé.
@@ -96,7 +96,7 @@ Les conseils ci-dessus sont des exemples de ce qui pourrait être utile
 Être heureux et être vous-même est la chose la plus importante dans la vie
 et toutes les personnes avec autisme sont différentes.
 Si vous voulez plus d'idées pour socialiser pourquoi ne pas en parler à vos parents
-ou à quelqu'un de proche qui vous connaît bien?
+ou à quelqu'un de proche qui vous connaît bien ?
 
 <small>Image issue de Stuart Miles/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
