@@ -20,26 +20,26 @@ Toutefois, cela facilite les choses.
 
 
 #### Avoir une définition claire
-Sans diagnostic il peut être difficile de comprendre quels sont les difficultés rencontrées.
-Il est également difficile d'expliquer les difficultées aux autres personnes voire à la personne concernée elle-même.
+Sans diagnostic il peut être difficile de comprendre quelles sont les difficultés rencontrées.
+Il est également difficile d'expliquer les difficultés aux autres personnes voire à la personne concernée elle-même.
 
 #### Renforcer la compréhension
 Un diagnostic peut aider à comprendre ce qu'est l'autisme.
-C'est triste mais c'est souvent par là que la plupart des personnes du milieu ont découvert ce qu'étais l'autisme.
+C'est triste mais c'est souvent par là que la plupart des personnes du milieu ont découvert ce qu'était l'autisme.
 
 
 #### Aider la personne
-Imaginez être affecté par l'autisme et ne jamais recevoir de diagnostic. Imaginez toutes les difficultées que vous allez rencontrer.
-Vous allez finir par vous demander « qu'est-ce qui ne va pas chez moi ? ». Un diagnostic aide à comprendre et à accepter les difficultées apportées par l'autisme.
+Imaginez être affecté par l'autisme et ne jamais recevoir de diagnostic. Imaginez toutes les difficultés que vous allez rencontrer.
+Vous allez finir par vous demander « qu'est-ce qui ne va pas chez moi ? ». Un diagnostic aide à comprendre et à accepter les difficultés apportées par l'autisme.
 
 
 ### Points négatifs
 
-Toutefois, il y a quelques inconvénients à l'étiquette d'autisme
+Toutefois, il y a quelques inconvénients à l'étiquette d'autisme.
 
 #### Un traitement différent
 Tout ce que nous voulons est que la personne avec autisme se développe pleinement. Une étiquette d'autisme c'est risquer l'exclusion, risquer d'être traîté différemment, de subir des humiliations.
-Toutefois, l'exclusion et les humiliations sont des problèmes avec ou sant diagnostic.
+Toutefois, l'exclusion et les humiliations sont des problèmes avec ou sans diagnostic.
 Certaines personnes ont également traite les personnes autisme avec trop de compassion. Nous espérons qu'éduquer les gens permettra de faire un grande différence sur ce point.
 
 #### Regarder l'étiquette, non la perssone

@@ -9,7 +9,7 @@ hide_header_link: true
 
 Beaucoup de personnes avec autisme ont du mal à trouver ou à garder un emploi. 
 Pourquoi est-ce si difficile ?
-Il y a de nombreuses raisons pour lesquelles trouver du travail est difficile mais nous ne devons garder espoir.
+Il y a de nombreuses raisons pour lesquelles trouver du travail est difficile mais nous devons garder espoir.
 
 
 Cela peut être difficile parfois lorsque vous voulez vraiment mettre vos compétences
@@ -28,7 +28,7 @@ C'est l'un de ces problèmes auxquels sont confrontées les personnes atteintes 
 qui ne nous est pas exclusif, beaucoup de gens sans handicap trouvent les entretiens
 d'embauche effrayants et difficiles, c'est naturel !
 Cependant, l'autisme ajoute ses difficultés. Nous pouvons avoir des difficultés à établir et maintenir un contact visuel 
-ou à répondre aux questions de manière exhaustive et concise. è
+ou à répondre aux questions de manière exhaustive et concise.
 L'idée même de s'asseoir avec un groupe de personnes et d'être examiné et interrogé
 peut nous rendre très anxieux. 
 
@@ -60,7 +60,7 @@ quand on ne sait pas à qui l'on doit rendre compte ou ce qui est attendu de nou
 Cependant, nous aimons généralement une structure et des plans solides,
 alors prenez le temps de comprendre comment l'entreprise fonctionne, car
 cela peut vous fournir une sécurité.
-Si vous avej du mal à respecter les délais ou à faire face à la bureaucratie de l'entreprise, parlez-en à vos
+Si vous avez du mal à respecter les délais ou à faire face à la bureaucratie de l'entreprise, parlez-en à vos
 responsables qui pourront adapter le travail et la vitesse de travail à la manière qui vous convient.
 
 ### Environnement
@@ -100,7 +100,7 @@ et de les soutenir pendant de nombreuses années.
 Dans le marché du travail en constante évolution, c'est un atout réel pour toute entreprise !
   - Concentration : Beaucoup d'entre nous ont des intérêts spécifiques dans certains domaines qui peuvent être utilisés au travail. Les entreprises aiment les gens qui sont passionnés par ce qu'ils font !
   - Intelligence : Certains d'entre nous ont une intelligence au-dessus de l'intelligence moyenne (en particulier ceux atteints du syndrome d'Aspergers). Les entreprises ont besoin de gros cerveaux !
-  - Capacité de réfléchir différemment : Les personnes avec autisme, par notre nature même, pensent différemment de ceux qui sont «neurotypiques». Pour qu'une entreprise puisse avancer, concourir et innover, elle a besoin de personnes qui pensent un peu différemment.
+  - Capacité de réfléchir différemment : Les personnes avec autisme, par leur nature même, pensent différemment de ceux qui sont «neurotypiques». Pour qu'une entreprise puisse avancer, concourir et innover, elle a besoin de personnes qui pensent un peu différemment.
 
 <small>Image issue de imagerymajestic/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

@@ -28,7 +28,7 @@ situations sociales sont plus difficiles qu'elles ne le sont vraiment.
 Pour les adultes, cela est généralement plus difficile car il n'y a plus les opportunités
 offertes par l'école de rencontrer de nouvelles personnes.
 Cependant il y a encore pleins d'autres opportunités.
-Un bond ébut peut être de s'engager dans un club ou une activité qui vous intéresse.
+Un bon début peut être de s'engager dans un club ou une activité qui vous intéresse.
 Cela rend les discussions plus simples car elles portent sur des intérêts que vous aimez.
 
 Une autre possibilité est d'accepter les invitations qui viennent avec le travail, la famille, etc.

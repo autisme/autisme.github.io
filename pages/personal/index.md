@@ -15,8 +15,8 @@ peuvent représenter d'immenses difficultés pour les personnes avec autisme.
 
 Quand la vie devient difficile,
 il est facile de se sentir très seul, de ne pas comprendre ses sentiments et les raisons de ses actes.
-La tentatiion est grande de se plaindre.
-Malheureseument, cela ne sert à rien et ne résout pas les problèmes.
+La tentation est grande de se plaindre.
+Malheureusement, cela ne sert à rien et ne résout pas les problèmes.
 
 
 Le spectre de l'autisme est large. Il est donc très difficile de traîter tous les problèmes rencontrés par les personnes avec autisme.

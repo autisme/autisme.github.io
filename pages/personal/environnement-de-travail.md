@@ -12,7 +12,7 @@ premier coup.  C'est quelque chose qui se construit et qu'il faut maintenir dans
 
 Il y aura toujours des moments dans n'importe quel emploi où vous vous sentez un peu tendus
 ou vous trouvez quelque chose d'un peu difficile.
-De temps en temps des facteurs externes de votre vie privée peuvent influenncer votre performance au travail.
+De temps en temps des facteurs externes de votre vie privée peuvent influencer votre performance au travail.
 Bien que cela soit normal pour tous les employés, ces moments peuvent être plus difficiles pour certains d'entre nous.
 
 Voici quelques suggestions pour faire en sorte d'avoir une meilleure vie au travail.
@@ -20,7 +20,7 @@ Voici quelques suggestions pour faire en sorte d'avoir une meilleure vie au trav
 
 ### Votre vie ne se résume pas qu'au travail
 
-Beaucoup de personnes avec autisme ont tedance à consacrer beaucoup de temps sur ce qu'elles aiment faire.
+Beaucoup de personnes avec autisme ont tendance à consacrer beaucoup de temps sur ce qu'elles aiment faire.
 Assurez-vour d'obtenir un équilibre entre votre travail et vos loisirs.
 Si vous vous sentez fatigués, n'hésitez pas à en parler avec votre employeur.
 

@@ -21,7 +21,7 @@ le fait de vivre avec un frère ou une soeur avec autisme.
 Le ménage tourne probablement autour de ses besoins,
 
 Il est toutefois important que les frères et sœurs reçoivent
-reçoivent votre soutien et une partie de votre temps.
+votre soutien et une partie de votre temps.
 
 Voici quelques points utiles à garder à l'esprit :
 
