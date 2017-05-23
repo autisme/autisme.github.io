@@ -30,3 +30,4 @@ Nous nous concentrons sur les problèmes les plus courants.
  - [Stress et anxiété](/je-suis-une-personne-avec-autisme/stress-et-anxiete)
  - [Environnement de travail](/je-suis-une-personne-avec-autisme/environnement-de-travail)
  - [Problèmes souvent rencontrés au travail](/je-suis-une-personne-avec-autisme/problemes-au-travail)
+ - [Vie sociale](/je-suis-une-personne-avec-autisme/vie-sociale)
