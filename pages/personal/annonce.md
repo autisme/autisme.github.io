@@ -5,7 +5,7 @@ permalink: /je-suis-une-personne-avec-autisme/dois-je-annoncer-mon-autisme
 hide_header_link: true
 ---
 
-Cette question est très souvent posée par les personnes qui vienent de recevoir un diagnostic d'autisme ou par leur parents.
+Cette question est très souvent posée par les personnes qui viennent de recevoir un diagnostic d'autisme ou par leur parents.
 
 C'est une question personnelle à laquelle il n'y a pas vraiment de bonne ou de mauvaise réponse. Vous devrez prendre cette décision vous même.
 
@@ -30,7 +30,7 @@ certainement plus de bénéfices à être franc:
 
 ### Accéder aux aides
 Si vous êtes franc sur le fait que vous êtes affecté par l'autisme, il est beaucoup plus facile d'expliquer aux autres vos besoins et vos difficultés.
-Vous pouvez parfois être surpris comment les gens sont prêt à vous aider simplement en leur disant ce que vous trouvez difficile.
+Vous pouvez parfois être surpris comment les gens sont prêts à vous aider simplement en leur disant ce que vous trouvez difficile.
 
 ### Se sentir plus confiant
 Certaines personnes ont peur que les autres découvrent leur autisme. Ils essaient de se cacher derrière un masque.
@@ -38,10 +38,10 @@ Ce n'est ni drôle ni sain de faire cela. Pourquoi ne voulez-vous pas être vous
 
 ### Se sentir mieux compris
 L'autisme est un handicap invisible et les personnes concernées se sentent souvent frustrées
-que personne ne comprennent pas comment elles agissent.
+que personne ne comprennent comment elles agissent.
 Parce que les autres ne savent pas, ils vous trouvent bizarre, difficiles.
 Dire aux gens que vous êtes affectés par autisme peut vous aider à être mieux compris.
 
 ### Aider les autres
-Parler ouvertement de l'autisme peut aider d'autres personnes qui ne sont pas capable d'en parer pour eux mêmes.
+Parler ouvertement de l'autisme peut aider d'autres personnes qui ne sont pas capables d'en parler pour eux mêmes.
 

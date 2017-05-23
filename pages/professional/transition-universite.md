@@ -8,14 +8,13 @@ hide_header_link: true
 Comme nous le savons, le passage à l'université est difficile pour tous le monde.
 Toutefois, le changement est particulièrement difficile pour les personnes avec autisme.
 
-Les personnes avec autisme font souvent face à d'autres  préoccupations
-concernant la transition vers une éducation .
+Les personnes avec autisme font souvent face à d'autres préoccupations
+concernant la transition vers une éducation.
 
 Les préoccupations lors du passage du lycée à l'université sont :
 
 ### La socialisation
-Pour ceux qui trouvent difficile la socialisation, l'université peut présenter un problème pour apprendre à connaître les gens et ne
- plus voir les amis et les connaissances que l'on s'était faites pendant le lycée.
+Pour ceux qui trouvent difficile la socialisation, l'université peut présenter un problème pour apprendre à connaître les gens et ne plus voir les amis et les connaissances que l'on s'était faites pendant le lycée.
 
 ### Taille et environnement
 Les lycées sont souvent de bien plus petites structures que les universités. Il peut être difficile pour les étudiants avec autisme de naviguer dans les campus
