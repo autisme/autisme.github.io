@@ -1,0 +1,58 @@
+---
+layout: page
+title: Prendre soin de soi
+permalink: /je-suis-un-parent-membre-de-l-entourage/prendre-soin-de-soi
+hide_header_link: true
+---
+
+<img src="/assets/pages/parent/prendre-soin-de-soi/ID-10028215.jpg" style="float:left; padding: 10px;" alt="ID-10028215.jpg" />
+
+Lorsque vous vous occupez d'un membre de la famille ou d'un proche avec autisme,
+il est facile de perdre de vue votre propre santé et votre bien-être mental.
+
+L'obtention d'un diagnostic n'est pas une chose facile, et, comme vous le savez, 
+une fois obtenu, vous devez continuer à vous battre pour obtenir les services et les aides
+nécessaires.
+En outre, l'environnement familial 
+peut être très difficile avec une personne atteinte d'autisme qui demande de l'attention à chaque instant.
+
+Cependant, il est important de vous souvenir que vous n'êtes pas la cause
+de ces problèmes auxquels la personne avec autisme doit faire face.
+En fait, vous faites partie de la solution !
+Vous devez également vous rappeler que si vous vous effondrez en raison du stress et de la fatigue, vous ne pouvez pas apporter votre aide !
+
+En conséquence, vous ne devez pas oublier de vous occuper de vous-même !
+Voici quelques conseils :
+
+### Prenez du temps pour vous
+Personne ne peut s'occuper de quelqu'un 24 heures sur 24, 7 jours sur 7 et 365 jours par an.
+Vous devez organiser dans votre emploi du temps un peu de temps pour vous-même, que ce soit des pauses régulières pour le café ou bien pour rencontrer des amis ou encore partir en week-end.
+Ces opportunités ne doivent pas seulement vous permettre de vous détendre mais aussi
+de vous permettre de mieux aider la personne en étant moins stressée ou préoccupée.
+Bien que cela soit facile à dire, c'est bien plus difficile à faire.
+
+### Ne vous jugez pas et ne laissez pas les autres vous juger
+
+Les parents et les autres membres de la famille des personnes avec autisme
+sont des héros méconnus.
+Et pourtant, bien souvent ils sont durs avec eux-mêmes !
+Ne vous croyez pas que c'est de votre faute si vous avez tant de défis à relever ou que vous ne faites pas assez pour aider la personne avec autisme à les surmonter.
+
+En outre, les membres de la famille estiment souvent
+que d'autres personnes, sans connaissance de l'autisme,
+jugent leur capacité à s'occuper de leur enfant,
+par exemple être regardé dans le supermarché
+lorsque votre enfant fait une crise de panique.
+Vous savez pourtant que vous faites du bon travail avec votre enfant.
+Ne laissez pas les autres vous juger de l'extérieur.
+
+### Cherchez de l'aide
+
+Les nuits blanches, un niveau de stress élevé
+et les comportements difficiles peuvent vraiment vous fatiguer
+ à la fois physiquement et mentalement.
+Il est essentiel que vous parliez à votre médecin si vous vous sentez
+tendu ou accablé par tous les problèmes
+
+<small>Image issue de dan/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
+
