@@ -5,6 +5,8 @@ permalink: /je-suis-un-parent-membre-de-l-entourage/grands-parents
 hide_header_link: true
 ---
 
+<img src="/assets/pages/parent/grands-parents/ID-10033342.jpg" style="float:left; padding: 10px;" alt="ID-10033342" />
+
 L'autisme apporte de nombreux défis aux familles. Les grands parents, du fait de leur
 place particulière dans la famille doivent faire face à des défis qui leur sont propres.
 
@@ -49,4 +51,7 @@ Comme mentionné plus tôt, un bon début serait de trouver quels sont les probl
 Tous les grands-parents n'ont pas le même niveau d'implication dans la vie de leurs petits enfants, mais d'abord, il vous faut réaliser que vous avez un important rôle à jouer. La relation que vous entretenez avec votre petit-fils peut être légèrement adaptée selon ses besoins ou les besoins du reste de la famille. En faisant quelques changements, comme la façon de communiquer ou les lieux que vous visitez en sorties, vous pouvez jouer un rôle très important dans la vie de votre petit-fils.
 
 C'est important pour vous de préserver votre énergie et votre temps, mais en sachant quelles activités votre petit-fils apprécie et en les planifiant régulièrement, vous pouvez tous entretenir une belle relation !
+
+
+<small>Image issue de photostock/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
