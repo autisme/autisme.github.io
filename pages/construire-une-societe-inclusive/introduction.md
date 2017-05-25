@@ -240,7 +240,7 @@ Considérez l'environnement sensoriel, et particulièrement ce que les personnes
 
 #### Regarder les compétences en communication
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-10075051.jpg" style="float:left; padding: 10px;" alt="ID-10075051" />
+<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-10075051.jpg" style="float:left; padding: 10px;" alt="ID-10075051" width="200" />
 
 Êtes-vous toujours limpides dans ce que vous dites ? 
 Est-ce que les gens ne sont pas confus par les figures de style et l'humour que vous utilisez ?
