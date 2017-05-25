@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Construire une société inclusive - Introduction &#58; Qu'est-ce que l'autisme ?
+title: "Construire une société inclusive - Introduction : Qu'est-ce que l'autisme ?"
 permalink: /construire-une-societe-inclusive/introduction
 hide_header_link: true
 ---
