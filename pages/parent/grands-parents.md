@@ -10,7 +10,7 @@ place particulière dans la famille doivent faire face à des défis qui leur so
 
 Nous essayons ici de présenter un certain nombre de ces défis.
 
-### « Je pense que mon petit-fils a l'autisme mais j'ai peur de dire »
+### « Je pense que mon petit-fils a l'autisme mais j'ai peur de le dire »
 
 C'est une remarque que se posent de nombreux grands-parents,
 en particulier lorsqu'un fils ou une fille a son premier enfant et que ce dernier n'identifie pas les traits inhabituels chez son enfant.
