@@ -24,6 +24,9 @@
 #iamlist a#professional {
  background: url('/assets/professional.jpg') no-repeat 0 0;
 }
+#inclusivelist {
+ margin-top: 30px;
+}
 #inclusivelist a#construire-une-societe-inclusive {
  width: 573px;
  background: url('/assets/construire-une-societe-inclusive.jpg') no-repeat 0 0;
