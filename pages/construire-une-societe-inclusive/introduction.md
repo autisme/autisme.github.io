@@ -255,4 +255,3 @@ Vous avez lu ceci, vous avez aimé ?
 Faites passer le message au travers de vos conversations, des réseaux sociaux et faites passer la connaissance à au moins une personne !
 
 <small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
-
