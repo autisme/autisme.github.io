@@ -221,7 +221,7 @@ Nous pouvons tous tomber dans les pièges des stéréotypes, mais cela ne vous a
 Évitez d'en parler avec des termes comme « l'autiste » ou « l'handicapé ».
 
 
-#### Faites un effort pour l'inclusion
+#### Faire un effort pour l'inclusion
 
 Parfois, nous avons l'impression que les personnes avec autisme ne veulent pas être incluses. Que ces personnes préfèrent être seules et évitent les activités en groupe.
 Cependant, elles peuvent apprécier d'avoir l'opportunité d'interagir et de participer comme tout le monde.
@@ -247,7 +247,7 @@ Est-ce que les gens ne sont pas confus par les figures de style et l'humour que 
 Dites-vous « Retrousse tes manches » quand vous voulez dire « Fait un effort » ?
 Considérez cela la prochaine fois que quelqu'un est confus par ce que vous dites, dites ce que vous vous voulez dire.
 
-#### Faites passer le message
+#### Faire passer le message
 
 Un grand problème est le manque de sensibilisation et surtout de compréhension par le grand public.
 Vous avez lu ceci, vous avez aimé ?
