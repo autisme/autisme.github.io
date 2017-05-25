@@ -5,7 +5,7 @@ permalink: /je-suis-un-parent-membre-de-l-entourage/prendre-soin-de-soi
 hide_header_link: true
 ---
 
-<img src="/assets/pages/parent/prendre-soin-de-soi/ID-10028215.jpg" style="float:left; padding: 10px;" alt="ID-10028215.jpg" />
+<img src="/assets/pages/parent/prendre-soin-de-soi/ID-10028215.jpg" style="float:left; padding: 10px;" alt="ID-10028215" />
 
 Lorsque vous vous occupez d'un membre de la famille ou d'un proche avec autisme,
 il est facile de perdre de vue votre propre santé et votre bien-être mental.
