@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Construire une société inclusive
-permalink: /construire-une-societe-inclusive
+permalink: /construire-une-societe-inclusive/
 hide_header_link: true
 ---
 

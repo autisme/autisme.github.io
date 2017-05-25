@@ -14,6 +14,10 @@ Je suis…
  <li><a href="/je-suis-un-professionnel" id="professional">Un professionel<br />&nbsp;</a></li>
 </ul>
 
+<ul id="inclusivelist">
+ <li><a href="/construire-une-societe-inclusive" id="construire-une-societe-inclusive">Conseils pratiques pour une société inclusive</a></li>
+</ul>
+
 <small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
 

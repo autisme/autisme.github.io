@@ -1,10 +1,10 @@
-#iamlist {
+#iamlist, #inclusivelist {
  list-style-type: none;
 }
-#iamlist li {
+#iamlist li, #inclusivelist li {
  display : inline;
 }
-#iamlist a {
+#iamlist a, #inclusivelist a {
  display: table-cell;
  text-align: center;
  vertical-align: middle;
@@ -23,4 +23,8 @@
 }
 #iamlist a#professional {
  background: url('/assets/professional.jpg') no-repeat 0 0;
+}
+#inclusivelist a#construire-une-societe-inclusive {
+ width: 573px;
+ background: url('/assets/construire-une-societe-inclusive.jpg') no-repeat 0 0;
 }
