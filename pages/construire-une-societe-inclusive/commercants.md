@@ -50,12 +50,12 @@ peuvent avoir un impact positif sur la qualité de vie d'une grande partie de vo
 
 #### Traitement sensoriel
 
+<img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-10043693.jpg" style="float:left; padding: 10px;" alt="ID-10043693" width="150" />
+
 Par leur nature, les magasins sont souvent des lieux fortement fréquentés ! Pas seulement par la quantité de personnes mais aussi par les nombreuses choses qui s'y passent.
 
 Considérez votre propre magasin… La liste suivante donne des indications des différentes façons dont
 un magasin ordinaire peut affecter les personnes avec autisme.
-
-<img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-10043693.jpg" style="float:left; padding: 10px;" alt="ID-10043693" />
 
 
   - Est-ce un lieu bruyant ? Par exemple,
@@ -199,7 +199,7 @@ Rencontrer les associations aidant les personnes avec autisme peut être un bon 
 
 #### Prévenir des changements dans le magasin
 
-<img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-100264598.jpg" style="float:left; padding: 10px;" alt="ID-100264598" />
+<img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-100264598.jpg" style="float:left; padding: 10px;" alt="ID-100264598" width="150" />
 
 Les changements génèrent beaucoup de stress.
 Vous pouvez envoyer un e-mail ou poster un message sur les réseaux sociaux pour prévenir d'un changement de disposition.
