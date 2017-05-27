@@ -48,7 +48,7 @@ peuvent avoir un impact positif sur la qualité de vie d'une grande partie de vo
 
 #### Traitement sensoriel
 
-<img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-10043693.jpg" style="float:left; padding: 10px;" alt="ID-10043693" width="200" />
+<img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-10043693.jpg" style="float:right; padding: 10px;" alt="ID-10043693" width="200" />
 
 Par leur nature, les magasins sont souvent des lieux fortement fréquentés ! Pas seulement par la quantité de personnes mais aussi par les nombreuses choses qui s'y passent.
 
