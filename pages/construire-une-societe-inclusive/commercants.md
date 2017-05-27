@@ -219,3 +219,5 @@ Cela est dû à un manque de connaissance de l'autisme par le grand public.
 
 Pour améliorer la situation, vous pouvez sensibiliser à l'autisme en affichant des posters ou distribuant des dépliants dans votre magasin.
 
+<small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
+
