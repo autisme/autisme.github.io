@@ -5,8 +5,6 @@ permalink: /construire-une-societe-inclusive/commercants
 hide_header_link: true
 ---
 
-# Construire une société inclusive - Commerçants
-
 ### Introduction
 
 Environ une personne sur 100 est affectée par l'autisme actuellement.
@@ -50,7 +48,7 @@ peuvent avoir un impact positif sur la qualité de vie d'une grande partie de vo
 
 #### Traitement sensoriel
 
-<img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-10043693.jpg" style="float:left; padding: 10px;" alt="ID-10043693" width="150" />
+<img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-10043693.jpg" style="float:left; padding: 10px;" alt="ID-10043693" width="200" />
 
 Par leur nature, les magasins sont souvent des lieux fortement fréquentés ! Pas seulement par la quantité de personnes mais aussi par les nombreuses choses qui s'y passent.
 
@@ -136,6 +134,8 @@ La plus grande détresse dans ces situations est la réaction des gens qui ne co
 
 #### Anxiété
 
+<img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-100246951.jpg" style="float:left; padding: 10px;" alt="ID-100246951" width="200" />
+
 Les personnes avec autisme sont souvent très anxieuses pour les raisons évoquées plus haut.
 Quand une personne sort de sa zone de confort comme sa maison pour venir dans un magasin, elle peut être anxieuse pour toutes les choses qui peuvent mal se passer ou arriver.
 
@@ -179,6 +179,8 @@ Ce sont des difficultés pour les personnes avec autisme. Vous pouvez fournir su
 
 #### Mettre en place des priorités à la caisse
 
+<img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-100212137.jpg" style="float:left; padding: 10px;" alt="ID-100212137" width="200" />
+
 Les jours avec beaucoup de monde dans votre magasin peuvent être difficile pour les personnes avec autisme à cause de la foule et du bruit.
 Il est possible de mettre en place des caisses prioritaires pour les personnes avec autisme et leur famille.
 
@@ -199,7 +201,7 @@ Rencontrer les associations aidant les personnes avec autisme peut être un bon 
 
 #### Prévenir des changements dans le magasin
 
-<img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-100264598.jpg" style="float:left; padding: 10px;" alt="ID-100264598" width="150" />
+<img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-100264598.jpg" style="float:left; padding: 10px;" alt="ID-100264598" width="200" />
 
 Les changements génèrent beaucoup de stress.
 Vous pouvez envoyer un e-mail ou poster un message sur les réseaux sociaux pour prévenir d'un changement de disposition.

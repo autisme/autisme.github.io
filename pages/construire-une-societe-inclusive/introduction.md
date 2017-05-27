@@ -5,8 +5,6 @@ permalink: /construire-une-societe-inclusive/introduction
 hide_header_link: true
 ---
 
-# Construire une société inclusive - Introduction : Qu'est-ce que l'autisme ?
-
 <img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" style="float:left; padding: 10px;" alt="dict" />
 
 ### Qu'est-ce que l'autisme ?
