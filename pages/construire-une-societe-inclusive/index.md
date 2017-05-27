@@ -14,3 +14,4 @@ Vous avez un rôle à jouer pour rendre l'environnement plus facile pour les per
 Voici une liste de conseils :
 
   - [Introduction : qu'est-ce que l'autisme ?](/construire-une-societe-inclusive/introduction)
+  - [Commerçants](/construire-une-societe-inclusive/commercants)

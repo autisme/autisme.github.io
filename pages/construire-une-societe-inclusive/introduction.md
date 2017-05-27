@@ -5,6 +5,8 @@ permalink: /construire-une-societe-inclusive/introduction
 hide_header_link: true
 ---
 
+# Construire une société inclusive - Introduction : Qu'est-ce que l'autisme ?
+
 <img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" style="float:left; padding: 10px;" alt="dict" />
 
 ### Qu'est-ce que l'autisme ?
@@ -156,7 +158,7 @@ Comme vous pouvez l'imaginer, les personnes peuvent avoir une routine pour évit
 Cela leur permet de limiter la part d'inconnu dans leur vie.
 Les difficultés sociales et les changements imprévus ainsi que les difficultés sensorielles produisent en permanence de l'anxiété.
 
-#### Comportements répétitifs
+#### Auto-stimulation
 
 Quand les personnes avec autisme deviennent anxieuses, elles peuvent aimer faire des mouvements répétitifs comme faire tourner un crayon, jouer avec leurs doigts sur la table.
 Si nous restons assis pendant longtemps, nous avons besoin de changer de position ou de nous lever.
@@ -185,7 +187,7 @@ Nous avons tous besoin d'un peu de stress dans notre vie mais pour les personnes
 Certaines fois, les personnes avec autisme peuvent avoir du mal à communiquer une frustration, à gérer les stimulis sensoriels dans un environnement donné.
 Quand cela se produit, la personne peut avoir un comportement de détresse parfois appelé « effondrement autistique » ou « meltdown ». Ce n'est pas une colère ou un caprice. La personne perd complètement le contrôle d'elle-même.
 
-#### Perception du public
+#### Perception du grand public
 
 Un grand problème auquel les personnes avec autisme doivent faire face est comment l'image que leur renvoie la société.
 Les personnes avec autisme sont parfois traités avec compassion, avec un comportement paternel.  Parfois, on ne considère pas ce qu'elles désirent ou espèrent. Elles sont vues comme des sous-individus, des sous-citoyens.
@@ -232,7 +234,6 @@ Si une personne dit non une fois, deux fois, ou même des centaines de fois, peu
 Considérez également les activités que la personne apprécie, cela facilite la socialisation et limite le stress.
 
 Gardez à l'esprit que vous ne savez pas toujours qui est affecté par l'autisme - soyez inclusifs !
-
 
 #### Considérer l'environnement sensoriel
 
