@@ -3,6 +3,7 @@ layout: post
 title:  Un diaporama pour l'inclusion des personnes avec autisme
 date:   2017-03-20 12:00:00 +0100
 categories: ressources
+author: Bastien
 ---
 
 Je n'ai pas encore trouvé de présentation expliquant concrètement 

@@ -2,6 +2,7 @@
 layout: post
 title:  Mois de « sensibilisation » à l'autisme
 date:   2017-04-02 10:00:00 +0200
+author: Bastien
 categories: 
 ---
 

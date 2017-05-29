@@ -24,6 +24,7 @@ twitter_username: BastienBConfais
 github_username:  autisme
 google_verify: mpUcls0ghJHiock1KTv2d00nVpzQI82SZGDo1nsaziU
 google_analytics: UA-99588632-1
+
 # Build settings
 markdown: kramdown
 #theme: minima
