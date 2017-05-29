@@ -31,3 +31,4 @@ Nous nous concentrons sur les problèmes les plus courants.
  - [Environnement de travail](/je-suis-une-personne-avec-autisme/environnement-de-travail)
  - [Problèmes souvent rencontrés au travail](/je-suis-une-personne-avec-autisme/problemes-au-travail)
  - [Vie sociale](/je-suis-une-personne-avec-autisme/vie-sociale)
+ - [Examens](/je-suis-une-personne-avec-autisme/examens)
