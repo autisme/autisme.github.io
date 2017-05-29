@@ -25,7 +25,7 @@ Toutefois, la plupart des difficultés rencontrées peuvent se classer dans 4 gr
 
 
 Ce document a été écrit pour vous aider à comprendre ce handicap et pour vous donner des conseils simples pour rendre
-votre commerce plus attractif pour les personnes avec autisme.
+votre commerce plus attractif pour les personnes avec autisme (autism friendly).
 
 <strong>Comme toutes les familles, les personnes avec autisme ont besoin d'acheter des choses et sont des clients !</strong>
 Si nous considérons que l'autisme affecte 1 personne sur 100 dans la population, cela signifie qu'un nombre important de clients à la fois adultes et enfants sont affectés.
@@ -36,13 +36,13 @@ Souvent, les magasins sont bruyants, imprévisibles et remplis de monde. Cela fa
 Cela est d'autant plus vrai lorsque c'est pour acheter des choses non essentielles.
 
 En étant conscient des principaux symptômes et des problèmes rencontrés par les personnes avec autisme, 
-vous pouvez améliorer l'environnement
+vous pouvez améliorer votre magasin pour leur simplifier la vie.
 
 Vous ainsi que le personnel de votre magasin peuvent contribuer à améliorer la qualité de vie des personnes avec autisme.
 Vous pourriez être surpris par le fait que de simples changements dans votre commerce
 peuvent avoir un impact positif sur la qualité de vie d'une grande partie de vos clients.
 
-#### Commerces - Challenges pour les personnes avec autisme
+### Commerces - Challenges pour les personnes avec autisme
 
 #### Traitement sensoriel
 
@@ -93,7 +93,7 @@ Beaucoup de personnes avec autisme trouvent la communication difficile et le mon
 Les problèmes de communications auxquels les personnes avec autisme font face sont divers et variés.
 
 Certaines personnes sont non-verbales. Cela leur rend la vie difficile pour parler au personnel
-mais cela peut également aboutir à de la frustration.
+mais cela peut également aboutir à de la frustration. En effet, ces personnes communiquent différement (à l'aide d'images par exemple) et sont parfois difficilement comprises.
 
 Pour celles ayant la capacité de s'exprimer,
 il peut être difficile de dire ce qu'elles ont à dire.
@@ -101,7 +101,7 @@ il peut être difficile de dire ce qu'elles ont à dire.
 De plus, les personnes avec autisme peuvent trouver les interactions sociales difficiles. Par conséquence, les personnes avec autisme
 
   - peuvent trouver plus difficile de demander de l'aide au personnel du magasin lorsqu'ils cherchent quelque chose ;
-  - peuvent ne pas comprendre les réponses floues ou prendre ce qu'on leur dit dans un sens littéral.
+  - peuvent ne pas comprendre les réponses vagues ou prendre ce qu'on leur dit dans un sens littéral.
 
 Cela vient du fait que les personnes avec autisme ne pensent pas de la même façon que les autres personnes et ont besoin d'apprendre les compétences sociales que les autres personnes ont naturellement.
 
