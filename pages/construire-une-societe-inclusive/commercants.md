@@ -5,8 +5,6 @@ permalink: /construire-une-societe-inclusive/commercants
 hide_header_link: true
 ---
 
-### Introduction
-
 Environ une personne sur 100 est affectée par l'autisme actuellement.
 Il y a des personnes qui n'ont pas un de diagnostic car l'autisme n'impacte pas suffisamment leur vie.
 Et puis il y a les personnes, toujours plus nombreuses d'années en années, ayant reçu un diagnostic. Pour celles-ci, l'autisme pose de nombreuses difficultés dans leur vie quotidienne.
