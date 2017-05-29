@@ -13,7 +13,7 @@ et in fine à la société entière afin que chaque personne avec autisme puisse
 L'idée de ce site n'est pas d'expliquer ce qu'est l'autisme d'un point de vue médical où de donner des conseils pour se faire diagnostiquer mais de donner des conseils sur
 ce les défis auquels sont confrontés les personnes avec autisme dans leur vie quotidienne.
 
-Il est connu qu'en France, après le diagnostique, il n'y a pas vraiment d'aide. Ce site veut essayer d'en apporter une.
+Il est connu qu'en France, après le diagnostic, il n'y a pas vraiment d'aide. Ce site veut essayer d'en apporter une.
 
 
 ---
