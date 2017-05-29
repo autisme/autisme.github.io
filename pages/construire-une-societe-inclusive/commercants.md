@@ -156,7 +156,7 @@ Vous pouvez faire beaucoup de choses pour rendre la vie des personnes avec autis
 Rappelez-vous que faciliter la vie des personnes avec autisme n'est pas de la charité, c'est quelque chose de bon pour votre business.
 Les personnes avec autisme représentent une part non négligeable de votre clientèle qui saura vous récompenser pour les petites actions que vous ferez.
 
-#### Mettre à disposition un lieu calme.
+#### Mettre à disposition un lieu calme (« sensory friendly »)
 
 Mettre à disposition un petit espace de votre centre commercial de sorte que les familles aient quelque part où aller lorsqu'une personne avec autisme
 se sent mal.
