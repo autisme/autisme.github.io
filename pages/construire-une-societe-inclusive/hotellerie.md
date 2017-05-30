@@ -69,6 +69,8 @@ De plus, les personnes avec autisme peuvent trouver les interactions sociales di
 
 Cela vient du fait que les personnes avec autisme ne pensent pas de la même façon que les autres personnes et ont besoin d'apprendre les compétences sociales que les autres personnes ont naturellement.
 
+<img src="/assets/pages/construire-une-societe-inclusive/hotellerie/ID-100152576.jpg" style="float:left; padding: 10px;" alt="ID-100152576" />
+
 Les personnes avec autisme peuvent également trouver difficile de répondre aux questions implicites ou peuvent prendre plus de temps pour traiter l'information.
 Cela peut générer du stress et de l'anxiété si la personne est mise sous pression par le personnel et les autres clients.
 
@@ -100,6 +102,8 @@ Les personnes avec autisme peuvent avoir également des difficultés d'organisat
 se souvenir d'apporter toutes les affaires nécessaires pendant leur séjour.
 
 #### Voyage
+
+<img src="/assets/pages/construire-une-societe-inclusive/hotellerie/ID-1005839.jpg" style="float:left; padding: 10px;" alt="ID-1005839" />
 
 Le voyage peut être très fatigant pour beaucoup de personnes avec autisme.
 Les transports impliquent de rester assis pendant très longtemps.
@@ -152,6 +156,8 @@ Vous pouvez également fournir sur votre site web des informations comme les pro
 Cela aidera les personnes avec autisme et leur famille à préparer leur venue.
 
 #### Demander les besoins des personnes
+
+<img src="/assets/pages/construire-une-societe-inclusive/hotellerie/ID-100258870.jpg" style="float:right; padding: 10px;" alt="ID-100258870" />
 
 Souvent, des petites choses causent beaucoup de désagrément. Par exemple des ballons peuvent faire peur s'ils explosent en faisant du bruit.
 De plus, certaines personnes avec autisme peuvent avoir un régime alimentaire très strict, par exemple en ne mangeant que très peu d'aliments.
