@@ -175,3 +175,6 @@ Vous pouvez mettre à disposition un espace plus calme afin que les personnes qu
 Il n'y a pas deux hôtels identiques et personne d'autre que les familles des personnes avec autisme
 ne peut vous dire quels sont les problèmes d'accessibilités rencontrés.
 Écoutez leurs conseils pour améliorer la qualité de votre hôtel.
+
+<small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
+
