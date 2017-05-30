@@ -11,7 +11,7 @@ Et puis il y a les personnes, toujours plus nombreuses d'années en années, aya
 Certaines tâches et activités de la vie quotidienne génèrent beaucoup de stress et d'anxiété.
 Le shopping en est juste une parmi les autres.
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" style="float:left; padding: 10px;" alt="dict" />
+<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" style="float:right; padding: 10px;" alt="dict" />
 
 
 Le spectre de l'autisme est large et les personnes sont impactées de différentes façons.
