@@ -54,7 +54,6 @@ Si vous avez des clients avec autisme qui viennent régulièrement, il peut êtr
 
 #### Communication
 
-Beaucoup de personnes avec autisme trouvent la communication difficile et le monde du commerce est rempli de communication avec les clients.
 Les problèmes de communications auxquels les personnes avec autisme font face sont divers et variés.
 
 Certaines personnes sont non-verbales. Cela leur rend la vie difficile pour parler au personnel.
