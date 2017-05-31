@@ -32,7 +32,6 @@ En devenant sensibilisé aux difficultés de cette population et en faisant de p
 Beaucoup de personnes avec autisme trouvent la communication difficile et le monde du commerce est rempli de communication avec les clients.
 Les problèmes de communications auxquels les personnes avec autisme font face sont divers et variés.
 
-<img src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100442933.jpg" style="float:right; padding: 10px;" alt="ID-100442933" width="200" />
 
 Certaines personnes excèlent dans le maniement du langage, au point de paraître distant ou brutal tandis que d'autres sont non verbaux avec beaucoup de personnes entre ces deux extrêmes.
 Pour ceux qui sont non verbaux, ne pas pouvoir communiquer dans un restaurant peut être frustrant (par exemple ne pas pouvoir faire sa commande).
@@ -41,6 +40,8 @@ Il existe plusieurs apps et outils pour votre business afin d'aider les personne
 Pour ceux qui sont verbaux, le langage peut être scripté ou mécanique. Cependant il est important que le personnel ne l'interprète pas comme des mauvaises manières car cela peut générer de l'anxiété si la personne sent qu'elle est vue comme hostile.
 
 La communication est bien plus que la parole.
+
+<img src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100442933.jpg" style="float:right; padding: 10px;" alt="ID-100442933" width="200" />
 
 Les personnes avec autisme peuvent trouver difficile de comprendre le langage abstrait ou les figures de style.
 Les personnes avec autisme peuvent avoir une compréhension littérale du langage.
