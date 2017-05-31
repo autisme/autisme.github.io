@@ -158,12 +158,12 @@ Cela aidera les personnes avec autisme et leur famille à préparer leur venue.
 
 <img src="/assets/pages/construire-une-societe-inclusive/hotellerie/ID-100258870.jpg" style="float:right; padding: 10px;" alt="ID-100258870" width="200" />
 
-Souvent, des petites choses causent beaucoup de désagrément. Par exemple des ballons peuvent faire peur s'ils explosent en faisant du bruit.
+Souvent, des petites choses génèrent beaucoup de désagrément. Par exemple des ballons peuvent faire peur s'ils explosent en faisant du bruit.
 De plus, certaines personnes avec autisme peuvent avoir un régime alimentaire très strict, par exemple en ne mangeant que très peu d'aliments.
 Pour d'autres, une pièce bruyante peut être très difficile à supporter.
 
 Fournissez un questionnaire de sorte que les familles puissent signaler en avance les difficultés que la personne peut rencontrer.
-Vous pourrez ainsi rectifier les problèmes avant le voyage.
+Vous pourrez ainsi résoudre les problèmes avant le voyage.
 
 #### Mettre à disposition un lieu calme (« sensory friendly »)
 
