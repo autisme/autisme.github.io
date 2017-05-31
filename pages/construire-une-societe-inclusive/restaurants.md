@@ -168,5 +168,5 @@ Il n'y a pas deux restaurants identiques.
 Rencontrez les associations œuvrant dans le domaine de l'autisme pour leur demander conseil sur les adaptations que vous pouvez faire.
 
 
-
+<small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
