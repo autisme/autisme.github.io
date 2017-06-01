@@ -47,28 +47,28 @@ Les lumières vives des transports peuvent être difficiles à supporter pour le
 Les tunnels noirs peuvent aussi poser des problèmes.
 De plus, certaines personnes n'aiment pas certaines couleurs et peuvent devenir anxieuses en y étant exposées comme par exemple un panneau rouge lumineux.
 
-#### Odorat
+##### Odorat
 Une personne avec autisme peut ne pas supporter certaines odeurs.
 Dans les transports, il peut être difficile de rester assis à côté de quelqu'un qui mange quelque chose ou qui a une forte odeur.
 Cela peut générer de la détresse.
 
 Au contraire, certaines personnes avec autisme adorent certaines odeurs.
 
-#### Ouïe
+##### Ouïe
 Beaucoup de personnes avec autisme ne supportent pas la foule à cause du niveau sonore élevé.
 De plus les bruits que les véhicules font comme le bruit de s portes, les haut-parleurs, ou encore la radio d'un taxi peuvent générer de la frustration.
 
 Certaines personnes peuvent également avoir en tête une phrase issue d'un film ou d'une série TV qu'elles adorent et répètent sans cesse.
 Cela peut agacer les autres clients.
 
-#### Toucher
+##### Toucher
 Il n'est pas rare que les personnes avec autisme ait besoin d'un grand espace personnel.
 Cela peut être très stressant d'être trop proche des autres gens.
 
-#### Goût
+##### Goût
 Peut être le moins pertinent pour les transports en commun, les personnes avec autisme peuvent avoir une aversion pour certains goûts, d'un aliment ou du dentifrice par exemple.
 
-### Communication
+#### Communication
 
 Les personnes avec autisme ont souvent de grandes difficultés de communication.
 Il y a ceux qui ont un langage exceptionnel au point de paraître brutal et ceux avec très peu de compétences dans le langage.
