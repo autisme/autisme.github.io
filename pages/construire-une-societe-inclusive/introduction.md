@@ -182,8 +182,11 @@ Nous avons tous besoin d'un peu de stress dans notre vie mais pour les personnes
 
 #### Comportement
 
-Certaines fois, les personnes avec autisme peuvent avoir du mal à communiquer une frustration, à gérer les stimulis sensoriels dans un environnement donné.
-Quand cela se produit, la personne peut avoir un comportement de détresse parfois appelé « effondrement autistique » ou « meltdown ». Ce n'est pas une colère ou un caprice. La personne perd complètement le contrôle d'elle-même.
+Certains fois, les personnes avec autisme peuvent avoir un mauvais comportement. Ce n'est pas être un client difficile mais plutôt la
+conséquence d'être incapable de communiquer une frustration ou l'impossibilité de supporter l'environnement.
+Il est important de signaler cela à la famille ou à la personne qui accompagne afin de mieux comprendre et de mieux savoir dans
+quelle mesure vous pouvez aider.
+
 
 #### Perception du grand public
 

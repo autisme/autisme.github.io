@@ -122,10 +122,14 @@ L'anxiété peut surgir quand les choses ne sont pas claires ou qu'une situation
 Plus une personne est anxieuse, plus il est difficile d'apprécier son séjour.
 C'est pourquoi  il est crucial d'avoir une communication claire et de faire des adaptations raisonnables pour maximiser le plaisir du séjour, à la fois pour la personne et pour le personnel.
 
-#### Comportements
+#### Comportement
 
-Certaines fois les personnes avec autisme peuvent s'énerver. Cela vient du fait qu'elles n'arrivent pas toujours à communiquer leur frustration ou ne supportent pas l'environnement.
-Il est important de voir avec la famille ou avec la personne qui voyage comment faire pour l'aider au mieux.
+Certains fois, les personnes avec autisme peuvent avoir un mauvais comportement. Ce n'est pas être un client difficile mais plutôt la
+conséquence d'être incapable de communiquer une frustration ou l'impossibilité de supporter l'environnement.
+Il est important de signaler cela à la famille ou à la personne qui accompagne afin de mieux comprendre et de mieux savoir dans
+quelle mesure vous pouvez aider.
+
+
 
 #### Famille
 

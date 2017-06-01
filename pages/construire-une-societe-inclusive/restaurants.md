@@ -89,9 +89,10 @@ Cela profitera à la fois aux personnes avec autisme et au personnel.
 
 #### Comportement
 
-Certaines fois, les personnes avec autisme peuvent montrer des comportements difficiles. Cela est souvent lié à une impossibilité de communiquer une frustration ou de supporter l'environnement.
-
-Il est important de discuter avec la famille ou avec la personne quand cela arrive afin de pouvoir mieux comprendre et aider la personne.
+Certains fois, les personnes avec autisme peuvent avoir un mauvais comportement. Ce n'est pas être un client difficile mais plutôt la
+conséquence d'être incapable de communiquer une frustration ou l'impossibilité de supporter l'environnement.
+Il est important de signaler cela à la famille ou à la personne qui accompagne afin de mieux comprendre et de mieux savoir dans
+quelle mesure vous pouvez aider.
 
 #### Famille
 
