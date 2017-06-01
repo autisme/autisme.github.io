@@ -162,7 +162,7 @@ Les personnes avec autisme pourraient laisser leur adresse e-mail afin que vous 
 C'est une petite adaptation pour vous qui peut être un grand atout pour les clients avec autisme.
 
 
-#### Rencontrer les associations de soutien
+#### Rencontrer les associations
 
 Il n'y a pas deux restaurants identiques.
 Rencontrez les associations œuvrant dans le domaine de l'autisme pour leur demander conseil sur les adaptations que vous pouvez faire.

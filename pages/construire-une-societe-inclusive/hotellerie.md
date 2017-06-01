@@ -169,7 +169,7 @@ Vous pourrez ainsi résoudre les problèmes avant le voyage.
 
 Vous pouvez mettre à disposition un espace plus calme afin que les personnes qui ne supportent pas le bruit, les odeurs etc puissent se ressourcer.
 
-#### Rencontrer les associations de soutien
+#### Rencontrer les associations
 
 Il n'y a pas deux hôtels identiques et personne d'autre que les familles des personnes avec autisme
 ne peut vous dire quels sont les problèmes d'accessibilités rencontrés.

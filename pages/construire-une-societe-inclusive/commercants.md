@@ -190,7 +190,7 @@ pour apprendre à interagir avec les personnes avec autisme et à adapter l'envi
 Avoir un personnel sensibilisé à l'autisme peut également permettre aux
 clients de demander de l'aide plus facilement.
 
-#### Rencontrer les associations de soutien
+#### Rencontrer les associations
 
 De la même façon que tous les magasins sont différents, toutes les personnes avec autisme sont différentes.
 Une première étape est d'identifier les adaptations que vous pouvez faire pour les personnes avec autisme.
@@ -211,7 +211,7 @@ Les personnes avec autisme veulent souvent acheter des produits très précis et
  ont besoin de savoir si le produit est disponible dans votre magasin
 
 Vous pouvez prévenir vos clients lorsqu'un produit qu'ils recherchent est arrivé.
-.
+
 #### Sensibiliser le grand public
 
 Nous avons mentionné précédemment que les familles des personnes avec autisme sont souvent isolées.
