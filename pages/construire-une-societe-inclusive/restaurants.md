@@ -138,7 +138,7 @@ Vous pouvez prendre des réservations, demander les besoins des familles de sort
 #### Mettre à disposition un lieu calme (« sensory friendly »)
 
 Vous pouvez fournir une « zone calme » ? Cela peut être une petite partie ou une petite pièce à l'abri du bruit et des gens.
-C'est un petit geste qui peut être très utile pour les personnes avec autisme et leur famille et qui peuvet être en détresse de temps à autre.
+C'est un petit geste qui peut être très utile pour les personnes avec autisme et leur famille et qui peuvent être en détresse de temps à autre.
 Un lieu calme leur permet de partir de situations particulières, de déstresser tout en n'ayant pas besoin de partir.
 Cela est spécialement utile si vous avez par exemple de la musique qui est jouée dans votre restaurant.
 
