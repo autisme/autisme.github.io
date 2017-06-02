@@ -27,7 +27,7 @@ Toutefois, la plupart des difficultés rencontrées peuvent se classer dans 4 gr
 Ce document a été écrit pour vous aider à comprendre ce handicap et pour vous donner des conseils simples pour rendre
 votre commerce plus attractif pour les personnes avec autisme (autism friendly).
 
-<strong>Comme toutes les familles, les personnes avec autisme ont besoin d'acheter des choses et sont des clients !nbsp;!</strong>
+<strong>Comme toutes les familles, les personnes avec autisme ont besoin d'acheter des choses et sont des clients !nbsp;nbsp;!</strong>
 Si nous considérons que l'autisme affecte 1 personne sur 100 dans la population, cela signifie qu'un nombre important de clients à la fois adultes et enfants sont affectés.
 Par l'expérience, les familles et les personnes concernées connaissent les endroits à éviter pour minimiser le nombre de difficultés rencontrées.
 
@@ -48,7 +48,7 @@ peuvent avoir un impact positif sur la qualité de vie d'une grande partie de vo
 
 <img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-10043693.jpg" style="float:right; padding: 10px;" alt="ID-10043693" width="200" />
 
-Par leur nature, les magasins sont souvent des lieux fortement fréquentés !nbsp;! Pas seulement par la quantité de personnes mais aussi par les nombreuses choses qui s'y passent.
+Par leur nature, les magasins sont souvent des lieux fortement fréquentés !nbsp;nbsp;! Pas seulement par la quantité de personnes mais aussi par les nombreuses choses qui s'y passent.
 
 Considérez votre propre magasin… La liste suivante donne des indications des différentes façons dont
 un magasin ordinaire peut affecter les personnes avec autisme.
@@ -149,7 +149,7 @@ encore plus compliquée.
 
 ### Ce que VOUS pouvez faire
 
-Le pouvoir de changer les choses est entre vos mains !nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
+Le pouvoir de changer les choses est entre vos mains !nbsp;nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
 Vous pouvez faire beaucoup de choses pour rendre la vie des personnes avec autisme et de leur famille plus facile.
 
 
@@ -161,7 +161,7 @@ Les personnes avec autisme représentent une part non négligeable de votre clie
 Mettre à disposition un petit espace de votre centre commercial de sorte que les familles aient quelque part où aller lorsqu'une personne avec autisme
 se sent mal.
 
-Avec cela, vous allez non seulement attirer les familles qui sont impactées par l'autisme mais aussi vous leur donnerez une zone de confort de sorte à qu'elle puisse rester plus longtemps dans votre magasin et ne partent pas au premiers signes de difficultés !nbsp;!
+Avec cela, vous allez non seulement attirer les familles qui sont impactées par l'autisme mais aussi vous leur donnerez une zone de confort de sorte à qu'elle puisse rester plus longtemps dans votre magasin et ne partent pas au premiers signes de difficultés !nbsp;nbsp;!
 
 #### Mettre en place une heure / une demi-journée «« nbsp;sensory friendly »nbsp;»
 

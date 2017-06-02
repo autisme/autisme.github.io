@@ -15,7 +15,7 @@ Nous y allons pour sortir de la routine.
 Tous ces éléments participent à la barrière qu'ont les personnes avec autisme et leur famille de fréquenter ces lieux et de les apprécier.
 
 Cela ne veut pas dire que les personnes avec autisme n'apprécient pas de regarder un film ou de jouer au bowling.
-C'est plutôt l'environnement qui est difficile. Cependant avec quelques changements, vous pouvez faire en sorte que ces personnes se divertissent. Vous pourrez ainsi attirer une nouvelle clientèle !nbsp;!
+C'est plutôt l'environnement qui est difficile. Cependant avec quelques changements, vous pouvez faire en sorte que ces personnes se divertissent. Vous pourrez ainsi attirer une nouvelle clientèle !nbsp;nbsp;!
 
 ### Divertissements - Challenges pour les personnes avec autisme
 
@@ -101,7 +101,7 @@ Elles ne prennent pas le temps de se reposer et de se détendre dans les lieux d
 Faites en sorte d'aider ces familles vous distinguera sur votre marché.
 
 ### Ce que VOUS pouvez faire
-Le pouvoir de changer les choses est entre vos mains !nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
+Le pouvoir de changer les choses est entre vos mains !nbsp;nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
 Vous pouvez faire beaucoup de choses pour rendre la vie des personnes avec autisme et de leur famille plus facile.
 
 

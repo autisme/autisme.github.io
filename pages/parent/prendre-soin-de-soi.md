@@ -18,10 +18,10 @@ peut être très difficile avec une personne atteinte d'autisme qui demande de l
 
 Cependant, il est important de vous souvenir que vous n'êtes pas la cause
 de ces problèmes auxquels la personne avec autisme doit faire face.
-En fait, vous faites partie de la solution !nbsp;!
-Vous devez également vous rappeler que si vous vous effondrez en raison du stress et de la fatigue, vous ne pouvez pas apporter votre aide !nbsp;!
+En fait, vous faites partie de la solution !nbsp;nbsp;!
+Vous devez également vous rappeler que si vous vous effondrez en raison du stress et de la fatigue, vous ne pouvez pas apporter votre aide !nbsp;nbsp;!
 
-En conséquence, vous ne devez pas oublier de vous occuper de vous-même !nbsp;!
+En conséquence, vous ne devez pas oublier de vous occuper de vous-même !nbsp;nbsp;!
 Voici quelques conseils :
 
 ### Prenez du temps pour vous
@@ -35,7 +35,7 @@ Bien que cela soit facile à dire, c'est bien plus difficile à faire.
 
 Les parents et les autres membres de la famille des personnes avec autisme
 sont des héros méconnus.
-Et pourtant, bien souvent ils sont durs avec eux-mêmes !nbsp;!
+Et pourtant, bien souvent ils sont durs avec eux-mêmes !nbsp;nbsp;!
 Ne vous croyez pas que c'est de votre faute si vous avez tant de défis à relever ou que vous ne faites pas assez pour aider la personne avec autisme à les surmonter.
 
 En outre, les membres de la famille estiment souvent

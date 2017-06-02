@@ -37,7 +37,7 @@ Une autre possibilité est d'accepter les invitations qui viennent avec le trava
 ### Que dois-je faire si les gens ne m'aiment pas ?nbsp;?
 
 Soyez conscient que tout le monde n'est pas fait pour aimer tout le monde.
-Si les personnes ont un problème avec vous, c'est leur problème !nbsp;!
+Si les personnes ont un problème avec vous, c'est leur problème !nbsp;nbsp;!
 
 ### Y a-t-il des règles dans les conversations ?nbsp;?
 
