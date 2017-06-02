@@ -28,7 +28,7 @@ Certaines personnes excèlent dans le maniement du langage, au point de paraîtr
 Pour ceux qui sont non verbaux, ne pas pouvoir communiquer dans un lieu de divertissement pour exprimer une difficulté ou leur joie peut être très frustrant.
 Il existe plusieurs apps et outils pour votre business afin d'aider les personnes à exprimer leurs besoins.
 
-<img src="/assets/pages/construire-une-societe-inclusive/divertissements/ID-100442933.jpg" style="float:right; padding: 10px;" alt="ID-100442933" width="200" />
+<img src="/assets/pages/construire-une-societe-inclusive/divertissements/ID-100442933.jpg" style="float:right; padding: 10px;" alt="ID-100442933"/>
 
 Pour ceux qui sont verbaux, le langage peut être scripté ou mécanique. Cependant il est important que le personnel ne l'interprète pas comme des mauvaises manières car
 cela peut générer de l'anxiété si la personne sent qu'elle est vue comme hostile.
@@ -73,7 +73,7 @@ En aidant les familles à se préparer pour une visite et en prévenant les pers
 
 #### Anxiété
 
-<img src="/assets/pages/construire-une-societe-inclusive/divertissements/ID-100246951.jpg" style="float:left; padding: 10px;" alt="ID-100246951.jpg" width="200" />
+<img src="/assets/pages/construire-une-societe-inclusive/divertissements/ID-100246951.jpg" style="float:left; padding: 10px;" alt="ID-100246951.jpg" />
 
 Quand les choses ne sont pas assez claires ou qu'une situation non prévue se produit, une personne avec autisme peut devenir anxieuse.
 
@@ -118,7 +118,7 @@ Vous pouvez penser que beaucoup d'expertise est requise pour aider ces personnes
 
 #### Fournir des aides visuelles
 
-<img src="/assets/pages/construire-une-societe-inclusive/divertissements/ID-100207637.jpg" style="float:left; padding: 10px;" alt="ID-100207637" width="200" />
+<img src="/assets/pages/construire-une-societe-inclusive/divertissements/ID-100207637.jpg" style="float:left; padding: 10px;" alt="ID-100207637"/>
 
 Une bonne façon pour les personnes avec autisme à quelque chose de nouveau est d'utiliser des aides visuelles.
 Fournir des images ou une visite à 360° est d'une grande aide pour les familles et les personnes avec autisme pour préparer leur arrivée.
