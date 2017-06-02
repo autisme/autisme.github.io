@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dois-je annoncer mon autisme ?nbsp;?
+title: Dois-je annoncer mon autisme&nbsp;?
 permalink: /je-suis-une-personne-avec-autisme/dois-je-annoncer-mon-autisme
 hide_header_link: true
 ---
@@ -20,7 +20,7 @@ Cependant vous pouvez décider de le dire pour plusieurs raisons :
   - Vous voulez que les gens comprennent ce qu'est l'autisme et vous souhaitez partager vos expériences ;
 
 
-En fait, pourquoi ne voulez-vous pas que les gens savent que vous êtes affectés par l'autisme ?nbsp;?
+En fait, pourquoi ne voulez-vous pas que les gens savent que vous êtes affectés par l'autisme&nbsp;?
 La raison principale est que vous pouvez avoir peur qu'ils vous traitent différemment ou qu'ils vous « posent »  une étiquette, ou qu'ils vous mettent des barrières.
 
 
@@ -34,7 +34,7 @@ Vous pouvez parfois être surpris comment les gens sont prêts à vous aider sim
 
 ### Se sentir plus confiant
 Certaines personnes ont peur que les autres découvrent leur autisme. Ils essaient de se cacher derrière un masque.
-Ce n'est ni drôle ni sain de faire cela. Pourquoi ne voulez-vous pas être vous-même ?nbsp;?
+Ce n'est ni drôle ni sain de faire cela. Pourquoi ne voulez-vous pas être vous-même&nbsp;?
 
 ### Se sentir mieux compris
 L'autisme est un handicap invisible et les personnes concernées se sentent souvent frustrées

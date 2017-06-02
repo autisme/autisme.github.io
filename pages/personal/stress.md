@@ -8,7 +8,7 @@ hide_header_link: true
 L'anxiété est quelque chose qui concerne beaucoup de personnes avec autisme.
 En fait, l'anxiété et le stress sont des choses qui peuvent exacerber les autres symptomes de l'autisme dans la vie quotidienne.
 
-Pourquoi les personnes avec autisme sont-elles si anxieuses ?nbsp;?
+Pourquoi les personnes avec autisme sont-elles si anxieuses&nbsp;?
 C'est une question qui fait actuellement partie du domaine de la recherche. Cependant on en connaît  quelques facteurs clés.
 Par exemple, les personnes avec autisme aiment bien la routine pour être capable de voir le monde d'une façon binaire / bonne ou mauvaise.
 Il est donc normal que quelque chose d'inhabituel ou qui sort simplement de l'ordinaire les inquiète.

@@ -5,7 +5,7 @@ permalink: /je-suis-un-parent-membre-de-l-entourage/apres-le-diagnostic
 hide_header_link: true
 ---
 
-Vous avez passé du temps à obtenir un diagnostic et maintenant… que fait-on ?nbsp;?
+Vous avez passé du temps à obtenir un diagnostic et maintenant… que fait-on&nbsp;?
 
 Il est difficile de répondre à cette question que beaucoup de gens se posent.
 

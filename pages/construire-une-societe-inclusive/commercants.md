@@ -27,7 +27,7 @@ Toutefois, la plupart des difficultés rencontrées peuvent se classer dans 4 gr
 Ce document a été écrit pour vous aider à comprendre ce handicap et pour vous donner des conseils simples pour rendre
 votre commerce plus attractif pour les personnes avec autisme (autism friendly).
 
-<strong>Comme toutes les familles, les personnes avec autisme ont besoin d'acheter des choses et sont des clients !nbsp;!</strong>
+<strong>Comme toutes les familles, les personnes avec autisme ont besoin d'acheter des choses et sont des clients&nbsp;!</strong>
 Si nous considérons que l'autisme affecte 1 personne sur 100 dans la population, cela signifie qu'un nombre important de clients à la fois adultes et enfants sont affectés.
 Par l'expérience, les familles et les personnes concernées connaissent les endroits à éviter pour minimiser le nombre de difficultés rencontrées.
 
@@ -48,31 +48,31 @@ peuvent avoir un impact positif sur la qualité de vie d'une grande partie de vo
 
 <img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-10043693.jpg" style="float:right; padding: 10px;" alt="ID-10043693" width="200" />
 
-Par leur nature, les magasins sont souvent des lieux fortement fréquentés !nbsp;! Pas seulement par la quantité de personnes mais aussi par les nombreuses choses qui s'y passent.
+Par leur nature, les magasins sont souvent des lieux fortement fréquentés&nbsp;! Pas seulement par la quantité de personnes mais aussi par les nombreuses choses qui s'y passent.
 
 Considérez votre propre magasin… La liste suivante donne des indications des différentes façons dont
 un magasin ordinaire peut affecter les personnes avec autisme.
 
 
-  - Est-ce un lieu bruyant ?nbsp;? Par exemple,
-     - Y a-t-il un haut-parleur qui fait des annonces ?nbsp;?
-     - Y a-t-il de la musique d'ambiance ?nbsp;?
-     - Des alarmes sonnent-elles souvent ?nbsp;?
-     - Votre magasin est-il souvent bondé de gens ?nbsp;?
-  - Est-ce un lieu avec des odeurs ?nbsp;? Par exemple,
-    - Vendez-vous du pain ?nbsp;?
-    - Vendez-vous des fruits et des légumes frais ?nbsp;?
-    - Vendez-vous de la viande et du poisson ?nbsp;?
-    - Vendez-vous des produits odorants comme du parfum ou du déodorant ?nbsp;?
-  - À quoi ressemble votre magasin ?nbsp;?
-    - Les lumières sont-elles très brillantes ?nbsp;?
-    - Y a-t-il des lumières qui clignotent ?nbsp;?
-    - Y a-t-il beaucoup d'information dans les rayons et sur les produits ?nbsp;?
-    - Y a-t-il beaucoup de monde qui se déplace ?nbsp;?
-    - Avez-vous des écrans de télévision ?nbsp;?
-    - Avez-vous des vendeurs qui vont eux-mêmes voir les clients ?nbsp;?
+  - Est-ce un lieu bruyant&nbsp;? Par exemple,
+     - Y a-t-il un haut-parleur qui fait des annonces&nbsp;?
+     - Y a-t-il de la musique d'ambiance&nbsp;?
+     - Des alarmes sonnent-elles souvent&nbsp;?
+     - Votre magasin est-il souvent bondé de gens&nbsp;?
+  - Est-ce un lieu avec des odeurs&nbsp;? Par exemple,
+    - Vendez-vous du pain&nbsp;?
+    - Vendez-vous des fruits et des légumes frais&nbsp;?
+    - Vendez-vous de la viande et du poisson&nbsp;?
+    - Vendez-vous des produits odorants comme du parfum ou du déodorant&nbsp;?
+  - À quoi ressemble votre magasin&nbsp;?
+    - Les lumières sont-elles très brillantes&nbsp;?
+    - Y a-t-il des lumières qui clignotent&nbsp;?
+    - Y a-t-il beaucoup d'information dans les rayons et sur les produits&nbsp;?
+    - Y a-t-il beaucoup de monde qui se déplace&nbsp;?
+    - Avez-vous des écrans de télévision&nbsp;?
+    - Avez-vous des vendeurs qui vont eux-mêmes voir les clients&nbsp;?
 
-Vous vous demandez certainement le rapport entre tout cela et l'autisme ?nbsp;?
+Vous vous demandez certainement le rapport entre tout cela et l'autisme&nbsp;?
 Les personnes avec autisme ont des difficultés à traiter les informations sensorielles.
 En conséquences, elles peuvent être très ou très peu sensibles à certains sens.
 
@@ -119,7 +119,7 @@ Cela peut générer du stress et de l'anxiété, particulièrement lorsque quelq
 
 #### Auto-stimulation
 
-L'auto-stimulation ou «« nbsp;stimming »nbsp;» désigne des actions répétitives comme le fait
+L'auto-stimulation ou «&nbsp;stimming&nbsp;» désigne des actions répétitives comme le fait
 de se balancer. Quand n'importe nous devenons anxieux, nous faisons tous des choses comme 
 faire tourner un crayon, ou jouer avec nos doigts sur la table.
 Si nous restons assis trop longtemps, nous avons besoin de changer de position ou de nous lever.
@@ -141,7 +141,7 @@ Si une petite chose se produit comme un membre du personnel qui les aborde ou un
 
 #### Attitude du grand public
 
-Comme l'autisme est un handicap «« nbsp;invisible »nbsp;», beaucoup de parents décrivent comment ils sont vus comme «« nbsp;non capable d'élever leur enfant »nbsp;» par les autres client quand leur enfant
+Comme l'autisme est un handicap «&nbsp;invisible&nbsp;», beaucoup de parents décrivent comment ils sont vus comme «&nbsp;non capable d'élever leur enfant&nbsp;» par les autres client quand leur enfant
 montre un comportement difficile.
 Cela rend leur rôle des parents encore plus difficile et le shopping devient une activité 
 encore plus compliquée.
@@ -149,28 +149,28 @@ encore plus compliquée.
 
 ### Ce que VOUS pouvez faire
 
-Le pouvoir de changer les choses est entre vos mains !nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
+Le pouvoir de changer les choses est entre vos mains&nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
 Vous pouvez faire beaucoup de choses pour rendre la vie des personnes avec autisme et de leur famille plus facile.
 
 
 Rappelez-vous que faciliter la vie des personnes avec autisme n'est pas de la charité, c'est quelque chose de bon pour votre business.
 Les personnes avec autisme représentent une part non négligeable de votre clientèle qui saura vous récompenser pour les petites actions que vous ferez.
 
-#### Mettre à disposition un lieu calme («« nbsp;sensory friendly »nbsp;»)
+#### Mettre à disposition un lieu calme («&nbsp;sensory friendly&nbsp;»)
 
 Mettre à disposition un petit espace de votre centre commercial de sorte que les familles aient quelque part où aller lorsqu'une personne avec autisme
 se sent mal.
 
-Avec cela, vous allez non seulement attirer les familles qui sont impactées par l'autisme mais aussi vous leur donnerez une zone de confort de sorte à qu'elle puisse rester plus longtemps dans votre magasin et ne partent pas au premiers signes de difficultés !nbsp;!
+Avec cela, vous allez non seulement attirer les familles qui sont impactées par l'autisme mais aussi vous leur donnerez une zone de confort de sorte à qu'elle puisse rester plus longtemps dans votre magasin et ne partent pas au premiers signes de difficultés&nbsp;!
 
-#### Mettre en place une heure / une demi-journée «« nbsp;sensory friendly »nbsp;»
+#### Mettre en place une heure / une demi-journée «&nbsp;sensory friendly&nbsp;»
 
 Vous pouvez mettre en place une heure par jour ou une demi-journée par semaine pendant laquelle  vous ne faites pas d'annonce avec les haut-parleurs, où vous ne mettez pas la musique d'ambiance.
 Le shopping sera plus confortable pour les clients avec autisme et leur famille.
 
 #### Fournir des aides visuelles / des scénarios sur votre site web
 Se préparer pour aller dans un magasin est particulièrement difficile pour les personnes avec autisme.
-À quoi le magasin ressemble ?nbsp;? Comment sont agencés les rayons ?nbsp;? Où dois-je chercher ce que je veux ?nbsp;? Est-ce que tout sera OK ?nbsp;?
+À quoi le magasin ressemble&nbsp;? Comment sont agencés les rayons&nbsp;? Où dois-je chercher ce que je veux&nbsp;? Est-ce que tout sera OK&nbsp;?
 
 Ce sont des difficultés pour les personnes avec autisme. Vous pouvez fournir sur votre site web des images ou une visite 360° de votre magasin. Cela sera une aide précieuse pour les personnes qui se préparent à venir dans votre magasin pour la première fois.
 

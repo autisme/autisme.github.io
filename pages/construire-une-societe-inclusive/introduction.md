@@ -1,24 +1,24 @@
 ---
 layout: page
-title: "Construire une société inclusive - Introduction : Qu'est-ce que l'autisme ?nbsp;?"
+title: "Construire une société inclusive - Introduction : Qu'est-ce que l'autisme&nbsp;?"
 permalink: /construire-une-societe-inclusive/introduction
 hide_header_link: true
 ---
 
 <img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" style="float:left; padding: 10px;" alt="dict" />
 
-### Qu'est-ce que l'autisme ?nbsp;?
+### Qu'est-ce que l'autisme&nbsp;?
 
-Quand on prononce le mot «« nbsp;autisme »nbsp;», beaucoup de gens pensent «« nbsp;maladie »nbsp;» ou «« nbsp;déficience »nbsp;»
+Quand on prononce le mot «&nbsp;autisme&nbsp;», beaucoup de gens pensent «&nbsp;maladie&nbsp;» ou «&nbsp;déficience&nbsp;»
 sans vraiment savoir et sans comprendre ce que l'autisme est ou n'est pas.
 L'autisme n'est pas en soi un handicap mental ou physique. C'est un trouble du développement ce qui signifie que les personnes avec autisme se développent différemment,
 particulièrement sur les plans de la communication, des interactions
 et des traitements sensoriels.
 Ces différences peuvent se manifester dans une large variété de symptômes, de problèmes mais aussi de compétences et de capacités.
 
-L'autisme est un «« nbsp;spectre »nbsp;» car deux personnes avec autisme ne sont impactées de la même façon.
-Parfois, nous entendons des mots comme «« nbsp;Syndrome d'asperger »nbsp;», «« nbsp;autisme sévère »nbsp;», etc qui ne sont que des «« nbsp;formes »nbsp;» d'autisme.
-Nous faisons référence au mot «« nbsp;autisme »nbsp;» pour parler du spectre en entier.
+L'autisme est un «&nbsp;spectre&nbsp;» car deux personnes avec autisme ne sont impactées de la même façon.
+Parfois, nous entendons des mots comme «&nbsp;Syndrome d'asperger&nbsp;», «&nbsp;autisme sévère&nbsp;», etc qui ne sont que des «&nbsp;formes&nbsp;» d'autisme.
+Nous faisons référence au mot «&nbsp;autisme&nbsp;» pour parler du spectre en entier.
 
 Nous ne connaissons pas exactement quelles sont les causes de l'autisme. C'est un handicap qui arrive dès la naissance
 et qui dure toute la vie.
@@ -26,7 +26,7 @@ Environ 1 personne sur 100 est affectée par l'autisme. Les garçons sont souven
 Nous savons également que beaucoup de personnes avec autisme cumulent aussi d'autres handicaps
 comme la déficience intellectuelle, la dyslexie, la dyspraxie ou encore l'épilepsie.
 
-L'autisme est «« nbsp;invisible »nbsp;», en d'autres mots, les personnes atteintes n'ont 
+L'autisme est «&nbsp;invisible&nbsp;», en d'autres mots, les personnes atteintes n'ont 
 ne se distinguent pas du reste de la population.
 Cela peut présenter une difficulté à la fois pour le milieu médical qui doit établir un
 diagnostic et à la fois pour les personnes qui sont souvent maltraitées par la société.
@@ -66,23 +66,23 @@ Ci-dessous, quelques-uns des mythes autour de l'autisme.
 
 #### L'autisme est causé par…
 
-Si vous saisissez le mot «« nbsp;autisme »nbsp;» dans un moteur de recherche, vous trouverez
-à la fois des études sérieuses sur les causes de l'autisme  et des études totalement farfelues sans base scientifique comme «« nbsp;avoir des parents qui surprotègent leur enfant »nbsp;».
+Si vous saisissez le mot «&nbsp;autisme&nbsp;» dans un moteur de recherche, vous trouverez
+à la fois des études sérieuses sur les causes de l'autisme  et des études totalement farfelues sans base scientifique comme «&nbsp;avoir des parents qui surprotègent leur enfant&nbsp;».
 Tandis qu'il y a beaucoup de théories sur les causes de l'autisme, toutes vont dans le sens que l'autisme n'est pas lié
 aux comportements des autres mais que l'autisme a des racines biologiques.
 
-#### Vous pouvez «« nbsp;devenir »nbsp;» autiste
+#### Vous pouvez «&nbsp;devenir&nbsp;» autiste
 Les personnes qui ne sont pas affectés par l'autisme pensent souvent que l'autisme est un handicap que vous pouvez développer à un moment dans la vie
-ou qui s'attrape par les autres gens !nbsp;! Ce n'est pas quelque chose que vous pouvez développer dans votre vie. Vous naissez avec et vous vivez avec toute votre vie.
+ou qui s'attrape par les autres gens&nbsp;! Ce n'est pas quelque chose que vous pouvez développer dans votre vie. Vous naissez avec et vous vivez avec toute votre vie.
 De même l'autisme ne s'attrape pas par les personnes autour de vous. Ce n'est pas contagieux.
 
-#### Les personnes avec autisme peuvent être «« nbsp;guéries »nbsp;»
-Les personnes avec autismes ne peuvent pas être «« nbsp;guéries »nbsp;». Elles peuvent recevoir plusieurs thérapies, interventions et des aides variées.
+#### Les personnes avec autisme peuvent être «&nbsp;guéries&nbsp;»
+Les personnes avec autismes ne peuvent pas être «&nbsp;guéries&nbsp;». Elles peuvent recevoir plusieurs thérapies, interventions et des aides variées.
 Ces aides permettent à la personne d'apprendre à communiquer, de tolérer l'environnement et d'apprendre les compétences nécessaires de la vie quotidienne.
 
 Beaucoup de personnes apprennent à dépasser de nombreux problèmes causés par l'autisme, à développer leur potentiel et à vivre une vie heureuse.
 Toutefois, l'autisme ne disparaît pas.
-Certaines personnes pensent que l'autisme est alors «« nbsp;guéri »nbsp;»  mais il n'y aucune base scientifique à cela.
+Certaines personnes pensent que l'autisme est alors «&nbsp;guéri&nbsp;»  mais il n'y aucune base scientifique à cela.
 
 #### L'autisme est un handicap mental
 
@@ -93,10 +93,10 @@ Toutefois, il est important de ne pas supposer qu'une personne a une déficience
 
 #### Les personnes avec autisme sont des génies…
 De même, toutes les personnes avec autisme ne sont pas des génies.
-En effet, seulement une toute petite partie des personnes avec autisme ou des compétences de «« nbsp;génie »nbsp;» dans un certain domaine.
+En effet, seulement une toute petite partie des personnes avec autisme ou des compétences de «&nbsp;génie&nbsp;» dans un certain domaine.
 Les personnes avec autisme peuvent avoir des compétences différentes de la population générale. Indépendamment de leur intellect, certaines ont des compétences dans lesquelles elles excellent ou affichent un talent particulier.
 
-### Les enfants avec autisme sont simplement «« nbsp;mal élevés »nbsp;» / Ce garçon est bizarre / Il est difficile…
+### Les enfants avec autisme sont simplement «&nbsp;mal élevés&nbsp;» / Ce garçon est bizarre / Il est difficile…
 
 Les expressions ci-dessus sont simplement des variations du même mythe.
 Nous vivons dans une société où il est facile de juger quelqu'un qui se comporte différemment.
@@ -127,7 +127,7 @@ Beaucoup de personnes peuvent être anxieuses et stressés dans les situations s
 De plus les personnes avec autisme peuvent ne pas comprendre les attentes sociales comme par exemple les plaisanteries.
 Ces défis peuvent être une barrière à la socialisation.
 Il peut être difficile pour les personnes avec autisme de se faire des amis et d'échanger avec les étudiants ou les collègues de travail.
-Comme l'autisme est un handicap «« nbsp;invisible »nbsp;», les personnes sont vues comme étranges, bizarres.
+Comme l'autisme est un handicap «&nbsp;invisible&nbsp;», les personnes sont vues comme étranges, bizarres.
 Le harcèlement, l'isolation et l'exclusion sont les conséquences de cela.
 
 #### Traitement sensoriel
@@ -196,13 +196,13 @@ Les stéréotypes font que les personnes supposent beaucoup de choses, notamment
 est avant tout une personne.
 Chaque personne avec autisme a ses talents, ses compétences mais aussi ses difficultés.
 
-De plus, les personnes avec autisme sont souvent jugées à cause de la nature «« nbsp;invisible »nbsp;» de leur handicap. Les gens jugent les comportements sans connaître tous les faits.
+De plus, les personnes avec autisme sont souvent jugées à cause de la nature «&nbsp;invisible&nbsp;» de leur handicap. Les gens jugent les comportements sans connaître tous les faits.
 Les personnes avec autisme n'ont pas d'autre choix que de vivre dans un monde qui n'est pas fait pour eux et le manque d'adaptation dans la société leur rend la vie encore plus difficile.
 
 
 ### Ce que VOUS pouvez faire
 
-Le pouvoir de changer les choses est entre vos mains !nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
+Le pouvoir de changer les choses est entre vos mains&nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
 Vous pouvez faire beaucoup de choses pour rendre la vie des personnes avec autisme et de leur famille plus facile.
 
 Nous vous encourageons à trouver vous-même des idées pour inclure les personnes avec autisme dans la société.
@@ -211,17 +211,17 @@ Toutefois, voici une liste de choses que vous pouvez faire :
 #### Surveiller mon langage
 
 Nous pouvons utiliser des termes négatifs quand nous parlons des personnes avec autisme ou des personnes handicapées en général.
-Nous faisons cela rapidement avec des mots comme «« nbsp;attardé »nbsp;», «« nbsp;débile »nbsp;», …
+Nous faisons cela rapidement avec des mots comme «&nbsp;attardé&nbsp;», «&nbsp;débile&nbsp;», …
 Nous pouvons aussi avoir des remarques désobligeants envers les personnes dont on sait qu'elles sont affectées par l'autisme.
 
 L'autre réalité est que parfois, quand nous ne savons pas qu'une personne est affectée mais que nous voyons les comportements,
-nous appelons ces personnes «« nbsp;bizarres »nbsp;», «« nbsp;étranges »nbsp;», «« nbsp;taré »nbsp;», …
-Nous devons nous poser la question «« nbsp;Quels dommages est-ce que je cause avec ces mots ?nbsp;? »nbsp;», «« nbsp;Est-ce que la personne ne pourrait pas être affectée par l'autisme ?nbsp;? »nbsp;»
+nous appelons ces personnes «&nbsp;bizarres&nbsp;», «&nbsp;étranges&nbsp;», «&nbsp;taré&nbsp;», …
+Nous devons nous poser la question «&nbsp;Quels dommages est-ce que je cause avec ces mots&nbsp;?&nbsp;», «&nbsp;Est-ce que la personne ne pourrait pas être affectée par l'autisme&nbsp;?&nbsp;»
 
 #### Les personnes avec autisme sont avant tout des personnes
 
 Nous pouvons tous tomber dans les pièges des stéréotypes, mais cela ne vous aide pas à comprendre la personne.
-Évitez d'en parler avec des termes comme «« nbsp;l'autiste »nbsp;» ou «« nbsp;l'handicapé »nbsp;».
+Évitez d'en parler avec des termes comme «&nbsp;l'autiste&nbsp;» ou «&nbsp;l'handicapé&nbsp;».
 
 
 #### Faire un effort pour l'inclusion
@@ -229,12 +229,12 @@ Nous pouvons tous tomber dans les pièges des stéréotypes, mais cela ne vous a
 Parfois, nous avons l'impression que les personnes avec autisme ne veulent pas être incluses. Que ces personnes préfèrent être seules et évitent les activités en groupe.
 Cependant, elles peuvent apprécier d'avoir l'opportunité d'interagir et de participer comme tout le monde.
 
-Nous pouvons être réticent à inviter quelqu'un avec autisme parce que nous ne savons pas comment elle va répondre ou nous supposons qu'il refusera - mais ne supposez pas, demandez d'abord !nbsp;!
+Nous pouvons être réticent à inviter quelqu'un avec autisme parce que nous ne savons pas comment elle va répondre ou nous supposons qu'il refusera - mais ne supposez pas, demandez d'abord&nbsp;!
 Si une personne dit non une fois, deux fois, ou même des centaines de fois, peut être qu'un jour, elle sera décidée à dire oui.
 
 Considérez également les activités que la personne apprécie, cela facilite la socialisation et limite le stress.
 
-Gardez à l'esprit que vous ne savez pas toujours qui est affecté par l'autisme - soyez inclusifs !nbsp;!
+Gardez à l'esprit que vous ne savez pas toujours qui est affecté par l'autisme - soyez inclusifs&nbsp;!
 
 #### Considérer l'environnement sensoriel
 
@@ -244,16 +244,16 @@ Considérez l'environnement sensoriel, et particulièrement ce que les personnes
 
 <img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-10075051.jpg" style="float:left; padding: 10px;" alt="ID-10075051" width="200" />
 
-Êtes-vous toujours limpides dans ce que vous dites ?nbsp;? 
-Est-ce que les gens ne sont pas confus par les figures de style et l'humour que vous utilisez ?nbsp;?
-Dites-vous «« nbsp;Retrousse tes manches »nbsp;» quand vous voulez dire «« nbsp;Fait un effort »nbsp;» ?nbsp;?
+Êtes-vous toujours limpides dans ce que vous dites&nbsp;? 
+Est-ce que les gens ne sont pas confus par les figures de style et l'humour que vous utilisez&nbsp;?
+Dites-vous «&nbsp;Retrousse tes manches&nbsp;» quand vous voulez dire «&nbsp;Fait un effort&nbsp;»&nbsp;?
 Considérez cela la prochaine fois que quelqu'un est confus par ce que vous dites, dites ce que vous vous voulez dire.
 
 #### Faire passer le message
 
 Un grand problème est le manque de sensibilisation et surtout de compréhension par le grand public.
-Vous avez lu ceci, vous avez aimé ?nbsp;?
+Vous avez lu ceci, vous avez aimé&nbsp;?
 
-Faites passer le message au travers de vos conversations, des réseaux sociaux et faites passer la connaissance à au moins une personne !nbsp;!
+Faites passer le message au travers de vos conversations, des réseaux sociaux et faites passer la connaissance à au moins une personne&nbsp;!
 
 <small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
