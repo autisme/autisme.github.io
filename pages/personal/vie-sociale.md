@@ -41,20 +41,20 @@ Lorsque nous nous sentons vraiment différent
 ou seuls et que nous voulons vraiment être aimé et accepté, il est très
 facile d'essayer d'être comme tout le monde et d'essayer, même en racontant
 des mensonges ou en se comportant différemment, simplement pour
-faire des amis et devenir populaire. Cela ne fonctionne pas ! Personne 
+faire des amis et devenir populaire. Cela ne fonctionne pas !nbsp;! Personne 
 ne peut jamais être quelqu'un qu'il n'est pas. Il arrive un moment ou le masque tombe.
 Les gens verront que vous n'êtes pas ce que vous
 essayez d'être.
 Les seules choses que vous devriez chercher à changer sont les
 mauvaises habitudes ou les comportements négatifs qui peuvent être des obstacles à l'amitié,
-Autrement soyez fier de vous qui vous êtes !
+Autrement soyez fier de vous qui vous êtes !nbsp;!
 Vous devriez chercher des amis qui vous aiment pour qui vous êtes.
-S'ils ne vous plaisent pas pour ce que vous êtes, oubliez-les !
+S'ils ne vous plaisent pas pour ce que vous êtes, oubliez-les !nbsp;!
 
 ### Soyez impliqué dans les associations et les organismes
 
 Si vous trouvez que socialiser dans un endroit non structuré est difficile, pourquoi ne vous
-impliquez-vous pas dans un club ou une association ?
+impliquez-vous pas dans un club ou une association ?nbsp;?
 Vous aurez l'opportunité de rencontrer des gens du même âge que vous et qui partagent vos intérêts.
 Cela peut être plus facile pour démarrer une conversation et briser la glace.
 
@@ -96,7 +96,7 @@ Les conseils ci-dessus sont des exemples de ce qui pourrait être utile
 Être heureux et être vous-même est la chose la plus importante dans la vie
 et toutes les personnes avec autisme sont différentes.
 Si vous voulez plus d'idées pour socialiser pourquoi ne pas en parler à vos parents
-ou à quelqu'un de proche qui vous connaît bien ?
+ou à quelqu'un de proche qui vous connaît bien ?nbsp;?
 
 <small>Image issue de Stuart Miles/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

@@ -13,7 +13,7 @@ D'autres ne supportent pas les bruits forts, les odeurs etc.
 Vous avez un rôle à jouer pour rendre l'environnement plus facile pour les personnes avec autisme, pour les inclure dans la société.
 Voici une liste de conseils selon votre secteur d'activité :
 
-  - [Introduction : qu'est-ce que l'autisme ?](/construire-une-societe-inclusive/introduction)
+  - [Introduction : qu'est-ce que l'autisme ?nbsp;?](/construire-une-societe-inclusive/introduction)
   - [Commerçants](/construire-une-societe-inclusive/commercants)
   - [Hôtellerie](/construire-une-societe-inclusive/hotellerie)
   - [Restaurants](/construire-une-societe-inclusive/restaurants)

@@ -15,15 +15,15 @@ La socialisation est un processus difficile mais qui peut s'avérer utile sur le
 Les objectifs et les difficultés sont différentes selon les âges.
 
 
-### Pourquoi la socialisation est si difficile ?
+### Pourquoi la socialisation est si difficile ?nbsp;?
 
-Les personnes avec autisme ont souvent une pensée très « binaire ». De plus les personnes avec autisme ont des intérêts spécifiques et trouvent les conversations
-sur « la pluie et le beau temps » sans intérêt.
+Les personnes avec autisme ont souvent une pensée très «« nbsp;binaire »nbsp;». De plus les personnes avec autisme ont des intérêts spécifiques et trouvent les conversations
+sur «« nbsp;la pluie et le beau temps »nbsp;» sans intérêt.
 Ce sont les principales barrières mais cela ne signifie pas que les personnes ne vous aimeront pas.
 Les personnes avec autisme sont souvent anxieuses et peuvent s'imaginer que les
 situations sociales sont plus difficiles qu'elles ne le sont vraiment.
 
-### Comment démarrer la socialisation ?
+### Comment démarrer la socialisation ?nbsp;?
 
 Pour les adultes, cela est généralement plus difficile car il n'y a plus les opportunités
 offertes par l'école de rencontrer de nouvelles personnes.
@@ -34,12 +34,12 @@ Cela rend les discussions plus simples car elles portent sur des intérêts que 
 Une autre possibilité est d'accepter les invitations qui viennent avec le travail, la famille, etc.
 
 
-### Que dois-je faire si les gens ne m'aiment pas ?
+### Que dois-je faire si les gens ne m'aiment pas ?nbsp;?
 
 Soyez conscient que tout le monde n'est pas fait pour aimer tout le monde.
-Si les personnes ont un problème avec vous, c'est leur problème !
+Si les personnes ont un problème avec vous, c'est leur problème !nbsp;!
 
-### Y a-t-il des règles dans les conversations ?
+### Y a-t-il des règles dans les conversations ?nbsp;?
 
 Oui mais elles ne sont pas strictes et précises.
 Commencez par parler des choses qui vous intéressent mais laissez également les autres parler.
@@ -48,6 +48,6 @@ Il est également important de réfléchir avant de parler.
 Toutefois, les conversations n'ont pas besoin d'être répétée en avance.
 
 
-### Comment dois-je me comporter avec les autres ?
+### Comment dois-je me comporter avec les autres ?nbsp;?
 
 Simplement, soyez vous même. 

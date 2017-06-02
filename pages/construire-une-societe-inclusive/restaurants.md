@@ -103,7 +103,7 @@ Aider les familles à prendre du temps pour elles sera une grande amélioration 
 
 ### Ce que VOUS pouvez faire
 
-Le pouvoir de changer les choses est entre vos mains ! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
+Le pouvoir de changer les choses est entre vos mains !nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
 Vous pouvez faire beaucoup de choses pour rendre la vie des personnes avec autisme et de leur famille plus facile.
 
 
@@ -113,7 +113,7 @@ Les personnes avec autisme représentent une part non négligeable de votre clie
 #### Former votre personnel
 
 
-Une première étape pour devenir plus « Autism friendly » est de faire en sorte que votre personnel comprenne ce handicap.
+Une première étape pour devenir plus «« nbsp;Autism friendly »nbsp;» est de faire en sorte que votre personnel comprenne ce handicap.
 Comme ce handicap est invisible, cela peut être particulièrement difficile d'identifier et d'aider les personnes concernées.
 Le personnel peut avoir besoin d'une grande expertise dans l'autisme mais de petits changements dans leur attitude peut déjà faire une énorme différence.
 
@@ -127,17 +127,17 @@ N'oubliez pas d'inclure les heures d'ouverture et de fermeture.
 Cela peut grandement aider les personnes avec autisme et leur famille à préparer leur venue.
 
 
-#### Fournir des tables « Autism friendly »
+#### Fournir des tables «« nbsp;Autism friendly »nbsp;»
 
 Pour certaines familles, il y a beaucoup de barrières pour apprécier un repas au restaurant.
 Elles ne prendront simplement pas le temps de se reposer.
-Pourquoi ne pas faire en sorte que tout soit prêt quand elles arrivent ?
+Pourquoi ne pas faire en sorte que tout soit prêt quand elles arrivent ?nbsp;?
 Vous pouvez prendre des réservations, demander les besoins des familles de sorte à pouvoir préparer l'espace et permettre ainsi aux famille de venir et de n'avoir qu'à s'installer.
 
 
-#### Mettre à disposition un lieu calme (« sensory friendly »)
+#### Mettre à disposition un lieu calme («« nbsp;sensory friendly »nbsp;»)
 
-Vous pouvez fournir une « zone calme » ? Cela peut être une petite partie ou une petite pièce à l'abri du bruit et des gens.
+Vous pouvez fournir une «« nbsp;zone calme »nbsp;» ?nbsp;? Cela peut être une petite partie ou une petite pièce à l'abri du bruit et des gens.
 C'est un petit geste qui peut être très utile pour les personnes avec autisme et leur famille et qui peuvent être en détresse de temps à autre.
 Un lieu calme leur permet de partir de situations particulières, de déstresser tout en n'ayant pas besoin de partir.
 Cela est spécialement utile si vous avez par exemple de la musique qui est jouée dans votre restaurant.

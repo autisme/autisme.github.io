@@ -5,17 +5,17 @@ permalink: /je-suis-un-parent-membre-de-l-entourage/l-autisme-une-etiquette
 hide_header_link: true
 ---
 
-Un grand défi pour les parents (mais aussi pour les personnes avec autisme) est de dépasser cette notion « d'étiquette »
+Un grand défi pour les parents (mais aussi pour les personnes avec autisme) est de dépasser cette notion «« nbsp;d'étiquette »nbsp;»
 Il y a des avantages et des inconvénients associés à utiliser cette étiquette qu'est l'autisme.
 
 Il est important de réaliser que les inconvénients ne dépassent pas les avantages. Beaucoup d'inconvénients sont liés au manque de compréhension de l'autisme par le grand public.
-Heureusement avec le temps, l'étiquette « autiste » signifie simplement avoir accès aux aides, d'une façon
+Heureusement avec le temps, l'étiquette «« nbsp;autiste »nbsp;» signifie simplement avoir accès aux aides, d'une façon
 
 ### Points positifs de l'étiquette "Autisme"
 
 #### Accéder aux aides
 C'est un grand avantage et le principal. Avoir un diagnostique d'autisme vous permet d'accéder plus facilement aux aides.
-Note : en France les aides sont théoriquements accessibles aux personnes « en situation de handicap ». Un diagnostique n'est donc théoriqument pas nécessaire.
+Note : en France les aides sont théoriquements accessibles aux personnes «« nbsp;en situation de handicap »nbsp;». Un diagnostique n'est donc théoriqument pas nécessaire.
 Toutefois, cela facilite les choses.
 
 
@@ -30,7 +30,7 @@ C'est triste mais c'est souvent par là que la plupart des personnes du milieu o
 
 #### Aider la personne
 Imaginez être affecté par l'autisme et ne jamais recevoir de diagnostic. Imaginez toutes les difficultés que vous allez rencontrer.
-Vous allez finir par vous demander « qu'est-ce qui ne va pas chez moi ? ». Un diagnostic aide à comprendre et à accepter les difficultés apportées par l'autisme.
+Vous allez finir par vous demander «« nbsp;qu'est-ce qui ne va pas chez moi ?nbsp;? »nbsp;». Un diagnostic aide à comprendre et à accepter les difficultés apportées par l'autisme.
 
 
 ### Points négatifs

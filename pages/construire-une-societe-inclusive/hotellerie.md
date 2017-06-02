@@ -38,7 +38,7 @@ C'est une réelle barrière pour l'inclusion dans la société mais c'est aussi 
 Environ 1 client sur 100 trouve votre hôtel désagréable ou insupportable.
 
 Ne paniquez pas - en apprenant
-quelques éléments sur l'autisme, vous pourrez faire des petits changements qui rendront votre hôtel « autism friendly ».
+quelques éléments sur l'autisme, vous pourrez faire des petits changements qui rendront votre hôtel «« nbsp;autism friendly »nbsp;».
 
 
 ### Hôtellerie - Challenges pour les personnes avec autisme
@@ -142,7 +142,7 @@ Cela serait une très grande amélioration dans la vie de ces familles.
 
 
 ### Ce que VOUS pouvez faire
-Le pouvoir de changer les choses est entre vos mains ! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
+Le pouvoir de changer les choses est entre vos mains !nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
 Vous pouvez faire beaucoup de choses pour rendre la vie des personnes avec autisme et de leur famille plus facile.
 
 
@@ -169,7 +169,7 @@ Pour d'autres, une pièce bruyante peut être très difficile à supporter.
 Fournissez un questionnaire de sorte que les familles puissent signaler en avance les difficultés que la personne peut rencontrer.
 Vous pourrez ainsi résoudre les problèmes avant le voyage.
 
-#### Mettre à disposition un lieu calme (« sensory friendly »)
+#### Mettre à disposition un lieu calme («« nbsp;sensory friendly »nbsp;»)
 
 Vous pouvez mettre à disposition un espace plus calme afin que les personnes qui ne supportent pas le bruit, les odeurs etc puissent se ressourcer.
 

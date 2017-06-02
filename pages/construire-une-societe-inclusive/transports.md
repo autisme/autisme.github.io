@@ -105,7 +105,7 @@ Cela profitera à la fois aux personnes avec autisme et au personnel.
 
 #### Auto-stimulation
 
-L'auto-stimulation ou « stimming » désigne des actions répétitives comme le fait
+L'auto-stimulation ou «« nbsp;stimming »nbsp;» désigne des actions répétitives comme le fait
 de se balancer. Quand n'importe nous devenons anxieux, nous faisons tous des choses comme
 faire tourner un crayon, ou jouer avec nos doigts sur la table.
 Si nous restons assis trop longtemps, nous avons besoin de changer de position ou de nous lever.
@@ -118,7 +118,7 @@ La plus grande détresse dans ces situations est la réaction des gens qui ne co
 
 ### Ce que VOUS pouvez faire
 
-Le pouvoir de changer les choses est entre vos mains ! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
+Le pouvoir de changer les choses est entre vos mains !nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
 Vous pouvez faire beaucoup de choses pour rendre la vie des personnes avec autisme et de leur famille plus facile.
 
 
@@ -128,7 +128,7 @@ Les personnes avec autisme représentent une part non négligeable de votre clie
 #### Former le personnel
 
 Il est essentiel que le personnel comprenne ce handicap et soit capables d'identifier les sources de stress et de difficultés pour les personne avec autisme.
-Parce que l'autisme est un « handicap invisible », les personnes affectées peuvent être vues comme des clients difficiles.
+Parce que l'autisme est un «« nbsp;handicap invisible »nbsp;», les personnes affectées peuvent être vues comme des clients difficiles.
 
 ##### Fournir une zone d'attente
 
@@ -152,7 +152,7 @@ Fournir des images ou une visite à 360° est d'une grande aide pour les famille
 Comme mentionné précédemment, les personnes avec autisme traitent l'information différemment.
 Souvent un langage clair, facile à comprendre ou des instructions visuelles sont plus faciles à comprendre.
 
-Avez-vous vérifié que vos tableaux d'horaires, vos instructions et vos informations commerciales sont faciles à utiliser pour les personnes avec autisme ?
+Avez-vous vérifié que vos tableaux d'horaires, vos instructions et vos informations commerciales sont faciles à utiliser pour les personnes avec autisme ?nbsp;?
 
 #### Rencontrer les associations
 
@@ -163,8 +163,8 @@ ne peut vous dire quels sont les problèmes d'accessibilités rencontrés.
 #### Fournir des aides sensorielles
 
 L'environnement sensoriel est quelque chose de difficile pour la plupart des personnes avec autisme et il n'est pas toujours facile pour vous de trouver des adaptations.
-Cependant, vous pouvez par  exemple fournir une heure calme dans la semaine ?
-Pouvez-vous autoriser les personnes avec autisme de visiter avant d'utiliser vos services ?
+Cependant, vous pouvez par  exemple fournir une heure calme dans la semaine ?nbsp;?
+Pouvez-vous autoriser les personnes avec autisme de visiter avant d'utiliser vos services ?nbsp;?
 
 
 #### Sensibiliser le grand public
@@ -172,7 +172,7 @@ Pouvez-vous autoriser les personnes avec autisme de visiter avant d'utiliser vos
 Les personnes avec autisme sont souvent affectées par les autres clients. Quand ces derniers ne comprennent pas l'autisme, ils peuvent faire des remarques désobligeants et des comportements peut serviables s'ensuivent.
 Quand ils le comprennent, les comportements plus respectueux deviennent la norme.
 
-Voulez-vous que 1 client sur 100 soit confiant dans l'utilisation de vos services ? Pourquoi ne pas faire une campagne de sensibilisation à destination de tous vos clients ?
+Voulez-vous que 1 client sur 100 soit confiant dans l'utilisation de vos services ?nbsp;? Pourquoi ne pas faire une campagne de sensibilisation à destination de tous vos clients ?nbsp;?
 
 #### Informer des changements
 
@@ -182,7 +182,7 @@ Les changements sont difficiles pour les personnes avec autisme.
 Cela peut être plus facile si elles ont du temps pour s'y préparer.
 
 Pourquoi ne pas informer les passagers avec autisme où les informations telles que les retards sont envoyées
-(autant que possible) en avance ?
+(autant que possible) en avance ?nbsp;?
 
 <small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
