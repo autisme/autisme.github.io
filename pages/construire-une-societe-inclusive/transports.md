@@ -127,7 +127,7 @@ Les personnes avec autisme représentent une part non négligeable de votre clie
 
 #### Former le personnel
 
-Il est essentiel que le personnel comprenne les besoins des personnes avec autisme et soient capables d'identifier les sources de stress et de difficultés pour les personne avec autisme.
+Il est essentiel que le personnel comprenne ce handicap et soit capables d'identifier les sources de stress et de difficultés pour les personne avec autisme.
 Parce que l'autisme est un « handicap invisible », les personnes affectées peuvent être vues comme des clients difficiles.
 
 ##### Fournir une zone d'attente
