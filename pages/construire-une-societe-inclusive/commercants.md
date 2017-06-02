@@ -139,7 +139,7 @@ Quand une personne sort de sa zone de confort comme sa maison pour venir dans un
 
 Si une petite chose se produit comme un membre du personnel qui les aborde ou un produit qui est en rupture de stock, cela peut augmenter le niveau de stress.
 
-### Attitude du grand public
+#### Attitude du grand public
 
 Comme l'autisme est un handicap « invisible », beaucoup de parents décrivent comment ils sont vus comme « non capable d'élever leur enfant » par les autres client quand leur enfant
 montre un comportement difficile.

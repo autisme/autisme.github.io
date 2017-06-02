@@ -101,7 +101,7 @@ Ils ne se sentiront pas à l'aise.
 
 Aider les familles à prendre du temps pour elles sera une grande amélioration dans la vie de ces familles et pour vous, cela sera un accès une ouverture sur un marché lucratif.
 
-#### Ce que VOUS pouvez faire
+### Ce que VOUS pouvez faire
 
 Le pouvoir de changer les choses est entre vos mains ! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
 Vous pouvez faire beaucoup de choses pour rendre la vie des personnes avec autisme et de leur famille plus facile.
