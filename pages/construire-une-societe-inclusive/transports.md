@@ -118,7 +118,7 @@ La plus grande détresse dans ces situations est la réaction des gens qui ne co
 
 ### Ce que VOUS pouvez faire
 
-Le pouvoir de changer les choses est entre vos mains !nbsp;nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
+Le pouvoir de changer les choses est entre vos mains !nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
 Vous pouvez faire beaucoup de choses pour rendre la vie des personnes avec autisme et de leur famille plus facile.
 
 

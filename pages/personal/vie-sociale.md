@@ -41,15 +41,15 @@ Lorsque nous nous sentons vraiment différent
 ou seuls et que nous voulons vraiment être aimé et accepté, il est très
 facile d'essayer d'être comme tout le monde et d'essayer, même en racontant
 des mensonges ou en se comportant différemment, simplement pour
-faire des amis et devenir populaire. Cela ne fonctionne pas !nbsp;nbsp;! Personne 
+faire des amis et devenir populaire. Cela ne fonctionne pas !nbsp;! Personne 
 ne peut jamais être quelqu'un qu'il n'est pas. Il arrive un moment ou le masque tombe.
 Les gens verront que vous n'êtes pas ce que vous
 essayez d'être.
 Les seules choses que vous devriez chercher à changer sont les
 mauvaises habitudes ou les comportements négatifs qui peuvent être des obstacles à l'amitié,
-Autrement soyez fier de vous qui vous êtes !nbsp;nbsp;!
+Autrement soyez fier de vous qui vous êtes !nbsp;!
 Vous devriez chercher des amis qui vous aiment pour qui vous êtes.
-S'ils ne vous plaisent pas pour ce que vous êtes, oubliez-les !nbsp;nbsp;!
+S'ils ne vous plaisent pas pour ce que vous êtes, oubliez-les !nbsp;!
 
 ### Soyez impliqué dans les associations et les organismes
 

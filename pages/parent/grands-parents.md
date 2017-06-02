@@ -42,7 +42,7 @@ Bien entendu, il est tout à fait compréhensible qu'être avec votre petit-fils
 
 ### «« nbsp;Je ne sais pas quels comportements peuvent ou ne peuvent pas être contestés »nbsp;»
 
-Vous vous demandez sûrement «Certainement que les personnes avec autisme peuvent aussi être audacieuses ?nbsp;?» ou «Où est la frontière entre un comportement dû à l'autisme et un comportement désobéissant ?nbsp;?» et ces questions sont justifiées. Comme toutes les autres personnes, les personnes avec autisme ont leurs jours avec et leurs jours sans, et peuvent repousser les limites !nbsp;nbsp;!
+Vous vous demandez sûrement «Certainement que les personnes avec autisme peuvent aussi être audacieuses ?nbsp;?» ou «Où est la frontière entre un comportement dû à l'autisme et un comportement désobéissant ?nbsp;?» et ces questions sont justifiées. Comme toutes les autres personnes, les personnes avec autisme ont leurs jours avec et leurs jours sans, et peuvent repousser les limites !nbsp;!
 
 Comme mentionné plus tôt, un bon début serait de trouver quels sont les problèmes et les comportements que votre petit-fils trouve difficiles de sorte à savoir quelles concessions doivent être faites. Généralement, les personnes avec autisme aiment faire plaisir et apprécient la stabilité, donc quand ils sont en colère, ils peuvent se sentir très coupables ou tristes par la suite. Il est donc important que votre approche à la discipline soit la même que celle de leurs parents afin d'assurer «cohérence et routine». C'est pour cela qu'une conversation peut être bénéfique pour tous.
 
@@ -50,7 +50,7 @@ Comme mentionné plus tôt, un bon début serait de trouver quels sont les probl
 
 Tous les grands-parents n'ont pas le même niveau d'implication dans la vie de leurs petits enfants, mais d'abord, il vous faut réaliser que vous avez un important rôle à jouer. La relation que vous entretenez avec votre petit-fils peut être légèrement adaptée selon ses besoins ou les besoins du reste de la famille. En faisant quelques changements, comme la façon de communiquer ou les lieux que vous visitez en sorties, vous pouvez jouer un rôle très important dans la vie de votre petit-fils.
 
-C'est important pour vous de préserver votre énergie et votre temps, mais en sachant quelles activités votre petit-fils apprécie et en les planifiant régulièrement, vous pouvez tous entretenir une belle relation !nbsp;nbsp;!
+C'est important pour vous de préserver votre énergie et votre temps, mais en sachant quelles activités votre petit-fils apprécie et en les planifiant régulièrement, vous pouvez tous entretenir une belle relation !nbsp;!
 
 
 <small>Image issue de photostock/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>

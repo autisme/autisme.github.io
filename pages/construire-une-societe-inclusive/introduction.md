@@ -73,7 +73,7 @@ aux comportements des autres mais que l'autisme a des racines biologiques.
 
 #### Vous pouvez «« nbsp;devenir »nbsp;» autiste
 Les personnes qui ne sont pas affectés par l'autisme pensent souvent que l'autisme est un handicap que vous pouvez développer à un moment dans la vie
-ou qui s'attrape par les autres gens !nbsp;nbsp;! Ce n'est pas quelque chose que vous pouvez développer dans votre vie. Vous naissez avec et vous vivez avec toute votre vie.
+ou qui s'attrape par les autres gens !nbsp;! Ce n'est pas quelque chose que vous pouvez développer dans votre vie. Vous naissez avec et vous vivez avec toute votre vie.
 De même l'autisme ne s'attrape pas par les personnes autour de vous. Ce n'est pas contagieux.
 
 #### Les personnes avec autisme peuvent être «« nbsp;guéries »nbsp;»
@@ -202,7 +202,7 @@ Les personnes avec autisme n'ont pas d'autre choix que de vivre dans un monde qu
 
 ### Ce que VOUS pouvez faire
 
-Le pouvoir de changer les choses est entre vos mains !nbsp;nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
+Le pouvoir de changer les choses est entre vos mains !nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
 Vous pouvez faire beaucoup de choses pour rendre la vie des personnes avec autisme et de leur famille plus facile.
 
 Nous vous encourageons à trouver vous-même des idées pour inclure les personnes avec autisme dans la société.
@@ -229,12 +229,12 @@ Nous pouvons tous tomber dans les pièges des stéréotypes, mais cela ne vous a
 Parfois, nous avons l'impression que les personnes avec autisme ne veulent pas être incluses. Que ces personnes préfèrent être seules et évitent les activités en groupe.
 Cependant, elles peuvent apprécier d'avoir l'opportunité d'interagir et de participer comme tout le monde.
 
-Nous pouvons être réticent à inviter quelqu'un avec autisme parce que nous ne savons pas comment elle va répondre ou nous supposons qu'il refusera - mais ne supposez pas, demandez d'abord !nbsp;nbsp;!
+Nous pouvons être réticent à inviter quelqu'un avec autisme parce que nous ne savons pas comment elle va répondre ou nous supposons qu'il refusera - mais ne supposez pas, demandez d'abord !nbsp;!
 Si une personne dit non une fois, deux fois, ou même des centaines de fois, peut être qu'un jour, elle sera décidée à dire oui.
 
 Considérez également les activités que la personne apprécie, cela facilite la socialisation et limite le stress.
 
-Gardez à l'esprit que vous ne savez pas toujours qui est affecté par l'autisme - soyez inclusifs !nbsp;nbsp;!
+Gardez à l'esprit que vous ne savez pas toujours qui est affecté par l'autisme - soyez inclusifs !nbsp;!
 
 #### Considérer l'environnement sensoriel
 
@@ -254,6 +254,6 @@ Considérez cela la prochaine fois que quelqu'un est confus par ce que vous dite
 Un grand problème est le manque de sensibilisation et surtout de compréhension par le grand public.
 Vous avez lu ceci, vous avez aimé ?nbsp;?
 
-Faites passer le message au travers de vos conversations, des réseaux sociaux et faites passer la connaissance à au moins une personne !nbsp;nbsp;!
+Faites passer le message au travers de vos conversations, des réseaux sociaux et faites passer la connaissance à au moins une personne !nbsp;!
 
 <small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
