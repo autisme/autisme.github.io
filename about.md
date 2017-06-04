@@ -22,7 +22,7 @@ le premier est de permettre aux personnes plus jeunes de ne pas refaire les mêm
 Le second est de donner au grand public les moyens 
 de mieux reconnaître, aider, et inclure les personnes avec autisme.
 
-Si vous avez une histoire à partager. Vous pouvez nous l'envoyer à <stron><span class="contact"><span id="contact">PLEASE-ACTIVATE-JAVASCRIPT--TPIRCSAVAJ-ETAVITCA-ESAELP</span></span></strong>.
+Si vous avez une histoire à partager. Vous pouvez nous l'envoyer à <strong><span class="contact"><span id="contact">PLEASE-ACTIVATE-JAVASCRIPT--TPIRCSAVAJ-ETAVITCA-ESAELP</span></span></strong>.
 
 <script type="text/javascript">window.document.getElementById('contact').innerHTML = '@';</script>
 <style type="text/css">
