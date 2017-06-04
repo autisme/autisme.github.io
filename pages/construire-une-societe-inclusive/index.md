@@ -19,3 +19,4 @@ Voici une liste de conseils selon votre secteur d'activité :
   - [Restaurants](/construire-une-societe-inclusive/restaurants)
   - [Transports en commun](/construire-une-societe-inclusive/transports)
   - [Divertissements](/construire-une-societe-inclusive/divertissements)
+  - [Associations et clubs sportifs](/construire-une-societe-inclusive/assocations-et-clubs-sportifs)

@@ -12,7 +12,7 @@ Les restaurants et les bars sont des lieux sociaux qui demandent beaucoup d'inte
 Ce sont également des lieux bruyants.
 Ces éléments posent de sérieuses difficultés pour les personnes avec autisme.
 
-Environ une personne sur 100 est affectée par l'autisme actuellement.
+Environ une personne sur 100 est actuellement affectée par l'autisme.
 En devenant sensibilisé aux difficultés de cette population et en faisant de petits changements, vous pouvez trouver de nouveaux clients tout en faisant une contribution à la société.
 
 <img src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-10065277.jpg" style="float:left; padding: 10px;" alt="ID-10065277" width="200" />

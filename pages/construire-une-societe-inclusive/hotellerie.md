@@ -6,7 +6,7 @@ hide_header_link: true
 ---
 
 
-Environ une personne sur 100 est affectée par l'autisme actuellement.
+Environ une personne sur 100 est actuellement concernée par l'autisme.
 Il y a des personnes qui n'ont pas un de diagnostic car l'autisme n'impacte pas suffisamment leur vie.
 Et puis il y a les personnes, toujours plus nombreuses d'années en années, ayant reçu un diagnostic. Pour celles-ci, l'autisme pose de nombreuses difficultés dans leur vie quotidienne.
 Certaines tâches et activités de la vie quotidienne génèrent beaucoup de stress et d'anxiété.
