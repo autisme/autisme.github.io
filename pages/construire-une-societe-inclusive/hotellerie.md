@@ -25,7 +25,7 @@ Toutefois, la plupart des difficultés rencontrées peuvent se classer dans 4 gr
 
 
 Ce document a été écrit pour vous aider à comprendre ce handicap et pour vous donner des conseils simples pour rendre
-votre commerce plus attractif pour les personnes avec autisme (autism friendly).
+votre hôtel plus attractif pour les personnes avec autisme (autism friendly).
 
 Que ce soit pour le travail ou pour les loisirs, nous allons à l'hôtel de temps en temps.
 Nous y allons pour nous reposer après des dures périodes de travail. Nous y allons aussi à cause de
