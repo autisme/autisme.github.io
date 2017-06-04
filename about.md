@@ -16,10 +16,10 @@ ce les défis auxquels sont confrontés les personnes avec autisme dans leur vie
 Il est connu qu'en France, après le diagnostic, il n'y a pas vraiment d'aide. Ce site veut essayer d'en apporter une.
 
 
-Je pense qu'il est également important pour les personnes avec autisme de partager leurs expériences.
-Cela a deux objectifs&nbsp;: 
-le premier est de permettre aux personnes plus jeunes de ne pas refaire les mêmes erreurs que leurs aînés.
-Le second est de donner au grand public les moyens 
+Je pense qu'il est également important pour les personnes avec autisme de partager leurs expériences et 
+Ceci pour deux raisons essentielles&nbsp;:
+la première est de permettre aux personnes plus jeunes de ne pas refaire les mêmes erreurs que leurs aînés.
+La seconde est de donner au grand public les moyens 
 de mieux reconnaître, aider, et inclure les personnes avec autisme.
 
 Si vous avez une histoire à partager. Vous pouvez nous l'envoyer à <strong><span class="contact"><span id="contact">PLEASE-ACTIVATE-JAVASCRIPT--TPIRCSAVAJ-ETAVITCA-ESAELP</span></span></strong>.
