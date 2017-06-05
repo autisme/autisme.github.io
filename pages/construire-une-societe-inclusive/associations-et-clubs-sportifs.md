@@ -87,7 +87,7 @@ Ces difficultés sont de grandes barrières pour les personnes avec autisme.
 
 #### Coordination
 
-<img src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/ID-170422.jpg" style="float:left; padding: 10px;" alt="170422" width="250" />
+<img src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/170422.jpg" style="float:left; padding: 10px;" alt="170422" width="250" />
 
 Beaucoup de personnes avec autisme ont du mal à coordonner leurs mouvements et cela rend la pratique du sport difficile.
 Cependant le sport est aussi un bon moyen pour apprendre.
