@@ -22,6 +22,9 @@ Malheureusement, cela ne sert à rien et ne résout pas les problèmes.
 Le spectre de l'autisme est large. Il est donc très difficile de traîter tous les problèmes rencontrés par les personnes avec autisme.
 Nous nous concentrons sur les problèmes les plus courants.
 
+
+Souvenez-vous que «&nbsp;la connaissance c'est le pouvoir&nbsp;» et que vous pouvez utiliser vos connaissances pour relever les défis de votre propre vie et développer votre potentiel.
+
 ---
 
 # Ressources
