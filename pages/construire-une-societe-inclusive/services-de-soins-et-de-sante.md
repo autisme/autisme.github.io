@@ -52,7 +52,7 @@ Par exemple un bébé qui pleure, un haut-parleur pour annoncer des nouvelles ou
 ##### Vue
 Les lumières vives ou clignotantes dans une salle d'attente ou l'utilisation des lampes chirurgicales peuvent ne pas être supportables.
 
-#### Goût
+##### Goût
 Une forte aversion à certains goûts comme les médicaments ou du dentifrice / ou au contraire le besoin de goûts forts.
 
 ##### Odorat
