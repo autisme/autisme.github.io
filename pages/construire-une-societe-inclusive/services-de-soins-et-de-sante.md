@@ -63,7 +63,7 @@ Le toucher est particulièrement difficile lors de la consultation d'un patient 
 Une haute sensibilité du toucher peut rendre l'examen ou le traitement difficile.
 De plus, beaucoup ont un seuil de réaction à la douleur élevé, rendant le diagnostic difficile.
 
-#### Peur
+##### Peur
 
 L'anxiété est une difficulté majeure pour les personnes avec autisme. Elles ont des difficultés à faire face aux changements inattendus ou à un nouvel environnement.
 Rencontrer ces nouvelles personnes dans un environnement inconnu et imprévisible pour elles va
