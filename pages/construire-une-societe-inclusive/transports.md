@@ -158,7 +158,7 @@ Avez-vous vérifié que vos tableaux d'horaires, vos instructions et vos informa
 
 Il n'y a pas deux services de transports identiques et personne d'autre que les familles des personnes avec autisme
 ne peut vous dire quels sont les problèmes d'accessibilités rencontrés.
-Écoutez leurs conseils pour améliorer la qualité de votre hôtel.
+Écoutez leurs conseils pour améliorer la qualité de votre service.
 
 #### Fournir des aides sensorielles
 
