@@ -56,7 +56,7 @@ Au contraire, certaines personnes avec autisme adorent certaines odeurs.
 
 ##### Ouïe
 Beaucoup de personnes avec autisme ne supportent pas la foule à cause du niveau sonore élevé.
-De plus les bruits que les véhicules font comme le bruit de s portes, les haut-parleurs, ou encore la radio d'un taxi peuvent générer de la frustration.
+De plus les bruits que les véhicules font comme le bruit des portes, les haut-parleurs, ou encore la radio d'un taxi peuvent générer de la frustration.
 
 Certaines personnes peuvent également avoir en tête une phrase issue d'un film ou d'une série TV qu'elles adorent et répètent sans cesse.
 Cela peut agacer les autres clients.
