@@ -1,3 +1,6 @@
+a {
+ cursor: pointer;
+}
 #iamlist, #inclusivelist {
  list-style-type: none;
 }
