@@ -14,6 +14,7 @@
  padding: 3px;
  font-weight: bold;
  color: #fff;
+ border-radius: 10px;
 }
 #iamlist a, #inclusivelist a {
  background-blend-mode: multiply;
