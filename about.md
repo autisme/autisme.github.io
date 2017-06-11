@@ -19,7 +19,7 @@ que d'autres ont fait avant eux. Beaucoup de personnes avec autisme se posent le
 La seconde est de donner au grand public les moyens 
 de mieux reconnaître, aider, et inclure les personnes avec autisme.
 Le grand public a souvent des idées préconçue sur l'autisme et ne sait pas comment
-interagir avec  les personnes concernées. Nous devons lui en donner les clés.
+interagir avec  les personnes concernées. Nous devons lui en donner les clés. Nous devons en finir avec les stéréotypes et faire en sorte que les personnes avec autisme soit d'abord vues comme des personnes.
 
 Si vous souhaitez raconter votre histoire, vous pouvez nous l'envoyer à <strong><span class="contact"><span id="contact">PLEASE-ACTIVATE-JAVASCRIPT--TPIRCSAVAJ-ETAVITCA-ESAELP</span></span></strong>. Nous serons ravi de la partager.
 
