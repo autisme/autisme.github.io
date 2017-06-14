@@ -21,3 +21,8 @@ Voici une liste de conseils selon votre secteur d'activité :
   - [Divertissements](/construire-une-societe-inclusive/divertissements)
   - [Associations et clubs sportifs](/construire-une-societe-inclusive/assocations-et-clubs-sportifs)
   - [Services de secours](/construire-une-societe-inclusive/services-de-secours)
+  - [Services de soins et de santé](/construire-une-societe-inclusive/services-de-soins-et-de-sante)
+
+
+Il n'y a pas besoin d'être un expert pour inclure quelqu'un, juste à faire un peu plus attention
+et surtout à ne pas hésiter à demander quand nous sommes face à quelque chose que nous ne comprenons pas.

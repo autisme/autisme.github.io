@@ -78,7 +78,7 @@ Cela peut rendre la communication avec le personnel et les autres clients diffic
 Cependant, la communication va au-delà de la parole.
 Les personnes avec autisme peuvent ne pas comprendre le langage non verbal comme les expressions faciales.
 Les personnes avec autisme peuvent également avoir besoin de plus de temps pour répondre aux questions.
-Cela peut être difficile dans les stations et les arrêts de bus, où lse personnel est sous pression.
+Cela peut être difficile dans les stations et les arrêts de bus, où le personnel est sous pression.
 
 De plus les personnes avec autisme peuvent avoir des difficultés à comprendre les figures de style et les expressions que nous utilisons tous les jours.
 Un langage clair est souvent plus facile à comprendre.
@@ -158,7 +158,7 @@ Avez-vous vérifié que vos tableaux d'horaires, vos instructions et vos informa
 
 Il n'y a pas deux services de transports identiques et personne d'autre que les familles des personnes avec autisme
 ne peut vous dire quels sont les problèmes d'accessibilités rencontrés.
-Écoutez leurs conseils pour améliorer la qualité de votre hôtel.
+Écoutez leurs conseils pour améliorer la qualité de votre service.
 
 #### Fournir des aides sensorielles
 

@@ -1,3 +1,10 @@
+h1, .post-title {
+ font-weight: 200;
+ font-size: 32px;
+}
+a {
+ cursor: pointer;
+}
 #iamlist, #inclusivelist {
  list-style-type: none;
 }
@@ -14,20 +21,48 @@
  padding: 3px;
  font-weight: bold;
  color: #fff;
+ border-radius: 10px;
 }
+#iamlist a, #inclusivelist a {
+ background-blend-mode: multiply;
+}
+
 #iamlist a#personal {
  background: url('/assets/personal.jpg') no-repeat 0 0;
+ background-color: rgba(78, 151, 178, .7);
+ border: 3px solid rgb(78, 151, 178);
 }
+#iamlist a#personal:hover {
+ background-color: rgba(78, 151, 178, .9);
+}
+
 #iamlist a#parent {
  background: url('/assets/parent.jpg') no-repeat 0 0;
+ background-color: rgba(128, 186, 67, .7);
+ border: 3px solid rgb(128, 186, 67);
+}
+#iamlist a#parent:hover {
+ background-color: rgba(128, 186, 67, .9);
 }
 #iamlist a#professional {
  background: url('/assets/professional.jpg') no-repeat 0 0;
+ background-color: rgba(140, 70, 223, .7);
+ border: 3px solid rgb(140, 70, 223);
 }
+#iamlist a#professional:hover {
+ background-color: rgba(140, 70, 223, .9);
+}
+
 #inclusivelist {
  margin-top: 30px;
+ font-size: 1.1em;
 }
 #inclusivelist a#construire-une-societe-inclusive {
  width: 573px;
  background: url('/assets/construire-une-societe-inclusive.jpg') no-repeat 0 0;
+ background-color: rgba(244, 158, 76, 0.7);
+ border: 3px solid rgb(244, 158, 76);
+}
+#inclusivelist a#construire-une-societe-inclusive:hover {
+ background-color: rgba(244, 158, 76, 0.9);
 }

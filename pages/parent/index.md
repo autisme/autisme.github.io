@@ -5,10 +5,10 @@ permalink: /je-suis-un-parent-membre-de-l-entourage/
 hide_header_link: true
 ---
 
-Les parents et les membres de la famille sont les héros méconnus.
+Les parents et les membres de la famille sont les héros méconnus de la prise en charge des personnes avec autisme.
 
-La vie avec une personne avec autisme a sa part de défis.
-L'assurance d'obtenir un diagnostique approprié. L'accès aux services d'aide et au
+La vie avec une personne avec autisme contient sa part de défis.
+L'assurance d'obtenir un diagnostic approprié. L'accès aux services d'aide et au
 soutien nécessaire pour que la personne puisse développer son potentiel, vivre une vie heureuse et aussi indépendante que possible.
 
 ---
