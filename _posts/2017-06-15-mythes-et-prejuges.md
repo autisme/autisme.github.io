@@ -147,8 +147,6 @@ Comprenez que ce que vous voyez comme un mauvais comportement peut être réelle
 Évitez de regarder et de juger, même si vous ne savez pas s'il s'agit d'une personne avec autisme. Laissez respirer ces personnes.
 
 
-## Bonus
-
 ### Mythe 15&nbsp;: L'autisme est causé par…
 
 Toute les phrase commençant comme cela doivent être remises en question.
