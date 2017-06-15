@@ -122,8 +122,10 @@ En conséquences, les filles sont diagnostiquées plus tard que les garçons.
 
 Bien que 80% des personnes avec autisme sont sans emploi, les personnes avec autisme peuvent apporter beaucoup aux entreprises, surtout
 si cette dernière travaille dans un domaine qu'ils affectionnent particulièrement.
+Les personnes avec autisme ont souvent des qualités appréciées par les entreprises comme l'honnêteté, une attention aux détails.
+
 Leur façon de penser leur permet de résoudre de façon originale les problèmes auxquels les entreprises font face.
-Ils peuvent fournir un avantage compétitif aux entreprises qui les emploi.
+Ils peuvent être un élément essentiel à l'innovation dans les entreprises.
 
 Il est souvent considéré que les personnes moins autonomes ne peuvent pas travailler.
 Cela est faux, toutes les personnes avec autisme sont capable de travailler.
