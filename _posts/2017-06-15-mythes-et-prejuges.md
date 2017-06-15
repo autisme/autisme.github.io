@@ -155,7 +155,7 @@ environnementaux jouent également un rôle.
 Il n'y a pas de réponse définitive sur les causes de l'autisme et 
 toute personne pointant un facteur unique ou une cause unique ne serait pas scientifique.
 
-### Mythe 16&nbsp;: L'autisme peut être guéri
+### Mythe 16&nbsp;: L'autisme peut être soigné
 
 Similaire à «&nbsp;l'autisme est causé par&nbsp;», il n'y a pas de façon de guérir de l'autisme.
 C'est un handicap qui dure toute la vie et avec lequel on naît. C'est une partie importante de la personne (avec les côtés positifs et les difficultés) et beaucoup de personnes avec autisme ne souhaitent pas être guérie, elles veulent 
