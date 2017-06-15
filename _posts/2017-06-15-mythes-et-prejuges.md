@@ -4,6 +4,7 @@ title:  Mythes et préjugés
 date:   2017-06-15 08:00:00 +0100
 categories: 
 author: Bastien
+oembed_image: /assets/posts/2017-06-15/opengraph.png
 ---
 
 Quand nous parlons de l'autisme il est aussi important de savoir ce qui est vrai de ce qu'il ne l'est pas.
