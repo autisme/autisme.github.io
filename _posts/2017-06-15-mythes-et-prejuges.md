@@ -144,7 +144,7 @@ Les personnes qui ne connaissent pas l'autisme confondent souvent cela avec un m
 Beaucoup de parents se sentent «&nbsp;jugés&nbsp;» par les autres individus lorsque leur enfant fait l'expérience de cela dans un lieu public.
 
 Comprenez que ce que vous voyez comme un mauvais comportement peut être réellement un enfant en souffrance dans un environnement difficile. 
-Évitez de regarder et de juger, même si vous ne savez pas s'il s'agit d'une personne avec autisme. Laissez respirer ces personnes.
+Évitez de regarder et de juger, même si vous ne savez pas s'il s'agit d'une personne avec autisme. 
 
 
 ### Mythe 15&nbsp;: L'autisme est causé par…
