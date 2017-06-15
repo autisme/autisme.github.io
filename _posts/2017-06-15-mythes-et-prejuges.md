@@ -180,7 +180,7 @@ Et partir de ses points forts pour dépasser les difficultés rencontrées.
 Les personnes avec autisme peuvent trouver difficile de comprendre et d'exprimer leurs émotions ou celles d'autrui.
 Cela ne veut cependant pas dire que les personnes avec autisme ne peuvent pas sympathiser avec d'autres gens.
 
-### Mythe 19&nbsp;: Il ne semble pas être autiste
+### Mythe 19&nbsp;: «&nbsp;Il ne semble pas être autiste&nbsp;»
 
 L'autisme est un handicap invisible. Les personnes avec autisme ne sont pas différentes visuellement des autres personnes.
 L'autisme impacte des personnes de tout âge, de toute religion, de tout milieu social.
