@@ -8,7 +8,8 @@ oembed_image: /assets/posts/2017-06-15/opengraph.png
 ---
 
 Quand nous parlons de l'autisme il est aussi important de savoir ce qui est vrai de ce qu'il ne l'est pas.
-Bien que la sensibilisation à l'autisme est plus importante ces dernières années, nous avons encore du chemin à parcourir pour que la société comprenne réellement ce qu'est l'autisme.
+Bien que la sensibilisation soit plus importante
+ces dernières années, nous avons encore du chemin à parcourir pour que la société comprenne réellement ce handicap.
 
 Beaucoup de personnes ont entendu parler de l'autisme ou connaissent quelqu'un de concerné, beaucoup ne sont pas capables d'expliquer ce que c'est ou de comprendre
 pourquoi les personnes pensent comme elles le font.
