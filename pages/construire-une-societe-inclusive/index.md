@@ -25,4 +25,4 @@ Voici une liste de conseils selon votre secteur d'activité :
 
 
 Il n'y a pas besoin d'être un expert pour inclure quelqu'un, juste à faire un peu plus attention
-et surtout à ne pas hésiter à demander quand nous sommes face à quelque chose que nous ne comprenons pas.
+et surtout à ne pas hésiter à demander lorsque nous faisons face à quelque chose que nous ne comprenons pas.

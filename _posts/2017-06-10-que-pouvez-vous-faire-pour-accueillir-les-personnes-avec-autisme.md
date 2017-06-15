@@ -7,7 +7,7 @@ author: Bastien
 ---
 
 
-L'autisme est encore mal compris en France. Il y a encore beaucoup d'idées reçues sur l'autisme. Certains pensent encore que c'est un handicap mental.
+L'autisme est encore mal compris en France. Il y a encore beaucoup d'idées reçues sur l'autisme. Certains pensent encore que c'est un handicap psychologique.
 D'autres pensent que les personnes avec autisme sont juste des personnes mal élevées.
 Aujourd'hui plus d'une personne sur cent est une personne autisme. **Tout le monde** connaît une personne avec autisme, que ce soit dans sa famille, à l'école, au travail ou chez des amis.
 Tout le monde en a croisé dans sa vie. Et pourtant, peu de personnes comprennent vraiment de quoi il s'agit, et surtout peu de personnes savent comment inclure ces personnes, comment faire pour 
