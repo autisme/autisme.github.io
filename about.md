@@ -13,8 +13,8 @@ L'idée de ce site n'est pas d'expliquer ce qu'est l'autisme d'un point de vue m
 les défis auxquels sont confrontés les personnes avec autisme dans leur vie quotidienne.
 
 Je pense qu'il est important pour les personnes avec autisme de partager leurs expériences, essentiellement pour deux raisons&nbsp;:
-la première est de permettre aux personnes plus jeunes de ne pas refaire les mêmes erreurs 
-que d'autres ont fait avant eux. Beaucoup de personnes avec autisme se posent les mêmes questions et nous devons partager les réponses pour les nouvelles générations.
+la première est de permettre aux personnes avec autisme de se rendre compte qu'ils ne sont pas seuls. Beaucoup de personnes
+se posent les mêmes questions qu'eux.
 La seconde est de donner au grand public les moyens 
 de mieux reconnaître, aider, et inclure les personnes avec autisme dans la société.
 Le grand public a souvent des idées préconçue sur l'autisme et ne sait pas comment
