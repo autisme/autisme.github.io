@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dois-je annoncer mon autisme&nbsp;?
+title: Dois-je annoncer mon autisme ?
 permalink: /je-suis-une-personne-avec-autisme/dois-je-annoncer-mon-autisme
 hide_header_link: true
 ---
