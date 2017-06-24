@@ -58,7 +58,7 @@ Il est important de noter que si vous ou une autre personne avez quelques-unes d
   - Peuvent avoir un objet particulier qui les aide à se relaxer et qui les réassure&nbsp;;
   - Peuvent avoir une mauvaise hygiène corporelle ou au contraire peuvent être très sensible à l'hygiène des personnes qui s'approchent d'eux&nbsp;;
 
-### Comportement
+### Comportements
 
   - Peuvent avoir des jeux inhabituels ou répétitifs (alignement d'objets, tri par couleur)&nbsp;;
   - Peuvent avoir des intérêts très prenants&nbsp;;
@@ -71,7 +71,7 @@ Il est important de noter que si vous ou une autre personne avez quelques-unes d
   - Peuvent faire de «&nbsp;l'automutilation&nbsp;»&nbsp;;
   - Peuvent avoir des difficultés pour changer d'activité.
 
-### Mouvement
+### Mouvements
 
   - Peuvent avoir des mouvements répétitifs comme agiter les mains, sauter, jouer avec un objet ou tourner en rond (cela est appelé auto-stimulation et permet aux personnes de soulager leur cerveau hyper-stimulé)&nbsp;;
   - Peuvent avoir une démarche bizarre&nbsp;;
