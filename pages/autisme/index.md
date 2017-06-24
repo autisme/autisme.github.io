@@ -16,3 +16,4 @@ Dans les sections ci-dessous, nous introduisons le handicap et ses caractéristi
 
   - [Syndrome d'Asperger](/autisme/syndrome-asperger)
   - [Mythes et préjugés](/autisme/mythes-et-prejuges)
+  - [Principaux symptômes](/autisme/principaux-symptomes)
