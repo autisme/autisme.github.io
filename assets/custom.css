@@ -55,14 +55,26 @@ a {
 
 #inclusivelist {
  margin-top: 30px;
- font-size: 1.1em;
+ font-size: 1.2em;
 }
 #inclusivelist a#construire-une-societe-inclusive {
- width: 573px;
+ width: 375px;
  background: url('/assets/construire-une-societe-inclusive.jpg') no-repeat 0 0;
  background-color: rgba(244, 158, 76, 0.7);
  border: 3px solid rgb(244, 158, 76);
 }
 #inclusivelist a#construire-une-societe-inclusive:hover {
  background-color: rgba(244, 158, 76, 0.9);
+}
+#inclusivelist a#autisme {
+ width: 180px;
+ background: url('/assets/autisme.jpg') no-repeat 0 0;
+ background-color: rgba(229, 90, 124, 0.7);
+ border: 3px solid rgb(229, 90, 124);
+/*
+ border: 3px solid rgb(204, 91, 117);
+*/
+}
+#inclusivelist a#autisme:hover {
+ background-color: rgba(229, 90, 124, 0.9);
 }

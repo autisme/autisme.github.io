@@ -15,6 +15,7 @@ Je suis…
 </ul>
 
 <ul id="inclusivelist">
+ <li><a href="/autisme" id="autisme">À propos de<br />l'autisme</a></li>
  <li><a href="/construire-une-societe-inclusive" id="construire-une-societe-inclusive">Conseils pratiques pour une société inclusive</a></li>
 </ul>
 
