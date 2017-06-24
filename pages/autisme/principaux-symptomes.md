@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Principaux symptomes
+title: Principaux symptômes
 permalink: /autisme/principaux-symptomes
 hide_header_link: true
 ---
