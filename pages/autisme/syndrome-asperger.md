@@ -47,7 +47,7 @@ de l'autisme mais diffèrent dans la façon dont le handicap s'exprime.
 Ce qui est source de confusion sont les grandes similarités entre les personnes avec un autisme «&nbsp;de haut niveau&nbsp;» (qui est parfois un terme controversé) et le Syndrome d'Asperger.
 Beaucoup de thèses ont été écrites pour explorer ce sujet. D'après le docteur Tony Attwood, 
 les enfants avec un Syndrome d'Asperger et un autisme de haut niveau ont les mêmes difficultés et ont besoin des mêmes aides pour se faire des amis, pour apprendre à gérer les émotions, et pour coordonner leurs gestes.
-En conséquence, pour les écoles, la différence est seulement historique (Vidéo en anglais&nbs;: [https://www.youtube.com/watch?v=NXhSfqOiI7o](https://www.youtube.com/watch?v=NXhSfqOiI7o) )
+En conséquence, pour les écoles, la différence est seulement historique (Vidéo en anglais&nbsp;: [https://www.youtube.com/watch?v=NXhSfqOiI7o](https://www.youtube.com/watch?v=NXhSfqOiI7o) )
 
 
 ### Est-ce que le Syndrome d'Asperger est un diagnostic qui a été supprimé&nbsp;?
