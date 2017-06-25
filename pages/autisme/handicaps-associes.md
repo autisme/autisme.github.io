@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Handicaps associés
-permalink: /autisme/handicap-associes
+permalink: /autisme/handicaps-associes
 hide_header_link: true
 ---
 Beaucoup de personnes avec autisme sont affectés par d'autres handicaps.
