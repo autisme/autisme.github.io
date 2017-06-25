@@ -17,6 +17,8 @@ De la même façon, l'autisme doit être pris en compte et ne pas être vu comme
 Ci-dessous, nous fournissons une courte liste de certains handicaps qui sont souvent
 en comorbidité avec l'autisme.
 
+<img src="/assets/pages/autisme/handicaps-associes/ID-100185923.jpg" style="float:left; padding: 10px;" alt="ID-100185923" width="300" />
+
 ### Dyslexie, Dyspraxie, TDAH
 
 Il y a beaucoup de personnes avec autisme qui ont d'autres handicaps de développement
@@ -51,4 +53,6 @@ Il est important que les besoins de ces personnes soient satisfaits pour leur pe
 Il est également important que ces personnes bénéficient d'une éducation, puisse travailler, et puissent participer à la vie en société.
 
 Pour plus d'informations, consultez le site de l'[Unapei](http://www.unapei.org/)
+
+<small>Image issue de ddpavumba/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
