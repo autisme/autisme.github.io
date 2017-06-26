@@ -17,7 +17,7 @@ et de faire des petits changements qui aident grandement les personnes avec un h
 
 Ci-dessous, une liste de choses que vous pouvez faire.
 
-<img src="/assets/pages/autisme/ce-que-vous-pouvez-faire-pour-construire-une-societe-inclusive/ID-10045222.jpg" style="float:left; padding: 10px;" alt="ID-10045222" width="300" />
+<img src="/assets/pages/autisme/ce-que-vous-pouvez-faire-pour-construire-une-societe-inclusive/ID-10045222.jpg" style="text-align: center; padding: 10px;" alt="ID-10045222" width="400" />
 
 
 ## Ce que vous pouvez faire en tant que personne
