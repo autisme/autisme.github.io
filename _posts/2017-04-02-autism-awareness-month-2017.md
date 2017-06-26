@@ -73,7 +73,7 @@ Cela peut prendre différentes formes. Certaines personnes sont non verbales tan
 Il peut être difficile pour ces personnes de savoir et comprendre ce qu'elles ressentent.
 Beaucoup de personnes avec autisme ont une compréhension littérale du langage, ce qui signifie que l'humour, le sarcasme ou autres figures de styles peuvent être déroutantes.
 
-Si vous rencontrez une personne avec autisme qui a des difficultés avec le langage, vous devriez utiliser des phrase claires qui disent exactement ce que vous voulez dire.
+Si vous rencontrez une personne avec autisme qui a des difficultés avec le langage, vous devriez utiliser des phrases claires qui disent exactement ce que vous voulez dire.
 Laissez suffisamment de temps à la personne pour vous répondre, ne posez pas de nombreuses questions à la suite.
 
 N'oubliez pas, ce n'est pas parce qu'une personne ne parle pas que celle-ci n'a rien à dire.
