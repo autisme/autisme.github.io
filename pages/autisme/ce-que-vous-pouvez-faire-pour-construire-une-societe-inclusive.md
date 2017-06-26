@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ce que VOUS pouvez faire pour construire une société inclusive&nbsp;?
+title: Ce que VOUS pouvez faire pour construire une société inclusive ?
 permalink: /autisme/ce-que-vous-pouvez-faire-pour-construire-une-societe-inclusive
 hide_header_link: true
 ---
