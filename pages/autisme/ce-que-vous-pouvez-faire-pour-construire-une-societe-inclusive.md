@@ -5,7 +5,7 @@ permalink: /autisme/ce-que-vous-pouvez-faire-pour-construire-une-societe-inclusi
 hide_header_link: true
 ---
 
-«&nbsp;Que puis-je faire pour aider&nbsp?&nbsp;» c'est une question que beaucoup de gens se posent, que ce soit des personnes qui viennent d'être sensibilisés à l'autisme et qui veulent 
+«&nbsp;Que puis-je faire pour aider&nbsp;?&nbsp;» c'est une question que beaucoup de gens se posent, que ce soit des personnes qui viennent d'être sensibilisés à l'autisme et qui veulent 
 rendre la vie des personnes avec autisme plus facile ou que ce soit des parents, des proches d'une personne avec autisme qui veulent aider cette dernière.
 
 S'assurer que les personnes avec autisme puissent développer leur potentiel et faire partie de la société est quelque chose qui doit impliquer la société tout entière.
