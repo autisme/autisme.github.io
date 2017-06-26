@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ce que VOUS pouvez faire pour construire une société inclusive ?
+title: Ce que VOUS pouvez faire pour construire une société inclusive&nbsp;?
 permalink: /autisme/ce-que-vous-pouvez-faire-pour-construire-une-societe-inclusive
 hide_header_link: true
 ---
@@ -50,15 +50,15 @@ On attend toujours des personnes avec autisme de s’adapter au monde autour d�
 Essayez de faire votre moitié de chemin pour vous adapter à la personne avec autisme
 
 ### 6. Ne jugez pas si rapidement
-Avez-vous déjà vu une mère dans un supermarché avec un enfant qui criait et pleurait ? Avez-vous déjà vu une personne « étrange » ou « bizarre » dans votre classe ? Les personnes avec autisme sont souvent victimes de tels jugements car l’autisme peut être invisible. Réfléchissez à deux fois avant de juger quelqu’un.
+Avez-vous déjà vu une mère dans un supermarché avec un enfant qui criait et pleurait&nbsp;? Avez-vous déjà vu une personne «&nbsp;étrange&nbsp;» ou «&nbsp;bizarre&nbsp;» dans votre classe&nbsp;? Les personnes avec autisme sont souvent victimes de tels jugements car l’autisme peut être invisible. Réfléchissez à deux fois avant de juger quelqu’un.
 
 ### 7. Les personnes avec autisme sont avant tout des personnes
 Deux personnes avec autisme seront très différentes l’une de l’autre, tout comme deux personnes non autistes seront très différentes. L’autisme est juste une partie de ce qui défini une personne.
 
-Ne vous adressez pas aux personnes avec autisme au travers d’un tiers, par exemple « est-ce qu’il … ? » Cela est vraiment frustrant de ne pas être considéré comme une véritable personne.
+Ne vous adressez pas aux personnes avec autisme au travers d’un tiers, par exemple «&nbsp;est-ce qu’il …&nbsp;?&nbsp;» Cela est vraiment frustrant de ne pas être considéré comme une véritable personne.
 
 ### 8. Surveillez votre langage
-On utilise constamment des mots comme « retardé » ou « l’autiste » ou autre mot de vocabulaire. Ces mots sont très offensifs pour les personnes handicapées, y compris les personnes avec autisme. Cela implique que le handicap est quelque chose de négatif.
+On utilise constamment des mots comme «&nbsp;retardé&nbsp;» ou «&nbsp;l’autiste&nbsp;» ou autre mot de vocabulaire. Ces mots sont très offensifs pour les personnes handicapées, y compris les personnes avec autisme. Cela implique que le handicap est quelque chose de négatif.
 
 Tournez plusieurs fois votre langue dans votre bouche avant de parler.
 
