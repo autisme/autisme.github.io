@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Quelques conseils pour que les vacances d'été se passent au mieux
+title:  Vacances d'été 2017
 date:   2017-07-01 08:00:00 +0100
 categories: 
 author: Bastien
