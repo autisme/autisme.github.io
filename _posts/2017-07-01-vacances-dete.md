@@ -17,9 +17,9 @@ garder leur enfant pendant deux mois à la maison.
 Voici quelques conseils à destination des personnes avec autisme pour gérer cette période&nbsp;:
 
 ### Planifiez vos journées
-Rien de plus stressant que de ne pas savoir commeant va se dérouler la semaine. D'angoisser, de stresser à cause de l'inconnu
+Rien de plus stressant que de ne pas savoir comment va se dérouler la semaine. D'angoisser, de stresser à cause de l'inconnu
 puis ensuite se rendre compte que la semaine est passée trop vite et 
-que nous n'avons pas fait tout ce que nous aurions dû. Faites un planing des activités que vous devez faire pendant vos vacances et tenez-vous y.
+que nous n'avons pas fait tout ce que nous aurions dû. Faites un planning des activités que vous devez faire pendant vos vacances et tenez-vous-y.
 Vous pourrez à la fois y inclure les activités que vous aimez faire, les sorties mais aussi les révisions pour l'école.
 Cela enlèvera une partie du stress lié au changement de routine car vous saurez quoi faire de vos journées.
 
@@ -27,15 +27,15 @@ Cela enlèvera une partie du stress lié au changement de routine car vous saure
 L'année scolaire est difficile à vivre et la fatigue s'est accumulée. Un changement de routine cumulé à la fatigue n'est jamais très bon.
 Planifiez du temps de repos pendant les vacances. Ne vous couchez pas trop tard. Vous pourrez ainsi reprendre l'école en pleine forme.
 
-### Occupez vous
+### Occupez-vous
 Ne rien faire de la journée génère de l'énervement, de la tension, … Vous trouvez le temps long et la moindre contrariété
-dégénerera plus facilement.
+dégénèrera plus facilement.
   Occupez-vous ! Faites des sorties à l'extérieur.
 Vous pouvez participer à des centres de loisirs, des camps de vacances. Ces lieux deviennent de plus en plus accessibles aux personnes avec autisme.
 Toutefois, comme d'habitude, préparez en amont votre venue dans de tels lieux afin d'éviter de potentielles difficultés.
 
-### Profitez des vacances pour améliorer vos compétence
-Beaucoup de personnes avec autisme ont des difficultés diverses et variées dans certines compétences nécessaires au quotidien.
+### Profitez des vacances pour améliorer vos compétences
+Beaucoup de personnes avec autisme ont des difficultés diverses et variées dans certaines compétences nécessaires au quotidien.
 Par exemple si vous ne savez pas prendre le bus tout seul,
 nouer vos lacets, ou encore aller acheter du pain, profitez des vacances pour vous entraîner à cela.
 Il peut être bien plus facile de développer ces compétences lorsque la fatigue de l'école est absente et qu'il est plus facile de trouver du temps pour se reposer.
@@ -43,7 +43,7 @@ De même, profitez que les gens soient partis pour apprendre ces compétences en
 à choisir les articles et payer à la caisse sans être stressé par le monde autour. Une fois que vous saurez faire cela, vous n'aurez plus qu'à gérer la difficulté de la foule une fois les vacances terminées.
 
 ### Préparez la rentrée
-Révoir les leçons est important pour pouvoir suivre les cours dès la rentrée. Il n'est pas évident d'assimiler de nouvelles choses si vous avez oublié ce que vous avez appris précédemment.
+Revoir les leçons est important pour pouvoir suivre les cours dès la rentrée. Il n'est pas évident d'assimiler de nouvelles choses si vous avez oublié ce que vous avez appris précédemment.
 Mais vous ne devez pas oublier de réviser aussi
 les compétences de base nécessaires pour l'école. Par exemple, depuis combien de temps n'avez-vous pas écrit à la main avec un stylo&nbsp;?
 Révisez ces compétences à la fin de vos vacances pour être prêt à retrouver le rythme plus soutenu de la nouvelle année scolaire.
@@ -53,7 +53,7 @@ Pour terminer, nous ne devons pas oublier le grand public qui croisera les perso
 dans les magasins en bord de mer, dans les zoos, dans les hôtels ou encore dans les parcs d'attractions.
 Un handicap comme l'autisme ne se voit pas. Vous croiserez sans vous en rendre compte des personnes avec autisme qui à cause du bruit, de la foule, auront des difficultés à traiter l'environnement,
 seront stressés ou auront un comportement étrange.
-Nous répétons encore une fois que nous avons [précédement écrit une liste de choses simples que vous pouvez faire](/autisme/ce-que-vous-pouvez-faire-pour-construire-une-societe-inclusive)
+Nous répétons encore une fois que nous avons [précédemment écrit une liste de choses simples que vous pouvez faire](/autisme/ce-que-vous-pouvez-faire-pour-construire-une-societe-inclusive)
 pour accueillir les personnes avec autisme dans les meilleures conditions possibles.
 De petites actions font vraiment la différence&nbsp;!
 
