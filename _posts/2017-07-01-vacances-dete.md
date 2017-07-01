@@ -53,13 +53,12 @@ Pour terminer, nous ne devons pas oublier le grand public qui croisera les perso
 dans les magasins en bord de mer, dans les zoos, dans les hôtels ou encore dans les parcs d'attractions.
 Un handicap comme l'autisme ne se voit pas. Vous croiserez sans vous en rendre compte des personnes avec autisme qui à cause du bruit, de la foule, auront des difficultés à traiter l'environnement,
 seront stressés ou auront un comportement étrange.
-
-<div style="text-align:center; font-size:1.1em; margin: 2em;">
-Nous répétons encore une fois que nous avons [précédemment écrit une liste de choses simples que vous pouvez faire](/autisme/ce-que-vous-pouvez-faire-pour-construire-une-societe-inclusive)
-</div>
-
+Nous répétons encore une fois que nous avons <a href="/autisme/ce-que-vous-pouvez-faire-pour-construire-une-societe-inclusive">précédemment écrit une liste de choses simples que vous pouvez faire</a>
 pour accueillir les personnes avec autisme dans les meilleures conditions possibles.
+
+<div style="text-align:center; font-size:1.2em; font-weight: bold; margin: 2em;">
 De petites actions font vraiment la différence&nbsp;!
+</div>
 
 Nous espérons que cette période se passe pour le mieux et nous vous souhaitons un bel été.
 Bastien.
