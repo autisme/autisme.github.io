@@ -11,7 +11,7 @@ Et puis il y a les personnes, toujours plus nombreuses d'années en années, aya
 Certaines tâches et activités de la vie quotidienne génèrent beaucoup de stress et d'anxiété.
 Le shopping en est juste une parmi les autres.
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" style="float:right; padding-left:20px;" alt="dict" />
+<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" class="right" alt="dict" />
 
 Le spectre de l'autisme est large et les personnes sont impactées de différentes façons.
 Il n'y a pas deux personnes avec autisme qui ont les mêmes difficultés.
@@ -37,7 +37,7 @@ Cela leur donne l'occasion d'être avec d'autres gens,  ensembles, sur un projet
 Les associations et les clubs sportifs ont beaucoup à apporter aux personnes avec autisme.
 Premièrement, ils fournissent des occasions pour rencontrer d'autres personnes, pour socialiser dans un environnement structuré et sécurisant ce qui est plus facile pour les personnes avec autisme.
 
-<img src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/ID-100132827.jpg" style="float:left; padding-right:20px;" alt="ID-100132827" width="250" />
+<img src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/ID-100132827.jpg" class="left" alt="ID-100132827" width="250" />
 
 Cependant, les associations et les clubs peuvent aussi poser quelques difficultés pour les personnes avec autisme, notamment parce que les personnes avec autisme peuvent être laissées isolées pendant les activités ou bien parce que leurs besoins peuvent ne pas être
 satisfaits, notamment parce que le handicap n'est pas forcément évident à reconnaître pour les autres gens.
@@ -64,7 +64,7 @@ Vous pouvez leur faciliter la vie en utilisant des phrases claires et précises.
 
 #### Compétences sociales
 
-<img src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/community-150124_960_720.png" style="float:right; padding-left:20px;" alt="community-150124_960_720.png" width="250" />
+<img src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/community-150124_960_720.png" class="right" alt="community-150124_960_720.png" width="250" />
 
 Les activités impliquent une grande parte d'interactions et de socialisation. Pour les personnes avec autisme cela peut être à la fois difficile et générer de l'anxiété.
 
@@ -87,7 +87,7 @@ Ces difficultés sont de grandes barrières pour les personnes avec autisme.
 
 #### Coordination
 
-<img src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/170422.jpg" style="float:left; padding-right:20px;" alt="170422" width="250" />
+<img src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/170422.jpg" class="left" alt="170422" width="250" />
 
 Beaucoup de personnes avec autisme ont du mal à coordonner leurs mouvements et cela rend la pratique du sport difficile.
 Cependant le sport est aussi un bon moyen pour apprendre.

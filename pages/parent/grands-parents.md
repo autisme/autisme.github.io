@@ -5,7 +5,7 @@ permalink: /je-suis-un-parent-membre-de-l-entourage/grands-parents
 hide_header_link: true
 ---
 
-<img src="/assets/pages/parent/grands-parents/ID-10033342.jpg" style="float:left; padding-right:20px;" alt="ID-10033342" />
+<img src="/assets/pages/parent/grands-parents/ID-10033342.jpg" class="left" alt="ID-10033342" />
 
 L'autisme apporte de nombreux défis aux familles. Les grands parents, du fait de leur
 place particulière dans la famille doivent faire face à des défis qui leur sont propres.

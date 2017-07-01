@@ -12,7 +12,7 @@ La fin de l'école signifie non seulement un changement de routine mais surtout 
 Le début des vacances peut être une période de stress et d'anxiété pour les personnes avec autisme mais aussi pour les parents qui vont devoir
 garder leur enfant pendant deux mois à la maison.
 
-<img src="/assets/posts/2017-07-01/ID-10038024.jpg" style="float: left; padding-right: 20px;" alt="ID-10038024" width="300" />
+<img src="/assets/posts/2017-07-01/ID-10038024.jpg" class="left" alt="ID-10038024" width="300" />
 
 Voici quelques conseils à destination des personnes avec autisme pour gérer cette période&nbsp;:
 

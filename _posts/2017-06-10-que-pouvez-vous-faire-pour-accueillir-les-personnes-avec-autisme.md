@@ -13,7 +13,7 @@ Aujourd'hui plus d'une personne sur cent est une personne autisme. **Tout le mon
 Tout le monde en a croisé dans sa vie. Et pourtant, peu de personnes comprennent vraiment de quoi il s'agit, et surtout peu de personnes savent comment inclure ces personnes, comment faire pour 
 rendre leur environnement plus facile à supporter.
 
-<img src="/assets/posts/2017-06-10/ID-100259934.jpg" alt="ID-100259934" style="float:right;padding-left:20px" width="250" />
+<img src="/assets/posts/2017-06-10/ID-100259934.jpg" alt="ID-100259934" class="right" width="250" />
 
 Les personnes avec autisme sont les premières affectées par cela.
 Les tâches basiques de la vie quotidienne comme aller à faire des courses, rencontrer des amis, aller chez le médecin, ou même prendre les transports en commun sont souvent

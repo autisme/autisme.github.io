@@ -12,7 +12,7 @@ Et puis il y a les personnes, toujours plus nombreuses d'années en années, aya
 Certaines tâches et activités de la vie quotidienne génèrent beaucoup de stress et d'anxiété.
 Le shopping en est juste une parmi les autres.
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" style="float:right; padding-left:20px;" alt="dict" />
+<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" class="right" alt="dict" />
 
 Le spectre de l'autisme est large et les personnes sont impactées de différentes façons.
 Il n'y a pas deux personnes avec autisme qui ont les mêmes difficultés.
@@ -68,7 +68,7 @@ De plus, les personnes avec autisme peuvent trouver les interactions sociales di
 
 Cela vient du fait que les personnes avec autisme ne pensent pas de la même façon que les autres personnes et ont besoin d'apprendre les compétences sociales que les autres personnes ont naturellement.
 
-<img src="/assets/pages/construire-une-societe-inclusive/hotellerie/ID-100152576.jpg" style="float:left; padding-right:20px;" alt="ID-100152576" width="150" />
+<img src="/assets/pages/construire-une-societe-inclusive/hotellerie/ID-100152576.jpg" class="left" alt="ID-100152576" width="150" />
 
 Les personnes avec autisme peuvent également trouver difficile de répondre aux questions implicites ou peuvent prendre plus de temps pour traiter l'information.
 Cela peut générer du stress et de l'anxiété si la personne est mise sous pression par le personnel et les autres clients.
@@ -102,7 +102,7 @@ se souvenir d'apporter toutes les affaires nécessaires pendant leur séjour.
 
 #### Voyage
 
-<img src="/assets/pages/construire-une-societe-inclusive/hotellerie/ID-1005839.jpg" style="float:left; padding-right:20px;" alt="ID-1005839" width="200" />
+<img src="/assets/pages/construire-une-societe-inclusive/hotellerie/ID-1005839.jpg" class="left" alt="ID-1005839" width="200" />
 
 Le voyage peut être très fatigant pour beaucoup de personnes avec autisme.
 Les transports impliquent de rester assis pendant très longtemps.
@@ -160,7 +160,7 @@ Cela aidera les personnes avec autisme et leur famille à préparer leur venue.
 
 #### Demander les besoins des personnes
 
-<img src="/assets/pages/construire-une-societe-inclusive/hotellerie/ID-100258870.jpg" style="float:right; padding-left:20px;" alt="ID-100258870" width="200" />
+<img src="/assets/pages/construire-une-societe-inclusive/hotellerie/ID-100258870.jpg" class="right" alt="ID-100258870" width="200" />
 
 Souvent, des petites choses génèrent beaucoup de désagrément. Par exemple des ballons peuvent faire peur s'ils explosent en faisant du bruit.
 De plus, certaines personnes avec autisme peuvent avoir un régime alimentaire très strict, par exemple en ne mangeant que très peu d'aliments.
