@@ -5,7 +5,7 @@ permalink: /je-suis-un-parent-membre-de-l-entourage/soutien-des-freres-et-soeurs
 hide_header_link: true
 ---
 
-<img src="/assets/pages/parent/soutien-des-freres-et-soeur/ID-10063250.jpg" style="float:left; padding: 10px;" alt="ID-10063250.jpg" />
+<img src="/assets/pages/parent/soutien-des-freres-et-soeur/ID-10063250.jpg" style="float:left; padding-right:20px;" alt="ID-10063250.jpg" />
 
 
 Beaucoup de parents ont du mal à concilier leur temps entre les exigences

@@ -5,7 +5,7 @@ permalink: /je-suis-une-personne-avec-autisme/environnement-de-travail
 hide_header_link: true
 ---
 
-<img src="/assets/pages/personal/environnement-de-travail/ID-100394985.jpg" style="float:left; padding: 10px;" alt="ID-100394985" />
+<img src="/assets/pages/personal/environnement-de-travail/ID-100394985.jpg" style="float:left; padding-right:20px;" alt="ID-100394985" />
 
 Avoir un bon environnement de travail n'est pas quelque chose que vous obtenez du
 premier coup.  C'est quelque chose qui se construit et qu'il faut maintenir dans le temps.

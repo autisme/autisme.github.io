@@ -5,7 +5,7 @@ permalink: /construire-une-societe-inclusive/introduction
 hide_header_link: true
 ---
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" style="float:left; padding: 10px;" alt="dict" />
+<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" style="float:left; padding-right:20px;" alt="dict" />
 
 ### Qu'est-ce que l'autisme&nbsp;?
 
@@ -55,7 +55,7 @@ Avec cela à l'esprit, vous devriez être mieux capable de comprendre ce qu'est 
 Vous pouvez considérer nos propres expériences de sorte à vous adapter et à aider les personnes avec autisme à vivre dans la société.
 
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-10023496.jpg" style="float:left; padding: 10px;" alt="ID-10023496" />
+<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-10023496.jpg" style="float:left; padding-right:20px;" alt="ID-10023496" />
 
 ### Mythes
 
@@ -109,7 +109,7 @@ Cela arrive car l'autisme est quelque chose d'invisible et les gens peuvent se p
 
 #### Communication
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-100113701.jpg" style="float:left; padding: 10px;" alt="ID-100113701" />
+<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-100113701.jpg" style="float:left; padding-right:20px;" alt="ID-100113701" />
 
 Les personnes sur le spectre autistique ont des compétences variées en communication.
 Cela va de ceux qui ont des compétences exceptionnelles d'expression à ceux qui n'ont pas ou peu de compétences verbales.
@@ -120,7 +120,7 @@ Cela génère du stress qui peut compromettre leur capacité de communication.
 
 #### Socialisation
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-10025772.jpg" style="float:left; padding: 10px;" alt="ID-10025772" />
+<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-10025772.jpg" style="float:left; padding-right:20px;" alt="ID-10025772" />
 
 Socialiser ou interagir avec les autres gens peut être difficile pour les personnes avec autisme.
 Beaucoup de personnes peuvent être anxieuses et stressés dans les situations sociales.
@@ -174,7 +174,7 @@ De même, elles peuvent être très concentrées sur les sujets qu'elles aiment 
 
 #### Stress et anxiété
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-100238497.jpg" style="float:left; padding: 10px;" alt="ID-100238497" />
+<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-100238497.jpg" style="float:left; padding-right:20px;" alt="ID-100238497" />
 
 C'est l'anxiété qui est le plus grand problème des personnes avec autisme.
 Plus une personne est anxieuse, plus les problèmes associés comme la communication ou les problèmes sensoriels deviennent compliqués.
@@ -242,7 +242,7 @@ Considérez l'environnement sensoriel, et particulièrement ce que les personnes
 
 #### Regarder les compétences en communication
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-10075051.jpg" style="float:left; padding: 10px;" alt="ID-10075051" width="200" />
+<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-10075051.jpg" style="float:left; padding-right:20px;" alt="ID-10075051" width="200" />
 
 Êtes-vous toujours limpides dans ce que vous dites&nbsp;? 
 Est-ce que les gens ne sont pas confus par les figures de style et l'humour que vous utilisez&nbsp;?

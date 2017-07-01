@@ -10,7 +10,7 @@ Il y a des personnes qui n'ont pas un de diagnostic car l'autisme n'impacte pas 
 Et puis il y a les personnes, toujours plus nombreuses d'années en années, ayant reçu un diagnostic. Pour celles-ci, l'autisme pose de nombreuses difficultés dans leur vie quotidienne.
 Certaines tâches et activités de la vie quotidienne génèrent beaucoup de stress et d'anxiété.
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" style="float:right; padding: 10px;" alt="dict" />
+<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" style="float:right; padding-left:20px;" alt="dict" />
 
 Le spectre de l'autisme est large et les personnes sont impactées de différentes façons.
 Il n'y a pas deux personnes avec autisme qui ont les mêmes difficultés.

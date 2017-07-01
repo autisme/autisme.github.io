@@ -10,7 +10,7 @@ Il y a des personnes qui n'ont pas un de diagnostic car l'autisme n'impacte pas 
 Et puis il y a les personnes, toujours plus nombreuses d'années en années, ayant reçu un diagnostic. Pour celles-ci, l'autisme pose de nombreuses difficultés dans leur vie quotidienne.
 Certaines tâches et activités de la vie quotidienne génèrent beaucoup de stress et d'anxiété.
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" style="float:right; padding: 10px;" alt="dict" />
+<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" style="float:right; padding-left:20px;" alt="dict" />
 
 Le spectre de l'autisme est large et les personnes sont impactées de différentes façons.
 Il n'y a pas deux personnes avec autisme qui ont les mêmes difficultés.
@@ -35,7 +35,7 @@ Les personnes avec autisme représentent environ 1 client sur 100.
 
 ### Transports en commun - Challenges pour les personnes avec autisme
 
-<img src="/assets/pages/construire-une-societe-inclusive/transports/ID-1005839.jpg" style="float:left; padding: 10px;" alt="ID-1005839.jpg" width="200" />
+<img src="/assets/pages/construire-une-societe-inclusive/transports/ID-1005839.jpg" style="float:left; padding-right:20px;" alt="ID-1005839.jpg" width="200" />
 
 #### Traitement sensoriel
 
@@ -96,7 +96,7 @@ Un train ou un bus en retard, une route fermée peuvent générer beaucoup de st
 
 #### Anxiété
 
-<img src="/assets/pages/construire-une-societe-inclusive/transports/ID-100262514.jpg" style="float:left; padding: 10px;" alt="ID-100262514" width="200" />
+<img src="/assets/pages/construire-une-societe-inclusive/transports/ID-100262514.jpg" style="float:left; padding-right:20px;" alt="ID-100262514" width="200" />
 
 Quand les choses ne sont pas claires ou qu'une situation imprévue se produit, les personnes avec autisme peuvent devenir très anxieuses.
 Plus une personne est anxieuse, plus il est difficile pour elle d'apprécier le moment présent.
@@ -176,7 +176,7 @@ Voulez-vous que 1 client sur 100 soit confiant dans l'utilisation de vos service
 
 #### Informer des changements
 
-<img src="/assets/pages/construire-une-societe-inclusive/transports/ID-10019322.jpg" style="float:right; padding: 10px;" alt="ID-10019322.jpg" width="200" />
+<img src="/assets/pages/construire-une-societe-inclusive/transports/ID-10019322.jpg" style="float:right; padding-left:20px;" alt="ID-10019322.jpg" width="200" />
 
 Les changements sont difficiles pour les personnes avec autisme.
 Cela peut être plus facile si elles ont du temps pour s'y préparer.

@@ -17,7 +17,7 @@ De la même façon, l'autisme doit être pris en compte et ne pas être vu comme
 Ci-dessous, nous fournissons une courte liste de certains handicaps qui sont souvent
 en comorbidité avec l'autisme.
 
-<img src="/assets/pages/autisme/handicaps-associes/ID-100185923.jpg" style="float:left; padding: 10px;" alt="ID-100185923" width="300" />
+<img src="/assets/pages/autisme/handicaps-associes/ID-100185923.jpg" style="float:left; padding-right:20px;" alt="ID-100185923" width="300" />
 
 ### Dyslexie, Dyspraxie, TDAH
 

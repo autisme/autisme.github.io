@@ -15,11 +15,11 @@ Ces éléments posent de sérieuses difficultés pour les personnes avec autisme
 Environ une personne sur 100 est actuellement affectée par l'autisme.
 En devenant sensibilisé aux difficultés de cette population et en faisant de petits changements, vous pouvez trouver de nouveaux clients tout en faisant une contribution à la société.
 
-<img src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-10065277.jpg" style="float:left; padding: 10px;" alt="ID-10065277" width="200" />
+<img src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-10065277.jpg" style="float:left; padding-right:20px;" alt="ID-10065277" width="200" />
 
 
 <!--
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" style="float:left; padding: 10px;" alt="dict" />
+<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" style="float:left; padding-right:20px;" alt="dict" />
 -->
 
 
@@ -41,7 +41,7 @@ Pour ceux qui sont verbaux, le langage peut être scripté ou mécanique. Cepend
 
 La communication est bien plus que la parole.
 
-<img src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100442933.jpg" style="float:right; padding: 10px;" alt="ID-100442933" width="200" />
+<img src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100442933.jpg" style="float:right; padding-left:20px;" alt="ID-100442933" width="200" />
 
 Les personnes avec autisme peuvent trouver difficile de comprendre le langage abstrait ou les figures de style.
 Les personnes avec autisme peuvent avoir une compréhension littérale du langage.
@@ -71,7 +71,7 @@ Cela peut rendre l'étape de commande très longue, générer de l'anxiété et 
 
 #### Routine
 
-<img src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100262514.jpg" style="float:left; padding: 10px;" alt="ID-100262514" width="250" />
+<img src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100262514.jpg" style="float:left; padding-right:20px;" alt="ID-100262514" width="250" />
 
 La routine est très importante pour beaucoup de personnes avec autisme. Les changements peuvent impacter la capacité des personnes à venir dans le restaurant.
 Si une personne a une réunion ou un événement au travail suivi d'un repas au restaurant
@@ -119,7 +119,7 @@ Le personnel peut avoir besoin d'une grande expertise dans l'autisme mais de pet
 
 #### Fournir des aides visuelles
 
-<img src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100207637.jpg" style="float:left; padding: 10px;" alt="ID-100207637" width="250" />
+<img src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100207637.jpg" style="float:left; padding-right:20px;" alt="ID-100207637" width="250" />
 
 Fournissez sur votre site web des images ou une visite à 360° de vos locaux, de votre parking, de la vaisselle etc
 Vous pouvez également indiquer la procédure à suivre pour passer une commande, comment payer la facture et les différentes règles que vous avez.
