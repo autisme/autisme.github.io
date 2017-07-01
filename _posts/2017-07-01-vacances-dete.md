@@ -7,7 +7,8 @@ author: Bastien
 oembed_image: /assets/posts/2017-07-01/opengraph.jpg
 ---
 
-La période estivale peut être particulièrement compliquée à gérer pour les personnes avec autisme.
+L'année scolaire est enfin terminée et la période estivale peut commencer.
+Toutefois, cette période peut être particulièrement compliquée à gérer pour les personnes avec autisme.
 La fin de l'école signifie non seulement un changement de routine mais surtout une perte de structure et de repères.
 Le début des vacances peut être une période de stress et d'anxiété pour les personnes avec autisme mais aussi pour les parents qui vont devoir
 garder leur enfant pendant deux mois à la maison.
