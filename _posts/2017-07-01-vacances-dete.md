@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Conseils pour les vacances d'été
-date:   2017-06-11 08:00:00 +0100
+date:   2017-07-01 08:00:00 +0100
 categories: 
 author: Bastien
 oembed_image: /assets/posts/2017-07-01/opengraph.jpg
