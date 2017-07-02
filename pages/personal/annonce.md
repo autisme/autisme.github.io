@@ -25,7 +25,7 @@ La raison principale est que vous pouvez avoir peur qu'ils vous traitent différ
 
 
 
-## Voici une liste de raisons montrant qu'il y a certainement plus de bénéfices à être franc:
+Voici une liste de raisons montrant qu'il y a certainement plus de bénéfices à l'annoncer :
 
 ### Accéder aux aides
 Si vous êtes franc sur le fait que vous êtes affecté par l'autisme, il est beaucoup plus facile d'expliquer aux autres vos besoins et vos difficultés.
@@ -45,7 +45,7 @@ Dire aux gens que vous êtes affectés par autisme peut vous aider à être mieu
 Parler ouvertement de l'autisme peut aider d'autres personnes qui ne sont pas capables d'en parler pour eux mêmes.
 
 
-## Maintenant, quels sont les inconvénients ?
+Maintenant, quels sont les inconvénients ?
 
 C’est difficile à dire car si quelqu’un réagit négativement dans le cas où vous annoncez votre autisme, le problème vient sûrement de cette personne et non de vous. Peut-être que vous auriez dû le dire plus tôt. Les principaux inconvénients à annoncer son autisme sont :
 
