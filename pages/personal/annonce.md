@@ -25,7 +25,7 @@ La raison principale est que vous pouvez avoir peur qu'ils vous traitent différ
 
 
 
-Voici une liste de raisons montrant qu'il y a certainement plus de bénéfices à l'annoncer :
+Voici une liste de raisons montrant qu'il y a certainement plus de bénéfices à l'annoncer&nbsp;:
 
 ### Accéder aux aides
 Si vous êtes franc sur le fait que vous êtes affecté par l'autisme, il est beaucoup plus facile d'expliquer aux autres vos besoins et vos difficultés.
