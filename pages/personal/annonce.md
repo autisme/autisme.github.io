@@ -25,8 +25,7 @@ La raison principale est que vous pouvez avoir peur qu'ils vous traitent différ
 
 
 
-Voici une liste de raisons montrant qu'il y a 
-certainement plus de bénéfices à être franc:
+## Voici une liste de raisons montrant qu'il y a certainement plus de bénéfices à être franc:
 
 ### Accéder aux aides
 Si vous êtes franc sur le fait que vous êtes affecté par l'autisme, il est beaucoup plus facile d'expliquer aux autres vos besoins et vos difficultés.
@@ -45,3 +44,17 @@ Dire aux gens que vous êtes affectés par autisme peut vous aider à être mieu
 ### Aider les autres
 Parler ouvertement de l'autisme peut aider d'autres personnes qui ne sont pas capables d'en parler pour eux mêmes.
 
+
+## Maintenant, quels sont les inconvénients ?
+
+C’est difficile à dire car si quelqu’un réagit négativement dans le cas où vous annoncez votre autisme, le problème vient sûrement de cette personne et non de vous. Peut-être que vous auriez dû le dire plus tôt. Les principaux inconvénients à annoncer son autisme sont :
+
+### Ne pas être content
+Si vous êtes une personne très « secrète », vous pouvez vous sentir plus heureux avec les gens qui ne connaissent pas votre handicap et vous pouvez trouver plus facile d’être accepté de cette façon Le dire aux autres fera qu’ils ne voudront plus de vous.
+
+### Les personnes qui ne comprennent pas l’autisme
+Nous sommes d’accord que les personnes ne comprennent pas l’autisme comme elles le devraient ce qui peut conduire à de la frustration. Les gens peuvent ne plus vous regarder en tant qu’individu, ne plus voir vos compétences mais ne vous regarder que comme une personne handicapée. Cependant beaucoup de personnes veulent savoir comment inclure les personnes avec autisme. Nous travaillons à corriger ce point.
+
+Voici donc les raisons qui peuvent vous aider à choisir d’annoncer ou non votre autisme.
+Nous estimons que les personnes avec autisme devraient être vues comme des personnes aussi normales que possibles. Nous pensons que les personnes avec autisme ne devraient jamais avoir honte, ne devraient jamais être embarrassées et ne devraient jamais à expliquer leur comportement juste parce qu’elles sont affectées par l’autisme.
+Cependant de temps en temps, l'annoncer est utile non seulement pour vous mais pour les autres aussi.
