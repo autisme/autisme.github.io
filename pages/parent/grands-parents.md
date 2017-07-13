@@ -36,7 +36,7 @@ Le comportement des personnes avec autisme peut sembler difficile et peut être 
 
 Un premier pas pourrait être de lister les différents comportements ou difficultés que rencontre votre petit-fils et de parler des causes de ces comportements avec votre fils ou votre fille, afin de les gérer au mieux.
 
-Vous ne devez surtout pas oublier que les comportements qui peuvent être perçus comme «difficiles» ou «bizarres» ne sont ni un mépris délibéré, ni des caprices d'enfants gâtés, mais plutôt des dus à des choses que les personnes avec autisme trouvent compliquées, ou le résultat d'une incapacité à exprimer une frustration ou une anxiété.
+Vous ne devez surtout pas oublier que les comportements qui peuvent être perçus comme «difficiles» ou «bizarres» ne sont ni un mépris délibéré, ni des caprices d'enfants gâtés, mais plutôt des dus à des choses que les personnes avec autisme trouvent compliquées, ou le résultat d'une incapacité à exprimer un besoin ou une anxiété.
 
 Bien entendu, il est tout à fait compréhensible qu'être avec votre petit-fils pendant une longue période vous fatigue. Enfin, la cohérence est importante pour les personnes avec autisme, notamment pour savoir comment la journée est organisée ou pour savoir comment aborder certains comportements. Discuter avec votre fils ou votre fille de ce qu'il/elle fait, peut être un bon moyen de garder éloignés les comportements à problèmes.
 
