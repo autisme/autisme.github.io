@@ -27,7 +27,8 @@ traite à <span class="contact"><span id="contact">PLEASE-ACTIVATE-JAVASCRIPT--T
 
 Vous pouvez également nous dire quels sont les sujets que vous souhaitez voir traités sur ce site.
 
-### Envoyez votre témoignage, votre histoire
+
+### Partagez votre histoire, témoignez
 
 Nous croyons qu'une bonne façon pour faire comprendre l'autisme au public mais aussi d'aider les
 familles et les personnes avec autisme qui se posent de nombreuses questions est
@@ -43,8 +44,9 @@ comment les avez-vous surmontés&nbsp;? comment avez-vous été inclus pendant v
 Si vous êtes concerné par l'autisme, vous pouvez également nous expliquez ce que vous avez mis en œuvre pour inclure une personne avec autisme, quelles adaptations avez-vous mis en place&nbsp;?
 
 Envoyez-nous votre témoignage à l'adresse indiquée précédemment (<span class="contact"><span id="contact2">PLEASE-ACTIVATE-JAVASCRIPT--TPIRCSAVAJ-ETAVITCA-ESAELP</span></span>). Nous pouvons également publier votre texte anonymement si vous le souhaitez.
+Nous acceptons toute forme de contenu, que ce soit un texte en prose, un poème, un poster, une infographie, un film, une image, etc.
 
-### Photographies, design
+### Photographies, design, etc
 
 Nous souhaitons garder un contenu varié et intéressant pour nos utilisateurs et nous souhaitons plus que des mots&nbsp;!
 Aimez-vous faire des photos, des illustrations&nbsp;?
