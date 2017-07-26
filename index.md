@@ -6,18 +6,26 @@ hide_header_link: true
 ---
 
 
-Je suis…
+<div id="iam">
+<p>Je suis…</p>
 
 <ul id="iamlist">
  <li><a href="/je-suis-une-personne-avec-autisme" id="personal">Une personne avec autisme</a></li>
  <li><a href="/je-suis-un-parent-membre-de-l-entourage" id="parent">Un parent / un membre de l'entourage</a></li>
  <li><a href="/je-suis-un-professionnel" id="professional">Un professionnel<br />&nbsp;</a></li>
+ <li><a href="/autisme" id="autisme">À propos de l'autisme<br /></a></li>
 </ul>
+</div>
 
-<ul id="inclusivelist">
- <li><a href="/autisme" id="autisme">À propos de<br />l'autisme</a></li>
- <li><a href="/construire-une-societe-inclusive" id="construire-une-societe-inclusive">Conseils pratiques pour une société inclusive</a></li>
+
+<div id="involved">
+<p>Comment puis-je m'impliquer&nbsp;?</p>
+
+<ul id="involvedlist">
+ <li><a href="/construire-une-societe-inclusive" id="construire-une-societe-inclusive">Ce que VOUS pouvez faire pour construire une société inclusive</a></li>
+ <li><a href="/ce-que-vous-pouvez-faire-pour-nous" id="prenez-la-parole">Donnez votre avis,<br />racontez votre histoire</a></li>
 </ul>
+</div>
 
 <small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

@@ -5,25 +5,30 @@ h1, .post-title {
 a {
  cursor: pointer;
 }
-#iamlist, #inclusivelist {
- list-style-type: none;
+#iam {
+ margin-bottom: 50px;
 }
-#iamlist li, #inclusivelist li {
+#iamlist, #involvedlist {
+ list-style-type: none;
+ border-collapse:separate;
+ display:table;
+ border-spacing: 3px;
+}
+#iamlist li, #involvedlist li {
  display : inline;
 }
-#iamlist a, #inclusivelist a {
+#iamlist a, #involvedlist a {
  display: table-cell;
  text-align: center;
  vertical-align: middle;
  width: 180px;
  height: 150px;
  border: 3px solid black;
- padding: 3px;
  font-weight: bold;
  color: #fff;
  border-radius: 10px;
 }
-#iamlist a, #inclusivelist a {
+#iamlist a, #involvedlist a {
  background-blend-mode: multiply;
 }
 
@@ -53,21 +58,8 @@ a {
  background-color: rgba(140, 70, 223, .9);
 }
 
-#inclusivelist {
- margin-top: 30px;
- font-size: 1.2em;
-}
-#inclusivelist a#construire-une-societe-inclusive {
- width: 375px;
- background: url('/assets/construire-une-societe-inclusive.jpg') no-repeat 0 0;
- background-color: rgba(244, 158, 76, 0.7);
- border: 3px solid rgb(244, 158, 76);
-}
-#inclusivelist a#construire-une-societe-inclusive:hover {
- background-color: rgba(244, 158, 76, 0.9);
-}
-#inclusivelist a#autisme {
- width: 180px;
+#iamlist a#autisme {
+ width: 565px;
  background: url('/assets/autisme.jpg') no-repeat 0 0;
  background-color: rgba(229, 90, 124, 0.7);
  border: 3px solid rgb(229, 90, 124);
@@ -75,13 +67,40 @@ a {
  border: 3px solid rgb(204, 91, 117);
 */
 }
-#inclusivelist a#autisme:hover {
+#iamlist a#autisme:hover {
  background-color: rgba(229, 90, 124, 0.9);
+}
+
+/*
+#involvedlist {
+ margin-top: 30px;
+}
+*/
+#involvedlist a#construire-une-societe-inclusive {
+ width: 375px;
+ background: url('/assets/construire-une-societe-inclusive.jpg') no-repeat 0 0;
+ background-color: rgba(244, 158, 76, 0.7);
+ border: 3px solid rgb(244, 158, 76);
+/*
+ font-size: 1.2em;
+*/
+}
+#involvedlist a#construire-une-societe-inclusive:hover {
+ background-color: rgba(244, 158, 76, 0.9);
+}
+
+#involvedlist a#prenez-la-parole {
+ background: url('/assets/prenez-la-parole.jpg') no-repeat 0 0;
+ background-color: rgba(27, 56, 100, 0.7);
+ border: 3px solid rgb(27, 56, 100);
+}
+#involvedlist a#prenez-la-parole:hover {
+ background-color: rgba(27, 56, 100, 0.9);
 }
 
 .next-reading {
  background-color: #5994e2;
- padding: 10px;
+ padding: 5px;
  border-radius: 10px;
  text-align: center;
  width: 25%;
