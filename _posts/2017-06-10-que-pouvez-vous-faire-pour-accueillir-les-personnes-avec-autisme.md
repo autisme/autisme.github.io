@@ -3,6 +3,7 @@ layout: post
 title:  Que pouvez-vous faire pour accueillir les personnes avec autisme ?
 date:   2017-06-10 08:00:00 +0100
 categories: 
+  - Inclusion
 author: Bastien
 ---
 
