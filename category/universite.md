@@ -6,5 +6,6 @@ layout: home
 permalink: /category/université
 category: Université
 title: Blog / Université
+hide_header_link: true
 ---
 

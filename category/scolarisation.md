@@ -6,5 +6,6 @@ layout: home
 permalink: /category/scolarisation
 category: Scolarisation
 title: Blog / Scolarisation
+hide_header_link: true
 ---
 

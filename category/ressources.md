@@ -6,5 +6,6 @@ layout: home
 permalink: /category/ressources
 category: Ressources
 title: Blog / Ressources
+hide_header_link: true
 ---
 

@@ -6,5 +6,6 @@ layout: home
 permalink: /category/inclusion
 category: Inclusion
 title: Blog / Inclusion
+hide_header_link: true
 ---
 

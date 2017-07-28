@@ -6,5 +6,6 @@ layout: home
 permalink: /category/education
 category: Education
 title: Blog / Education
+hide_header_link: true
 ---
 

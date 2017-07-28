@@ -6,5 +6,6 @@ layout: home
 permalink: /category/opinion
 category: Opinion
 title: Blog / Opinion
+hide_header_link: true
 ---
 
