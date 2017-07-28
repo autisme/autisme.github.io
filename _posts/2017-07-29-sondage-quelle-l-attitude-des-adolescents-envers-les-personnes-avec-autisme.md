@@ -21,16 +21,18 @@ Merci en avance pour le temps passé à compléter le sondage.
 
 
 <div style="clear:both"></div>
-#### Pour les jeunes avec autisme âgés de 15 à 25 ans
+#### Pour les jeunes avec autisme âgés de 15 à 25 ans&nbsp;:
 
 <p><iframe src="https://docs.google.com/forms/d/1kQY9W3sMRlXmLjqUXn6HXy8REatgJeXlaZOr1zQgYsU/viewform?embedded=true" width="760" height="500" frameborder="0" marginwidth="0" marginheight="0">Loading&#8230;</iframe></p>
 
-#### Pour les parents, les frères et les sœurs d'un jeune avec autisme âgé de 15 à 25 ans
+<div style="height: 75px; display: block;">&nbsp;</div>
+
+#### Pour les parents, les frères et les sœurs d'un jeune avec autisme âgé de 15 à 25 ans&nbsp;:
 
 <p><iframe src="https://docs.google.com/forms/d/17cfCjgobmTPqqUZOZEisgV9OdzyX2jPm4VW1uxrZfec/viewform?embedded=true" width="760" height="500" frameborder="0" marginwidth="0" marginheight="0">Loading&#8230;</iframe></p>
 
 ---
-<small>Image issue de Stuart smarnad/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
+<small>Image issue de smarnad/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
 
 
