@@ -54,5 +54,6 @@ et les comportements difficiles peuvent vraiment vous fatiguer
 Il est essentiel que vous parliez à votre médecin si vous vous sentez
 tendu ou accablé par tous les problèmes
 
+---
 <small>Image issue de dan/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

@@ -44,4 +44,5 @@ Nous comptons sur vous.
 Bastien
 
 
+---
 <small>Image issue de Stuart Miles/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>

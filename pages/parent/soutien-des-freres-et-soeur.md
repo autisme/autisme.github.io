@@ -70,6 +70,7 @@ différence et les personnes ayant des difficultés dans la vie.
 
 
 
+---
 <small>Image issue de Ambro/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
 

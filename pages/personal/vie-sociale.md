@@ -98,5 +98,6 @@ et toutes les personnes avec autisme sont différentes.
 Si vous voulez plus d'idées pour socialiser pourquoi ne pas en parler à vos parents
 ou à quelqu'un de proche qui vous connaît bien&nbsp;?
 
+---
 <small>Image issue de Stuart Miles/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

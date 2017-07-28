@@ -64,5 +64,6 @@ De petites actions font vraiment la différence&nbsp;!
 Nous espérons que cette période se passe pour le mieux et nous vous souhaitons un bel été.
 Bastien.
 
+---
 <small>Image issue de Nutdanai Apikhomboonwaroot/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

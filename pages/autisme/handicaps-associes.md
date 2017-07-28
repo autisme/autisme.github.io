@@ -54,5 +54,6 @@ Il est également important que ces personnes bénéficient d'une éducation, pu
 
 Pour plus d'informations, consultez le site de l'[Unapei](http://www.unapei.org/)
 
+---
 <small>Image issue de ddpavumba/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

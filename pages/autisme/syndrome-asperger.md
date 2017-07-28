@@ -68,5 +68,6 @@ Une campagne est en cours pour que le Syndrome d'Asperger reste dans le manuel.
 Bien que les nouveaux critères de diagnostic sont de plus en plus utilisés, beaucoup de docteurs continuent de diagnostiquer le Syndrome d'Asperger et ces diagnostiques sont encore reconnus.
 Il faut également noter que les personnes ayant un Syndrome d'Asperger ne perdent pas leur diagnostic avec le passage aux nouvelles classifications.
 
+---
 <small>Image issue de tuelekza/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

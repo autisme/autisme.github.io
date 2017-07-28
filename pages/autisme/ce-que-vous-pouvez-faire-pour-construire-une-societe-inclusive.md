@@ -90,7 +90,7 @@ Nos guides peuvent vous aider à devenire «&nbsp;autisme friendly&nbsp;».
   - [Services de secours](/construire-une-societe-inclusive/services-de-secours)
   - [Services de soins et de santé](/construire-une-societe-inclusive/services-de-soins-et-de-sante)
 
-
+---
 <small>Image issue de digitalart/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
 

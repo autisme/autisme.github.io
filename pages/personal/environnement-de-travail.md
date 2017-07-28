@@ -46,7 +46,6 @@ Pour les personnes avec autisme, souvent très anxieuses, cela est plus facile �
 Si quelque chose vous tracasse, il peut être difficile d'en faire abstraction.
 Dans ce cas, parlez en à votre employeur ou à quelqu'un de confiance (sans donner trop de détails).
 
-
-
+---
 <small>Image issue de bugtiger/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
