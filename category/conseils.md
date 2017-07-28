@@ -5,5 +5,6 @@
 layout: home
 permalink: /category/conseils
 category: Conseils
+title: Blog / Conseils
 ---
 

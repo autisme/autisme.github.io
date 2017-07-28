@@ -5,5 +5,6 @@
 layout: home
 permalink: /category/opinion
 category: Opinion
+title: Blog / Opinion
 ---
 

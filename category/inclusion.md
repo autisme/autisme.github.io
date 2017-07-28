@@ -5,5 +5,6 @@
 layout: home
 permalink: /category/inclusion
 category: Inclusion
+title: Blog / Inclusion
 ---
 

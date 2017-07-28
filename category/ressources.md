@@ -5,5 +5,6 @@
 layout: home
 permalink: /category/ressources
 category: Ressources
+title: Blog / Ressources
 ---
 

@@ -5,5 +5,6 @@
 layout: home
 permalink: /category/scolarisation
 category: Scolarisation
+title: Blog / Scolarisation
 ---
 
