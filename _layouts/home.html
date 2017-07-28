@@ -29,7 +29,7 @@ layout: default
 		<img class="post-thumb" src="{{ post.oembed_image | relative_url }}" />
 		{% endif %}
 		<div class="post-excerpt">
-	        {{ post.excerpt | strip_html }}
+	        {{ post.content | strip_html | truncatewords: 50 }}
 		<p><a class="next-reading" href="{{ post.url | relative_url }}">Lire la suite</a></p>
 		</div>
 	</div>
