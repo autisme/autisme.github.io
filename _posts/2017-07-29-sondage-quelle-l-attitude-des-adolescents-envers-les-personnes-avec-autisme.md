@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sondage : Quelle est l'attitude des enfants et des adolescents envers les jeunes avec autisme"
-date:   2017-07-28 08:00:00 +0100
+date:   2017-07-29 08:00:00 +0100
 categories: 
  - Sondage
 author: Bastien
