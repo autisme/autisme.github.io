@@ -184,7 +184,7 @@ a {
 }
 #cols .col-blog {
  margin-right: 30px;
- flex: 1 0 500px;
+ flex: 1 0 calc(100% - 500px);
 }
 #cols .col-twitter {
  margin-left: 30px;
@@ -192,7 +192,11 @@ a {
  max-width: 400px;
  margin: 0 auto 0 auto;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1300px) {
+ #cols .col-blog {
+  margin-right: 30px;
+  flex: 1 0 100%;
+ }
  #cols .col-twitter {
    display: none;
  }
