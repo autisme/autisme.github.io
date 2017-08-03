@@ -9,6 +9,7 @@ a {
  margin-bottom: 50px;
 }
 #iamlist, #involvedlist {
+ max-width: 800px;
  margin: 0 auto 0 auto;
  text-align: center;
  list-style-type: none;
