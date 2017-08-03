@@ -21,8 +21,8 @@ description: > # this means to ignore newlines until "baseurl:"
 #  Faire que le grand public comprenne réellement ce qu'est l'autisme et construire une société inclusive.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://autisme.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: BastienBConfais
-github_username:  autisme
+#twitter_username: BastienBConfais
+#github_username:  autisme
 google_verify: mpUcls0ghJHiock1KTv2d00nVpzQI82SZGDo1nsaziU
 google_analytics: UA-99588632-1
 permalink: /:title
