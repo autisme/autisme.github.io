@@ -98,9 +98,9 @@ a {
  background-color: rgba(27, 56, 100, 0.9);
 }
 
-.next-reading {
+.more-articles {
  background-color: #5994e2;
- padding: 5px;
+ padding: 10px;
  border-radius: 10px;
  text-align: center;
  width: 25%;
@@ -108,7 +108,10 @@ a {
  color: #fff;
  display: block;
 }
-.next-reading:hover {
+.more-articles:visited {
+ color: #fff;
+}
+.more-articles:hover {
  background-color: #2a7ae2;
 }
 
@@ -133,7 +136,30 @@ a {
  text-align: justify;
 }
 
+.post-link {
+ display: block;
+ font-size: 1em;
+ cursor: pointer;
+}
 
+.post-link:hover h2 {
+ color: #111;
+ text-decoration: underline;
+}
+
+.post-link .post-excerpt {
+ color: #111;
+}
+.post-link:hover { 
+ text-decoration: none;
+}
+.post-link .next-reading {
+ color: #2a7ae2;
+}
+
+.post-link:hover .next-reading {
+ text-decoration: underline;
+}
 /*
 .post-list > li .post-thumb {
  float: left;

@@ -1,0 +1,47 @@
+<div class="blog">
+
+  {{ content }}
+
+  <h1 class="page-heading">{% if page.category %}<a href="/blog">Blog</a> / {{page.category}}{% else %}Blog{% endif %}</h1>
+  <ul class="post-list">
+    {% if page.paginate.offset %}
+      {% assign offset = page.paginate.offset %}
+    {% else %}
+      {% assign offset = 0 %}
+    {% endif %}
+    {% if page.paginate.limit %}
+      {% assign limit = page.paginate.limit %}
+    {% else %}
+      {% assign limit = site.posts.length %}
+    {% endif %}
+    {% assign num_post = offset %}
+    {% for post in site.posts offset:offset limit:limit %}
+    {% assign page_category = page.category | slugify %}
+    {% assign post_categories = "" | split: "" %}
+    {% for category in post.categories %}
+      {% assign category1 = category | slugify %}
+      {% assign post_categories = post_categories | push: category1 %}
+    {% endfor %}
+    {% if page.category == nil or post_categories contains page_category %}
+      <li id="post-{{num_post}}" class="post">
+        <span class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}{% if post.categories.size > 0 %} • Publié dans {% for category in post.categories %}<span class="entry-categories"><a href="{{ site.url }}/category/{{ category | slugify }}" rel="category">{{ category }}</a></span>{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}</span>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+        <h2>
+          {{ post.title | escape }}
+        </h2>
+	<div class="post-">
+		{% if post.oembed_image %}
+		<img class="post-thumb" src="{{ post.oembed_image | relative_url }}" />
+		{% endif %}
+		<div class="post-excerpt">
+	        {{ post.content | strip_html | truncatewords: 50 }}
+		<p class="next-reading">Lire la suite</p>
+		</div>
+	</div>
+        </a>
+      </li>
+    {% endif %}
+    {% assign num_post = num_post | plus: 1 %}
+    {% endfor %}
+  </ul>
+</div>

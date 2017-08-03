@@ -2,39 +2,5 @@
 layout: default
 ---
 
-<div class="home">
-
-  {{ content }}
-
-  <h1 class="page-heading">{% if page.category %}<a href="/blog">Blog</a> / {{page.category}}{% else %}Blog{% endif %}</h1>
-  <ul class="post-list">
-    {% for post in site.posts %}
-    {% assign page_category = page.category | slugify %}
-    {% assign post_categories = "" | split: "" %}
-    {% for category in post.categories %}
-      {% assign category1 = category | slugify %}
-      {% assign post_categories = post_categories | push: category1 %}
-    {% endfor %}
-    {% if page.category == nil or post_categories contains page_category %}
-      <li>
-<!--
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
--->
-        <span class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}{% if post.categories.size > 0 %} • Publié dans {% for category in post.categories %}<span class="entry-categories"><a href="{{ site.url }}/category/{{ category | slugify }}" rel="category">{{ category }}</a></span>{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-	<div class="post-">
-		{% if post.oembed_image %}
-		<img class="post-thumb" src="{{ post.oembed_image | relative_url }}" />
-		{% endif %}
-		<div class="post-excerpt">
-	        {{ post.content | strip_html | truncatewords: 50 }}
-		<p><a class="next-reading" href="{{ post.url | relative_url }}">Lire la suite</a></p>
-		</div>
-	</div>
-      </li>
-    {% endif %}
-    {% endfor %}
-  </ul>
-</div>
+{% include blog.html %}
+<p><a class="more-articles" href="/blog#post-4">Plus d'articles</a></p>
