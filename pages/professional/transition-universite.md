@@ -20,17 +20,18 @@ Pour ceux qui trouvent difficile la socialisation, l'université peut présenter
 Les lycées sont souvent de bien plus petites structures que les universités. Il peut être difficile pour les étudiants avec autisme de naviguer dans les campus
 Cela peut aussi poser des problèmes  en termes de traitement sensoriel, par exemple, les campus peuvent être plus bruyants ou plus fréquentés.
 
-#### Organisation:
-Au lycée, avec une participation accrue des parents et des enseignants 
+#### Organisation
+Au lycée, avec une participation accrue des parents, des enseignants 
 et un emploi du temps structuré, cela peut être beaucoup plus facile pour les personnes
 atteintes d'autisme.
-Le passage à l'université avec un emploi du temps plus flexible, peut être quelque chose de difficile.
-De même l'organisation interne des cours avec notamment la prise de notes peut ne pas être facile.
+L'université offre un emploi du temps plus flexible et cela peut être quelque chose de difficile à gérer.
+De même l'organisation interne des cours avec notamment la prise de notes peut causer quelques difficultés.
 
 #### Trouver de l'aide
-De nombreux étudiants sur le spectre de l'autisme renforcent la confiance et les relations positives
-avec les gens sur une longue période de temps, il peut donc être difficile de laisser derrière
-eux leurs amis, les enseignants et les AVS qu'ils ont connus au lycée.
+De nombreux étudiants avec autisme renforcent 
+ont gagné la confiance de quelques camarades de classes,
+des enseignants et des AVS qu'ils ont connu au lycée. Il peut être difficile
+de perdre autant de repères.
 
 #### Visitez les collèges et considérez la taille
 Avant de choisir  une université, encouragez l'étudiant à visiter, 
