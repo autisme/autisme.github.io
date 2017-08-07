@@ -10,7 +10,7 @@ oembed_image: /assets/posts/2017-07-29/opengraph.png
 
 <img src="/assets/posts/2017-07-29/ID-100212806.jpg" width="250" class="left" alt="ID-100212806" />
 
-Afin d'organiser une campagne de sensibilisation à destination des jeunes, afin qu'ils comprennent ce qu'est l'autisme,
+Afin d'organiser une campagne de sensibilisation à destination des jeunes, pour qu'ils comprennent ce qu'est l'autisme,
 nous aimerions savoir comment l'autisme est perçu par la nouvelle génération.
 Nous organisons donc un sondage afin de recueillir votre opinion.
 Si vous êtes une personne avec autisme et avez entre 15 et 25 ans ou si vous êtes un parent, un frère
