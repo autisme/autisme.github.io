@@ -33,6 +33,6 @@ N'hésitez pas à nous contacter pour nous faire part de toute remarque, de tout
 Vous trouverez ci-dessous les liens de téléchargement des différents guides&nbsp;:
 
 
-  - <a href="/assets/posts/2017-08-10/handbook/student.pdf"><img src="/assets/posts/2017-08-10/handbook/student.png" alt="Guide à destination des élèves avec autisme" width="150" />&nbsp;Guide à destination des élèves avec autisme</a>
-  - <a href="/assets/posts/2017-08-10/handbook/parent.pdf"><img src="/assets/posts/2017-08-10/handbook/parent.png" alt="Guide à destination des parents" width="150" />&nbsp;Guide à destination des parents</a>
-  - <a href="/assets/posts/2017-08-10/handbook/teacher.pdf"><img src="/assets/posts/2017-08-10/handbook/teacher.png" alt="Guide à destination des enseignants" width="150" />&nbsp;Guide à destination des enseignants</a>
+  - <a href="/assets/posts/2017-08-10/handbook/student.pdf"><img src="/assets/posts/2017-08-10/handbook/student.png" alt="Guide à destination des élèves avec autisme" width="150" /></a>&nbsp;<a href="/assets/posts/2017-08-10/handbook/student.pdf">Guide à destination des élèves avec autisme</a>
+  - <a href="/assets/posts/2017-08-10/handbook/parent.pdf"><img src="/assets/posts/2017-08-10/handbook/parent.png" alt="Guide à destination des parents" width="150" /></a>&nbsp;<a href="/assets/posts/2017-08-10/handbook/parent.pdf">Guide à destination des parents</a>
+  - <a href="/assets/posts/2017-08-10/handbook/teacher.pdf"><img src="/assets/posts/2017-08-10/handbook/teacher.png" alt="Guide à destination des enseignants" width="150" /></a>&nbsp;<a href="/assets/posts/2017-08-10/handbook/teacher.pdf">Guide à destination des enseignants</a>
