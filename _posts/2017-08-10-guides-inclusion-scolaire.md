@@ -14,7 +14,7 @@ oembed_image: /assets/posts/2017-08-10/opengraph.png
 
 L'école peut entraîner de nombreuses difficultés pour les personnes avec autisme font face à de nombreuses difficultés 
 comme
-la gestion de l'environnement, l'organisation, l'aspect social pour n'en nommer que quelques unes.
+la gestion de l'environnement, l'organisation, l'aspect social pour n'en nommer que quelques-unes.
 Cependant l'école est aussi une opportunité pour les personnes avec autisme pour se faire des amis, développer leurs compétences dans les matières qu'elles maitrisent et développer
 leur potentiel.
 
@@ -25,8 +25,8 @@ De même, les enseignants qui sont sur le point d'accueillir une personne avec a
 ils n'ont pas été formés à cela.
 
 Nous mettons gratuitement à disposition une série de guides pour les parents, les enseignants et les élèves avec autisme.
-Nous espérons qu'ils vous donnerons des idées, et permettrons de créer une discussion au sein de votre école  sur la meilleure façon d'aider les personnes avec autisme.
-Nous espérons que vous en apprécierez la lecture et que nous pourrons compter sur vous pour faire .
+Nous espérons qu'ils vous donneront des idées, et permettrons de créer une discussion au sein de votre école  sur la meilleure façon d'aider les personnes avec autisme.
+Nous espérons que vous en apprécierez la lecture et que nous pourrons compter sur vous pour faire.
 
 N'hésitez pas à nous contacter pour nous faire part de toute remarque, de toute erreur, ou juste pour nous communiquer une information que nous n'avons pas traitée.
 
