@@ -7,7 +7,7 @@ categories:
   - Scolarisation
   - Ressources
 author: Bastien
-oembed_image: /assets/posts/2017-08-10/ID-10021087.jpg
+oembed_image: /assets/posts/2017-08-10/opengraph.png
 ---
 
 <img src="/assets/posts/2017-08-10/ID-10021087.jpg" alt="ID-10021087" class="right" width="250" />
