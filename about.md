@@ -43,6 +43,7 @@ Pour nous contacter&nbsp;: <strong><span class="contact"><span id="contact">PLEA
 #contact:after { content: "emsitua"; }
 </style>
 
+Si vous souhaitez nous rencontrer, sachez que nous sommes situés à Nantes (France) mais qu'il est possible de nous déplacer. Écrivez-nous avant pour discuter des modalités.
 
 ---
 
@@ -71,7 +72,7 @@ Il est important, je pense de montrer des exemples de personnes qui ont réussi 
 
   - Création d'un module de formation en ligne
 
-
+  - Campagne mettant en valeur les lieux, les entreprises «&nbsp;autism friendly&nbsp;»
 
 
 ---
