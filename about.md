@@ -26,6 +26,8 @@ N'hésitez pas à partager le contenu de ce site et à le faire connaître autou
 
 Bonne visite. Bastien.
 
+### Nous contacter
+
 Pour nous contacter&nbsp;: <strong><span class="contact"><span id="contact">PLEASE-ACTIVATE-JAVASCRIPT--TPIRCSAVAJ-ETAVITCA-ESAELP</span></span></strong>.
 
 <script type="text/javascript">window.document.getElementById('contact').innerHTML = '@';</script>
@@ -38,5 +40,34 @@ Pour nous contacter&nbsp;: <strong><span class="contact"><span id="contact">PLEA
 #contact:before { content: "gro.siafnoc"; }
 #contact:after { content: "emsitua"; }
 </style>
----
 
+
+### Nos actions
+
+Ci-dessous, la liste de nos actions réalisées en 2017 et ce que nous aimerions faire dans un futur plus ou moins proche.
+
+#### Ce que nous avons fait
+
+  - [Campagne pour sensibiliser au fait que l'inclusion des personnes avec autisme est une opportunité pour les entreprises](https://autisme.github.io/construire-une-societe-inclusive/)
+  - [Campagne sur twitter montrant que les personnes avec autisme ne sont pas si différentes des autres personnes](https://twitter.com/BastienBConfais/media)
+  - [Réalisation de guides pour la scolarisation des personnes avec autisme](https://autisme.github.io/guides-inclusion-scolaire)
+
+#### Ce que nous aimerions faire dans les prochains mois
+
+Ces projets ne sont actuellement pas réalisés car nous manquons de temps.
+Si vous souhaitez vous impliquer dans leur réalisation, n'hésitez pas à nous contacter. Toute aide est la bienvenue&nbsp;!
+
+  - Workshops dans les entreprises, les écoles et les administrations pour sensibiliser à l'autisme.
+La plupart des campagnes de sensibilisation forment le personnel du secteur médica-social ou les enseignants. Peu de choses sont faites pour sensibiliser les élèves des écoles ou les pompiers, les policiers, les ambulanciers, les chauffeurs de bus, etc
+sur la meilleure façon d'interagir avec les personnes avec autisme. Cela semble être quelque chose d'important à faire si nous voulons résoudre le problème d'accessibilité des personnes avec autisme dans la société.
+
+  - Partager le parcours de personnes avec autisme
+Nous voulons montrer que les personnes avec autisme, bien que toutes différentes, peuvent réussir à développer leur potentiel. Elles peuvent réussir à l'école, avoir un travail, des amis…
+Il est important, je pense de montrer des exemples de personnes qui ont réussi pour inspirer toutes celles qui cherchent leur voie et pour montrer au grand public que de petites adaptations font une réelle différence.
+
+  - Création d'un module de formation en ligne
+
+
+
+
+---
