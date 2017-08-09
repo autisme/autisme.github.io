@@ -26,6 +26,8 @@ N'hésitez pas à partager le contenu de ce site et à le faire connaître autou
 
 Bonne visite. Bastien.
 
+---
+
 ### Nous contacter
 
 Pour nous contacter&nbsp;: <strong><span class="contact"><span id="contact">PLEASE-ACTIVATE-JAVASCRIPT--TPIRCSAVAJ-ETAVITCA-ESAELP</span></span></strong>.
@@ -41,6 +43,8 @@ Pour nous contacter&nbsp;: <strong><span class="contact"><span id="contact">PLEA
 #contact:after { content: "emsitua"; }
 </style>
 
+
+---
 
 ### Nos actions
 
