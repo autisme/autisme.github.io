@@ -4,6 +4,8 @@ title: À propos
 permalink: /a-propos
 ---
 
+<img src="/assets/about.png" width="250" class="left" alt="About us" />
+
 Ce site a été créé dans le but de fournir un portail d'information sur l'autisme.
 Le web contient une grande quantité d'informations sur l'autisme.
 Toutefois, beaucoup sont des articles scientifiques ou des sites d'associations de parents ou encore
