@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Faites entendre votre voix
+title: Faites vivre ce site
 permalink: /faites-entendre-votre-voix
 hide_header_link: true
 ---
@@ -18,6 +18,8 @@ vous avez d'autres compétences ou d'autres idées, n'hésitez pas à nous en fa
 
 ### Donnez votre opinion, votre avis ou nous faire part d'une information que nous n'avons pas
 
+<a id="opinion"></a>
+
 Nous essayons de faire en sorte que ce site soit le vôtre, de traiter les sujets
 qui vous préoccupent et qui vous intéressent.
 Toutefois, nous avons besoin de votre retour pour améliorer la qualité de notre contenu et pour 
@@ -30,6 +32,8 @@ Vous pouvez également nous dire quels sont les sujets que vous souhaitez voir t
 
 
 ### Partagez votre histoire, témoignez
+
+<a id="histoire"></a>
 
 Nous croyons qu'une bonne façon pour faire comprendre l'autisme au public mais aussi d'aider les
 familles et les personnes avec autisme qui se posent de nombreuses questions est
