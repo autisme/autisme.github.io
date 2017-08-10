@@ -3,6 +3,7 @@ layout: page
 title: Faites vivre ce site
 permalink: /exprimez-vous
 hide_header_link: true
+oembed_image: /assets/pages/exprimez-vous/we_need_you.png
 ---
 
 
@@ -14,7 +15,7 @@ Ci-dessous, une liste de domaines dans lesquels nous cherchons de l'aide princip
 vous avez d'autres compétences ou d'autres idées, n'hésitez pas à nous en faire part&nbsp;!
 
 
-<img src="/assets/pages/ce-que-vous-pouvez-faire-pour-nous/we_need_you.png" width="500" alt="Nous avons besoin de vous !" class="center" />
+<img src="/assets/pages/exprimez-vous/we_need_you.png" width="500" alt="Nous avons besoin de vous !" class="center" />
 
 ### Donnez votre opinion, votre avis ou nous faire part d'une information que nous n'avons pas
 
