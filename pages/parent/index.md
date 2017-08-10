@@ -8,8 +8,8 @@ hide_header_link: true
 Les parents et les membres de la famille sont les héros méconnus de la prise en charge des personnes avec autisme.
 
 La vie avec une personne avec autisme contient sa part de défis.
-L'assurance d'obtenir un diagnostic approprié. L'accès aux services d'aide et au
-soutien nécessaire pour que la personne puisse développer son potentiel, vivre une vie heureuse et aussi indépendante que possible.
+L'assurance d'obtenir un diagnostic approprié, l'accès aux aides et au
+soutien nécessaire pour que la personne puisse développer son potentiel, vivre une vie heureuse et aussi indépendante que possible en sont quelques exemples.
 
 ---
 
