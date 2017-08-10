@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Faites vivre ce site
-permalink: /faites-entendre-votre-voix
+permalink: /exprimez-vous
 hide_header_link: true
 ---
 
