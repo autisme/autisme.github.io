@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ce que VOUS pouvez-faire pour nous
+title: Faites entendre votre voix
 permalink: /ce-que-vous-pouvez-faire-pour-nous
 hide_header_link: true
 ---
@@ -41,7 +41,7 @@ Si vous êtes une personne avec autisme vous pouvez par exemple expliquer quels 
 les problèmes que vous avez rencontrés
 comment les avez-vous surmontés&nbsp;? comment avez-vous été inclus pendant votre scolarité, au travail, etc&nbsp;?
 
-Si vous êtes concerné par l'autisme, vous pouvez également nous expliquez ce que vous avez mis en œuvre pour inclure une personne avec autisme, quelles adaptations avez-vous mis en place&nbsp;?
+Si vous êtes concerné par l'autisme, vous pouvez également nous expliquez ce que vous avez mis en œuvre pour inclure une personne avec autisme, quelles adaptations avez-vous mis en place dans votre école ou sur votre lieu de travail.
 
 Envoyez-nous votre témoignage à l'adresse indiquée précédemment (<span class="contact"><span id="contact2">PLEASE-ACTIVATE-JAVASCRIPT--TPIRCSAVAJ-ETAVITCA-ESAELP</span></span>). Nous pouvons également publier votre texte anonymement si vous le souhaitez.
 Nous acceptons toute forme de contenu, que ce soit un texte en prose, un poème, un poster, une infographie, un film, une image, etc.
