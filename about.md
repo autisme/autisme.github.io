@@ -76,5 +76,6 @@ Il est important, je pense de montrer des exemples de personnes qui ont réussi 
 
   - Campagne mettant en valeur les lieux, les entreprises «&nbsp;autism friendly&nbsp;»
 
+  - Exposition pour montrer concrètement comment les personnes avec autisme perçoivent leur environnement.
 
 ---
