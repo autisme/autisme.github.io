@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Faites vivre ce site
+title: Exprimez-vous
 permalink: /exprimez-vous
 hide_header_link: true
 oembed_image: /assets/pages/exprimez-vous/we_need_you.png
