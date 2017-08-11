@@ -22,7 +22,7 @@ Nous croyons qu'avec les informations nécessaires, la plupart des gens sont pr�
 Nous espérons que ce site vous sera utile et que vous y trouverez les réponses aux questions que vous vous posez.
 
 Nous avons l'espoir de faire changer les choses et nous comptons sur *votre soutien*.
-Nous croyons que les personnes avec autisme puissent vivre et soient incluses, comprises, acceptées et puissent réussir dans la société.
+Nous croyons que les personnes avec autisme peuvent vivre et peuvent réussir dans la société.
 N'hésitez pas à partager le contenu de ce site et à le faire connaître autour de vous.
 
 
