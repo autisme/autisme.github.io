@@ -21,13 +21,13 @@ Cela est difficile pour beaucoup de jeunes, particulièrement pendant les premi�
   - Être capable de vous repérer sur un grand campus pour trouver les salles de cours (parfois la signalisation n'est pas au rendez-vous)&nbsp;;
   - Travailler ou être entouré d'un grand nombre de personnes que vous ne connaissez pas&nbsp;;
   - Organiser votre temps de manière autonome&nbsp;;
-  - Appartenir a différents groupes simultanément (Université, Faculté, Département, …)&nbsp;;
-  - Être dans un groupe d'étudiants qui peut changer à chaque semestre.
+  - Faire partie de différents groupes (Université, Faculté, Département, …)&nbsp;;
+  - Être dans un groupe d'étudiants qui change à chaque semestre.
 
 
 <img class="center" width="400" src="/assets/posts/2017-08-13/ID-100305240.jpg" alt="ID-100305240" />
 
-C'est également le moment pour certain d'aller vivre seul, loin de la maison, ce qui implique d'autres difficultés comme préparer ses repas ou s'occuper du linge.
+C'est également le moment pour certain de vivre seul, loin de la maison, ce qui implique d'autres difficultés comme préparer ses repas ou s'occuper du linge.
 Toutefois, suivre les conseils ci-dessous peut réduire le stress et l'anxiété qui accompagnent souvent les changements.
 
 ### Soyez conscients de vos forces et de vos difficultés
