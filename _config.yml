@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pour l'inclusion des personnes avec autisme
-#title: Pour l'inclusion, la compréhension, l'acceptation et la réussite des personnes sur le spectre de l'autisme
+long_title: Pour l'inclusion, la compréhension, l'acceptation et la réussite des personnes sur le spectre de l'autisme
 email: 
 lang: fr
 description: > # this means to ignore newlines until "baseurl:"
