@@ -12,11 +12,10 @@ oembed_image: /assets/posts/2017-08-10/opengraph.png
 
 <img src="/assets/posts/2017-08-10/ID-10021087.jpg" alt="ID-10021087" class="right" width="250" />
 
-L'école peut entraîner de nombreuses difficultés pour les personnes avec autisme font face à de nombreuses difficultés 
-comme
-la gestion de l'environnement, l'organisation, l'aspect social pour n'en nommer que quelques-unes.
-Cependant l'école est aussi une opportunité pour les personnes avec autisme pour se faire des amis, développer leurs compétences dans les matières qu'elles maitrisent et développer
-leur potentiel.
+L'école entraîne souvent de nombreuses difficultés pour les personnes avec autisme&nbsp:
+la gestion de l'environnement, l'organisation, l'aspect social sont souvent des choses difficiles.
+Cependant l'école fournit aussi beaucoup d'opportunités. Elle permet aux personnes avec autisme de se faire des amis, de développer leurs compétences dans les matières qu'elles aiment
+et de développer leur potentiel.
 
 La période de rentrée scolaire de fin août à début septembre est particulièrement difficile pour tout le monde - les élèves, leurs parents mais aussi pour les enseignants.
 Se préparer à la nouvelle routine, à affronter les changements apportés par la nouvelle année scolaire est la préoccupation première des personnes avec autisme et de leurs parents
