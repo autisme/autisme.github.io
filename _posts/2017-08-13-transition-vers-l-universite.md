@@ -65,7 +65,7 @@ Visitez également le site web de l'université maintenant que vous êtes un «&
 Par exemple, consultez la liste des clubs et des associations et notez ceux que vous aimeriez rejoindre.
 Faites une liste de chose à faire qui inclut ce que vous devez vérifier avant le début des cours et les questions auxquelles vous n'avez pas encore trouvé de réponse.
 
-### Participez aux programmes d'intégration des nouveaux étudiants et à d'autres événements
+### Participez aux programmes d'intégration des nouveaux étudiants
 
 Cela est une opportunité pour rencontrer d'autres étudiants, créer des liens et poser des questions sur le fonctionnement de l'université.
 Si vous connaissez d'autres personnes qui vont dans la même université que vous, arrangez-vous pour les rencontrer.
