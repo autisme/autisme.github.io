@@ -12,7 +12,7 @@ oembed_image: /assets/posts/2017-08-13/opengraph.png
 ---
 
 Le baccalauréat est obtenu, les affectations sur admission post-bac sont faites et l'été touche à sa fin.
-Cela signifie que beaucoup d'étudiants avec autisme vont démarrer leur nouvelle année scolaire à l'université.
+Cela signifie que beaucoup d'étudiants autistes vont démarrer leur nouvelle année scolaire à l'université.
 
 Vous êtes sur le point d'embarquer pour un des moments les plus excitants mais aussi les plus difficiles dans votre vie de jeune adulte.
 Passer d'un environnement familier et très structuré à un environnement qui vous demande de faire des choix et de prendre des décisions peut être difficile.
