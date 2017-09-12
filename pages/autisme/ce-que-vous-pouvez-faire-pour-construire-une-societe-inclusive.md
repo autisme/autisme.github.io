@@ -12,7 +12,7 @@ S'assurer que les personnes avec autisme puissent développer leur potentiel et 
 Ce n'est pas juste pour les familles qui sont affectées, ce n'est pas juste pour les médecins. 
 Cela est important dans la mesure où actuellement la situation des personnes avec autisme est catastrophique.
 
-<img src="/facebook_campaign/9_inclusion_is_important.png" class="center" alt="80% des adultes avec autisme ne travaillent pas ; beaucoup sont seuls et isolés ; l'anxiété et la dépression font souvent parties de leur vie ; leur espérance de vie est en moyenne réduite de 18 ans ; le taux de suicide est 9 fois plus élevé" width="800" />
+<img src="/facebook_campaign/9_inclusion_is_important.png" class="center" alt="80% des adultes avec autisme ne travaillent pas ; beaucoup sont seuls et isolés ; l'anxiété et la dépression font souvent parties de leur vie ; leur espérance de vie est en moyenne réduite de 18 ans ; le taux de suicide est 9 fois plus élevé" width="600" />
 
 
 Les personnes avec autisme ont besoin d'aides pour atteindre le potentiel mais elles ont également besoin de compréhension et d'ouverture de la part de la société.
