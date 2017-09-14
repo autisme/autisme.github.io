@@ -19,7 +19,7 @@ Les personnes avec autisme ont besoin d'aides pour atteindre le potentiel mais e
 C'est là que vous avez un rôle à jouer&nbsp;! Donner de l'argent aux associations est important et toujours apprécié mais il est plus important encore de prendre des mesures
 et de faire des petits changements qui aident grandement les personnes avec un handicap invisible comme l'autisme.
 
-Ci-dessous, une liste de choses que vous pouvez faire.
+Ci-dessous, une liste de choses que **vous** pouvez faire.
 
 <img src="/assets/pages/autisme/ce-que-vous-pouvez-faire-pour-construire-une-societe-inclusive/ID-10045222.jpg" class="center" alt="ID-10045222" width="400" />
 
