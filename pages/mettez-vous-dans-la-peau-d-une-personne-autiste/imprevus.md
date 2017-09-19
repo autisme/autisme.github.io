@@ -6,8 +6,14 @@ hide_header_link: true
 oembed_image: /assets/posts/2017-08-13/opengraph.png
 ---
 
+Pour vivre dans un monde totalement imprévisible, rien de mieux que de s'appliquer à suivre une routine quotidienne.
+C'est votre «&nbsp;pilote automatique&nbsp;» qui vous évite de réfléchir aux actions habituelle que vous devez réaliser. Toutefois, il arrive que la routine ne se déroule pas comme prévu et qu'un événement se produise de façon inopinée.
+
+Vous devez alors reprendre le «&nbsp;pilotage manuel&nbsp;». Vous devez 
+Vous vous demandez alors ce qu'il va arriver.
+
 Personne n'aime que la routine soit modifiée. Pour les personnes avec autisme cela est particulièrement stressant.
-Si vous demandez à une personne avec autisme 
+
 
 <div class="highlight">
 <ol>

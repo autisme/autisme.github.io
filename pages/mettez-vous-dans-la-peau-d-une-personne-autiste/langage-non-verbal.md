@@ -23,7 +23,6 @@ Comprendre les expressions faciales est difficile pour beaucoup de personnes ave
 Cet exercice est souvent difficile.
 
 
-
 <div class="highlight">
 <ol>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/traitement-sensoriel">Traitement sensoriel</a></li>

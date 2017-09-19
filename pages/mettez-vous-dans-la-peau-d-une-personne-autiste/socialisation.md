@@ -1,0 +1,204 @@
+---
+layout: page
+#title:  "Mettez vous dans la peau d'une personne autiste - Socialisation"
+permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/socialisation
+hide_header_link: true
+oembed_image: /assets/posts/2017-08-13/opengraph.png
+---
+
+La socialisation est quelque chose de réellement difficile.
+
+Imaginez que vous soyez dans un groupe de personnes qui parlent entre eux et que vous voulez rejoindre la conversation. 
+Vous vous posez des dizaines de questions comme par exemple&nbsp;
+
+  - Quand est-ce à votre tour de parler ?
+  - Ce que vous allez-dire est-il pertinent dans la conversation ?
+  - Comment montrer aux autres que vous souhaiter prendre la parole ?
+
+Vous ne savez pas vous y prendre.
+Beaucoup de personnes avec autisme peuvent alors ne pas faire attention à cela et prendre la parole dès qu'elles ont quelque chose à dire et cela peut donner l'impression que ces personnes manquent de respect.
+
+
+Ci-dessous, une animation, vous permettant de vous rendre compte comment prendre la parole dans un groupe peut être difficile&nsp;:
+<!-- prendre la parole -->
+<canvas id="game_speak" width="700" height="450" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
+
+
+
+<div class="highlight">
+<ol>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/traitement-sensoriel">Traitement sensoriel</a></li>
+ <li><strong>Communication</strong></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/langage-non-verbal">Langage non verbal</a></li>
+</ol>
+</div>
+
+
+
+
+---
+<small>Images issues de <a href="http://www.cygnification.com/" rel="nofollow">http://www.cygnification.com</a>, <a href="http://www.arasaac.org/" rel="nofollow">http://www.arasaac.org</a>.</small>
+
+<script type="text/javascript">
+  function speak() {
+    var canvas = document.getElementById('game_speak');
+    var ctx = canvas.getContext('2d');
+    var mouse = {'x': undefined, 'y': undefined};
+    var cursor = 'pointer';
+    var refresh = 300;
+    var background = new Image();
+    background.src = '/assets/pages/mettez-vous-dans-la-peau-d-une-personne-autiste/speak/background.jpg';
+    var bubbles = [
+      {'img': function() {var img = new Image(); img.src='/assets/pages/mettez-vous-dans-la-peau-d-une-personne-autiste/speak/speech1.png'; return img;}(), 'pos': [
+        {'x': 335, 'y': 80, 'size': 150, 'mirror': false},
+        {'x': 390, 'y': 90, 'size': 150, 'mirror': true},
+        {'x': 75, 'y': 80, 'size': 150, 'mirror': false},
+      ]},
+      {'img': function() {var img = new Image(); img.src='/assets/pages/mettez-vous-dans-la-peau-d-une-personne-autiste/speak/speech2.png'; return img;}(), 'pos': [
+        {'x': 350, 'y': 105, 'size': 120, 'mirror': false},
+        {'x': 410, 'y': 110, 'size': 120, 'mirror': true},
+        {'x': 85, 'y': 105, 'size': 120, 'mirror': false},
+      ]},
+      {'img': function() {var img = new Image(); img.src='/assets/pages/mettez-vous-dans-la-peau-d-une-personne-autiste/speak/speech3.png'; return img;}(), 'pos': [
+        {'x': 355, 'y': 95, 'size': 130, 'mirror': false},
+        {'x': 400, 'y': 105, 'size': 130, 'mirror': true},
+        {'x': 100, 'y': 95, 'size': 130, 'mirror': false},
+      ]},
+      {'img': function() {var img = new Image(); img.src='/assets/pages/mettez-vous-dans-la-peau-d-une-personne-autiste/speak/speech4.png'; return img;}(), 'pos': [
+        {'x': 355, 'y': 95, 'size': 130, 'mirror': false},
+        {'x': 400, 'y': 105, 'size': 130, 'mirror': true},
+        {'x': 100, 'y': 95, 'size': 130, 'mirror': false},
+      ]},
+    ];
+    var sentences = ['Vous ne devez pas couper la parole', 'Est-ce réellement votre tour de parole ?', 'Quelqu\'un d\'autre est en train de parler', 'Ce que vous dites est-il pertinent dans la conversation ?', 'Attendez que les autres personnes aient fini de parler', 'Avez-vous réfléchi à ce que vous allez dire ?'];
+    var colors = ['rgba(91, 192, 235, 0.9)', 'rgba(253, 231, 76, 0.9)', 'rgba(171, 25, 49, 0.9)', 'rgba(145, 47, 64, 0.9)', 'rgba(195, 66, 63, 0.9)'];
+    var state = {'speakers': [Math.floor(Math.random()*(bubbles.length)), -1, -1], 'time': Math.floor((Math.random()*(2000-700))+700), 'text': '', 'time_clicked': 0, 'sentence': '', 'color': ''};
+
+    var status = {'status': 'pause', 'interval': undefined};
+    this.play = function() {
+      if ( 'play' == status['status'])
+        return;
+      canvas.onclick = click;
+      status['interval'] = setInterval(function() {
+        draw();
+      }, refresh);
+      status['status'] = 'play';
+    }
+    this.pause = function() {
+      if ( 'pause' == status['status'])
+        return;
+      clearInterval(status['interval']);
+      canvas.onclick = function(e) {};
+      status['status'] = 'pause';
+    }    
+    this.canvas = function() {
+      return canvas;
+    }
+
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.drawImage(background, 0, 0);
+      state['text'] += '.';
+      state['time'] -= refresh;
+      if (state['time'] < 0) {
+        state['time'] = Math.floor((Math.random()*(2000-700))+700);
+        state['text'] = '';
+        if (state['speakers'][2] == -1) {
+          if (state['speakers'][0] > -1) {
+            state['speakers'][0] = -1;
+            state['speakers'][1] = Math.floor(Math.random()*(bubbles.length));
+          }
+          else if (state['speakers'][1] > -1) {
+            state['speakers'][1] = -1;
+            state['speakers'][0] = Math.floor(Math.random()*(bubbles.length));
+          }
+        }
+      }
+      if (state['time_clicked'] > 0) {
+        state['time_clicked'] -= refresh;
+        cursor = 'default';
+      } else {
+        state['speakers'][2] = -1;
+        cursor = 'pointer';
+      }
+
+      for(var pers = 0; pers < 3; pers++ ) { // foreach speaker
+        if (state['speakers'][pers] > -1) {
+          var bubble = state['speakers'][pers];
+          if (true == bubbles[bubble]['pos'][pers]['mirror']) {
+            ctx.save();
+            ctx.scale(-1,1);
+            ctx.drawImage(bubbles[bubble]['img'], -bubbles[bubble]['pos'][pers]['x'], bubbles[bubble]['pos'][pers]['y'], -bubbles[bubble]['pos'][pers]['size'], bubbles[bubble]['pos'][pers]['size']);
+            ctx.restore();
+          } else {
+            ctx.drawImage(bubbles[bubble]['img'], bubbles[bubble]['pos'][pers]['x'], bubbles[bubble]['pos'][pers]['y'], bubbles[bubble]['pos'][pers]['size'], bubbles[bubble]['pos'][pers]['size']);
+          }
+          ctx.font = "30px Arial";
+          ctx.textAlign = "center";
+          ctx.fillStyle = "#111"
+          ctx.fillText(state['text'], bubbles[bubble]['pos'][pers]['x'] + (bubbles[bubble]['pos'][pers]['size']/2), bubbles[bubble]['pos'][pers]['y'] + (bubbles[bubble]['pos'][pers]['size']/2));
+
+        }
+      }
+
+      if (state['speakers'][2] > -1) {
+        var text =  state['sentence'];
+        var color = state['color'];
+      } else {
+        var text = 'Cliquez pour prendre la parole';
+        var color = 'rgba(255, 255, 255, 0.9)';
+      }
+      ctx.beginPath();
+      ctx.lineWidth='2';
+      ctx.strokeStyle='#000';
+      ctx.rect(50, 400-25, canvas.width-100, 40); 
+      ctx.stroke();
+      ctx.fillStyle = color;
+      ctx.fillRect(50, 400-25, canvas.width-100, 40);
+      ctx.font = "20px Arial";
+      ctx.textAlign = "center";
+      ctx.fillStyle = "#111"
+      ctx.fillText(text, canvas.width/2, 400);
+
+      canvas.style.cursor = cursor;
+    }
+    function click(e) {
+      var r = canvas.getBoundingClientRect();
+      mouse['x']=parseInt(e.clientX) - r.left;
+      mouse['y']=parseInt(e.clientY) - r.top;
+      if (state['speakers'][2] == -1) {
+        state['sentence'] = sentences[Math.floor(Math.random()*(sentences.length))];
+        state['color'] = colors[Math.floor(Math.random()*(colors.length))];
+        state['time_clicked'] = 3000;
+        state['speakers'][2] = Math.floor(Math.random()*(bubbles.length));
+      }
+    }
+  }
+
+  function isScrolledIntoView(el) {
+    var elemTop = el.getBoundingClientRect().top;
+    var elemBottom = el.getBoundingClientRect().bottom;
+
+    var isVisible = ((elemTop >= 0) && (elemTop <= window.innerHeight)) || ((elemBottom >= 0) && (elemBottom <= window.innerHeight)) || ((elemTop < 0) && (elemBottom > window.innerHeight));
+    return isVisible;
+  }
+
+
+
+  document.body.onload = function() {
+    var canvas = [new speak()];
+    function load_visible() {
+      for (var i = 0; i < canvas.length ; i++) {
+        if (isScrolledIntoView(canvas[i].canvas())) {
+          canvas[i].play();
+        } else {
+          canvas[i].pause();
+        }
+      }
+    }
+    document.body.onscroll = load_visible;
+    document.body.onresize = load_visible;
+    load_visible();
+  }
+
+</script>
