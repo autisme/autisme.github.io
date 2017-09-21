@@ -42,7 +42,7 @@ Avez-vous déjà imaginé comment vous vous sentiriez si&nbsp:
 
 
 Nous avons tous des connaissances théoriques sur l'autisme, ou lorsque nous manquons de connaissances, les préjugés remplissent le vide.
-Dans les deux cas nous ne savons comment réagir, comment mettre en pratique ces connaissances.
+Dans les deux cas nous ne savons pas comment réagir, comment mettre en pratique ces connaissances.
 
 L'autisme est caractérisé par trois difficultés majeures dans la vie de la personne&nbsp;:
 

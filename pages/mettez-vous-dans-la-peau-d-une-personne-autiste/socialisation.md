@@ -70,9 +70,16 @@ Ci-dessous, une animation, vous permettant de vous rendre compte comment prendre
         {'x': 100, 'y': 95, 'size': 130, 'mirror': false},
       ]},
     ];
-    var sentences = ['Vous ne devez pas couper la parole', 'Est-ce réellement votre tour de parole ?', 'Quelqu\'un d\'autre est en train de parler', 'Ce que vous dites est-il pertinent dans la conversation ?', 'Attendez que les autres personnes aient fini de parler', 'Avez-vous réfléchi à ce que vous allez dire ?'];
-    var colors = ['rgba(91, 192, 235, 0.9)', 'rgba(253, 231, 76, 0.9)', 'rgba(171, 25, 49, 0.9)', 'rgba(145, 47, 64, 0.9)', 'rgba(195, 66, 63, 0.9)'];
-    var state = {'speakers': [Math.floor(Math.random()*(bubbles.length)), -1, -1], 'time': Math.floor((Math.random()*(2000-700))+700), 'text': '', 'time_clicked': 0, 'sentence': '', 'color': ''};
+    var sentences = {
+     'interrupt': ['Vous ne devez pas couper la parole', 'Quelqu\'un d\'autre est en train de parler', 'Attendez que les autres personnes aient fini de parler'],
+     'non interrupt': ['Est-ce réellement votre tour de parole ?',  'Ce que vous dites est-il pertinent dans la conversation ?', 'Avez-vous réfléchi à ce que vous allez dire ?']
+    };
+    var colors = {
+     'interrupt': ['rgba(171, 25, 49, 0.9)', 'rgba(145, 47, 64, 0.9)', 'rgba(195, 66, 63, 0.9)'],
+     'non interrupt': ['rgba(91, 192, 235, 0.9)', 'rgba(253, 231, 76, 0.9)', 'rgba(78, 151, 178, 0.9)', 'rgba(244, 158, 76, 0.9)'],
+    };
+
+    var state = {'speakers': [Math.floor(Math.random()*(bubbles.length)), -1, -1], 'time': Math.floor((Math.random()*(2000-700))+700), 'previous_speaker': -1, 'text': '', 'text_clicked': '', 'time_clicked': 0, 'sentence': '', 'color': ''};
 
     var status = {'status': 'pause', 'interval': undefined};
     this.play = function() {
@@ -100,21 +107,29 @@ Ci-dessous, une animation, vous permettant de vous rendre compte comment prendre
       ctx.drawImage(background, 0, 0);
       state['text'] += '.';
       state['time'] -= refresh;
-      if (state['time'] < 0) {
-        state['time'] = Math.floor((Math.random()*(2000-700))+700);
-        state['text'] = '';
-        if (state['speakers'][2] == -1) {
-          if (state['speakers'][0] > -1) {
-            state['speakers'][0] = -1;
+      if (state['time'] < 0 && state['time_clicked'] <= 0) {
+        if (state['previous_speaker'] == -1) {
+          if (state['speakers'][0] > -1)
+            state['previous_speaker'] = 0;
+          else if (state['speakers'][1] > -1)
+            state['previous_speaker'] = 1;
+          state['speakers'][0] = -1;
+          state['speakers'][1] = -1;
+          state['time'] = Math.floor((Math.random()*(900-200))+200);
+        } else {
+          if (state['previous_speaker'] == 0) {
             state['speakers'][1] = Math.floor(Math.random()*(bubbles.length));
-          }
-          else if (state['speakers'][1] > -1) {
-            state['speakers'][1] = -1;
+          } else {
             state['speakers'][0] = Math.floor(Math.random()*(bubbles.length));
           }
+          state['text'] = '';
+          state['previous_speaker'] = -1;
+          state['time'] = Math.floor((Math.random()*(2000-700))+700);
         }
       }
+
       if (state['time_clicked'] > 0) {
+        state['text_clicked'] += '.';
         state['time_clicked'] -= refresh;
         cursor = 'default';
       } else {
@@ -136,7 +151,11 @@ Ci-dessous, une animation, vous permettant de vous rendre compte comment prendre
           ctx.font = "30px Arial";
           ctx.textAlign = "center";
           ctx.fillStyle = "#111"
-          ctx.fillText(state['text'], bubbles[bubble]['pos'][pers]['x'] + (bubbles[bubble]['pos'][pers]['size']/2), bubbles[bubble]['pos'][pers]['y'] + (bubbles[bubble]['pos'][pers]['size']/2));
+          if ( pers < 2 ) {
+            ctx.fillText(state['text'], bubbles[bubble]['pos'][pers]['x'] + (bubbles[bubble]['pos'][pers]['size']/2), bubbles[bubble]['pos'][pers]['y'] + (bubbles[bubble]['pos'][pers]['size']/2));
+          } else {
+            ctx.fillText(state['text_clicked'], bubbles[bubble]['pos'][pers]['x'] + (bubbles[bubble]['pos'][pers]['size']/2), bubbles[bubble]['pos'][pers]['y'] + (bubbles[bubble]['pos'][pers]['size']/2));
+          }
 
         }
       }
@@ -167,8 +186,14 @@ Ci-dessous, une animation, vous permettant de vous rendre compte comment prendre
       mouse['x']=parseInt(e.clientX) - r.left;
       mouse['y']=parseInt(e.clientY) - r.top;
       if (state['speakers'][2] == -1) {
-        state['sentence'] = sentences[Math.floor(Math.random()*(sentences.length))];
-        state['color'] = colors[Math.floor(Math.random()*(colors.length))];
+        if (state['speakers'][0] == -1 && state['speakers'][1] == -1) {
+          state['sentence'] = sentences['non interrupt'][Math.floor(Math.random()*(sentences['non interrupt'].length))];
+          state['color'] = colors['non interrupt'][Math.floor(Math.random()*(colors['non interrupt'].length))];
+        } else {
+          state['sentence'] = sentences['interrupt'][Math.floor(Math.random()*(sentences['interrupt'].length))];
+          state['color'] = colors['interrupt'][Math.floor(Math.random()*(colors['interrupt'].length))];
+        }
+        state['text_clicked'] = '';
         state['time_clicked'] = 3000;
         state['speakers'][2] = Math.floor(Math.random()*(bubbles.length));
       }
