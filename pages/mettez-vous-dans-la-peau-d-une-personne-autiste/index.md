@@ -31,56 +31,17 @@ Il est donc nécessaire de changer les choses, et vous pouvez faire la différen
 Notre objectif est de vous donner les clés pour comprendre et intéragir avec les personnes avec autisme.
 Que vous soyez en mesure de les inclure dans votre groupe d'amis, dans votre groupe de collègue. Bref, que vous sachiez comment réagir la prochaine fois que vous croiserez une personne concernée.
 
-Nous vous proposons des jeux et des expériences qui vous permettront de vous mettre dans la peau d'une personne avec autisme. Afin de comprendre comment les personnes autistes voient et pensent le monde.
-Avez-vous déjà imaginé comment vous vous sentiriez si&nbsp:
-
-  - vous ne pouvez pas voir clairement les mots que vous lisez&nbsp;;
-  - vous ne comprenez pas ce que les autres personnes vous disent car vous ne comprennez pas leur langue&nbsp;;
-  - vous ne pouvez pas entendre et comprendre les instructions que l'on vous donne dans un environnement trop bruyant&nbsp;;
-  - vous ne pouvez pas communiquez avec votre voix&nbsp;;
-  - vous ne pouvez pas supporter les odeurs et la texture de certains aliments&nbsp;;
-
-
-Nous avons tous des connaissances théoriques sur l'autisme, ou lorsque nous manquons de connaissances, les préjugés remplissent le vide.
-Dans les deux cas nous ne savons pas comment réagir, comment mettre en pratique ces connaissances.
-
-L'autisme est caractérisé par trois difficultés majeures dans la vie de la personne&nbsp;:
-
-  - Difficultés dans les intéractions sociale&nbsp;;
-  - Difficultés de communication&nbsp;;
-  - Comportements répétitifs et intérets restreints.
-
-À cela s'ajoute également des difficultés dans le traitement sensoriel, notamment des hypos et hyper sensibilités.
-
-Bien que cela semble compliqué à comprendre, imaginez simplement  le scénario suivant&nbsp;:
-
-<div class="highlight">
-<p style="color: #111">Imaginez que vous soyez placé dans un vaisseau spatial et envoyé sur une autre galaxie. Vous arrivez sur une planète inconnue, une planète qui n’est pas faite pour vous. Vous êtes instantanément décontenancé par les odeurs fortes, les bruits soudains et les textures étranges. 
-Bien que les habitants ne semblent pas y prêter attention, vous ne pouvez simplement pas vous concentrer sur autre choses que cet environnement inconfortable. Ne pas avoir d’endroit supportable et « calme » vous rend anxieux.</p>
-
-<p style="color: #111">Vous rencontrez ensuite un extra-terrestre. Il semble accueillant. Cependant vous ne comprenez pas sa langue, sa gestuelle ou ses expressions du visage. Vous ne savez pas ce qu’il raconte et vous ne savez même pas s’il est content ou en colère. Vous êtes socialement mal à l’aise et vous avez même un peu peur.</p>
-
-<p style="color: #111">Après de longues journées à vous promener seul dans un lieu vraiment peu familier pour vous, vous voudriez vraiment avoir une conversation avec un extra-terrestre mais vous êtes tellement mal à l’aise que vous êtes rejeté. Vous finissez par abandonner et vous vous isolez du reste de la population, vous évitez les interactions sociales non nécessaires.</p>
-
-<p style="color: #111">Plus vous explorez la planète, plus il semble difficile d’y être accepté. La société extra-terrestre est pleine de signes sociaux que vous ne comprenez pas.</p>
-
-<p style="color: #111">Aller au travail ou dans un supermarché extra-terrestre vous demande beaucoup d’efforts. Les relations sociales sembles très difficiles à décoder et il peut être très difficile de trouver quelle est la bonne approche avec les gens. Vous pouvez également avoir du mal à comprendre certains concepts.</p>
-
-<p style="color: #111">La façon la plus simple pour vivre dans ce monde irrationnel est d’appliquer des règles strictes. Vous mettez en place une routine pour éviter les imprévus. Le moindre changement de programme peut vous rendre très anxieux ou vous mettre en colère.
-Parfois, vous vous demandez pourquoi est-ce à vous de faire tous ces efforts pour vous adapter au monde et non le monde qui s’adapte à vous.</p>
-<p style="color: #111"><strong style="display: block; text-align: center; margin: 0 auto 0 auto;">Maintenant, réalisez que les personnes avec autisme vivent sur une planète extra-terrestre appelée la Terre.</strong></p>
-</div>
-
-Vous ne souffrez pas à proprement parler de l'autisme mais dont la façon dont la société vous perçoit.
-
-Ci-dessous, nous essayons de vous apporter plus d'explications concrètes sur la façon dont les personnes avec autisme voient le monde.
-De petites expériences vous sont également proposées
+Nous vous proposons des jeux et des expériences qui vous permettront de vous mettre dans la peau d'une personne autiste. Afin de comprendre comment les personnes autistes voient et pensent le monde.
 
 <div class="highlight">
 <ol>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/qu-est-ce-que-l-autisme">Introduction - Qu'est-ce que l'autisme&nbsp;?</a></li>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/traitement-sensoriel">Traitement sensoriel</a></li>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/communication">Communication</a></li>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/langage-non-verbal">Langage non verbal</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/socialisation">Socialisation</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/commorbidites">Commorbidités</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/capacites">Capacités</a></li>
 </ol>
 </div>
 

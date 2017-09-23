@@ -6,23 +6,25 @@ hide_header_link: true
 oembed_image: /assets/posts/2017-08-13/opengraph.png
 ---
 
-La socialisation est quelque chose de réellement difficile.
+Savoir communiquer et exprimer ses idées est une chose mais 
+cela n'est pas suffisant pour interagir avec d'autres personnes.
+Par exemple, savoir quoi dire et quand dans une discussion est quelque chose
+qui peut être réellement difficile.
 
 Imaginez que vous soyez dans un groupe de personnes qui parlent entre eux et que vous voulez rejoindre la conversation. 
 Vous vous posez des dizaines de questions comme par exemple&nbsp;
 
   - Quand est-ce à votre tour de parler ?
-  - Ce que vous allez-dire est-il pertinent dans la conversation ?
   - Comment montrer aux autres que vous souhaiter prendre la parole ?
+  - Ce que vous allez-dire est-il pertinent dans la conversation et adapté aux personnes qui y participent ? Par exemple, vous ne dites pas «&nbsp;bonjour&nbsp;» de la même manière à un collègue et à supérieur hiérarchique.
 
 Vous ne savez pas vous y prendre.
-Beaucoup de personnes avec autisme peuvent alors ne pas faire attention à cela et prendre la parole dès qu'elles ont quelque chose à dire et cela peut donner l'impression que ces personnes manquent de respect.
-
+Beaucoup de personnes avec autisme peuvent alors ne pas faire attention à cela et prendre la parole dès qu'elles ont quelque chose à dire et cela peut donner
+l'impression que ces personnes manquent de respect.
 
 Ci-dessous, une animation, vous permettant de vous rendre compte comment prendre la parole dans un groupe peut être difficile&nsp;:
 <!-- prendre la parole -->
 <canvas id="game_speak" width="700" height="450" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
-
 
 
 <div class="highlight">
@@ -37,7 +39,7 @@ Ci-dessous, une animation, vous permettant de vous rendre compte comment prendre
 
 
 ---
-<small>Images issues de <a href="http://www.cygnification.com/" rel="nofollow">http://www.cygnification.com</a>, <a href="http://www.arasaac.org/" rel="nofollow">http://www.arasaac.org</a>.</small>
+<small>Images issues de <a href="http://www.linkedin.com/" rel="nofollow">http://www.linkedin.com</a>.</small>
 
 <script type="text/javascript">
   function speak() {

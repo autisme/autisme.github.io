@@ -10,9 +10,12 @@ Le langage non verbal est souvent difficile à comprendre et à utiliser.
 Imaginez ce que cela serait pour vous que de vivre dans un monde dans lequel vous ne devez compter uniquement sur ce que l'on vous dit pour comprendre le sens d'une phrase.
 
 Imaginez que vous n'arrivez pas à regarder votre interlocuteur dans les yeux car identifier l'expression du regard vous est difficile et que cela vous distrait de vos pensées.
-Certaines personnes avec autisme n'arrivent pas à regarder les personnes dans les yeux pour cette raison, d'autres regardent intésemment les yeux sans détourner régulièrement leur regard. 
-Cela peut mener à plusieurs problèmes de communication, 
-par exemple vous pouvez vous demander pour quelle raison vous êtes félicité après avoir fait une bêtise puisque l'on vous aura dit&nbsp;: «&nbsp;Tu es fier de toi j'espère !&nbsp;» avec un air en colère mais vous n'aurez considéré
+Certaines personnes avec autisme n'arrivent pas à regarder les personnes dans les yeux pour cette raison, d'autres regardent intensémment les yeux sans détourner régulièrement leur regard. 
+Cela peut générer des problèmes de communications à la fois pour la personne autiste et son interlocuteur.
+Les personnes non autistes peuvent penser que si l'on ne les regarde pas dans les yeux, c'est que la personne est suspecte ou a quelque chose à cacher.
+Au contraire trop regarder dans les yeux met la personne mal à l'aise.
+Du point de vue de la personne avec autisme,
+ vous pouvez par exemple vous demander pour quelle raison vous êtes félicité après avoir fait une bêtise puisque l'on vous aura dit&nbsp;: «&nbsp;Tu es fier de toi j'espère !&nbsp;» avec un air en colère mais vous n'aurez considéré
 uniquement le texte et non l'expression du visage affichée.
 
 Comprendre les expressions faciales est difficile pour beaucoup de personnes avec autisme.
