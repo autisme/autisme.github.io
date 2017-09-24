@@ -26,8 +26,9 @@ L'autisme est caractérisé par trois difficultés majeures dans la vie de la pe
   - Comportements répétitifs et intérets restreints.
 
 À cela s'ajoute également des difficultés dans le traitement sensoriel, notamment des hypos et hyper sensibilités.
+Également, malgré certaines idées reçues, il n'est pas possible de devenir «&nbsp;autiste&nbsp;» au cours de la vie. Les personnes autistes le sont dès leur naissance.
 
-Bien que cela semble compliqué à comprendre, imaginez simplement le scénario suivant&nbsp;:
+Bien que les explications théoriques semblent difficiles à comprendre, imaginez simplement le scénario suivant&nbsp;:
 
 <div class="highlight">
 <p style="color: #111">Imaginez que vous soyez placé dans un vaisseau spatial et envoyé sur une autre galaxie. Vous arrivez sur une planète inconnue, une planète qui n’est pas faite pour vous. Vous êtes instantanément décontenancé par les odeurs fortes, les bruits soudains et les textures étranges. 
@@ -57,6 +58,8 @@ La réalité est qu'il n'y a pas de trait de caractère ou de trait physique per
 Les personnes avec autisme sont très diverses.
 Certains peuvent avoir certains signes visibles comme par exemple le fait de ne pas regarder dans les yeux, des problèmes de comportements, etc tandis que d'autres
 sont complètement invisibles.
+La remarque «&nbsp;Il/Elle ne semble pas autiste&nbsp;» est malheureuse et souvent blessante pour les personnes avec autisme.
+
 
 ---
 <small>Images issues de <a href="https://www.ted.com/" rel="nofollow">https://www.ted.com</a>, <a href="https://commons.wikimedia.org/" rel="nofollow">https://commons.wikimedia.org</a>, <a href="http://www.standard.co.uk/" rel="nofollow">https://www.standard.co.uk</a>, <a href="http://www.learnfromautistics.com/" rel="nofollow">http://www.learnfromautistics.com</a>, <a href="http://www.letelegramme.fr/" rel="nofollow">http://www.letelegramme.fr</a>, <a href="http://www.ausm.org/" rel="nofollow">http://www.ausm.org</a>, <a href="http://www.jkp.com/" rel="nofollow">http://www.jkp.com</a>, <a href="http://www.autismspeaks.org/" rel="nofollow">http://www.autismspeaks.org</a>, <a href="http://www.capecodtimes.com/" rel="nofollow">http://www.capecodtimes.com</a>, <a href="http://www.autismarticulated.com/" rel="nofollow">http://www.autismarticulated.com</a>, <a href="http://network.autism.org.uk/" rel="nofollow">http://network.autism.org.uk</a>.</small>

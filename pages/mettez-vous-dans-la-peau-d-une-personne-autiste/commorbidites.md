@@ -7,8 +7,15 @@ oembed_image: /assets/posts/2017-08-13/opengraph.png
 ---
 
 # Imprévus
-Les imprévus sont un grand problème pour les personnes autistes.
-Imaginez dans 
+
+Pour vivre dans un monde totalement imprévisible avec un environnement difficilement supportable, rien de mieux que de s'appliquer à suivre une routine quotidienne, des rituels.
+C'est votre «&nbsp;pilote automatique&nbsp;» qui vous évite de réfléchir aux actions habituelle que vous devez réaliser. Toutefois, il arrive que la routine ne se déroule pas comme prévu et qu'un événement se produise de façon inopinée.
+
+Vous devez alors reprendre le «&nbsp;pilotage manuel&nbsp;» ce qui vous demande beaucoup d'énergie et d'efforts.
+Vous vous demandez alors ce qu'il va arriver. Vous essayez de prévoir des dizaines de scénarios de ce qu'il pourrait arriver.
+
+Personne n'aime que la routine soit modifiée. Pour les personnes avec autisme cela est particulièrement stressant.
+
 
 # L'Anxiété
 
@@ -17,10 +24,11 @@ Vivre dans un environnement hostile dans lequel vous ne savez pas comment faire 
 
 Vous n'osez plus aller vers les gens, voire même de sortir de chez vous.
 Vous ne parlez que lorsque cela est vraiment nécessaire.
+Finalement, vous restez dans la solitude.
 
 Bref, vous devenez anxieux
 
 # Problèmes de concentration
 
 Beaucoup de personnes avec autisme ont également du mal à rester concentrer, voire même de rester assis pendant de longues périodes.
-
+Lorsqu'un sujet ne vous intéresse pas, il est impossible de vous faire travailler sur ce sujet.

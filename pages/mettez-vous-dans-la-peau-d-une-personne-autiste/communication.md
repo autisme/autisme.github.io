@@ -31,6 +31,9 @@ Par exemple lorsque nous *«&nbsp;racontons des salades&nbsp»*, les personnes a
 Lorsque nous *«&nbsp;cassons les pieds&nbsp;»* de quelqu'un, nous ne l'empêchons pas de se déplacer. Nous utilisons tous les jours une quantité
 importante d'expressions, généralement sans même nous en rendre compte.
 
+Enfin, il vous est impossible de mentir. Lorsque quelqu'un vous demande comment vous trouvez ses nouveaux habits vous dites 
+que cela ne lui va pas du tout.
+Vous finissez par faire fuir le peu d'amis que vous avez réussi à vous faire.
 
 
 <div class="highlight">
