@@ -17,7 +17,7 @@ Vous vous demandez alors ce qu'il va arriver. Vous essayez de prévoir des dizai
 Personne n'aime que la routine soit modifiée. Pour les personnes avec autisme cela est particulièrement stressant.
 
 
-# L'Anxiété
+# Anxiété
 
 Vivre dans un environnement hostile dans lequel vous ne savez pas comment faire pour communiquer, socialiser  avec les autres personnes vous est très difficile.
 À force d'être déçu des erreurs que vous avez pu faire (par exemple, vous n'avez pas réussi à vous expliquer correctement) et à cause du regard des gens, vous devenez anxieux.
@@ -31,4 +31,5 @@ Bref, vous devenez anxieux
 # Problèmes de concentration
 
 Beaucoup de personnes avec autisme ont également du mal à rester concentrer, voire même de rester assis pendant de longues périodes.
-Lorsqu'un sujet ne vous intéresse pas, il est impossible de vous faire travailler sur ce sujet.
+Lorsqu'un sujet ne vous intéresse pas, il est impossible de vous faire travailler sur celui-ci.
+
