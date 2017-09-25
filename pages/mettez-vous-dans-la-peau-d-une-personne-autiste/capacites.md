@@ -14,9 +14,9 @@ Vous développez alors une expertise sur ces sujets.
 Vous pouvez utiliser ces centres d'intérêts comme un avantage pour faire face aux difficultés.
 Par exemple, vous pouvez trouver des amis qui ont les mêmes centres d'intérêts que vous.
 Vous pouvez également utiliser ces centre d'intérêts pour trouver du travail.
-Bref, vous pouvez être reconnu pour ce qui vous passionne et pour ce que vous savez faire.
+Vous pouvez être reconnu pour ce qui vous passionne et pour ce que vous savez faire.
 
-De plus, les personnes avec autisme peuvent avoir beaucoup de qualité au travail&nbsp;:
+De plus, les personnes avec autisme peuvent avoir beaucoup de qualité au travail. Par exemple&nbsp;:
 
  - Elles respectent scrupuleusement les règles. Elles n'arrivent donc que très rarement en retard en cours, au bureau. 
  - De même, mentir est difficile, les problèmes ne sont que rarement cachés.

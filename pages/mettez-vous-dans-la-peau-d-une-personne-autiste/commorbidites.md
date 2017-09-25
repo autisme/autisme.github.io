@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Mettez vous dans la peau d'une personne autiste
-permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/commorbidites
+permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/imprevus-anxiete-concentration
 hide_header_link: true
 oembed_image: /assets/posts/2017-08-13/opengraph.png
 ---
@@ -13,6 +13,8 @@ C'est votre «&nbsp;pilote automatique&nbsp;» qui vous évite de réfléchir au
 
 Vous devez alors reprendre le «&nbsp;pilotage manuel&nbsp;» ce qui vous demande beaucoup d'énergie et d'efforts.
 Vous vous demandez alors ce qu'il va arriver. Vous essayez de prévoir des dizaines de scénarios de ce qu'il pourrait arriver.
+
+
 
 Personne n'aime que la routine soit modifiée. Pour les personnes avec autisme cela est particulièrement stressant.
 
@@ -31,5 +33,9 @@ Bref, vous devenez anxieux
 # Problèmes de concentration
 
 Beaucoup de personnes avec autisme ont également du mal à rester concentrer, voire même de rester assis pendant de longues périodes.
-Lorsqu'un sujet ne vous intéresse pas, il est impossible de vous faire travailler sur celui-ci.
+Lorsqu'un sujet ne vous intéresse pas, il est impossible de vous faire travailler sur celui-ci car cela demande une concentration trop importante.
+Pour vous donner une idée, c'est comme-ci vous deviez dire de quelle couleur est écrit chacun des mots suivants&nbsp;:
+
+<!-- colors -->
+
 
