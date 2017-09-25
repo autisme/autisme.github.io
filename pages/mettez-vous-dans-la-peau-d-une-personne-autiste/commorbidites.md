@@ -21,8 +21,10 @@ Personne n'aime que la routine soit modifiée. Pour les personnes avec autisme c
 
 # Anxiété
 
-Vivre dans un environnement hostile dans lequel vous ne savez pas comment faire pour communiquer, socialiser  avec les autres personnes vous est très difficile.
-À force d'être déçu des erreurs que vous avez pu faire (par exemple, vous n'avez pas réussi à vous expliquer correctement) et à cause du regard des gens, vous devenez anxieux.
+En tant que personne avec autisme, si l'on vous demande en quoi l'autisme vous handicape-t-il au quotidien, vous avez
+de grande chance de parler de l'anxiété.
+Vivre dans un environnement hostile dans lequel vous ne savez pas comment faire pour communiquer, socialiser avec les autres personnes vous est très difficile. À force d'être 
+déçu des erreurs que vous avez pu faire (par exemple, vous n'avez pas réussi à vous expliquer correctement) et à cause du regard des gens, vous devenez anxieux.
 
 Vous n'osez plus aller vers les gens, voire même de sortir de chez vous.
 Vous ne parlez que lorsque cela est vraiment nécessaire.

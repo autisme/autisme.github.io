@@ -40,7 +40,7 @@ Nous vous proposons des jeux et des expériences qui vous permettront de vous me
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/communication">Communication</a></li>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/langage-non-verbal">Langage non verbal</a></li>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/socialisation">Socialisation</a></li>
- <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/commorbidites">Commorbidités</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/imprevus-anxiete-concentration">Imprévus, anxiété et concentration</a></li>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/capacites">Capacités</a></li>
 </ol>
 </div>
