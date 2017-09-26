@@ -37,8 +37,9 @@ Regardez la vidéo ci-dessous, qui vous montre ce qu'il faut endurer en allant d
 
 Cela peut être encore plus compliqué dans les moments où la personne est est fatiguée, comme les fins de journées par exemple.
 Cela peut mener à ce qui est appelé un «&nbsp;effondrement autistique&nbsp;» (ou *meltdown* en anglais).
-Vous n'êtes alors plus capable de faire face à l'environnement. Vous êtes totalement submergés et vous n'êtes plus capable de traiter l'information.
-
+Vous n'êtes alors plus capable de faire face à l'environnement. Vous êtes totalement submergés et vous n'êtes plus capable de traiter les informations de votre environnement
+ ni de vous contrôler. La seule chose à faire pour vous calmer est de vous reposer.
+Vu de l'extérieur, cela ressemble à une grosse colère et beaucoup de personnes ne font pas la différence.
 
 Toutefois, ce traitement sensoriel différent peut parfois présenter un avantage.
 Par exemple, beaucoup de personnes avec autisme remarquent des détails que la plupart des gens ne voient pas.
