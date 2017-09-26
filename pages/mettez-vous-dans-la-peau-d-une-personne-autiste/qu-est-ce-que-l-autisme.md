@@ -60,6 +60,11 @@ Certains peuvent avoir certains signes visibles comme par exemple le fait de ne 
 sont complètement invisibles.
 La remarque «&nbsp;Il/Elle ne semble pas autiste&nbsp;» est malheureuse et souvent blessante pour les personnes avec autisme.
 
+De plus, avec une personne sur 100 concernée, nous avons tous croisé à un moment donné une personne autiste. Il est donc important que chacun d'entre nous prenne conscience qu'il ou qu'elle a un rôle à jouer
+pour l'inclusion de ces personnes dans la société.
+
+<img src="/facebook_campaign/1_everyone_knows_somebody_with_autism.png" class="center" alt="Avez-vous déjà rencontré une personne avec autisme ? 1 personne sur 100 est concernée - l'autisme est parfois invisible et beaucoup de personnes n'en parlent pas à leur entourage, leurs collègues de travail, etc ! Combien de personnes y a-t-il dans votre famille ? Combien de personnes rencontrez-vous au travail ? Combien avez-vous d'amis ? Combien de personnes habitent dans votre ville ? Nous connaissons tous une personne avec autisme !" width="600" />
+
 
 ---
 <small>Images issues de <a href="https://www.ted.com/" rel="nofollow">https://www.ted.com</a>, <a href="https://commons.wikimedia.org/" rel="nofollow">https://commons.wikimedia.org</a>, <a href="http://www.standard.co.uk/" rel="nofollow">https://www.standard.co.uk</a>, <a href="http://www.learnfromautistics.com/" rel="nofollow">http://www.learnfromautistics.com</a>, <a href="http://www.letelegramme.fr/" rel="nofollow">http://www.letelegramme.fr</a>, <a href="http://www.ausm.org/" rel="nofollow">http://www.ausm.org</a>, <a href="http://www.jkp.com/" rel="nofollow">http://www.jkp.com</a>, <a href="http://www.autismspeaks.org/" rel="nofollow">http://www.autismspeaks.org</a>, <a href="http://www.capecodtimes.com/" rel="nofollow">http://www.capecodtimes.com</a>, <a href="http://www.autismarticulated.com/" rel="nofollow">http://www.autismarticulated.com</a>, <a href="http://network.autism.org.uk/" rel="nofollow">http://network.autism.org.uk</a>.</small>
