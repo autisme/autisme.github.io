@@ -83,4 +83,6 @@ encouragerait les responsables de lieux publics à faire des petites adaptations
   - #### Exposition pour montrer concrètement comment les personnes avec autisme perçoivent leur environnement.
 Rien de tel que de se mettre dans la peau d'une personne avec autisme pour comprendre le handicap. 
 
+  - #### Un guide pour rendre les entretiens d'embauche et l'entreprise «&nbsp;autism-friendly&nbsp;»
+
 ---
