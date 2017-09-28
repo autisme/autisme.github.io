@@ -8,8 +8,8 @@ oembed_image: /assets/posts/2017-08-13/opengraph.png
 
 
 Beaucoup de personnes autistes ont des hyper ou hypo sensibilités. Que ce soit au niveau de la vue, de l'odorat, du toucher, ou encore de l'équilibre.
-Pour donner quelques exemples, imaginez que vous pouvez voir le clignottement des néons et qu'entendre leur grésillement continu fini par ne plus être supportable,
-que vous ne supportez les lumières trop vives ou les lampes qui clignottent. Vous avez du mal à fixer les objets ou le texte que vous lisez
+Pour donner quelques exemples, imaginez que vous pouvez voir le clignotement des néons et qu'entendre leur grésillement continu fini par ne plus être supportable,
+que vous ne supportez les lumières trop vives ou les lampes qui clignotent. Vous avez du mal à fixer les objets ou le texte que vous lisez
 et cela vous donne mal à la tête.
 Au contraire, certaines personnes avec autisme peuvent rechercher une forte stimulation visuelle.
 
@@ -23,7 +23,7 @@ Ce bruit est très énervant mais les autres personnes ne comprennent pas pourqu
 De même, certaines personnes ont du mal à différencier la parole des bruits et doivent attentivement et conscieusement écouter tout ce qu'il se passe autour d'elles pour identifier de potentielles voix.
 Elles peuvent donner l'impression de ne pas vous écouter lorsque vous leurs parlez alors qu'il leur faut juste plus de temps pour analyser ce que vous dites.
 
-Le toucher et le goût et l'odorat ne sont pas épargés.
+Le toucher et le goût et l'odorat ne sont pas épargnés.
 Certaines personnes ne supportent pas l'odeur de certains lieux, le goût ou la texture de certains aliments, etc.
 Cela peut entraîner des difficultés pour varier les repas et mener à toujours manger les mêmes aliments.
 Certaines personnes peuvent également rechercher certaines odeurs, goût ou textures qu'elles apprécient.
@@ -35,7 +35,7 @@ Regardez la vidéo ci-dessous, qui vous montre ce qu'il faut endurer en allant d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DgDR_gYk_a8" frameborder="0" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;" allowfullscreen></iframe>
 
-Cela peut être encore plus compliqué dans les moments où la personne est est fatiguée, comme les fins de journées par exemple.
+Cela peut être encore plus compliqué dans les moments où la personne est fatiguée, comme les fins de journées par exemple.
 Cela peut mener à ce qui est appelé un «&nbsp;effondrement autistique&nbsp;» (ou *meltdown* en anglais).
 Vous n'êtes alors plus capable de faire face à l'environnement. Vous êtes totalement submergés et vous n'êtes plus capable de traiter les informations de votre environnement
  ni de vous contrôler. La seule chose à faire pour vous calmer est de vous reposer.

@@ -11,7 +11,7 @@ Les personnes avec autisme peuvent être non verbales ou avoir un retard de lang
 Au contraire, certaines personnes peuvent parler correctement et avoir un large vocabulaire.
 
 Les personnes non verbales peuvent utiliser d'autres moyens pour s'exprimer.
-Certaines utilisent la langue des signe, ou peuvent utiliser des pictogrammes. 
+Certaines utilisent la langue des signes, ou peuvent utiliser des pictogrammes. 
 Essayez de vous exprimer en utilisant des pictogrammes&nbsp;:
 <!-- écriture pictogrammes (pecs) -->
 <canvas id="game_pecs" width="700" height="400" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
@@ -23,17 +23,17 @@ D'autres encore peuvent s'exprimer en écrivant à l'aide d'un clavier ou en poi
 Comme vous avez pu le constater par vous-même, la difficulté est d'écrire rapidement. Imaginez que vous devez écrire chaque réponse aux questions que l'on vous pose oralement.
 Imaginez que vous deviez réserver une chambre d'hôtel ou acheter un ticket de cinéma en écrivant tout ce que vous devez dire.
 
-Chez les personnes verbales qui peuvent s'exprimer, certainent font de l'écholalie, c'est-à-dire peuvent répéter ce qu'elles entendent. Imaginez-vous
+Chez les personnes verbales qui peuvent s'exprimer, certaines font de l'écholalie, c'est-à-dire peuvent répéter ce qu'elles entendent. Imaginez-vous
 répéter la question que l'on vous pose au lieu d'y répondre.
 
 De même, chez beaucoup de personnes avec autisme, comprendre les phrases imagées peut être difficile.
-Par exemple lorsque nous *«&nbsp;racontons des salades&nbsp»*, les personnes avec autisme peuvent réellement penser que nous parlons d'un légume.
+Par exemple lorsque nous *«&nbsp;racontons des salades&nbsp;»*, les personnes avec autisme peuvent réellement penser que nous parlons d'un légume.
 Lorsque nous *«&nbsp;cassons les pieds&nbsp;»* de quelqu'un, nous ne l'empêchons pas de se déplacer. Nous utilisons tous les jours une quantité
 importante d'expressions, généralement sans même nous en rendre compte.
 
 Enfin, il vous est impossible de mentir. Lorsque quelqu'un vous demande comment vous trouvez ses nouveaux habits vous dites 
 que cela ne lui va pas du tout.
-Vous finissez par faire fuir le peu d'amis que vous avez réussi à vous faire.
+Vous finissez par faire fuir le peu d'amis que vous avez réussis à vous faire.
 
 <p>&nbsp;</p>
 <div class="highlight">

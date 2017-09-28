@@ -15,14 +15,14 @@ Imaginez que vous soyez dans un groupe de personnes qui parlent entre eux et que
 Vous vous posez des dizaines de questions comme par exemple&nbsp;
 
   - Quand est-ce à votre tour de parler ?
-  - Comment montrer aux autres que vous souhaiter prendre la parole ?
-  - Ce que vous allez-dire est-il pertinent dans la conversation et adapté aux personnes qui y participent ? Par exemple, vous ne dites pas «&nbsp;bonjour&nbsp;» de la même manière à un collègue et à supérieur hiérarchique.
+  - Comment montrer aux autres que vous souhaitez prendre la parole&nbsp;?
+  - Ce que vous allez-dire est-il pertinent dans la conversation et adapté aux personnes qui y participent&nbsp;? Par exemple, vous ne dites pas «&nbsp;bonjour&nbsp;» de la même manière à un collègue et à supérieur hiérarchique.
 
 Vous ne savez pas vous y prendre.
 Beaucoup de personnes avec autisme peuvent alors ne pas faire attention à cela et prendre la parole dès qu'elles ont quelque chose à dire et cela peut donner
 l'impression que ces personnes manquent de respect.
 
-Ci-dessous, une animation, vous permettant de vous rendre compte comment prendre la parole dans un groupe peut être difficile&nsp;:
+Ci-dessous, une animation, vous permettant de vous rendre compte comment prendre la parole dans un groupe peut être difficile&nbsp;:
 <!-- prendre la parole -->
 <canvas id="game_speak" width="700" height="450" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
 

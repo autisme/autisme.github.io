@@ -9,11 +9,11 @@ oembed_image: /assets/posts/2017-08-13/opengraph.png
 # Imprévus
 
 Pour vivre dans un monde totalement imprévisible avec un environnement difficilement supportable, rien de mieux que de s'appliquer à suivre une routine quotidienne, des rituels.
-C'est votre «&nbsp;pilote automatique&nbsp;» qui vous évite de réfléchir aux actions habituelle que vous devez réaliser. Toutefois, il arrive que la routine ne se déroule pas comme prévu et qu'un événement se produise de façon inopinée.
+C'est votre «&nbsp;pilote automatique&nbsp;» qui vous évite de réfléchir aux actions habituelles que vous devez réaliser. Toutefois, il arrive que la routine ne se déroule pas comme prévu et qu'un événement se produise de façon inopinée.
 
 Vous devez alors reprendre le «&nbsp;pilotage manuel&nbsp;» ce qui vous demande beaucoup d'énergie et d'efforts.
 Vous vous demandez alors ce qu'il va arriver. Vous essayez de prévoir des dizaines de scénarios de tout ce qui pourrait vous arriver. Cela fini par vous dépasser complètement,
-génère du énormément de stress et vous fini par vous épuiser. 
+génère énormément de stress et vous fini par vous épuiser. 
 
 
 
@@ -34,7 +34,7 @@ Comme le dit très bien le docteur Tony Attwood, les personnes avec autisme sont
 
 Beaucoup de personnes avec autisme ont également du mal à rester concentrer, voire même de rester assis pendant de longues périodes.
 Lorsqu'un sujet ne vous intéresse pas, il est impossible de vous faire travailler sur celui-ci car cela demande une concentration trop importante.
-Pour vous donner une idée, c'est comme-ci vous deviez dire de quelle couleur est écrit chacun des mots suivants&nbsp;:
+Pour vous donner une idée, c'est comme si vous deviez dire de quelle couleur est écrit chacun des mots suivants&nbsp;:
 
 <!-- lire les couleurs écrites dans une autre couleur -->
 <canvas id="game_colour" width="700" height="300" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
