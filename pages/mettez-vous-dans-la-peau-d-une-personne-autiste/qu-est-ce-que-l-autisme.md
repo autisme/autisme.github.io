@@ -56,11 +56,13 @@ Selon vous, parmi les personnes ci-dessous, lesquelles sont autistes&nbsp;?
 Le fait est que nous avons tous une image qui nous vient en tête quand nous parlons d'autisme, que ce soit Rain Man, Sheldon de la série Big Bang Theory.
 La réalité est qu'il n'y a pas de trait de caractère ou de trait physique permettant de dire «&nbsp;Cette personne est autiste&nbsp;».
 Les personnes avec autisme sont très diverses.
-Certains peuvent avoir certains signes visibles comme par exemple le fait de ne pas regarder dans les yeux, des problèmes de comportements, etc tandis que d'autres
-sont complètement invisibles.
+Les personnes avec autisme peuvent avoir un partenaire et des enfants, vous ne soupsoneriez pas leur autisme tandis que d'autres ont un
+autisme plus visible avec des signes comme le fait de ne pas parler, de ne pas regarder dans les yeux, etc.
+
 La remarque «&nbsp;Il/Elle ne semble pas autiste&nbsp;» est malheureuse et souvent blessante pour les personnes avec autisme.
 
-De plus, avec une personne sur 100 concernée, nous avons tous croisé à un moment donné une personne autiste. Il est donc important que chacun d'entre nous prenne conscience qu'il ou qu'elle a un rôle à jouer
+
+Avec une personne sur 100 concernée, nous avons tous croisé à un moment donné une personne autiste. Il est donc important que chacun d'entre nous prenne conscience qu'il ou qu'elle a un rôle à jouer
 pour l'inclusion de ces personnes dans la société.
 
 <img src="/facebook_campaign/1_everyone_knows_somebody_with_autism.png" class="center" alt="Avez-vous déjà rencontré une personne avec autisme ? 1 personne sur 100 est concernée - l'autisme est parfois invisible et beaucoup de personnes n'en parlent pas à leur entourage, leurs collègues de travail, etc ! Combien de personnes y a-t-il dans votre famille ? Combien de personnes rencontrez-vous au travail ? Combien avez-vous d'amis ? Combien de personnes habitent dans votre ville ? Nous connaissons tous une personne avec autisme !" width="600" />
