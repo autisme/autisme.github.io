@@ -26,19 +26,19 @@ Comprendre les expressions faciales est difficile pour beaucoup de personnes ave
 Cet exercice est souvent difficile.
 
 
-
+<p>&nbsp;</p>
 <div class="highlight">
 <ol>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/qu-est-ce-que-l-autisme">Introduction - Qu'est-ce que l'autisme&nbsp;?</a></li>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/traitement-sensoriel">Traitement sensoriel</a></li>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/communication">Communication</a></li>
- <li><strong>Langage non verbal</strong></li>
- <li>Concentration</li>
- <li>Mouvements</li>
- <li>Intérets restreints</li>
- <li>Imprévus</li>
- <li>Futur et consequences</li>
+ <li>Langage non verbal</li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/socialisation">Socialisation</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/imprevus-anxiete-concentration">Imprévus, anxiété et concentration</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/capacites-et-potentiels">Capacités et potentiels</a></li>
 </ol>
 </div>
+
 
 
 

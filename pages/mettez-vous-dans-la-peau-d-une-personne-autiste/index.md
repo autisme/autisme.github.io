@@ -41,12 +41,14 @@ Nous vous proposons des jeux et des expériences qui vous permettront de vous me
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/langage-non-verbal">Langage non verbal</a></li>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/socialisation">Socialisation</a></li>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/imprevus-anxiete-concentration">Imprévus, anxiété et concentration</a></li>
- <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/capacites">Capacités</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/capacites-et-potentiels">Capacités et potentiels</a></li>
 </ol>
 </div>
 
+<!--
 que vous débarquez dans une nouvelle civilisation que vous ne connaissez pas, vous ne connaissez ni la langue ni la culture et vous devez 
 vous débrouiller seul. Vous n'avez pas les outils pour vivre dans cet environnement.
 L'autisme affecte la vie de chaque personne concernée différemment. Deux personnes avec autisme ne se ressemblent pas et n'ont pas les mêmes «&nbsp;symptomes&nbsp;».
 C'est pourquoi certains éléments que vous pouvez lire sont contradictoires. 
 Ci-dessous, les différents points abordés pour découvrir la façon dont les personnes avec autisme voient le monde.
+-->

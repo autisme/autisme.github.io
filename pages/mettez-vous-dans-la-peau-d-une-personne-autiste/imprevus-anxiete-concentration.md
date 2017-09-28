@@ -39,6 +39,21 @@ Pour vous donner une idée, c'est comme-ci vous deviez dire de quelle couleur es
 <!-- lire les couleurs écrites dans une autre couleur -->
 <canvas id="game_colour" width="700" height="300" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
 
+<p>&nbsp;</p>
+<div class="highlight">
+<ol>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/qu-est-ce-que-l-autisme">Introduction - Qu'est-ce que l'autisme&nbsp;?</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/traitement-sensoriel">Traitement sensoriel</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/communication">Communication</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/langage-non-verbal">Langage non verbal</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/socialisation">Socialisation</a></li>
+ <li>Imprévus, anxiété et concentration</li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/capacites-et-potentiels">Capacités et potentiels</a></li>
+</ol>
+</div>
+
+
+
 ---
 
 <script type="text/javascript">

@@ -26,12 +26,16 @@ Ci-dessous, une animation, vous permettant de vous rendre compte comment prendre
 <!-- prendre la parole -->
 <canvas id="game_speak" width="700" height="450" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
 
-
+<p>&nbsp;</p>
 <div class="highlight">
 <ol>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/qu-est-ce-que-l-autisme">Introduction - Qu'est-ce que l'autisme&nbsp;?</a></li>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/traitement-sensoriel">Traitement sensoriel</a></li>
- <li><strong>Communication</strong></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/communication">Communication</a></li>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/langage-non-verbal">Langage non verbal</a></li>
+ <li>Socialisation</li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/imprevus-anxiete-concentration">Imprévus, anxiété et concentration</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/capacites-et-potentiels">Capacités et potentiels</a></li>
 </ol>
 </div>
 

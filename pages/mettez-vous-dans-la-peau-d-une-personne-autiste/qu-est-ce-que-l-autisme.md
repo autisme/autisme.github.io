@@ -6,7 +6,7 @@ hide_header_link: true
 oembed_image: /assets/posts/2017-08-13/opengraph.png
 ---
 
-Avez-vous déjà imaginé comment vous vous sentiriez si&nbsp:
+Avez-vous déjà imaginé comment vous vous sentiriez si&nbsp;:
 
   - vous ne pouvez pas voir clairement les mots que vous lisez&nbsp;;
   - vous ne comprenez pas ce que les autres personnes vous disent car vous ne comprennez pas leur langue&nbsp;;
@@ -16,9 +16,10 @@ Avez-vous déjà imaginé comment vous vous sentiriez si&nbsp:
 
 Pourtant c'est ce que les personnes autistes vivent au quotidien.
 
-Nous avons tous des connaissances théoriques sur l'autisme, ou lorsque nous manquons de connaissances, les préjugés remplissent le vide.
-Dans les deux cas nous ne savons pas comment réagir, comment mettre en pratique ces connaissances.
+Nous avons parfois des connaissances théoriques sur l'autisme, ou lorsque nous manquons de connaissances, les préjugés remplissent le vide.
+Dans les deux cas nous ne savons pas comment réagir.
 
+Les connaissances théoriques que nous avons se résument souvent à ceci&nbsp;:
 L'autisme est caractérisé par trois difficultés majeures dans la vie de la personne&nbsp;:
 
   - Difficultés dans les intéractions sociale&nbsp;;
@@ -54,19 +55,33 @@ Selon vous, parmi les personnes ci-dessous, lesquelles sont autistes&nbsp;?
 <canvas id="game_people" width="700" height="465" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
 
 Le fait est que nous avons tous une image qui nous vient en tête quand nous parlons d'autisme, que ce soit Rain Man, Sheldon de la série Big Bang Theory.
-La réalité est qu'il n'y a pas de trait de caractère ou de trait physique permettant de dire «&nbsp;Cette personne est autiste&nbsp;».
-Les personnes avec autisme sont très diverses.
-Les personnes avec autisme peuvent avoir un partenaire et des enfants, vous ne soupsoneriez pas leur autisme tandis que d'autres ont un
+La réalité est qu'il n'y a pas de trait de caractère ou de trait physique permettant de dire «&nbsp;Cette personne est autiste&nbsp;». Il n'existe pas de «&nbsp;personne type&nbsp;» et
+les personnes avec autisme sont très diverses.
+Certaines peuvent avoir un partenaire et des enfants, vous ne soupsoneriez pas leur autisme tandis que d'autres ont un
 autisme plus visible avec des signes comme le fait de ne pas parler, de ne pas regarder dans les yeux, etc.
 
-La remarque «&nbsp;Il/Elle ne semble pas autiste&nbsp;» est malheureuse et souvent blessante pour les personnes avec autisme.
 
+<p>&nbsp;</p>
+<div class="highlight">
+<ol>
+ <li>Introduction - Qu'est-ce que l'autisme&nbsp;?</li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/traitement-sensoriel">Traitement sensoriel</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/communication">Communication</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/langage-non-verbal">Langage non verbal</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/socialisation">Socialisation</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/imprevus-anxiete-concentration">Imprévus, anxiété et concentration</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/capacites-et-potentiels">Capacités et potentiels</a></li>
+</ol>
+</div>
+
+
+<!--
 
 Avec une personne sur 100 concernée, nous avons tous croisé à un moment donné une personne autiste. Il est donc important que chacun d'entre nous prenne conscience qu'il ou qu'elle a un rôle à jouer
 pour l'inclusion de ces personnes dans la société.
 
 <img src="/facebook_campaign/1_everyone_knows_somebody_with_autism.png" class="center" alt="Avez-vous déjà rencontré une personne avec autisme ? 1 personne sur 100 est concernée - l'autisme est parfois invisible et beaucoup de personnes n'en parlent pas à leur entourage, leurs collègues de travail, etc ! Combien de personnes y a-t-il dans votre famille ? Combien de personnes rencontrez-vous au travail ? Combien avez-vous d'amis ? Combien de personnes habitent dans votre ville ? Nous connaissons tous une personne avec autisme !" width="600" />
-
+-->
 
 ---
 <small>Images issues de <a href="https://www.ted.com/" rel="nofollow">https://www.ted.com</a>, <a href="https://commons.wikimedia.org/" rel="nofollow">https://commons.wikimedia.org</a>, <a href="http://www.standard.co.uk/" rel="nofollow">https://www.standard.co.uk</a>, <a href="http://www.learnfromautistics.com/" rel="nofollow">http://www.learnfromautistics.com</a>, <a href="http://www.letelegramme.fr/" rel="nofollow">http://www.letelegramme.fr</a>, <a href="http://www.ausm.org/" rel="nofollow">http://www.ausm.org</a>, <a href="http://www.jkp.com/" rel="nofollow">http://www.jkp.com</a>, <a href="http://www.autismspeaks.org/" rel="nofollow">http://www.autismspeaks.org</a>, <a href="http://www.capecodtimes.com/" rel="nofollow">http://www.capecodtimes.com</a>, <a href="http://www.autismarticulated.com/" rel="nofollow">http://www.autismarticulated.com</a>, <a href="http://network.autism.org.uk/" rel="nofollow">http://network.autism.org.uk</a>.</small>

@@ -35,14 +35,19 @@ Enfin, il vous est impossible de mentir. Lorsque quelqu'un vous demande comment 
 que cela ne lui va pas du tout.
 Vous finissez par faire fuir le peu d'amis que vous avez réussi à vous faire.
 
-
+<p>&nbsp;</p>
 <div class="highlight">
 <ol>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/qu-est-ce-que-l-autisme">Introduction - Qu'est-ce que l'autisme&nbsp;?</a></li>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/traitement-sensoriel">Traitement sensoriel</a></li>
- <li><strong>Communication</strong></li>
+ <li>Communication</li>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/langage-non-verbal">Langage non verbal</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/socialisation">Socialisation</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/imprevus-anxiete-concentration">Imprévus, anxiété et concentration</a></li>
+ <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/capacites-et-potentiels">Capacités et potentiels</a></li>
 </ol>
 </div>
+
 
 
 
