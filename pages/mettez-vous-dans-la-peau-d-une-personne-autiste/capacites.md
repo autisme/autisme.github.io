@@ -16,14 +16,16 @@ Par exemple, vous pouvez trouver des amis qui ont les mêmes centres d'intérêt
 Vous pouvez également utiliser ces centre d'intérêts pour trouver du travail.
 Vous pouvez être reconnu pour ce qui vous passionne et pour ce que vous savez faire.
 
-De plus, les personnes avec autisme peuvent avoir beaucoup de qualité au travail. Par exemple&nbsp;:
+De plus, les personnes avec autisme peuvent avoir beaucoup de qualités utiles dans le monde du travail. Par exemple&nbsp;:
 
- - Elles respectent scrupuleusement les règles. Elles n'arrivent donc que très rarement en retard en cours, au bureau. 
- - De même, mentir est difficile, les problèmes ne sont que rarement cachés.
- - Un mode de pensée binaire
+ - Elles respectent scrupuleusement les règles. Elles n'arrivent donc que très rarement en retard en cours, au bureau.  Le travail est souvent fait conscienceusement avec implication&nbsp;;
+ - Elles sont souvent honnêtes&nbsp;;
+ - Leur grande mémoire leur est souvent utile pour recouper des informations&nbsp;;
+ - Dire les choses directement, sans tourner autour du pot permet d'éviter de minimiser les problèmes&nbsp;;
  - Un mode de pensée différent aboutit à trouver des solutions innovantes dans les entreprises. N'est-ce pas cela qui est voulu par toutes les entreprises pour se différencier sur le marché.
 
 Toutes les personnes autistes ont des capacités qui peuvent servir à la socité si nous les incluons dans celle-ci (i.e. que nous fournissons de petites adaptations qui leur permette de vivre dans la société).
+
 
 
 <div style="text-align:center; font-size:1.2em; margin: 2em;">
