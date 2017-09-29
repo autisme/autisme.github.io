@@ -37,7 +37,7 @@ Lorsqu'un sujet ne vous intéresse pas, il est impossible de vous faire travaill
 Pour vous donner une idée, c'est comme si vous deviez dire de quelle couleur est écrit chacun des mots suivants&nbsp;:
 
 <!-- lire les couleurs écrites dans une autre couleur -->
-<canvas id="game_colour" width="700" height="300" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
+<canvas id="game_colour" width="700" height="300" style="border: 1px solid black; margin: 0 auto 20px auto; display: block;"></canvas>
 
 <p>&nbsp;</p>
 <div class="highlight">

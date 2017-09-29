@@ -21,7 +21,7 @@ un air en colère mais vous n'aurez considéré uniquement le texte et non l'exp
 Comprendre les expressions faciales est difficile pour beaucoup de personnes avec autisme.
 Êtes-vous capable de déterminer les expressions des yeux suivants&nbsp;?
 <!-- test des visages -->
-<canvas id="game_eyes" width="700" height="1050" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
+<canvas id="game_eyes" width="700" height="1050" style="border: 1px solid black; margin: 0 auto 20px auto; display: block;"></canvas>
 
 
 Cet exercice est souvent difficile. Dans la vrai vie, cela est d'autant plus difficile qu'une même expression faciale doit être interprétée différement selon le contexte.

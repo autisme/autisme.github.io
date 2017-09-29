@@ -14,11 +14,11 @@ Les personnes non verbales peuvent utiliser d'autres moyens pour s'exprimer.
 Certaines utilisent la langue des signes, ou des pictogrammes. 
 Avez-vous déjà imaginé si vous deviez vous exprimer en utilisant des pictogrammes&nbsp;:
 <!-- écriture pictogrammes (pecs) -->
-<canvas id="game_pecs" width="700" height="400" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
+<canvas id="game_pecs" width="700" height="400" style="border: 1px solid black; margin: 0 auto 20px auto; display: block;"></canvas>
 
 D'autres encore peuvent s'exprimer en écrivant sur un clavier ou en pointant les lettres d'une feuille.
 <!-- écriture en cliquant sur les lettres -->
-<canvas id="game_writing" width="500" height="350" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
+<canvas id="game_writing" width="500" height="350" style="border: 1px solid black; margin: 0 auto 20px auto; display: block;"></canvas>
 
 La principale difficulté est d'arriver à écrire rapidement. Imaginez que vous devez écrire chaque réponse aux questions que l'on vous pose oralement.
 Imaginez que vous deviez réserver une chambre d'hôtel ou acheter un ticket de cinéma en écrivant tout ce que vous devez dire.

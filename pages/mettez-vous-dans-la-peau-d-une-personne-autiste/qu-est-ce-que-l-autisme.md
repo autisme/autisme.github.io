@@ -52,7 +52,7 @@ Beaucoup de personnes ne souffrent pas à proprement parler de l'autisme mais so
 
 Selon vous, parmi les personnes ci-dessous, lesquelles sont autistes&nbsp;?
 <!-- identifier les personnes avec autisme -->
-<canvas id="game_people" width="700" height="465" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
+<canvas id="game_people" width="700" height="465" style="border: 1px solid black; margin: 0 auto 20px auto; display: block;"></canvas>
 
 Le fait est que nous avons tous une image qui nous vient en tête quand nous parlons d'autisme, que ce soit Rain Man, Sheldon de la série Big Bang Theory.
 La réalité est qu'il n'y a pas de trait de caractère ou de trait physique permettant de dire «&nbsp;Cette personne est autiste&nbsp;». Il n'existe pas de «&nbsp;personne type&nbsp;» et
