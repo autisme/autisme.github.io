@@ -15,11 +15,15 @@ Vous devez alors reprendre le «&nbsp;pilotage manuel&nbsp;» ce qui vous demand
 Vous vous demandez alors ce qu'il va arriver. Vous essayez de prévoir des dizaines de scénarios de tout ce qui pourrait vous arriver. Cela fini par vous dépasser complètement,
 génère énormément de stress et vous fini par vous épuiser. 
 
-
+Imaginez que vous aillez un rendez-vous à une heure précise et qu'à la dernière minute celui-ci soit annulé. Vous aviez commencé à vous préparer, à imaginer comment cela allait se passait, à
+ce que vous alliez dire ou faire.
+Maintenant que le rendez-vous est annulé, qu'est-ce que vous faites&nbsp;? Faut-il organiser un nouveau rendez-vous&nbsp;? Qui doit avoir l'initiative de se nouveau rendez-vous, est-ce à vous à 
+recontacter l'autre personne ou devez vous attendre que l'autre personne vous en parle&nbsp;?
+Vous vous posez beaucoup de questions qui vous épuisent en un rien de temps.
 
 # Anxiété
 
-En tant que personne avec autisme, si l'on vous demande en quoi l'autisme vous handicape-t-il au quotidien, vous avez
+En tant que personne autiste, si l'on vous demande en quoi l'autisme vous handicape au quotidien, vous avez
 de grande chance de parler de l'anxiété.
 Vivre dans un environnement hostile dans lequel vous ne savez pas comment faire pour communiquer, socialiser avec les autres personnes vous est très difficile. À force d'être 
 déçu des erreurs que vous avez pu faire (par exemple, vous n'avez pas réussi à vous expliquer correctement) et à cause du regard des gens, vous devenez anxieux.
