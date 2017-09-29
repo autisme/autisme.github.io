@@ -28,6 +28,8 @@ Ci-dessous, une animation, vous permettant de vous rendre compte comment prendre
 
 Prendre la parole dans un groupe demande beaucoup de préparation.
 Il peut être plus facile pour vous de prendre la parole lorsque les autres personnes du groupe vous incitent à parler.
+Toutefois, cette occasion ne se présente que rarement 
+et lorsque vous êtes fin prêt à prendre la parole, l'opportunité de vous exprimer n'est plus là.
 
 
 <p>&nbsp;</p>
