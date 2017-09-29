@@ -20,11 +20,15 @@ Vous vous posez des dizaines de questions comme par exemple&nbsp;
 
 Vous ne savez pas vous y prendre.
 Beaucoup de personnes avec autisme peuvent alors ne pas faire attention à cela et prendre la parole dès qu'elles ont quelque chose à dire et cela peut donner
-l'impression que ces personnes manquent de respect.
+l'impression que ces personnes manquent de respect. D'autres préfèreront rester à l'écart de la conversation et ne pas participer.
 
 Ci-dessous, une animation, vous permettant de vous rendre compte comment prendre la parole dans un groupe peut être difficile&nbsp;:
 <!-- prendre la parole -->
 <canvas id="game_speak" width="700" height="450" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
+
+Prendre la parole dans un groupe demande beaucoup de préparation.
+Il peut être plus facile pour vous de prendre la parole lorsque les autres personnes du groupe vous incitent à parler.
+
 
 <p>&nbsp;</p>
 <div class="highlight">
