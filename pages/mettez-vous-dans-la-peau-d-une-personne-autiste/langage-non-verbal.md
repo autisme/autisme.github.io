@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Mettez vous dans la peau d'une personne autiste - Langage non verbal"
+title:  "Langage non verbal"
 permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/langage-non-verbal
 hide_header_link: true
 oembed_image: /assets/posts/2017-08-13/opengraph.png

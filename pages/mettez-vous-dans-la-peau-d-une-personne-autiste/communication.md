@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Mettez vous dans la peau d'une personne autiste - Communication"
+title:  "Communication"
 permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/communication
 hide_header_link: true
 oembed_image: /assets/posts/2017-08-13/opengraph.png
@@ -33,9 +33,10 @@ Par exemple lorsque nous *«&nbsp;racontons des salades&nbsp;»*, les personnes 
 Lorsque nous *«&nbsp;cassons les pieds&nbsp;»* de quelqu'un, nous ne l'empêchons pas de se déplacer. Nous utilisons tous les jours une quantité
 importante d'expressions, généralement sans même nous en rendre compte.
 
-Enfin, il vous est impossible de mentir. Lorsque quelqu'un vous demande comment vous trouvez ses nouveaux habits vous dites 
+Enfin, il vous est très difficile de ne pas dire la vérité. Lorsque quelqu'un vous demande comment vous trouvez ses nouveaux habits vous dites 
 que cela ne lui va pas du tout.
 Vous finissez par faire fuir le peu d'amis que vous avez réussis à vous faire.
+
 
 <p>&nbsp;</p>
 <div class="highlight">
@@ -256,7 +257,7 @@ Vous finissez par faire fuir le peu d'amis que vous avez réussis à vous faire.
       {'sentence': 'Va-t-on au parc demain ?', 'pictos': ['aller', 'parc', 'demain', 'question']},
       {'sentence': 'Je veux partir.', 'pictos': ['je', 'aller']},
       {'sentence': 'Qui viens demain ?', 'pictos': ['qui', 'venir', 'demain', 'question']},
-      {'sentence': 'Tu viens ?', 'pictos': ['tu', 'venir', 'question']},
+      {'sentence': 'Viens-tu ?', 'pictos': ['tu', 'venir', 'question']},
       {'sentence': 'Quand viens-tu ?', 'pictos': ['quand', 'venir', 'tu', 'question']},
       {'sentence': 'Qui viens au parc avec moi ?', 'pictos': ['qui', 'aller', 'parc', 'je', 'question']},
       {'sentence': 'Je vais au lit.', 'pictos': ['je', 'coucher']},

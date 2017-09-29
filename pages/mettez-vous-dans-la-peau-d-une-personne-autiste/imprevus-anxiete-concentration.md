@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Mettez vous dans la peau d'une personne autiste
+title:  "Imprévus - Anxiété - Concentration"
 permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/imprevus-anxiete-concentration
 hide_header_link: true
 oembed_image: /assets/posts/2017-08-13/opengraph.png
@@ -30,7 +30,7 @@ Finalement, vous restez dans la solitude.
 
 Comme le dit très bien le docteur Tony Attwood, les personnes avec autisme sont spécialistes lorsqu'il s'agit de devenir inquiet&nbsp;!
 
-# Problèmes de concentration
+# Concentration
 
 Beaucoup de personnes avec autisme ont également du mal à rester concentrer, voire même de rester assis pendant de longues périodes.
 Lorsqu'un sujet ne vous intéresse pas, il est impossible de vous faire travailler sur celui-ci car cela demande une concentration trop importante.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Mettez vous dans la peau d'une personne autiste - Traitement sensoriel"
+title:  "Traitement sensoriel"
 permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/traitement-sensoriel
 hide_header_link: true
 oembed_image: /assets/posts/2017-08-13/opengraph.png
