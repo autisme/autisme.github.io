@@ -15,15 +15,23 @@ Cela peut générer des problèmes de communications à la fois pour la personne
 Les personnes non autistes peuvent penser que si l'on ne les regarde pas dans les yeux, c'est que la personne est suspecte ou a quelque chose à cacher.
 Au contraire trop regarder dans les yeux met la personne mal à l'aise.
 Du point de vue de la personne avec autisme,
- vous pouvez par exemple vous demander pour quelle raison vous êtes félicité après avoir fait une bêtise puisque l'on vous aura dit&nbsp;: «&nbsp;Tu es fier de toi j'espère !&nbsp;» avec un air en colère mais vous n'aurez considéré
-uniquement le texte et non l'expression du visage affichée.
+ vous pouvez par exemple vous demander pour quelle raison vous êtes félicité après avoir fait une bêtise puisque l'on vous aura dit&nbsp;: «&nbsp;Tu es fier de toi j'espère !&nbsp;» avec
+un air en colère mais vous n'aurez considéré uniquement le texte et non l'expression du visage affichée.
 
 Comprendre les expressions faciales est difficile pour beaucoup de personnes avec autisme.
 Êtes-vous capable de déterminer les expressions des yeux suivants&nbsp;?
 <!-- test des visages -->
 <canvas id="game_eyes" width="700" height="1050" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
 
-Cet exercice est souvent difficile.
+
+Cet exercice est souvent difficile. Dans la vrai vie, cela est d'autant plus difficile qu'une même expression faciale doit être interprétée différement selon le contexte.
+Par exemple une personne peut pleurer parce qu'elle est triste mais aussi parce qu'elle est contente.
+ 
+Certaines personnes pensent souvent à tord que les personnes avec autisme ne ressentent pas les émotions. Rien n'est plus faux.
+Les personnes avec autisme ont souvent beaucoup d'empathie pour les gens.
+Ce qui est difficile en revanche, est de mettre un mot sur les émotions.
+De la même façon qu'identifier une expression du visage, associer un ressenti à un mot est souvent compliqué.
+Beaucoup de personnes avec autisme répndent «&nbsp;je ne sais pas&nbsp;» si vous leur demander ce qu'elles ressentent.
 
 
 <p>&nbsp;</p>
