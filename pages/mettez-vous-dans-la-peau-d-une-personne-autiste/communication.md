@@ -7,24 +7,26 @@ oembed_image: /assets/posts/2017-08-13/opengraph.png
 ---
 
 La communication est essentielle pour exprimer ses besoins et ses émotions. Pourtant cela est une difficulté majeure chez beaucoup de personnes avec autisme.
-Les personnes avec autisme peuvent être non verbales ou avoir un retard de langage avec un vocabulaire limité. 
-Au contraire, certaines personnes peuvent parler correctement et avoir un large vocabulaire.
+Certaines personnes avec autisme peuvent être non verbales ou avoir un retard de langage avec un vocabulaire limité. 
+Au contraire, d'autres peuvent parler correctement et avoir un large vocabulaire.
 
 Les personnes non verbales peuvent utiliser d'autres moyens pour s'exprimer.
-Certaines utilisent la langue des signes, ou peuvent utiliser des pictogrammes. 
-Essayez de vous exprimer en utilisant des pictogrammes&nbsp;:
+Certaines utilisent la langue des signes, ou des pictogrammes. 
+Avez-vous déjà imaginé si vous deviez vous exprimer en utilisant des pictogrammes&nbsp;:
 <!-- écriture pictogrammes (pecs) -->
 <canvas id="game_pecs" width="700" height="400" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
 
-D'autres encore peuvent s'exprimer en écrivant à l'aide d'un clavier ou en pointant les lettres écrites sur une feuille.
+D'autres encore peuvent s'exprimer en écrivant sur un clavier ou en pointant les lettres d'une feuille.
 <!-- écriture en cliquant sur les lettres -->
 <canvas id="game_writing" width="500" height="350" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
 
-Comme vous avez pu le constater par vous-même, la difficulté est d'écrire rapidement. Imaginez que vous devez écrire chaque réponse aux questions que l'on vous pose oralement.
+La principale difficulté est d'arriver à écrire rapidement. Imaginez que vous devez écrire chaque réponse aux questions que l'on vous pose oralement.
 Imaginez que vous deviez réserver une chambre d'hôtel ou acheter un ticket de cinéma en écrivant tout ce que vous devez dire.
+Imaginez si vous deviez participer à une conversation. La plupart des gens ne vous laissent pas le temps de vous exprimer lorsqu'ils voient que vous mettez trop de temps à répondre.
 
-Chez les personnes verbales qui peuvent s'exprimer, certaines font de l'écholalie, c'est-à-dire peuvent répéter ce qu'elles entendent. Imaginez-vous
-répéter la question que l'on vous pose au lieu d'y répondre.
+Cela peut également se retrouver chez les personnes verbales qui ont besoin de temps pour formuler leur réponse.
+De plus, certaines personnes autistes font de l'écholalie, c'est-à-dire qu'elles peuvent répéter ce qu'elles entendent. Imaginez-vous
+répéter la question que l'on vous pose au lieu d'y répondre. Généralement cela agace votre interlocuteur.
 
 De même, chez beaucoup de personnes avec autisme, comprendre les phrases imagées peut être difficile.
 Par exemple lorsque nous *«&nbsp;racontons des salades&nbsp;»*, les personnes avec autisme peuvent réellement penser que nous parlons d'un légume.
