@@ -8,14 +8,16 @@ oembed_image: /assets/posts/2017-08-13/opengraph.png
 
 Avec plus de 1 personne sur 100 concernée par l'autisme, tout le monde connaît une personne autiste dans son entourage. Que ce soit dans sa famille, au travail ou chez des amis.
 Tout le monde rencontrera plusieurs personnes avec autisme dans sa vie.
-Pourtant peu de personnes savent réellement ce qu'est l'autisme, comment inclure une personne avec autisme dans son groupe d'amis, son groupe de collègue ou même comment réagir
+Pourtant peu de personnes savent réellement ce qu'est l'autisme, comment inclure une personne avec autisme dans leur groupe d'amis, leur groupe de collègue ou même comment réagir
 face à une personne concernée.
 
 
 Pourtant l'inclusion est quelque chose d'important, de vital, quelque chose que l'on ne peut pas remettre à demain.
-Les personnes avec autisme subissent non seulement les symptômes dus au handicap mais également du fait que la société ne les comprend pas.
-Tous les jours, de nombreuses personnes avec autisme font d'immenses efforts pour par exemple pour supporter l'environnement inconfortable, pour interagir avec les gens, etc.
-Pourtant, la situation des personnes avec autisme a besoin d'être améliorée.
+Tous les jours, de nombreuses personnes avec autisme font d'immenses efforts pour par exemple pour supporter l'environnement inconfortable, pour interagir avec les gens, etc, mais en retour
+peu de personnes font l'effort de leur faciliter la vie.
+
+Certains ne sont pas acceptés à l'école, d'autres sont acceptés sans aide et doivent se débrouiller seuls.
+Une chose est sûr, tout le monde a oublié que les enfants autistes deviennent adultes. 
 Aujourd'hui, la situation est plus que catastrophique&nbsp;:
 
 <img src="/facebook_campaign/9_inclusion_is_important.png" class="center" alt="80% des adultes avec autisme ne travaillent pas ; beaucoup sont seuls et isolés ; l'anxiété et la dépression font souvent parties de leur vie ; leur espérance de vie est en moyenne réduite de 18 ans ; le taux de suicide est 9 fois plus élevé" width="600" />
