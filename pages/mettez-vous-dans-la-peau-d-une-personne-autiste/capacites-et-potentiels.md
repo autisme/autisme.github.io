@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Mettez vous dans la peau d'une personne autiste
+title:  "Capacités et potentiels"
 permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/capacites-et-potentiels
 hide_header_link: true
 oembed_image: /assets/posts/2017-08-13/opengraph.png

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Mettez vous dans la peau d'une personne autiste - Traitement sensoriel"
+title:  "Traitement sensoriel"
 permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/traitement-sensoriel
 hide_header_link: true
 oembed_image: /assets/posts/2017-08-13/opengraph.png
@@ -15,7 +15,7 @@ Au contraire, certaines personnes avec autisme peuvent rechercher une forte stim
 
 Imaginez ce que cela serait pour vous si vous deviez passer vos journées à travailler dans un tel environnement&nbsp;:
 <!-- neon -->
-<canvas id="fig_neon" width="700" height="451" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
+<canvas id="fig_neon" width="700" height="451" style="border: 1px solid black; margin: 0 auto 20px auto; display: block;"></canvas>
 
 
 Les personnes avec autisme peuvent être également hypersensibles aux bruits. Imaginez que vous seul entendez le bruit du crissement de la craie sur le tableau.
