@@ -78,7 +78,7 @@ Ci-dessous, une animation, vous permettant de vous rendre compte comment prendre
     ];
     var sentences = {
      'interrupt': ['Vous ne devez pas couper la parole', 'Quelqu\'un d\'autre est en train de parler', 'Attendez que les autres personnes aient fini de parler'],
-     'non interrupt': ['Est-ce réellement à votre tour de parler ?',  'Ce que vous dites est-il pertinent dans la conversation ?', 'Avez-vous réfléchi à ce que vous allez dire ?']
+     'non interrupt': ['Est-ce réellement à votre tour de parler ?',  'Ce que vous dites est-il pertinent dans la conversation ?', 'Avez-vous réfléchi à ce que vous allez dire ?', 'Pourquoi avez-vous dit cela ?']
     };
     var colors = {
      'interrupt': ['rgba(171, 25, 49, 0.9)', 'rgba(145, 47, 64, 0.9)', 'rgba(195, 66, 63, 0.9)'],
