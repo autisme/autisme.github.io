@@ -11,7 +11,7 @@ oembed_image: /assets/posts/2017-10-02/opengraph.png
 
 Nous connaissons tous quelqu'un dans notre entourage qui est concerné.
 Pourtant nous ne savons rarement de quoi il s'agit, nous ne savons pas comment les personnes avec autisme voient le monde. Au mieux, nous connaissons seulement une description 
-théorique des principaux «&nbsp;symptomes&nbsp;» de l'autisme qui ne nous permettent pas de comprendre concrètement
+théorique des principaux «&nbsp;symptômes&nbsp;» de l'autisme qui ne nous permettent pas de comprendre concrètement
 comment cela affecte les personnes et comment les reconnaitre, les aider, et les inclure.
 
 La plupart des personnes autistes ne sont pas réellement handicapées par leur autisme mais plutôt par la façon dont la société les perçoit. Il est donc important que 
