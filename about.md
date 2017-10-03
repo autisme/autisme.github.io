@@ -11,7 +11,6 @@ Le web contient une grande quantité d'informations sur l'autisme.
 Toutefois, beaucoup sont des articles scientifiques ou des sites d'associations de parents ou encore
 des annuaires de liens autours de l'actualité sur l'autisme.
 
-Peu de sites web s'adressent aux personnes avec autisme et encore moins s'adressent au grand public.
 Ce site a pour but est de donner des conseils **pratiques** aux personnes avec autisme pour les aider à faire face aux défis
 et difficultés qu'elles rencontrent
 mais également de donner des conseils à leurs parents, leur famille ainsi qu'aux professionnels qui les accompagnent.
@@ -45,7 +44,7 @@ Pour nous contacter&nbsp;: <strong><span class="contact"><span id="contact">PLEA
 #contact:after { content: "emsitua"; }
 </style>
 
-Si vous souhaitez nous rencontrer, sachez que nous sommes situés à Nantes (France) mais qu'il est possible de nous déplacer. Écrivez-nous avant pour discuter des modalités.
+Si vous souhaitez nous rencontrer, nous sommes situés à Nantes (France). Il peut être possible de nous déplacer. Écrivez-nous avant pour discuter des modalités.
 
 ---
 

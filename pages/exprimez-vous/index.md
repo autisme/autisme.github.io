@@ -70,6 +70,7 @@ window.document.getElementById('contact2').innerHTML = '@';
 .contact {
         unicode-bidi: bidi-override;
         direction: rtl;
+        font-weight: bold;
 }
 
 #contact:before, #contact2:before { content: "gro.siafnoc"; }
