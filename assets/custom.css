@@ -6,6 +6,7 @@ a {
  cursor: pointer;
 }
 #iam {
+ margin-top: 50px;
  margin-bottom: 50px;
 }
 #iamlist, #involvedlist {
@@ -245,4 +246,16 @@ img.center {
  padding: 20px;
  color: #fff;
  font-size: 1.1em;
+ display: block;
+}
+#recruit > span{
+ position: absolute;
+ display: block;
+ z-index: 1000;
+ right: 10px;
+ top: 58px;
+ color: #fff;
+ font-size: 1.2em;
+ padding: 10px;
+ cursor: pointer;
 }
