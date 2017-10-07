@@ -21,6 +21,9 @@ Maintenant que le rendez-vous est annulé, qu'est-ce que vous faites&nbsp;? Faut
 recontacter l'autre personne ou devez vous attendre que l'autre personne vous en parle&nbsp;?
 Vous vous posez beaucoup de questions qui vous épuisent en un rien de temps.
 
+De même, s'il est prévu que demain vous devez faire une sortie et que celle-ci est annulée et remplacée par une autre activité,
+cela ne vous convient pas. Les plans ne doivent pas être changés&nbsp;!
+
 # Anxiété
 
 En tant que personne autiste, si l'on vous demande en quoi l'autisme vous handicape au quotidien, vous avez

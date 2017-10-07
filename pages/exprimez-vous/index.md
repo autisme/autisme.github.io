@@ -7,7 +7,7 @@ oembed_image: /assets/pages/exprimez-vous/we_need_you.png
 ---
 
 
-Que vous soyez une personne avec autisme, concernée par l'autisme ou juste intéressée, nous aimerions vraiment
+Que vous soyez une personne autiste, concernée par l'autisme ou juste intéressée, nous aimerions vraiment
 vous entendre, avoir votre avis et pourquoi pas vos contributions&nbsp;!
 Souvenez-vous que ce site fonctionne uniquement sur la base du volontariat.
 
@@ -37,17 +37,17 @@ Vous pouvez également nous dire quels sont les sujets que vous souhaitez voir t
 <a id="histoire"></a>
 
 Nous croyons qu'une bonne façon pour faire comprendre l'autisme au public mais aussi d'aider les
-familles et les personnes avec autisme qui se posent de nombreuses questions est
+familles et les personnes autistes qui se posent de nombreuses questions est
 de partager son histoire et ses expériences.
 Après tout, les personnes nouvellement diagnostiquées se posent les mêmes questions que nous nous sommes posées lorsque nous avons reçu notre diagnostic.
 Les parents qui cherchent à mettre leur enfant à l'école se posent les mêmes questions que les milliers de familles
 qui ont cherché à scolariser leur enfant ces dernières années.
 
-Si vous êtes une personne avec autisme vous pouvez par exemple expliquer quels sont
+Si vous êtes une personne autiste vous pouvez par exemple expliquer quels sont
 les problèmes que vous avez rencontrés
 comment les avez-vous surmontés&nbsp;? comment avez-vous été inclus pendant votre scolarité, au travail, etc&nbsp;?
 
-Si vous êtes concerné par l'autisme, vous pouvez également nous expliquez ce que vous avez mis en œuvre pour inclure une personne avec autisme, quelles adaptations avez-vous mis en place dans votre école ou sur votre lieu de travail.
+Si vous êtes concerné par l'autisme, vous pouvez également nous expliquez ce que vous avez mis en œuvre pour inclure une personne autiste, quelles adaptations avez-vous mis en place dans votre école ou sur votre lieu de travail.
 
 Envoyez-nous votre témoignage à l'adresse indiquée précédemment (<span class="contact"><span id="contact2">PLEASE-ACTIVATE-JAVASCRIPT--TPIRCSAVAJ-ETAVITCA-ESAELP</span></span>). Nous pouvons également publier votre texte anonymement si vous le souhaitez.
 Nous acceptons toute forme de contenu, que ce soit un texte en prose, un poème, un poster, une infographie, un film, une image, etc.
@@ -70,6 +70,7 @@ window.document.getElementById('contact2').innerHTML = '@';
 .contact {
         unicode-bidi: bidi-override;
         direction: rtl;
+        font-weight: bold;
 }
 
 #contact:before, #contact2:before { content: "gro.siafnoc"; }

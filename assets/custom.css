@@ -6,6 +6,7 @@ a {
  cursor: pointer;
 }
 #iam {
+ margin-top: 50px;
  margin-bottom: 50px;
 }
 #iamlist, #involvedlist {
@@ -219,6 +220,10 @@ img.center {
  margin: 0 auto;
 }
 
+.underline {
+ text-decoration: underline;
+}
+
 .highlight {
  background-color: #cce5ff;
  border: 1px solid #b8daff;
@@ -229,4 +234,28 @@ img.center {
 
 .highlight li {
  color: #000;
+}
+
+#recruit a {
+ background-color: #424242;
+ position: absolute;
+ margin-top: 0;
+ width: 100%;
+ left: 0;
+ top: 56px;
+ padding: 20px;
+ color: #fff;
+ font-size: 1.1em;
+ display: block;
+}
+#recruit > span{
+ position: absolute;
+ display: block;
+ z-index: 1000;
+ right: 10px;
+ top: 58px;
+ color: #fff;
+ font-size: 1.5em;
+ padding: 10px;
+ cursor: pointer;
 }
