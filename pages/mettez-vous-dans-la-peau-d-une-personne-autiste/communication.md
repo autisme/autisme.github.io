@@ -33,8 +33,8 @@ Par exemple lorsque nous *«&nbsp;racontons des salades&nbsp;»*, les personnes 
 Lorsque nous *«&nbsp;cassons les pieds&nbsp;»* de quelqu'un, nous ne l'empêchons pas de se déplacer. Nous utilisons tous les jours une quantité
 importante d'expressions, généralement sans même nous en rendre compte.
 
-Enfin, il vous est très difficile de ne pas dire la vérité. Lorsque quelqu'un vous demande comment vous trouvez ses nouveaux habits vous dites 
-que cela ne lui va pas du tout.
+Enfin, il vous est très difficile de ne pas dire la vérité. Lorsque quelqu'un vous demande comment vous trouvez ses nouveaux habits vous n'hésitez pas  
+à lui dire que cela ne lui va pas du tout.
 Vous finissez par faire fuir le peu d'amis que vous avez réussis à vous faire.
 
 

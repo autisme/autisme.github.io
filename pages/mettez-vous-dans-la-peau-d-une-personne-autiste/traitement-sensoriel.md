@@ -27,13 +27,16 @@ Le toucher et le goût et l'odorat ne sont pas épargnés.
 Certaines personnes ne supportent pas l'odeur de certains lieux, le goût ou la texture de certains aliments, etc.
 Cela peut entraîner des difficultés pour varier les repas et mener à toujours manger les mêmes aliments.
 Certaines personnes peuvent également rechercher certaines odeurs, goût ou textures qu'elles apprécient.
-Par exemple, 
+
+
+Par exemple certaines personnes avec autisme ne supportent pas le bruit mais veulent pouvoir aller au concert de leur chanteur préféré.
+Il est donc important d'
 
 
 Généralement les environnements comportent plusieurs types de stimulations simultanément, ce qui rend l'ensemble difficile à supporter.
-Regardez la vidéo ci-dessous, qui vous montre ce qu'il faut endurer en allant dans une galerie marchande&nbsp;:
+La vidéo ci-dessous vous montre ce qu'il faut endurer en allant dans une galerie marchande&nbsp;:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DgDR_gYk_a8" frameborder="0" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DgDR_gYk_a8" frameborder="0" style="border: 1px solid black; margin: 10px auto 10px auto; display: block;" allowfullscreen></iframe>
 
 Cela peut être encore plus compliqué dans les moments où la personne est fatiguée, comme les fins de journées par exemple.
 Cela peut mener à ce qui est appelé un «&nbsp;effondrement autistique&nbsp;» (ou *meltdown* en anglais).
@@ -47,6 +50,8 @@ Combien de temps, mettrez-vous pour trouver Charlie dans l'image ci-dessous&nbsp
 
 <!-- ou est charlie ? -->
 <canvas id="game_waldo" width="700" height="500" style="border: 1px solid black; margin: 0 auto 0 auto; display: block;"></canvas>
+
+Beaucoup de personnes autistes font attention à des détails que vous ne percevez pas. 
 
 <p>&nbsp;</p>
 
