@@ -11,6 +11,11 @@
     {% else %}
       {% assign limit = site.posts.length %}
     {% endif %}
+    {% if page.paginate.truncatewords %}
+      {% assign tr = page.paginate.truncatewords %}
+    {% else %}
+      {% assign tr = 50 %}
+    {% endif %}
     {% assign num_post = offset %}
     {% for post in site.posts offset:offset limit:limit %}
     {% assign page_category = page.category | slugify %}
@@ -31,7 +36,7 @@
 		<img class="post-thumb" src="{{ post.oembed_image | relative_url }}" />
 		{% endif %}
 		<div class="post-excerpt">
-	        {{ post.content | strip_html | truncatewords: 50 }}
+	        {{ post.content | strip_html | truncatewords: tr }}
 		<p class="next-reading">Lire la suite</p>
 		</div>
 	</div>
