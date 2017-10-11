@@ -43,26 +43,6 @@
    }
   </script>
 
-  <script type="application/ld+json">
-   {
-    "@context": "http://schema.org",
-    "@type": "Organization",
-    "url": "{{ site.url }}",
-    "contactPoint": [
-     { "@type": "ContactPoint",
-       "email": "{{site.email}}",
-       "telephone": "",
-       "contactType": "customer service"
-     }
-    ],
-    "sameAs": [
-{% if site.facebook.id %}https://facebook.com/profile.php?id={{ site.facebook.id }}{% if site.twitter_username or site.github_username %},{% endif %}{% endif %}
-{% if site.twitter_username %}https://twitter.com/{{ site.twitter_username }}{% if site.github_username%},{% endif %}{% endif %}
-{% if site.github_username %}https://github.com/{{ site.github_username }}{% endif %}
-    ]
-   }
-  </script>
-
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}" />
   
