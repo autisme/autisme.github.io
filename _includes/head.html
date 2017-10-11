@@ -85,9 +85,9 @@
      "@type":"WebPage",
      "@id":"#page"
     },
-{% if page.oembed_image %}    "image": [
-     "{{ site.url }}{{ page.oembed_image }}"
-    ],{% endif %}
+    "image": [
+     "{{ site.url }}{{ page.oembed_image | default: '/assets/logo.png' }}"
+    ],
     "author": {
      "@type":"Person",
      "name":"{{ page.author | default: site.author }}"
