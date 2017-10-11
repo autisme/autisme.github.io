@@ -35,6 +35,7 @@
    {
     "@context":"http://schema.org",
     "@type":"WebPage",
+    "@id": "page",
     "headline":"{{ page.title }}",
     "description":"{{ page.content | default: site.description | markdownify | strip_html | normalize_whitespace | truncate: 160 }}",
 {% if page.oembed_image %}    "image":"{{ site.url }}{{ page.oembed_image }}",{% endif %}
@@ -45,23 +46,50 @@
 
   <script type="application/ld+json">
    {
-    "@context": "http://schema.org",
-    "@type": "Organization",
-    "name": "{{ site.title }}",
-    "url": "{{ site.url }}",
-    "contactPoint": [
+    "@context":"http://schema.org",
+    "@type":"Organization",
+    "@id":"org",
+    "name":"{{ site.title }}",
+    "url":"{{ site.url }}",
+    "contactPoint":[
      {
-      "@type": "ContactPoint",
-      "email": "{{site.email}}",
-      "telephone": "+33000000000",
-      "contactType": "customer service"
+      "@type":"ContactPoint",
+      "email":"{{site.email}}",
+      "telephone":"+33000000000",
+      "contactType":"customer service"
      }
     ],
-    "sameAs": [
+    "sameAs":[
 {% if site.facebook.id %}     "https://facebook.com/profile.php?id={{ site.facebook.id }}"{% if site.twitter_username or site.github_username %},{% endif %}{% endif %}
 {% if site.twitter_username %}     "https://twitter.com/{{ site.twitter_username }}"{% if site.github_username%},{% endif %}{% endif %}
 {% if site.github_username %}     "https://github.com/{{ site.github_username }}"{% endif %}
     ]
+   }
+  </script>
+
+
+  <script type="application/ld+json">
+   {
+    "@context":"http://schema.org",
+    "@type":"NewsArticle",
+    "mainEntityOfPage":{
+     "@id":"#page"
+    },
+    "headline":"{{ page.title }}",
+    "description":"{{ page.content | default: site.description | markdownify | strip_html | normalize_whitespace | truncate: 160 }}",
+{% if page.oembed_image %}    "image": [
+     "{{ site.url }}{{ page.oembed_image }}"
+    ],{% endif %}
+{% if page.date %}
+    "datePublished": "{{page.date | date_to_xmlschema }}",
+{% endif %}
+    "author": {
+     "@type": "Person",
+     "name": "{{ page.author | default: site.author }}",
+    },
+    "publisher": {
+     "@id": "#org"
+    }
    }
   </script>
 
