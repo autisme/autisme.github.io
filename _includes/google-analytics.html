@@ -9,9 +9,9 @@
   ga('send', 'pageview');
 </script>
 -->
-<script type="text/javascript" src="/assets/custom.js" />
+<script type="text/javascript" src="/assets/custom.js"></script>
 <script type="text/javascript">
-  new GA({excludeSessionStorage: true}).get(function(r, c){send();});
+  new GA({excludeSessionStorage: true}).get(function(r, c){send(r,c);});
 </script>
 <noscript>
 <img src="https://confais.org/ga/?o=png&p={{ page.url | relative_url }}" alt="" width="1" height="1" style="display: none;" />
