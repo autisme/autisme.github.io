@@ -84,11 +84,12 @@
      "{{ site.url }}{{ page.oembed_image }}"
     ],{% endif %}
     "author": {
-     "@type": "Person",
-     "name": "{{ page.author | default: site.author }}"
+     "@type":"Person",
+     "name":"{{ page.author | default: site.author }}"
     },
     "publisher": {
-     "@id": "#org"
+     "@type":"Organization",
+     "@id":"#org"
     },
     "headline":"{{ page.title | escape }}",
 {% if page.date %}
