@@ -15,7 +15,7 @@
   <meta property="og:locale" content="fr_FR" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta property="og:description" content="{{ page.content | markdownify | default: site.description | strip_html | normalize_whitespace | truncate: 160 }}" />
+  <meta property="og:description" content="{{ page.content | default: site.description | markdownify | strip_html | normalize_whitespace | truncate: 160 }}" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
   <meta property="og:site_name" content="{{ site.title }}" />
 
@@ -23,7 +23,7 @@
   <meta name="twitter:site" content="@{{ site.twitter_username }}" />
   <meta name="twitter:creator" content="@{{ site.twitter_username }}" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta name="twitter:description" content="{{ page.content | markdownify | default: site.description | strip_html | normalize_whitespace | truncate: 160 }}" />
+  <meta name="twitter:description" content="{{ page.content | default: site.description | markdownify | strip_html | normalize_whitespace | truncate: 160 }}" />
   <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
 
   {% if page.oembed_image %}
@@ -36,14 +36,10 @@
     "@context":"http://schema.org",
     "@type":"WebPage",
     "headline":"{{ page.title }}",
-    "description":"{{ page.content | default: site.description | strip_html | normalize_whitespace | truncate: 160 }}",
-    "url":"{{ page.url | replace:'index.html','' | absolute_url }}",
-    {% if page.oembed_image %}
-    "image": "{{ site.url }}{{ page.oembed_image }}",
-    {% endif %}
-    {% if page.author %}
-    "author": "{{ page.author }}",
-    {% endif %}
+    "description":"{{ page.content | default: site.description | markdownify | strip_html | normalize_whitespace | truncate: 160 }}",
+{% if page.oembed_image %}    "image":"{{ site.url }}{{ page.oembed_image }}",{% endif %}
+{% if page.author %}    "author":"{{ page.author }}",{% endif %}
+    "url":"{{ page.url | replace:'index.html','' | absolute_url }}"
    }
   </script>
 
