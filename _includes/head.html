@@ -32,7 +32,19 @@
   {% endif %}
 
   <script type="application/ld+json">
-   {"@context":"http://schema.org","@type":"WebPage","headline":"{{ page.title }}","description":"{{ page.content | default: site.description | strip_html | normalize_whitespace | truncate: 160 }}","url":"{{ page.url | replace:'index.html','' | absolute_url }}"}
+   {
+    "@context":"http://schema.org",
+    "@type":"WebPage",
+    "headline":"{{ page.title }}",
+    "description":"{{ page.content | default: site.description | strip_html | normalize_whitespace | truncate: 160 }}",
+    "url":"{{ page.url | replace:'index.html','' | absolute_url }}",
+    {% if page.oembed_image %}
+    "image": "{{ site.url }}{{ page.oembed_image }}",
+    {% endif %}
+    {% if page.author %}
+    "author": "{{ page.author }}",
+    {% endif %}
+   }
   </script>
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}" />
