@@ -35,7 +35,7 @@
    {
     "@context":"http://schema.org",
     "@type":"WebPage",
-    "@id": "page",
+    "@id":"page",
     "headline":"{{ page.title }}",
     "description":"{{ page.content | default: site.description | markdownify | strip_html | normalize_whitespace | truncate: 160 }}",
 {% if page.oembed_image %}    "image":"{{ site.url }}{{ page.oembed_image }}",{% endif %}
@@ -73,6 +73,7 @@
     "@context":"http://schema.org",
     "@type":"NewsArticle",
     "mainEntityOfPage":{
+     "@type":"WebPage",
      "@id":"#page"
     },
     "headline":"{{ page.title }}",
@@ -85,7 +86,7 @@
 {% endif %}
     "author": {
      "@type": "Person",
-     "name": "{{ page.author | default: site.author }}",
+     "name": "{{ page.author | default: site.author }}"
     },
     "publisher": {
      "@id": "#org"
