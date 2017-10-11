@@ -79,8 +79,8 @@
   <script type="application/ld+json">
    {
     "@context":"http://schema.org",
-{%if page.layout == 'post'}    "@type":"BlogPosting",{% endif %}
-{%if page.layout == 'page'}    "@type":"Article",{% endif %}
+{% if page.layout == 'post' %}    "@type":"BlogPosting",{% endif %}
+{% if page.layout == 'page' %}    "@type":"Article",{% endif %}
     "mainEntityOfPage":{
      "@type":"WebPage",
      "@id":"#page"
