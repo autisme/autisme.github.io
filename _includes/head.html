@@ -90,11 +90,16 @@
     "publisher": {
      "@type":"Organization",
      "@id":"#org"
+     "name":"{{ site.title | escape }}",
+     "logo":{
+      "@type": "ImageObject",
+      "url": "{{ site.url }}assets/logo.png"
+     }
     },
     "headline":"{{ page.title | escape }}",
 {% if page.date %}
-    "datePublished":"{{page.date | date_to_xmlschema }}",
-    "dateModified":"{{page.date | date_to_xmlschema }}",
+    "datePublished":"{{ page.date | date_to_xmlschema }}",
+    "dateModified":"{{ page.date | date_to_xmlschema }}",
 {% endif %}
     "articleBody":"{{ page.content | markdownify | strip_html | normalize_whitespace }}",
     "wordCount":"{{ page.content | markdownify | strip_html | number_of_words }}"
