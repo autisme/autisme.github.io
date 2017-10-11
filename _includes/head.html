@@ -103,7 +103,7 @@
     },
     "headline":"{{ page.title | escape }}",
     "datePublished":"{{ page.date | default: site.time |  date_to_xmlschema }}",
-{% if page.date %}
+{% if page.layout == 'post' %}
     "dateModified":"{{ page.date_modified | default: page.date | date_to_xmlschema }}",
 {% endif %}
     "articleBody":"{{ page.content | markdownify | strip_html | normalize_whitespace }}",
