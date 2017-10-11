@@ -75,11 +75,12 @@
    }
   </script>
 
-{% if page.layout == 'post' %}
+{% if page.layout == 'post' or page.layout == 'page' %}
   <script type="application/ld+json">
    {
     "@context":"http://schema.org",
-    "@type":"BlogPosting",
+{%if page.layout == 'post'}    "@type":"BlogPosting",{% endif %}
+{%if page.layout == 'page'}    "@type":"Article",{% endif %}
     "mainEntityOfPage":{
      "@type":"WebPage",
      "@id":"#page"
@@ -110,6 +111,7 @@
    }
   </script>
 {% endif %}
+
 <!--
   <script type="application/ld+json">
    {
