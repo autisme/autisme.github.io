@@ -237,6 +237,11 @@ a {
  color: #000;
 }
 
+a.no-underline:hover {
+ text-decoration: none;
+}
+
+
 #recruit a {
  background-color: #424242;
  position: absolute;
@@ -260,3 +265,4 @@ a {
  padding: 3px;
  cursor: pointer;
 }
+

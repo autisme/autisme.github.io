@@ -7,26 +7,21 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.long_title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
+
       </div>
 
       <div class="footer-col footer-col-2">
-<!--
         <ul class="social-media-list">
+<!--
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+-->
+          {% if site.facebook.username %}
+          <li>
+            {% include icon-facebook.html id=site.facebook.id username=site.facebook.username %}
           </li>
           {% endif %}
 
@@ -36,7 +31,6 @@
           </li>
           {% endif %}
         </ul>
--->
       </div>
 
       <div class="footer-col footer-col-3">

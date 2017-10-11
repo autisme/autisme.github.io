@@ -38,8 +38,22 @@
     "headline":"{{ page.title }}",
     "description":"{{ page.content | default: site.description | markdownify | strip_html | normalize_whitespace | truncate: 160 }}",
 {% if page.oembed_image %}    "image":"{{ site.url }}{{ page.oembed_image }}",{% endif %}
-{% if page.author %}    "author":"{{ page.author }}",{% endif %}
+    "author":"{{ page.author | default: site.author }}",
     "url":"{{ page.url | replace:'index.html','' | absolute_url }}"
+   }
+  </script>
+
+  <script type="application/ld+json">
+   {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "url": "{{ site.url }}",
+    "contactPoint": [
+     { "@type": "ContactPoint",
+       "email": "{{site.email}}",
+       "contactType": "customer service"
+     }
+    ]
    }
   </script>
 
