@@ -32,7 +32,7 @@ Une façon simple et rapide et de nous envoyer votre avis, votre opinion out tou
 traite est de nous envoyer un e-mail à l'adresse ci-dessous&nbsp;:
 
 <div class="center">
- <amp-iframe width="300" height="50" sandbox="allow-scripts allow-same-origin" src="/html/email.html"></amp-iframe>
+ <amp-iframe width="300" height="50" sandbox="allow-scripts" src="/html/email.html"></amp-iframe>
 </div>
 
 Vous pouvez également nous dire quels sont les sujets que vous souhaitez voir traités sur ce site.

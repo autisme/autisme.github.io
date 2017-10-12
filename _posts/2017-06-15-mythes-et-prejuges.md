@@ -22,7 +22,7 @@ les rumeurs, les fausses informations et les mythes peuvent circuler.
 Tout d'abord, voici un questionnaire vous permettant de vérifier ce que vous savez sur l'autisme.
 
 <div class="center">
-<amp-iframe width="700" height="1000" sandbox="allow-scripts allow-same-origin" src="/html/mythes.html" scrolling="no">
+<amp-iframe width="700" height="1000" sandbox="allow-scripts" src="/html/mythes.html" scrolling="no">
  <amp-img layout="fill" src="/html/mythes.png" placeholder></amp-img>
 </amp-iframe>
 </div>

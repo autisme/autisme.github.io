@@ -17,7 +17,7 @@ Certaines utilisent la langue des signes, ou des pictogrammes.
 Avez-vous déjà imaginé si vous deviez vous exprimer en utilisant des pictogrammes&nbsp;:
 <!-- écriture pictogrammes (pecs) -->
 <div class="center">
-<amp-iframe width="700" height="400" sandbox="allow-scripts allow-same-origin" src="/html/pecs.html" scrolling="no">
+<amp-iframe width="700" height="400" sandbox="allow-scripts" src="/html/pecs.html" scrolling="no">
  <amp-img layout="fill" src="/html/pecs.png" placeholder></amp-img>
 </amp-iframe>
 </div>
@@ -25,7 +25,7 @@ Avez-vous déjà imaginé si vous deviez vous exprimer en utilisant des pictogra
 D'autres encore peuvent s'exprimer en écrivant sur un clavier ou en pointant les lettres d'une feuille.
 <!-- écriture en cliquant sur les lettres -->
 <div class="center">
-<amp-iframe width="500" height="350" sandbox="allow-scripts allow-same-origin" src="/html/writing.html" scrolling="no">
+<amp-iframe width="500" height="350" sandbox="allow-script" src="/html/writing.html" scrolling="no">
  <amp-img layout="fill" src="/html/writing.png" placeholder></amp-img>
 </amp-iframe>
 </div>

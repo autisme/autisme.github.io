@@ -37,7 +37,7 @@ Bonne visite. Bastien.
 Pour nous contacter&nbsp;: 
 
 <div class="center">
- <amp-iframe width="300" height="50" sandbox="allow-scripts allow-same-origin" src="/html/email.html"></amp-iframe>
+ <amp-iframe width="300" height="50" sandbox="allow-scripts" src="/html/email.html"></amp-iframe>
 </div>
 
 

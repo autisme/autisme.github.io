@@ -24,7 +24,7 @@ Comprendre les expressions faciales est difficile pour beaucoup de personnes ave
 Êtes-vous capable de déterminer les expressions des yeux suivants&nbsp;?
 <!-- test des visages -->
 <div class="center">
-<amp-iframe width="700" height="1050" sandbox="allow-scripts allow-same-origin" src="/html/eyes.html" scrolling="no">
+<amp-iframe width="700" height="1050" sandbox="allow-scripts" src="/html/eyes.html" scrolling="no">
  <amp-img layout="fill" src="/html/eyes.png" placeholder></amp-img>
 </amp-iframe>
 </div>

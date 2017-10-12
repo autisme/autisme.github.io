@@ -57,7 +57,7 @@ Combien de temps, mettrez-vous pour trouver Charlie dans l'image ci-dessous&nbsp
 
 <!-- ou est charlie ? -->
 <div class="center">
-<amp-iframe width="700" height="451" sandbox="allow-scripts allow-same-origin" src="/html/waldo.html" scrolling="no">
+<amp-iframe width="700" height="451" sandbox="allow-scripts src="/html/waldo.html" scrolling="no">
  <amp-img layout="fill" src="/html/waldo.png" placeholder></amp-img>
 </amp-iframe>
 </div>

@@ -28,13 +28,13 @@ Merci par avance pour le temps passé à compléter le sondage.
   <h4>Pour les jeunes avec autisme âgés de 15 à 25 ans&nbsp;:</h4>
   <p>&nbsp;</p>
   <p class="center">
-   <amp-iframe width="600" height="600" sandbox="allow-scripts allow-same-origin" src="https://docs.google.com/forms/d/1kQY9W3sMRlXmLjqUXn6HXy8REatgJeXlaZOr1zQgYsU/viewform?embedded=true"></amp-iframe>
+   <amp-iframe width="600" height="600" sandbox="allow-scripts" src="https://docs.google.com/forms/d/1kQY9W3sMRlXmLjqUXn6HXy8REatgJeXlaZOr1zQgYsU/viewform?embedded=true"></amp-iframe>
   </p>
  </div>
  <div>
   <h4>Pour les parents, les frères et les sœurs d'un jeune avec autisme âgé de 15 à 25 ans&nbsp;:</h4>
   <p class="center">
-   <amp-iframe width="600" height="600" sandbox="allow-scripts allow-same-origin" src="https://docs.google.com/forms/d/17cfCjgobmTPqqUZOZEisgV9OdzyX2jPm4VW1uxrZfec/viewform?embedded=true"></amp-iframe>
+   <amp-iframe width="600" height="600" sandbox="allow-scripts" src="https://docs.google.com/forms/d/17cfCjgobmTPqqUZOZEisgV9OdzyX2jPm4VW1uxrZfec/viewform?embedded=true"></amp-iframe>
   </p>
  </div>
 </div>
