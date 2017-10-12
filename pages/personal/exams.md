@@ -6,7 +6,7 @@ hide_header_link: true
 oembed_image: /assets/pages/personal/examens/ID-10035633.jpg
 ---
 
-<amp-img class="left" width="400" height="266" src="/assets/pages/personal/examens/ID-10035633.jpg" alt="ID-10035633"></amp-img>
+<amp-img class="left" width="400" height="266" src="{{ site.amp_img_cache_url }}/assets/pages/personal/examens/ID-10035633.jpg" alt="ID-10035633"></amp-img>
 
 ### Les examens - personne n'aime ça, la plupart des gens les trouve difficiles et seules peu de personnes montrent leur vrai talent et leurs vraies capacités dans un environnement aussi stressant
 

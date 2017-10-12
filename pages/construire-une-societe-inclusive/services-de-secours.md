@@ -6,7 +6,7 @@ hide_header_link: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/introduction/dict.jpg
 ---
 
-<amp-img class="right" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" alt="dict"></amp-img>
+<amp-img class="right" width="200" height="133" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" alt="dict"></amp-img>
 
 Environ une personne sur 100 est actuellement concernée par l'autisme.
 Il y a des personnes qui n'ont pas un de diagnostic car l'autisme n'impacte pas suffisamment leur vie.

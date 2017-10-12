@@ -17,7 +17,7 @@ Ci-dessous, une liste de domaines dans lesquels nous cherchons de l'aide princip
 vous avez d'autres compétences ou d'autres idées, n'hésitez pas à nous en faire part&nbsp;!
 
 
-<amp-img class="center" width="500" height="500" src="/assets/pages/exprimez-vous/we_need_you.png" alt="Nous avons besoin de vous !"></amp-img>
+<amp-img class="center" width="500" height="500" src="{{ site.amp_img_cache_url }}/assets/pages/exprimez-vous/we_need_you.png" alt="Nous avons besoin de vous !"></amp-img>
 
 ### Donnez votre opinion, votre avis ou nous faire part d'une information que nous n'avons pas
 

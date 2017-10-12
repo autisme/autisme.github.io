@@ -6,7 +6,7 @@ hide_header_link: true
 oembed_image: /assets/pages/parent/prendre-soin-de-soi/ID-10028215.jpg
 ---
 
-<amp-img class="left" width="400" height="266" src="/assets/pages/parent/prendre-soin-de-soi/ID-10028215.jpg" alt="ID-10028215"></amp-img>
+<amp-img class="left" width="400" height="266" src="{{ site.amp_img_cache_url }}/assets/pages/parent/prendre-soin-de-soi/ID-10028215.jpg" alt="ID-10028215"></amp-img>
 
 Lorsque vous vous occupez d'un membre de la famille ou d'un proche avec autisme,
 il est facile de perdre de vue votre propre santé et votre bien-être mental.

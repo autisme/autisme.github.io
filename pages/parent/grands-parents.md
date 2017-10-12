@@ -6,7 +6,7 @@ hide_header_link: true
 oembed_image: /assets/pages/parent/grands-parents/ID-10033342.jpg
 ---
 
-<amp-img class="left" width="266" height="400" src="/assets/pages/parent/grands-parents/ID-10033342.jpg" alt="ID-10033342"></amp-img>
+<amp-img class="left" width="266" height="400" src="{{ site.amp_img_cache_url }}/assets/pages/parent/grands-parents/ID-10033342.jpg" alt="ID-10033342"></amp-img>
 
 L'autisme apporte de nombreux défis aux familles. Les grands parents, du fait de leur
 place particulière dans la famille doivent faire face à des défis qui leur sont propres.

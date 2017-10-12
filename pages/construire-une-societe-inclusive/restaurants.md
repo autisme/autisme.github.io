@@ -6,7 +6,7 @@ hide_header_link: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/restaurants/ID-100442933.jpg
 ---
 
-<amp-img class="left" width="200" height="300" src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-10065277.jpg" alt="ID-10065277"></amp-img>
+<amp-img class="left" width="200" height="300" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/restaurants/ID-10065277.jpg" alt="ID-10065277"></amp-img>
 
 Les restaurants et les bars font partis de la vie de tous les jours. Souvent nous y allons pour nous détendre ou pour marquer les grandes occasions.
 
@@ -36,7 +36,7 @@ Pour ceux qui sont verbaux, le langage peut être scripté ou mécanique. Cepend
 
 La communication est bien plus que la parole.
 
-<amp-img class="right" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100442933.jpg" alt="ID-100442933"></amp-img>
+<amp-img class="right" width="200" height="133" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/restaurants/ID-100442933.jpg" alt="ID-100442933"></amp-img>
 
 Les personnes avec autisme peuvent trouver difficile de comprendre le langage abstrait ou les figures de style.
 Les personnes avec autisme peuvent avoir une compréhension littérale du langage.
@@ -74,7 +74,7 @@ Cela peut limiter la capacité de la personne à apprécier les plats et l'envir
 
 De plus, pour un client venant régulièrement, des changements dans votre restaurant peuvent avoir les mêmes effets.
 
-<amp-img class="center" width="250" height="166" src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100262514.jpg" alt="ID-100262514"></amp-img>
+<amp-img class="center" width="250" height="166" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/restaurants/ID-100262514.jpg" alt="ID-100262514"></amp-img>
 
 #### Anxiété
 
@@ -121,7 +121,7 @@ Vous pouvez également indiquer la procédure à suivre pour passer une commande
 N'oubliez pas d'inclure les heures d'ouverture et de fermeture.
 Cela peut grandement aider les personnes avec autisme et leur famille à préparer leur venue.
 
-<amp-img class="center" width="250" height="166" src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100207637.jpg" alt="ID-100207637"></amp-img>
+<amp-img class="center" width="250" height="166" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/restaurants/ID-100207637.jpg" alt="ID-100207637"></amp-img>
 
 #### Fournir des tables «&nbsp;Autism friendly&nbsp;»
 

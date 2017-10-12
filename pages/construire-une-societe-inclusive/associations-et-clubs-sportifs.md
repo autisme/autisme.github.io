@@ -6,7 +6,7 @@ hide_header_link: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/170422.jpg
 ---
 
-<amp-img class="right" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" alt="dict"></amp-img>
+<amp-img class="right" width="200" height="133" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" alt="dict"></amp-img>
 
 Environ une personne sur 100 est actuellement affectée par l'autisme.
 Il y a des personnes qui n'ont pas un de diagnostic car l'autisme n'impacte pas suffisamment leur vie.
@@ -37,7 +37,7 @@ Cela donne aussi l'opportunité d'apprendre les règles de la vie comme travaill
 Les personnes peuvent être aussi impliquées dans des associations non sportives en rapport avec leurs intérêts et leurs passions.
 Cela leur donne l'occasion d'être avec d'autres gens,  ensembles, sur un projet commun.
 
-<amp-img class="left" width="250" height="166" src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/ID-100132827.jpg" alt="ID-100132827"></amp-img>
+<amp-img class="left" width="250" height="166" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/ID-100132827.jpg" alt="ID-100132827"></amp-img>
 
 Les associations et les clubs sportifs ont beaucoup à apporter aux personnes avec autisme.
 Premièrement, ils fournissent des occasions pour rencontrer d'autres personnes, pour socialiser dans un environnement structuré et sécurisant ce qui est plus facile pour les personnes avec autisme.
@@ -66,7 +66,7 @@ Les personnes avec autisme peuvent trouver difficile de comprendre le langage ab
 Les personnes avec autisme peuvent avoir une compréhension littérale du langage.
 Vous pouvez leur faciliter la vie en utilisant des phrases claires et précises.
 
-<amp-img class="left" width="250" height="166" src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/community-150124_960_720.png" alt="community-150124_960_720.png"></amp-img>
+<amp-img class="left" width="250" height="166" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/community-150124_960_720.png" alt="community-150124_960_720.png"></amp-img>
 
 #### Compétences sociales
 
@@ -90,7 +90,7 @@ Dans un atelier d'art, certaines colles peuvent avoir une odeur forte.
 
 Ces difficultés sont de grandes barrières pour les personnes avec autisme.
 
-<amp-img class="left" width="250" height="166" src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/170422.jpg" alt="170422" ></amp-img>
+<amp-img class="left" width="250" height="166" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/170422.jpg" alt="170422" ></amp-img>
 
 #### Coordination
 

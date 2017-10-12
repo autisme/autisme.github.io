@@ -25,7 +25,7 @@ Toutefois, les personnes avec un Syndrome d'Asperger peuvent avoir des difficult
 Habituellement, les personnes avec un Syndrome d'Asperger n'ont pas de retard intellectuel comme peuvent avoir certaines personnes avec autisme.
 Toutefois, elles peuvent avoir des difficultés d'apprentissage ou des handicaps associés comme la dyslexie.
 
-<amp-img class="left" width="300" height="200" src="/assets/pages/autisme/syndrome-asperger/ID-100383835.jpg" alt="ID-100383835"></amp-img>
+<amp-img class="left" width="300" height="200" src="{{ site.amp_img_cache_url }}/assets/pages/autisme/syndrome-asperger/ID-100383835.jpg" alt="ID-100383835"></amp-img>
 
 
 Les personnes avec un Syndrome d'Asperger ont souvent des intérêts spéciaux sur lesquels ils peuvent se concentrer pendant longtemps et dans lesquels ils peuvent devenir très talentueux.

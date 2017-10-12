@@ -25,7 +25,7 @@ Comprendre les expressions faciales est difficile pour beaucoup de personnes ave
 <!-- test des visages -->
 <div class="center">
 <amp-iframe width="700" height="1050" sandbox="allow-scripts" src="/html/eyes.html" scrolling="no">
- <amp-img layout="fill" src="/html/eyes.png" placeholder></amp-img>
+ <amp-img layout="fill" src="{{ site.amp_img_cache_url }}/html/eyes.png" placeholder></amp-img>
 </amp-iframe>
 </div>
 

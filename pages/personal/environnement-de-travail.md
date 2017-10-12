@@ -6,7 +6,7 @@ hide_header_link: true
 oembed_image: /assets/pages/personal/environnement-de-travail/ID-100394985.jpg
 ---
 
-<amp-img class="left" width="400" height="266" src="/assets/pages/personal/environnement-de-travail/ID-100394985.jpg" alt="ID-100394985"></amp-img>
+<amp-img class="left" width="400" height="266" src="{{ site.amp_img_cache_url }}/assets/pages/personal/environnement-de-travail/ID-100394985.jpg" alt="ID-100394985"></amp-img>
 
 Avoir un bon environnement de travail n'est pas quelque chose que vous obtenez du
 premier coup.  C'est quelque chose qui se construit et qu'il faut maintenir dans le temps.

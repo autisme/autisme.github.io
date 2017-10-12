@@ -13,7 +13,7 @@ S'assurer que les personnes avec autisme puissent développer leur potentiel et 
 Ce n'est pas juste pour les familles qui sont affectées, ce n'est pas juste pour les médecins. 
 Cela est important dans la mesure où actuellement la situation des personnes avec autisme est catastrophique.
 
-<amp-img class="center" width="600" height="600" src="/facebook_campaign/9_inclusion_is_important.png" alt="80% des adultes avec autisme ne travaillent pas ; beaucoup sont seuls et isolés ; l'anxiété et la dépression font souvent parties de leur vie ; leur espérance de vie est en moyenne réduite de 18 ans ; le taux de suicide est 9 fois plus élevé"></amp-img>
+<amp-img class="center" width="600" height="600" src="{{ site.amp_img_cache_url }}/facebook_campaign/9_inclusion_is_important.png" alt="80% des adultes avec autisme ne travaillent pas ; beaucoup sont seuls et isolés ; l'anxiété et la dépression font souvent parties de leur vie ; leur espérance de vie est en moyenne réduite de 18 ans ; le taux de suicide est 9 fois plus élevé"></amp-img>
 
 
 Les personnes avec autisme ont besoin d'aides pour atteindre le potentiel mais elles ont également besoin de compréhension et d'ouverture de la part de la société.
@@ -22,7 +22,7 @@ et de faire des petits changements qui aident grandement les personnes avec un h
 
 Ci-dessous, une liste de choses que **vous** pouvez faire.
 
-<amp-img class="center" width="400" height="266" src="/assets/pages/construire-une-societe-inclusive/ID-10045222.jpg" class="center" alt="ID-10045222"></amp-img>
+<amp-img class="center" width="400" height="266" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/ID-10045222.jpg" class="center" alt="ID-10045222"></amp-img>
 
 
 ## Ce que vous pouvez faire en tant que personne

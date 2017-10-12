@@ -20,7 +20,7 @@ C'est plutôt l'environnement qui est difficile. Cependant avec quelques changem
 
 ### Divertissements - Challenges pour les personnes avec autisme
 
-<amp-img class="left" width="400" height="266" src="/assets/pages/construire-une-societe-inclusive/divertissements/ID-100442933.jpg" alt="ID-100442933"></amp-img>
+<amp-img class="left" width="400" height="266" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/divertissements/ID-100442933.jpg" alt="ID-100442933"></amp-img>
 
 #### Communication
 
@@ -72,7 +72,7 @@ Si une personne avec autisme va dans un endroit nouveau, cela peut être très s
 De même, si une personne a l'habitude de venir souvent dans un endroit et que quelque chose change comme par exemple un membre du personnel qui est n'est plus là, un changement dans l'aménagement des locaux, cela peut générer de l'anxiété.
 En aidant les familles à se préparer pour une visite et en prévenant les personnes de futurs changements, vous pouvez rendre la vie plus facile pour tout le monde.
 
-<amp-img class="left" width="250" height="250" src="/assets/pages/construire-une-societe-inclusive/divertissements/ID-100246951.jpg" alt="ID-100246951.jpg"></amp-img>
+<amp-img class="left" width="250" height="250" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/divertissements/ID-100246951.jpg" alt="ID-100246951.jpg"></amp-img>
 
 #### Anxiété
 
@@ -124,7 +124,7 @@ Fournir des images ou une visite à 360° est d'une grande aide pour les famille
 
 Vous pouvez également détailler les procédures pour réserver/acheter un ticket ou sur le déroulement de l'événement, ce à quoi s'attendre et les règles que vous avez.
 
-<amp-img class="center" width="250" height="166" src="/assets/pages/construire-une-societe-inclusive/divertissements/ID-100207637.jpg" alt="ID-100207637"></amp-img>
+<amp-img class="center" width="250" height="166" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/divertissements/ID-100207637.jpg" alt="ID-100207637"></amp-img>
 
 #### Mettre en place des séances «&nbsp;autism friendly&nbsp;»
 

@@ -7,7 +7,7 @@ modules:
   - iframe
 ---
 
-<amp-img class="left" width="250" height="176" src="/assets/about.jpg" alt="About us"></amp-img>
+<amp-img class="left" width="250" height="176" src="{{ site.amp_img_cache_url }}/assets/about.jpg" alt="About us"></amp-img>
 
 Ce site a été créé dans le but de fournir un portail d'information sur l'autisme.
 Le web contient une grande quantité d'informations sur l'autisme.

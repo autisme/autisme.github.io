@@ -18,7 +18,7 @@ Avez-vous déjà imaginé si vous deviez vous exprimer en utilisant des pictogra
 <!-- écriture pictogrammes (pecs) -->
 <div class="center">
 <amp-iframe width="700" height="400" sandbox="allow-scripts" src="/html/pecs.html" scrolling="no">
- <amp-img layout="fill" src="/html/pecs.png" placeholder></amp-img>
+ <amp-img layout="fill" src="{{ site.amp_img_cache_url }}/html/pecs.png" placeholder></amp-img>
 </amp-iframe>
 </div>
 
@@ -26,7 +26,7 @@ D'autres encore peuvent s'exprimer en écrivant sur un clavier ou en pointant le
 <!-- écriture en cliquant sur les lettres -->
 <div class="center">
 <amp-iframe width="500" height="350" sandbox="allow-script" src="/html/writing.html" scrolling="no">
- <amp-img layout="fill" src="/html/writing.png" placeholder></amp-img>
+ <amp-img layout="fill" src="{{ site.amp_img_cache_url }}/html/writing.png" placeholder></amp-img>
 </amp-iframe>
 </div>
 

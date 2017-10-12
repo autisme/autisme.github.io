@@ -28,7 +28,7 @@ Ci-dessous, une animation, vous permettant de vous rendre compte comment prendre
 <!-- prendre la parole -->
 <div class="center">
 <amp-iframe width="700" height="450" sandbox="allow-scripts" src="/html/speak.html" scrolling="no">
- <amp-img layout="fill" src="/html/speak.png" placeholder></amp-img>
+ <amp-img layout="fill" src="{{ site.amp_img_cache_url }}/html/speak.png" placeholder></amp-img>
 </amp-iframe>
 </div>
 

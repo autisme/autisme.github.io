@@ -21,7 +21,7 @@ Imaginez ce que cela serait pour vous si vous deviez passer vos journées à tra
 <!-- neon -->
 <div class="center">
 <amp-iframe width="700" height="451" sandbox="allow-scripts" src="/html/neon.html" scrolling="no">
- <amp-img layout="fill" src="/html/neon.png" placeholder></amp-img>
+ <amp-img layout="fill" src="{{ site.amp_img_cache_url }}/html/neon.png" placeholder></amp-img>
 </amp-iframe>
 </div>
 
@@ -58,7 +58,7 @@ Combien de temps, mettrez-vous pour trouver Charlie dans l'image ci-dessous&nbsp
 <!-- ou est charlie ? -->
 <div class="center">
 <amp-iframe width="700" height="451" sandbox="allow-scripts" src="/html/waldo.html" scrolling="no">
- <amp-img layout="fill" src="/html/waldo.png" placeholder></amp-img>
+ <amp-img layout="fill" src="{{ site.amp_img_cache_url }}/html/waldo.png" placeholder></amp-img>
 </amp-iframe>
 </div>
 
