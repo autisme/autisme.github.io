@@ -3,7 +3,10 @@ layout: page
 title: "Construire une société inclusive - Associations et clubs sportifs"
 permalink: /construire-une-societe-inclusive/assocations-et-clubs-sportifs
 hide_header_link: true
+oembed_image: /assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/170422.jpg
 ---
+
+<amp-img class="right" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" alt="dict"></amp-img>
 
 Environ une personne sur 100 est actuellement affectée par l'autisme.
 Il y a des personnes qui n'ont pas un de diagnostic car l'autisme n'impacte pas suffisamment leur vie.
@@ -11,11 +14,10 @@ Et puis il y a les personnes, toujours plus nombreuses d'années en années, aya
 Certaines tâches et activités de la vie quotidienne génèrent beaucoup de stress et d'anxiété.
 Le shopping en est juste une parmi les autres.
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" class="right" alt="dict" />
 
 Le spectre de l'autisme est large et les personnes sont impactées de différentes façons.
 Il n'y a pas deux personnes avec autisme qui ont les mêmes difficultés.
-Toutefois, la plupart des difficultés rencontrées peuvent se classer dans 4 grandes catégories$
+Toutefois, la plupart des difficultés rencontrées peuvent se classer dans 4 grandes catégories&nbsp;:
 
   - La communication sociale
   - L'imagination sociale
@@ -24,6 +26,7 @@ Toutefois, la plupart des difficultés rencontrées peuvent se classer dans 4 gr
 
 Ce document a été écrit pour vous aider à comprendre ce handicap et pour vous donner des conseils simples pour rendre
 votre association ou club sportif plus attractif pour les personnes avec autisme (autism friendly).
+
 
 Le Sport est la base de beaucoup d'associations locales dans tout le pays.
 
@@ -34,10 +37,11 @@ Cela donne aussi l'opportunité d'apprendre les règles de la vie comme travaill
 Les personnes peuvent être aussi impliquées dans des associations non sportives en rapport avec leurs intérêts et leurs passions.
 Cela leur donne l'occasion d'être avec d'autres gens,  ensembles, sur un projet commun.
 
+<amp-img class="left" width="250" height="166" src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/ID-100132827.jpg" alt="ID-100132827"></amp-img>
+
 Les associations et les clubs sportifs ont beaucoup à apporter aux personnes avec autisme.
 Premièrement, ils fournissent des occasions pour rencontrer d'autres personnes, pour socialiser dans un environnement structuré et sécurisant ce qui est plus facile pour les personnes avec autisme.
 
-<img src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/ID-100132827.jpg" class="left" alt="ID-100132827" width="250" />
 
 Cependant, les associations et les clubs peuvent aussi poser quelques difficultés pour les personnes avec autisme, notamment parce que les personnes avec autisme peuvent être laissées isolées pendant les activités ou bien parce que leurs besoins peuvent ne pas être
 satisfaits, notamment parce que le handicap n'est pas forcément évident à reconnaître pour les autres gens.
@@ -62,9 +66,10 @@ Les personnes avec autisme peuvent trouver difficile de comprendre le langage ab
 Les personnes avec autisme peuvent avoir une compréhension littérale du langage.
 Vous pouvez leur faciliter la vie en utilisant des phrases claires et précises.
 
+<amp-img class="left" width="250" height="166" src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/community-150124_960_720.png" alt="community-150124_960_720.png"></amp-img>
+
 #### Compétences sociales
 
-<img src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/community-150124_960_720.png" class="right" alt="community-150124_960_720.png" width="250" />
 
 Les activités impliquent une grande parte d'interactions et de socialisation. Pour les personnes avec autisme cela peut être à la fois difficile et générer de l'anxiété.
 
@@ -85,9 +90,9 @@ Dans un atelier d'art, certaines colles peuvent avoir une odeur forte.
 
 Ces difficultés sont de grandes barrières pour les personnes avec autisme.
 
-#### Coordination
+<amp-img class="left" width="250" height="166" src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/170422.jpg" alt="170422" ></amp-img>
 
-<img src="/assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/170422.jpg" class="left" alt="170422" width="250" />
+#### Coordination
 
 Beaucoup de personnes avec autisme ont du mal à coordonner leurs mouvements et cela rend la pratique du sport difficile.
 Cependant le sport est aussi un bon moyen pour apprendre.
@@ -193,6 +198,6 @@ Une première étape est d'identifier les adaptations que vous pouvez faire pour
 
 Rencontrer les associations aidant les personnes avec autisme peut être un bon début dans cette voie.
 
-
-
+---
+<small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

@@ -14,7 +14,7 @@ Aujourd'hui plus d'une personne sur cent est une personne autisme. **Tout le mon
 Tout le monde en a croisé dans sa vie. Et pourtant, peu de personnes comprennent vraiment de quoi il s'agit, et surtout peu de personnes savent comment inclure ces personnes, comment faire pour 
 rendre leur environnement plus facile à supporter.
 
-<img src="/assets/posts/2017-06-10/ID-100259934.jpg" alt="ID-100259934" class="right" width="250" />
+<amp-img class="right" width="250" height="250" src="/assets/posts/2017-06-10/ID-100259934.jpg" alt="ID-100259934"></amp-img>
 
 Les personnes avec autisme sont les premières affectées par cela.
 Les tâches basiques de la vie quotidienne comme aller à faire des courses, rencontrer des amis, aller chez le médecin, ou même prendre les transports en commun sont souvent
@@ -30,9 +30,7 @@ Qui n'a jamais été stressé de ne pas savoir ce qui allait se passer ou de se 
 Déterminer quelles sont les adaptations possibles peut être quelque chose de compliqué.
 C'est pourquoi nous [publions une liste de choses simples et adaptées à votre secteur d'activité](/construire-une-societe-inclusive/).
 
-<div style="text-align:center; font-size:1.2em; margin: 2em;">
-<a href="/construire-une-societe-inclusive/"><strong>Ressources pour construire une société inclusive</strong></a>
-</div>
+<a href="/construire-une-societe-inclusive/" class="big center"><span>Ressources pour construire une société inclusive</span></a>
 
 
 N'hésitez pas à **être créatif** et à proposer vos propres adaptations.

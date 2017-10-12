@@ -1,0 +1,264 @@
+h1, .post-title {
+ font-weight: 200;
+ font-size: 32px;
+}
+
+/* Default - basic styles */
+.right {
+ float: right;
+ padding-left: 20px;
+}
+.left {
+ float: left;
+ padding-right: 20px;
+ margin: 20px;
+}
+.center {
+ padding: 20px;
+ display: block;
+ margin: 20px auto 20px auto;
+ text-align: center;
+}
+.underline {
+ text-decoration: underline;
+}
+span.big {
+ font-size: 2em;
+}
+a.big {
+ font-size: 1.2em;
+ font-weight: bold;
+ margin: 2em;
+}
+.highlight {
+ background-color: #cce5ff;
+ border: 1px solid #b8daff;
+/* color: #004085;*/
+ color: #111;
+ display: block;
+ padding: 10px;
+ margin-top: 20px;
+}
+.highlight li {
+ color: #000;
+}
+a.no-underline:hover {
+ text-decoration: none;
+}
+
+/* big links */
+a.big span:nth-of-type(1) {
+ margin: 2em 2em 0 2em;
+}
+a.big span:nth-of-type(2) {
+ margin: 0em 2em 2em 2em;
+}
+a.big span {
+ font-size: 1.3em;
+ display: block;
+ font-weight: bold;
+}
+a.big span.subtitle {
+ font-size: 1em;
+ display: block;
+ font-weight: normal;
+}
+
+/* horizontal list */
+ul.horizontal {
+ list-style: none;
+}
+ul.horizontal > li {
+ display: inline-block;
+}
+
+/* cols */
+.clear {
+ clear: both;
+}
+.cols-2 {
+ display: flex;
+ flex-wrap: wrap;
+}
+.cols-2 > div {
+ flex: 1 0 500px;
+}
+
+
+/* "I am" list */
+#iam {
+ margin-bottom: 50px;
+}
+#iamlist, #involvedlist {
+ max-width: 800px;
+ margin: 0 auto 0 auto;
+ text-align: center;
+ list-style-type: none;
+ border-collapse:separate;
+ display:table;
+ border-spacing: 3px;
+}
+#iamlist li, #involvedlist li {
+ display : inline;
+}
+#iamlist a, #involvedlist a {
+ display: table-cell;
+ text-align: center;
+ vertical-align: middle;
+ width: 180px;
+ height: 150px;
+ border: 3px solid black;
+ font-weight: bold;
+ color: #fff;
+ border-radius: 10px;
+}
+#iamlist a, #involvedlist a {
+ background-blend-mode: multiply;
+}
+#iamlist a#personal {
+ background: url('/assets/personal.jpg') no-repeat 0 0;
+ background-color: rgba(78, 151, 178, .7);
+ border: 3px solid rgb(78, 151, 178);
+}
+#iamlist a#personal:hover {
+ background-color: rgba(78, 151, 178, .9);
+}
+
+#iamlist a#parent {
+ background: url('/assets/parent.jpg') no-repeat 0 0;
+ background-color: rgba(128, 186, 67, .7);
+ border: 3px solid rgb(128, 186, 67);
+}
+#iamlist a#parent:hover {
+ background-color: rgba(128, 186, 67, .9);
+}
+#iamlist a#professional {
+ background: url('/assets/professional.jpg') no-repeat 0 0;
+ background-color: rgba(140, 70, 223, .7);
+ border: 3px solid rgb(140, 70, 223);
+}
+#iamlist a#professional:hover {
+ background-color: rgba(140, 70, 223, .9);
+}
+#iamlist a#autisme {
+ width: 565px;
+ background: url('/assets/autisme.jpg') no-repeat 0 0;
+ background-color: rgba(229, 90, 124, 0.7);
+ border: 3px solid rgb(229, 90, 124);
+}
+#iamlist a#autisme:hover {
+ background-color: rgba(229, 90, 124, 0.9);
+}
+
+/* Involved list */
+#involvedlist a#construire-une-societe-inclusive {
+ width: 375px;
+ background: url('/assets/construire-une-societe-inclusive.jpg') no-repeat 0 0;
+ background-color: rgba(244, 158, 76, 0.7);
+ border: 3px solid rgb(244, 158, 76);
+}
+#involvedlist a#construire-une-societe-inclusive:hover {
+ background-color: rgba(244, 158, 76, 0.9);
+}
+#involvedlist a#prenez-la-parole {
+ background: url('/assets/prenez-la-parole.jpg') no-repeat 0 0;
+ background-color: rgba(27, 56, 100, 0.7);
+ border: 3px solid rgb(27, 56, 100);
+}
+#involvedlist a#prenez-la-parole:hover {
+ background-color: rgba(27, 56, 100, 0.9);
+}
+
+
+/* List of posts */
+.more-articles {
+ background-color: #5994e2;
+ padding: 10px;
+ border-radius: 10px;
+ text-align: center;
+ width: 25%;
+ margin: 0 auto 0 auto;
+ color: #fff;
+ display: block;
+}
+.more-articles:visited {
+ color: #fff;
+}
+.more-articles:hover {
+ background-color: #2a7ae2;
+}
+.post-list > li .post- {
+ display: flex;
+ flex-direction: row;
+ flex-wrap: nowrap;
+}
+
+.post-list > li .post-thumb {
+ display: block;
+ flex: 0 0 200px;
+ width: 250px;
+ height: 125px;
+ object-fit: fill;
+ margin-right: 20px;
+}
+
+.post-list > li .post-excerpt {
+ flex: 1 0 100px;
+ display: block;
+ text-align: justify;
+}
+
+.post-link {
+ display: block;
+ font-size: 1em;
+ cursor: pointer;
+}
+
+.post-link:hover h2 {
+ color: #111;
+ text-decoration: underline;
+}
+
+.post-link .post-excerpt {
+ color: #111;
+}
+.post-link:hover { 
+ text-decoration: none;
+}
+.post-link .next-reading {
+ color: #2a7ae2;
+}
+.post-link:hover .next-reading {
+ text-decoration: underline;
+}
+
+#cols {
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+ margin-top: 50px;
+}
+#cols .col-blog, #cols .col-twitter {
+ display: block;
+}
+#cols .col-blog {
+ margin-right: 30px;
+ flex: 1 0 calc(100% - 500px);
+}
+#cols .col-twitter {
+ margin-left: 30px;
+ flex: 1 0 300px;
+ max-width: 400px;
+ margin: 0 auto 0 auto;
+}
+
+@media (max-width: $min-width-for-twitter) {
+ #cols .col-blog {
+  margin-right: 30px;
+  flex: 1 0 100%;
+ }
+ #cols .col-twitter {
+   display: none;
+ }
+}
+

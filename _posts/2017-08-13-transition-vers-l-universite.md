@@ -25,7 +25,7 @@ Cela est difficile pour beaucoup de jeunes, particulièrement pendant les premi�
   - Être dans un groupe d'étudiants qui change à chaque semestre.
 
 
-<img class="center" width="400" src="/assets/posts/2017-08-13/ID-100305240.jpg" alt="ID-100305240" />
+<amp-img class="center" width="400" height="266" src="/assets/posts/2017-08-13/ID-100305240.jpg" alt="ID-100305240"></amp-img>
 
 C'est également le moment pour certain de vivre seul, loin de la maison, ce qui implique d'autres difficultés comme préparer ses repas ou s'occuper du linge.
 Toutefois, suivre les conseils ci-dessous peut réduire le stress et l'anxiété qui accompagnent souvent les changements.

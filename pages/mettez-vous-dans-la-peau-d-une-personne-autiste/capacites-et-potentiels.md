@@ -3,7 +3,7 @@ layout: page
 title:  "Capacités et potentiels"
 permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/capacites-et-potentiels
 hide_header_link: true
-oembed_image: /assets/posts/2017-08-13/opengraph.png
+oembed_image: /assets/posts/2017-10-02/opengraph.png
 ---
 
 Bien que nous parlons souvent voire tout le temps des problèmes des personnes autistes, nous ne devons pas oublier que
@@ -27,11 +27,11 @@ De plus, les personnes avec autisme peuvent avoir beaucoup de qualités utiles d
 Toutes les personnes autistes ont des capacités qui peuvent servir à la société si nous les incluons dans celle-ci (c'est-à-dire que nous fournissons de petites adaptations qui leur permette de vivre dans la société).
 
 
-<div style="text-align:center; font-size:1.2em; margin: 2em;">
-<a href="/construire-une-societe-inclusive/"><strong>Ressources pour construire une société inclusive</strong></a>
-</div>
+<a href="/construire-une-societe-inclusive/" class="center big">
+ <span class="subtitle">Consultez nos</span>
+ <span>Ressources pour construire une société inclusive</span>
+</a>
 
-<p>&nbsp;</p>
 <div class="highlight">
 <ol>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/qu-est-ce-que-l-autisme">Introduction - Qu'est-ce que l'autisme&nbsp;?</a></li>

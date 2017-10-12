@@ -3,6 +3,7 @@ layout: page
 title: "Construire une société inclusive - Commerçants"
 permalink: /construire-une-societe-inclusive/commercants
 hide_header_link: true
+oembed_image: /assets/pages/construire-une-societe-inclusive/commercants/ID-100264598.jpg
 ---
 
 Environ une personne sur 100 est actuellement concernée par l'autisme.
@@ -11,7 +12,7 @@ Et puis il y a les personnes, toujours plus nombreuses d'années en années, aya
 Certaines tâches et activités de la vie quotidienne génèrent beaucoup de stress et d'anxiété.
 Le shopping en est juste une parmi les autres.
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" class="right" alt="dict" />
+<amp-img class="center" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" alt="dict"></amp-img>
 
 
 Le spectre de l'autisme est large et les personnes sont impactées de différentes façons.
@@ -44,9 +45,10 @@ peuvent avoir un impact positif sur la qualité de vie d'une grande partie de vo
 
 ### Commerces - Challenges pour les personnes avec autisme
 
-#### Traitement sensoriel
+<amp-img class="right" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/commercants/ID-10043693.jpg" alt="ID-10043693"></amp-img>
 
-<img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-10043693.jpg" class="right" alt="ID-10043693" width="200" />
+
+#### Traitement sensoriel
 
 Par leur nature, les magasins sont souvent des lieux fortement fréquentés&nbsp;! Pas seulement par la quantité de personnes mais aussi par les nombreuses choses qui s'y passent.
 
@@ -132,7 +134,7 @@ La plus grande détresse dans ces situations est la réaction des gens qui ne co
 
 #### Anxiété
 
-<img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-100246951.jpg" class="left" alt="ID-100246951" width="200" />
+<amp-img class="left" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/commercants/ID-100246951.jpg" alt="ID-100246951"></amp-img>
 
 Les personnes avec autisme sont souvent très anxieuses pour les raisons évoquées plus haut.
 Quand une personne sort de sa zone de confort comme sa maison pour venir dans un magasin, elle peut être anxieuse pour toutes les choses qui peuvent mal se passer ou arriver.
@@ -177,7 +179,7 @@ Ce sont des difficultés pour les personnes avec autisme. Vous pouvez fournir su
 
 #### Mettre en place des priorités à la caisse
 
-<img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-100212137.jpg" class="left" alt="ID-100212137" width="200" />
+<amp-img class="left" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/commercants/ID-100212137.jpg" alt="ID-100212137" ></amp-img>
 
 Les jours avec beaucoup de monde dans votre magasin peuvent être difficile pour les personnes avec autisme à cause de la foule et du bruit.
 Il est possible de mettre en place des caisses prioritaires pour les personnes avec autisme et leur famille.
@@ -199,11 +201,13 @@ Rencontrer les associations aidant les personnes avec autisme peut être un bon 
 
 #### Prévenir des changements dans le magasin
 
-<img src="/assets/pages/construire-une-societe-inclusive/commercants/ID-100264598.jpg" class="left" alt="ID-100264598" width="200" />
-
 Les changements génèrent beaucoup de stress.
 Vous pouvez envoyer un e-mail ou poster un message sur les réseaux sociaux pour prévenir d'un changement de disposition.
 Expliquer quels sont les changements que vous faites peut grandement aider les personnes avec autisme.
+
+<amp-img class="center" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/commercants/ID-100264598.jpg" alt="ID-100264598"></amp-img>
+
+
 
 #### Prévenir quand un produit est disponible
 
@@ -219,5 +223,6 @@ Cela est dû à un manque de connaissance de l'autisme par le grand public.
 
 Pour améliorer la situation, vous pouvez sensibiliser à l'autisme en affichant des posters ou distribuant des dépliants dans votre magasin.
 
+---
 <small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

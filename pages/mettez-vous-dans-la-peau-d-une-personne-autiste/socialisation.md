@@ -3,7 +3,9 @@ layout: page
 title:  "Socialisation"
 permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/socialisation
 hide_header_link: true
-oembed_image: /assets/posts/2017-08-13/opengraph.png
+oembed_image: /assets/posts/2017-10-02/opengraph.png
+modules:
+  - iframe
 ---
 
 Savoir communiquer et exprimer ses idées est une chose mais 
@@ -24,7 +26,11 @@ l'impression que ces personnes manquent de respect. D'autres préfèreront reste
 
 Ci-dessous, une animation, vous permettant de vous rendre compte comment prendre la parole dans un groupe peut être difficile&nbsp;:
 <!-- prendre la parole -->
-<canvas id="game_speak" width="700" height="450" style="border: 1px solid black; margin: 0 auto 20px auto; display: block;"></canvas>
+<div class="center">
+<amp-iframe width="700" height="450" sandbox="allow-scripts allow-same-origin" src="/html/speak.html" scrolling="no">
+ <amp-img layout="fill" src="/html/speak.png" placeholder></amp-img>
+</amp-iframe>
+</div>
 
 Prendre la parole dans un groupe demande beaucoup de préparation.
 Il peut être plus facile pour vous de prendre la parole lorsque les autres personnes du groupe vous incitent à parler.
@@ -32,7 +38,6 @@ Toutefois, cette occasion ne se présente que rarement
 et lorsque vous êtes fin prêt à prendre la parole, l'opportunité de vous exprimer n'est plus là.
 
 
-<p>&nbsp;</p>
 <div class="highlight">
 <ol>
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/qu-est-ce-que-l-autisme">Introduction - Qu'est-ce que l'autisme&nbsp;?</a></li>
@@ -45,197 +50,6 @@ et lorsque vous êtes fin prêt à prendre la parole, l'opportunité de vous exp
 </ol>
 </div>
 
-
-
-
 ---
 <small>Images issues de <a href="http://www.linkedin.com/" rel="nofollow">http://www.linkedin.com</a>.</small>
 
-<script type="text/javascript">
-  function speak() {
-    var canvas = document.getElementById('game_speak');
-    var ctx = canvas.getContext('2d');
-    var mouse = {'x': undefined, 'y': undefined};
-    var cursor = 'pointer';
-    var refresh = 300;
-    var background = new Image();
-    background.src = '/assets/pages/mettez-vous-dans-la-peau-d-une-personne-autiste/speak/background.jpg';
-    var bubbles = [
-      {'img': function() {var img = new Image(); img.src='/assets/pages/mettez-vous-dans-la-peau-d-une-personne-autiste/speak/speech1.png'; return img;}(), 'pos': [
-        {'x': 335, 'y': 80, 'size': 150, 'mirror': false},
-        {'x': 390, 'y': 90, 'size': 150, 'mirror': true},
-        {'x': 75, 'y': 80, 'size': 150, 'mirror': false},
-      ]},
-      {'img': function() {var img = new Image(); img.src='/assets/pages/mettez-vous-dans-la-peau-d-une-personne-autiste/speak/speech2.png'; return img;}(), 'pos': [
-        {'x': 350, 'y': 105, 'size': 120, 'mirror': false},
-        {'x': 410, 'y': 110, 'size': 120, 'mirror': true},
-        {'x': 85, 'y': 105, 'size': 120, 'mirror': false},
-      ]},
-      {'img': function() {var img = new Image(); img.src='/assets/pages/mettez-vous-dans-la-peau-d-une-personne-autiste/speak/speech3.png'; return img;}(), 'pos': [
-        {'x': 355, 'y': 95, 'size': 130, 'mirror': false},
-        {'x': 400, 'y': 105, 'size': 130, 'mirror': true},
-        {'x': 100, 'y': 95, 'size': 130, 'mirror': false},
-      ]},
-      {'img': function() {var img = new Image(); img.src='/assets/pages/mettez-vous-dans-la-peau-d-une-personne-autiste/speak/speech4.png'; return img;}(), 'pos': [
-        {'x': 355, 'y': 95, 'size': 130, 'mirror': false},
-        {'x': 400, 'y': 105, 'size': 130, 'mirror': true},
-        {'x': 100, 'y': 95, 'size': 130, 'mirror': false},
-      ]},
-    ];
-    var sentences = {
-     'interrupt': ['Vous ne devez pas couper la parole', 'Quelqu\'un d\'autre est en train de parler', 'Attendez que les autres personnes aient fini de parler'],
-     'non interrupt': ['Est-ce réellement à votre tour de parler ?',  'Ce que vous dites est-il pertinent dans la conversation ?', 'Avez-vous réfléchi à ce que vous allez dire ?', 'Pourquoi avez-vous dit cela ?']
-    };
-    var colors = {
-     'interrupt': ['rgba(171, 25, 49, 0.9)', 'rgba(145, 47, 64, 0.9)', 'rgba(195, 66, 63, 0.9)'],
-     'non interrupt': ['rgba(91, 192, 235, 0.9)', 'rgba(253, 231, 76, 0.9)', 'rgba(78, 151, 178, 0.9)', 'rgba(244, 158, 76, 0.9)'],
-    };
-
-    var state = {'speakers': [Math.floor(Math.random()*(bubbles.length)), -1, -1], 'time': Math.floor((Math.random()*(2000-700))+700), 'previous_speaker': -1, 'text': '', 'text_clicked': '', 'time_clicked': 0, 'sentence': '', 'color': ''};
-
-    var status = {'status': 'pause', 'interval': undefined};
-    this.play = function() {
-      if ( 'play' == status['status'])
-        return;
-      canvas.onclick = click;
-      status['interval'] = setInterval(function() {
-        draw();
-      }, refresh);
-      status['status'] = 'play';
-    }
-    this.pause = function() {
-      if ( 'pause' == status['status'])
-        return;
-      clearInterval(status['interval']);
-      canvas.onclick = function(e) {};
-      status['status'] = 'pause';
-    }    
-    this.canvas = function() {
-      return canvas;
-    }
-
-    function draw() {
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
-      ctx.drawImage(background, 0, 0);
-      state['text'] += '.';
-      state['time'] -= refresh;
-      if (state['time'] < 0 && state['time_clicked'] <= 0) {
-        if (state['previous_speaker'] == -1) {
-          if (state['speakers'][0] > -1)
-            state['previous_speaker'] = 0;
-          else if (state['speakers'][1] > -1)
-            state['previous_speaker'] = 1;
-          state['speakers'][0] = -1;
-          state['speakers'][1] = -1;
-          state['time'] = Math.floor((Math.random()*(900-200))+200);
-        } else {
-          if (state['previous_speaker'] == 0) {
-            state['speakers'][1] = Math.floor(Math.random()*(bubbles.length));
-          } else {
-            state['speakers'][0] = Math.floor(Math.random()*(bubbles.length));
-          }
-          state['text'] = '';
-          state['previous_speaker'] = -1;
-          state['time'] = Math.floor((Math.random()*(2000-700))+700);
-        }
-      }
-
-      if (state['time_clicked'] > 0) {
-        state['text_clicked'] += '.';
-        state['time_clicked'] -= refresh;
-        cursor = 'default';
-      } else {
-        state['speakers'][2] = -1;
-        cursor = 'pointer';
-      }
-
-      for(var pers = 0; pers < 3; pers++ ) { // foreach speaker
-        if (state['speakers'][pers] > -1) {
-          var bubble = state['speakers'][pers];
-          if (true == bubbles[bubble]['pos'][pers]['mirror']) {
-            ctx.save();
-            ctx.scale(-1,1);
-            ctx.drawImage(bubbles[bubble]['img'], -bubbles[bubble]['pos'][pers]['x'], bubbles[bubble]['pos'][pers]['y'], -bubbles[bubble]['pos'][pers]['size'], bubbles[bubble]['pos'][pers]['size']);
-            ctx.restore();
-          } else {
-            ctx.drawImage(bubbles[bubble]['img'], bubbles[bubble]['pos'][pers]['x'], bubbles[bubble]['pos'][pers]['y'], bubbles[bubble]['pos'][pers]['size'], bubbles[bubble]['pos'][pers]['size']);
-          }
-          ctx.font = "30px Arial";
-          ctx.textAlign = "center";
-          ctx.fillStyle = "#111"
-          if ( pers < 2 ) {
-            ctx.fillText(state['text'], bubbles[bubble]['pos'][pers]['x'] + (bubbles[bubble]['pos'][pers]['size']/2), bubbles[bubble]['pos'][pers]['y'] + (bubbles[bubble]['pos'][pers]['size']/2));
-          } else {
-            ctx.fillText(state['text_clicked'], bubbles[bubble]['pos'][pers]['x'] + (bubbles[bubble]['pos'][pers]['size']/2), bubbles[bubble]['pos'][pers]['y'] + (bubbles[bubble]['pos'][pers]['size']/2));
-          }
-
-        }
-      }
-
-      if (state['speakers'][2] > -1) {
-        var text =  state['sentence'];
-        var color = state['color'];
-      } else {
-        var text = 'Cliquez pour prendre la parole';
-        var color = 'rgba(255, 255, 255, 0.9)';
-      }
-      ctx.beginPath();
-      ctx.lineWidth='2';
-      ctx.strokeStyle='#000';
-      ctx.rect(50, 400-25, canvas.width-100, 40); 
-      ctx.stroke();
-      ctx.fillStyle = color;
-      ctx.fillRect(50, 400-25, canvas.width-100, 40);
-      ctx.font = "20px Arial";
-      ctx.textAlign = "center";
-      ctx.fillStyle = "#111"
-      ctx.fillText(text, canvas.width/2, 400);
-
-      canvas.style.cursor = cursor;
-    }
-    function click(e) {
-      var r = canvas.getBoundingClientRect();
-      mouse['x']=parseInt(e.clientX) - r.left;
-      mouse['y']=parseInt(e.clientY) - r.top;
-      if (state['speakers'][2] == -1) {
-        if (state['speakers'][0] == -1 && state['speakers'][1] == -1) {
-          state['sentence'] = sentences['non interrupt'][Math.floor(Math.random()*(sentences['non interrupt'].length))];
-          state['color'] = colors['non interrupt'][Math.floor(Math.random()*(colors['non interrupt'].length))];
-        } else {
-          state['sentence'] = sentences['interrupt'][Math.floor(Math.random()*(sentences['interrupt'].length))];
-          state['color'] = colors['interrupt'][Math.floor(Math.random()*(colors['interrupt'].length))];
-        }
-        state['text_clicked'] = '';
-        state['time_clicked'] = 3000;
-        state['speakers'][2] = Math.floor(Math.random()*(bubbles.length));
-      }
-    }
-  }
-
-  function isScrolledIntoView(el) {
-    var elemTop = el.getBoundingClientRect().top;
-    var elemBottom = el.getBoundingClientRect().bottom;
-
-    var isVisible = ((elemTop >= 0) && (elemTop <= window.innerHeight)) || ((elemBottom >= 0) && (elemBottom <= window.innerHeight)) || ((elemTop < 0) && (elemBottom > window.innerHeight));
-    return isVisible;
-  }
-
-
-
-  document.body.onload = function() {
-    var canvas = [new speak()];
-    function load_visible() {
-      for (var i = 0; i < canvas.length ; i++) {
-        if (isScrolledIntoView(canvas[i].canvas())) {
-          canvas[i].play();
-        } else {
-          canvas[i].pause();
-        }
-      }
-    }
-    document.body.onscroll = load_visible;
-    document.body.onresize = load_visible;
-    load_visible();
-  }
-
-</script>

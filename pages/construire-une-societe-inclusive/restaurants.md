@@ -3,7 +3,10 @@ layout: page
 title: "Construire une société inclusive - Restaurants et bars"
 permalink: /construire-une-societe-inclusive/restaurants
 hide_header_link: true
+oembed_image: /assets/pages/construire-une-societe-inclusive/restaurants/ID-100442933.jpg
 ---
+
+<amp-img class="left" width="200" height="300" src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-10065277.jpg" alt="ID-10065277"></amp-img>
 
 Les restaurants et les bars font partis de la vie de tous les jours. Souvent nous y allons pour nous détendre ou pour marquer les grandes occasions.
 
@@ -14,14 +17,6 @@ Ces éléments posent de sérieuses difficultés pour les personnes avec autisme
 
 Environ une personne sur 100 est actuellement affectée par l'autisme.
 En devenant sensibilisé aux difficultés de cette population et en faisant de petits changements, vous pouvez trouver de nouveaux clients tout en faisant une contribution à la société.
-
-<img src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-10065277.jpg" class="left" alt="ID-10065277" width="200" />
-
-
-<!--
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" class="left" alt="dict" />
--->
-
 
 
 ###  Restaurants et bars - Challenges pour les personnes avec autisme
@@ -41,7 +36,7 @@ Pour ceux qui sont verbaux, le langage peut être scripté ou mécanique. Cepend
 
 La communication est bien plus que la parole.
 
-<img src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100442933.jpg" class="right" alt="ID-100442933" width="200" />
+<amp-img class="right" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100442933.jpg" alt="ID-100442933"></amp-img>
 
 Les personnes avec autisme peuvent trouver difficile de comprendre le langage abstrait ou les figures de style.
 Les personnes avec autisme peuvent avoir une compréhension littérale du langage.
@@ -71,7 +66,6 @@ Cela peut rendre l'étape de commande très longue, générer de l'anxiété et 
 
 #### Routine
 
-<img src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100262514.jpg" class="left" alt="ID-100262514" width="250" />
 
 La routine est très importante pour beaucoup de personnes avec autisme. Les changements peuvent impacter la capacité des personnes à venir dans le restaurant.
 Si une personne a une réunion ou un événement au travail suivi d'un repas au restaurant
@@ -79,6 +73,8 @@ ou bien que sa famille l'emmène en restaurant, si ces événements sont inhabit
 Cela peut limiter la capacité de la personne à apprécier les plats et l'environnement.
 
 De plus, pour un client venant régulièrement, des changements dans votre restaurant peuvent avoir les mêmes effets.
+
+<amp-img class="center" width="250" height="166" src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100262514.jpg" alt="ID-100262514"></amp-img>
 
 #### Anxiété
 
@@ -119,13 +115,13 @@ Le personnel peut avoir besoin d'une grande expertise dans l'autisme mais de pet
 
 #### Fournir des aides visuelles
 
-<img src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100207637.jpg" class="left" alt="ID-100207637" width="250" />
 
 Fournissez sur votre site web des images ou une visite à 360° de vos locaux, de votre parking, de la vaisselle etc
 Vous pouvez également indiquer la procédure à suivre pour passer une commande, comment payer la facture et les différentes règles que vous avez.
 N'oubliez pas d'inclure les heures d'ouverture et de fermeture.
 Cela peut grandement aider les personnes avec autisme et leur famille à préparer leur venue.
 
+<amp-img class="center" width="250" height="166" src="/assets/pages/construire-une-societe-inclusive/restaurants/ID-100207637.jpg" alt="ID-100207637"></amp-img>
 
 #### Fournir des tables «&nbsp;Autism friendly&nbsp;»
 
@@ -168,6 +164,6 @@ C'est une petite adaptation pour vous qui peut être un grand atout pour les cli
 Il n'y a pas deux restaurants identiques.
 Rencontrez les associations œuvrant dans le domaine de l'autisme pour leur demander conseil sur les adaptations que vous pouvez faire.
 
-
+---
 <small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

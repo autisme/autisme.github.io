@@ -15,7 +15,7 @@ Dans les sections ci-dessous, nous introduisons le handicap et ses caractéristi
 # Ressources
 
   - [Syndrome d'Asperger](/autisme/syndrome-asperger)
-  - [Mythes et préjugés](/autisme/mythes-et-prejuges)
+  - [Mythes et préjugés](/mythes-et-prejuges)
   - [Principaux symptômes](/autisme/principaux-symptomes)
   - [Handicaps associés](/autisme/handicaps-associes)
-  - [Ce que VOUS pouvez faire pour construire une société inclusive ?](/autisme/ce-que-vous-pouvez-faire-pour-construire-une-societe-inclusive)
+  - [Ce que VOUS pouvez faire pour construire une société inclusive ?](/construire-une-societe-inclusive/)

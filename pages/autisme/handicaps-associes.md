@@ -3,6 +3,7 @@ layout: page
 title: Handicaps associés
 permalink: /autisme/handicaps-associes
 hide_header_link: true
+oembed_image: /assets/pages/autisme/handicaps-associes/ID-100185923.jpg
 ---
 Beaucoup de personnes avec autisme sont affectés par d'autres handicaps.
 Cela montre combien il est important de regarder chaque personne avec autisme
@@ -17,7 +18,7 @@ De la même façon, l'autisme doit être pris en compte et ne pas être vu comme
 Ci-dessous, nous fournissons une courte liste de certains handicaps qui sont souvent
 en comorbidité avec l'autisme.
 
-<img src="/assets/pages/autisme/handicaps-associes/ID-100185923.jpg" class="left" alt="ID-100185923" width="300" />
+<amp-img class="left" width="300" height="200" src="/assets/pages/autisme/handicaps-associes/ID-100185923.jpg" alt="ID-100185923"></amp-img>
 
 ### Dyslexie, Dyspraxie, TDAH
 

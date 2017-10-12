@@ -3,6 +3,9 @@ layout: page
 title: Syndrome d'Asperger
 permalink: /autisme/syndrome-asperger
 hide_header_link: true
+oembed_image: /assets/pages/autisme/syndrome-asperger/ID-100383835.jpg
+modules:
+  - youtube
 ---
 
 Le terme de «&nbsp;Syndrome d'Asperger&nbsp;» fait référence à un profil particulier sur le spectre de l'autisme.
@@ -22,7 +25,7 @@ Toutefois, les personnes avec un Syndrome d'Asperger peuvent avoir des difficult
 Habituellement, les personnes avec un Syndrome d'Asperger n'ont pas de retard intellectuel comme peuvent avoir certaines personnes avec autisme.
 Toutefois, elles peuvent avoir des difficultés d'apprentissage ou des handicaps associés comme la dyslexie.
 
-<img src="/assets/pages/autisme/syndrome-asperger/ID-100383835.jpg" class="left" alt="ID-100383835" width="300" />
+<amp-img class="left" width="300" height="200" src="/assets/pages/autisme/syndrome-asperger/ID-100383835.jpg" alt="ID-100383835"></amp-img>
 
 
 Les personnes avec un Syndrome d'Asperger ont souvent des intérêts spéciaux sur lesquels ils peuvent se concentrer pendant longtemps et dans lesquels ils peuvent devenir très talentueux.
@@ -49,6 +52,7 @@ Beaucoup de thèses ont été écrites pour explorer ce sujet. D'après le docte
 les enfants avec un Syndrome d'Asperger et un autisme de haut niveau ont les mêmes difficultés et ont besoin des mêmes aides pour se faire des amis, pour apprendre à gérer les émotions, et pour coordonner leurs gestes.
 En conséquence, pour les écoles, la différence est seulement historique (Vidéo en anglais&nbsp;: [https://www.youtube.com/watch?v=NXhSfqOiI7o](https://www.youtube.com/watch?v=NXhSfqOiI7o) )
 
+<amp-youtube class="center" data-videoid="NXhSfqOiI7o" width="480" height="270"></amp-youtube>
 
 ### Est-ce que le Syndrome d'Asperger est un diagnostic qui a été supprimé&nbsp;?
 La réponse à cette question est liée à la question précédente.

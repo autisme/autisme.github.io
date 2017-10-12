@@ -1,11 +1,12 @@
 ---
 layout: page
-title: "Construire une société inclusive - Introduction : Qu'est-ce que l'autisme&nbsp;?"
+title: "Construire une société inclusive - Introduction : Qu'est-ce que l'autisme ?"
 permalink: /construire-une-societe-inclusive/introduction
 hide_header_link: true
+oembed_image: /assets/pages/construire-une-societe-inclusive/introduction/dict.jpg
 ---
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" class="left" alt="dict" />
+<amp-img class="left" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" alt="dict"></amp-img>
 
 ### Qu'est-ce que l'autisme&nbsp;?
 
@@ -55,7 +56,7 @@ Avec cela à l'esprit, vous devriez être mieux capable de comprendre ce qu'est 
 Vous pouvez considérer nos propres expériences de sorte à vous adapter et à aider les personnes avec autisme à vivre dans la société.
 
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-10023496.jpg" class="left" alt="ID-10023496" />
+<amp-img class="left" width="400" height="266" src="/assets/pages/construire-une-societe-inclusive/introduction/ID-10023496.jpg" alt="ID-10023496"></amp-img>
 
 ### Mythes
 
@@ -109,7 +110,7 @@ Cela arrive car l'autisme est quelque chose d'invisible et les gens peuvent se p
 
 #### Communication
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-100113701.jpg" class="left" alt="ID-100113701" />
+<amp-img class="right" width="400" height="266" src="/assets/pages/construire-une-societe-inclusive/introduction/ID-100113701.jpg" alt="ID-100113701"></amp-img>
 
 Les personnes sur le spectre autistique ont des compétences variées en communication.
 Cela va de ceux qui ont des compétences exceptionnelles d'expression à ceux qui n'ont pas ou peu de compétences verbales.
@@ -120,7 +121,6 @@ Cela génère du stress qui peut compromettre leur capacité de communication.
 
 #### Socialisation
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-10025772.jpg" class="left" alt="ID-10025772" />
 
 Socialiser ou interagir avec les autres gens peut être difficile pour les personnes avec autisme.
 Beaucoup de personnes peuvent être anxieuses et stressés dans les situations sociales.
@@ -129,6 +129,11 @@ Ces défis peuvent être une barrière à la socialisation.
 Il peut être difficile pour les personnes avec autisme de se faire des amis et d'échanger avec les étudiants ou les collègues de travail.
 Comme l'autisme est un handicap «&nbsp;invisible&nbsp;», les personnes sont vues comme étranges, bizarres.
 Le harcèlement, l'isolation et l'exclusion sont les conséquences de cela.
+
+<amp-img class="center" width="400" height="266" src="/assets/pages/construire-une-societe-inclusive/introduction/ID-10025772.jpg" alt="ID-10025772"></amp-img>
+
+
+
 
 #### Traitement sensoriel
 
@@ -174,7 +179,7 @@ De même, elles peuvent être très concentrées sur les sujets qu'elles aiment 
 
 #### Stress et anxiété
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-100238497.jpg" class="left" alt="ID-100238497" />
+<amp-img class="left" width="400" height="266" src="/assets/pages/construire-une-societe-inclusive/introduction/ID-100238497.jpg" alt="ID-100238497"></amp-img>
 
 C'est l'anxiété qui est le plus grand problème des personnes avec autisme.
 Plus une personne est anxieuse, plus les problèmes associés comme la communication ou les problèmes sensoriels deviennent compliqués.
@@ -242,7 +247,7 @@ Considérez l'environnement sensoriel, et particulièrement ce que les personnes
 
 #### Regarder les compétences en communication
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/ID-10075051.jpg" class="left" alt="ID-10075051" width="200" />
+<amp-img class="left" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/introduction/ID-10075051.jpg" alt="ID-10075051"></amp-img>
 
 Êtes-vous toujours limpides dans ce que vous dites&nbsp;? 
 Est-ce que les gens ne sont pas confus par les figures de style et l'humour que vous utilisez&nbsp;?
@@ -256,4 +261,5 @@ Vous avez lu ceci, vous avez aimé&nbsp;?
 
 Faites passer le message au travers de vos conversations, des réseaux sociaux et faites passer la connaissance à au moins une personne&nbsp;!
 
+---
 <small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>

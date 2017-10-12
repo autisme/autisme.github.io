@@ -2,9 +2,12 @@
 layout: page
 title: À propos
 permalink: /a-propos
+oembed_image: /assets/about.jpg
+modules:
+  - iframe
 ---
 
-<img src="/assets/about.jpg" width="250" class="left" alt="About us" />
+<amp-img class="left" width="250" height="176" src="/assets/about.jpg" alt="About us"></amp-img>
 
 Ce site a été créé dans le but de fournir un portail d'information sur l'autisme.
 Le web contient une grande quantité d'informations sur l'autisme.
@@ -31,18 +34,13 @@ Bonne visite. Bastien.
 
 ## Nous contacter
 
-Pour nous contacter&nbsp;: <strong><span class="contact"><span id="contact">PLEASE-ACTIVATE-JAVASCRIPT--TPIRCSAVAJ-ETAVITCA-ESAELP</span></span></strong>.
+Pour nous contacter&nbsp;: 
 
-<script type="text/javascript">window.document.getElementById('contact').innerHTML = '@';</script>
-<style type="text/css">
-.contact {
-	unicode-bidi: bidi-override;
-	direction: rtl;
-}
+<div class="center">
+ <amp-iframe width="300" height="50" sandbox="allow-scripts allow-same-origin" src="/html/email.html"></amp-iframe>
+</div>
 
-#contact:before { content: "gro.siafnoc"; }
-#contact:after { content: "emsitua"; }
-</style>
+
 
 Si vous souhaitez nous rencontrer, nous sommes situés à Nantes (France). Il peut être possible de nous déplacer. Écrivez-nous avant pour discuter des modalités.
 

@@ -3,14 +3,16 @@ layout: page
 title: "Construire une société inclusive - Services de soins et de santé"
 permalink: /construire-une-societe-inclusive/services-de-soins-et-de-sante
 hide_header_link: true
+oembed_image: /assets/pages/construire-une-societe-inclusive/introduction/dict.jpg
 ---
+
+<amp-img class="right" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" alt="dict"></amp-img>
 
 Environ une personne sur 100 est actuellement concernée par l'autisme.
 Il y a des personnes qui n'ont pas un de diagnostic car l'autisme n'impacte pas suffisamment leur vie.
 Et puis il y a les personnes, toujours plus nombreuses d'années en années, ayant reçu un diagnostic. Pour celles-ci, l'autisme pose de nombreuses difficultés dans leur vie quotidienne.
 Certaines tâches et activités de la vie quotidienne génèrent beaucoup de stress et d'anxiété.
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" class="right" alt="dict" />
 
 Le spectre de l'autisme est large et les personnes sont impactées de différentes façons.
 Il n'y a pas deux personnes avec autisme qui ont les mêmes difficultés.
@@ -156,6 +158,7 @@ Pour améliorer la situation, vous pouvez sensibiliser à l'autisme en affichant
 
 
 
+---
 <small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
 

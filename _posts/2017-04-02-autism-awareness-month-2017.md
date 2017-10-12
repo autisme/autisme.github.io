@@ -19,11 +19,11 @@ Cela me semble une étape essentielle à la construction d'une société inclusi
 Un exemple que j'aime bien est que je suis sensibilisé au fait que le mandarin est une langue mais je ne le parle pas. 
 Par conséquent je ne peux pas inclure une personne qui ne parle que cette langue.
 
-Aujourd'hui plus d'<span style="font-size: 2em;">1</span> personne sur <span style="font-size: 2em;">100</span> est affectée par autisme. Tout le monde connaît une personne avec autisme. Nous ne pouvons plus exclure ces personnes de la société.
+Aujourd'hui plus d'<span class="big">1</span> personne sur <span class="big">100</span> est affectée par autisme. Tout le monde connaît une personne avec autisme. Nous ne pouvons plus exclure ces personnes de la société.
 L'inclusion n'est plus une option, c'est une obligation.
 
 <div align="center">
-<img src="/assets/posts/2017-04-02/1in100.jpg" alt="1 in 100 people" />
+<amp-img class="center" width="460" height="300" src="/assets/posts/2017-04-02/1in100.jpg" alt="1 in 100 people" ></amp-img>
 </div>
 
 
@@ -165,10 +165,7 @@ Beaucoup de problèmes que les personnes avec autisme rencontrent dans la socié
 Ils n'osent pas demander ce qu'ils doivent faire, comment agir dans telle situation.
 N'oubliez pas que demander c'est aussi apprendre.
 
-<div align="center">
-<img src="/assets/posts/2017-04-02/blackboard.png" alt="continuous improvement" />
-</div>
-
+<amp-img class="center" width="350" height="233" src="/assets/posts/2017-04-02/blackboard.png" alt="continuous improvement"></amp-img>
 
 Il est temps d'arrêter de se focaliser sur ce que les personnes avec autisme ont du mal à faire ou ne peuvent pas faire.
 Il est temps de se demander « dans quel domaine cette personne est-elle bonne ? », « qu'est-ce que cette personne réussi le mieux ? », « comment cette personne peut-elle développer son plein potentiel ? ».
@@ -176,18 +173,5 @@ Il est temps de se demander « dans quel domaine cette personne est-elle bonne�
 Ce n'est pas de la charité de permettre aux personnes avec autisme de trouver un travail,
 une maison, de vivre de façon indépendante ou encore d'aller dans leur école de quartier.
 C'est un problème de respect des droits de l'homme.
-
-<!--
-%En ce mois de sensibilisation
-%C'est de permettre aux personnes avec autisme de vivre dans la société.
-%Deux axes de travail sont possibles, aider les personnes autisme à dépasser certaines de leurs difficultés (thérapies)
-%et faire en sorte que l'autisme soit accepté dans la société. À mon sens, ces deux axes ne s'opposent pas.
-%Nous avons beaucoup de retard dans la prise en compte de l'autisme en France mais nous ne devons faire comprendre l'autisme de façon plus large
-%Combien de personnes
-%Encore trop peu de personnes
-%'est un échec de la société qui n'a pas su aider ces personnes.
-
-
--->
 
 Bastien

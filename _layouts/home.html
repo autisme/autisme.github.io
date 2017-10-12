@@ -1,44 +1,40 @@
 ---
 layout: default
 ---
-
+<!--
 <div id="recruit">
-<a href="/exprimez-vous">
-Vous souhaitez raconter votre parcours de diagnostic, votre parcours scolaire, ou décrire les aides dont vous avez bénéficié et qui vous ont été utiles, n'hésitez pas à nous contacter. <span class="underline">En savoir plus</span>.
-</a>
-<span onClick="var e = document.getElementById('recruit'); var f = document.getElementById('iam'); e.parentNode.removeChild(e); f.style.marginTop='0';">×</span>
+ <a href="/exprimez-vous">Vous souhaitez raconter votre parcours de diagnostic, votre parcours scolaire, ou décrire les aides dont vous avez bénéficié et qui vous ont été utiles, n'hésitez pas à nous contacter. <span class="underline">En savoir plus</span>.</a>
+ <span onClick="var e = document.getElementById('recruit'); var f = document.getElementById('iam'); e.parentNode.removeChild(e); f.style.marginTop='0';">×</span>
 </div>
+-->
 
 <div id="iam">
-<p>Je suis…</p>
-
-<ul id="iamlist">
- <li><a href="/je-suis-une-personne-avec-autisme" id="personal">Une personne avec autisme</a></li>
- <li><a href="/je-suis-un-parent-membre-de-l-entourage" id="parent">Un parent / un membre de l'entourage</a></li>
- <li><a href="/je-suis-un-professionnel" id="professional">Un professionnel<br />&nbsp;</a></li>
- <li><a href="/autisme" id="autisme">À propos de l'autisme<br /></a></li>
-</ul>
+ <p>Je suis…</p>
+ <ul id="iamlist">
+  <li><a href="/je-suis-une-personne-avec-autisme" id="personal">Une personne avec autisme</a></li>
+  <li><a href="/je-suis-un-parent-membre-de-l-entourage" id="parent">Un parent / un membre de l'entourage</a></li>
+  <li><a href="/je-suis-un-professionnel" id="professional">Un professionnel<br />&nbsp;</a></li>
+  <li><a href="/autisme" id="autisme">À propos de l'autisme<br /></a></li>
+ </ul>
 </div>
 
 
 <div id="involved">
-<p>Comment puis-je m'impliquer&nbsp;?</p>
-
-<ul id="involvedlist">
- <li><a href="/construire-une-societe-inclusive" id="construire-une-societe-inclusive">Ce que VOUS pouvez faire pour construire une société inclusive</a></li>
- <li><a href="/exprimez-vous" id="prenez-la-parole">Donnez votre avis,<br />racontez votre histoire</a></li>
-</ul>
+ <p>Comment puis-je m'impliquer&nbsp;?</p>
+ <ul id="involvedlist">
+  <li><a href="/construire-une-societe-inclusive" id="construire-une-societe-inclusive">Ce que VOUS pouvez faire pour construire une société inclusive</a></li>
+  <li><a href="/exprimez-vous" id="prenez-la-parole">Donnez votre avis,<br />racontez votre histoire</a></li>
+ </ul>
 </div>
 
 <small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
 <div id="cols">
-<div class="col-blog">
+ <div class="col-blog">
   {% include blog.html %}
   <p><a class="more-articles" href="/blog#post-4">Plus d'articles</a></p>
-</div>
-<div class="col-twitter">
-  <a class="twitter-timeline" data-height="1000" href="https://twitter.com/BastienBConfais">Tweets by @BastienBConfais</a>
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+ </div>
+ <div class="col-twitter">
+  <amp-iframe width="200" height="1000" sandbox="allow-scripts allow-same-origin" layout="responsive" src="/html/twitter-timeline.html"></amp-iframe>
+ </div>
 </div>

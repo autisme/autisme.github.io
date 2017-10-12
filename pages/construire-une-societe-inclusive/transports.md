@@ -3,14 +3,16 @@ layout: page
 title: "Construire une société inclusive - Transports en commun"
 permalink: /construire-une-societe-inclusive/transports
 hide_header_link: true
+oembed_image: /assets/pages/construire-une-societe-inclusive/transports/ID-1005839.jpg
 ---
+
 
 Environ une personne sur 100 est actuellement concernée par l'autisme.
 Il y a des personnes qui n'ont pas un de diagnostic car l'autisme n'impacte pas suffisamment leur vie.
 Et puis il y a les personnes, toujours plus nombreuses d'années en années, ayant reçu un diagnostic. Pour celles-ci, l'autisme pose de nombreuses difficultés dans leur vie quotidienne.
 Certaines tâches et activités de la vie quotidienne génèrent beaucoup de stress et d'anxiété.
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" class="right" alt="dict" />
+<amp-img class="center" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" alt="dict"></amp-img>
 
 Le spectre de l'autisme est large et les personnes sont impactées de différentes façons.
 Il n'y a pas deux personnes avec autisme qui ont les mêmes difficultés.
@@ -35,7 +37,7 @@ Les personnes avec autisme représentent environ 1 client sur 100.
 
 ### Transports en commun - Challenges pour les personnes avec autisme
 
-<img src="/assets/pages/construire-une-societe-inclusive/transports/ID-1005839.jpg" class="left" alt="ID-1005839.jpg" width="200" />
+<amp-img class="left" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/transports/ID-1005839.jpg" alt="ID-1005839.jpg"></amp-img>
 
 #### Traitement sensoriel
 
@@ -96,7 +98,7 @@ Un train ou un bus en retard, une route fermée peuvent générer beaucoup de st
 
 #### Anxiété
 
-<img src="/assets/pages/construire-une-societe-inclusive/transports/ID-100262514.jpg" class="left" alt="ID-100262514" width="200" />
+<amp-img class="left" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/transports/ID-100262514.jpg" alt="ID-100262514"></amp-img>
 
 Quand les choses ne sont pas claires ou qu'une situation imprévue se produit, les personnes avec autisme peuvent devenir très anxieuses.
 Plus une personne est anxieuse, plus il est difficile pour elle d'apprécier le moment présent.
@@ -176,7 +178,7 @@ Voulez-vous que 1 client sur 100 soit confiant dans l'utilisation de vos service
 
 #### Informer des changements
 
-<img src="/assets/pages/construire-une-societe-inclusive/transports/ID-10019322.jpg" class="right" alt="ID-10019322.jpg" width="200" />
+<amp-img class="right" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/transports/ID-10019322.jpg" alt="ID-10019322.jpg"></amp-img>
 
 Les changements sont difficiles pour les personnes avec autisme.
 Cela peut être plus facile si elles ont du temps pour s'y préparer.
@@ -184,6 +186,7 @@ Cela peut être plus facile si elles ont du temps pour s'y préparer.
 Pourquoi ne pas informer les passagers avec autisme où les informations telles que les retards sont envoyées
 (autant que possible) en avance&nbsp;?
 
+---
 <small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
 

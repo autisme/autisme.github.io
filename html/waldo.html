@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+ <head>
+  <meta charset="utf-8" />
+  <meta name="robots" content="noindex" />
+  <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
+ </head>
+ <body>
+  <canvas id="game_waldo" width="700" height="500"></canvas>
+  <script type="text/javascript">
+  function waldo() {
+    var self = this;
+    waldos = [
+     {'src': '/html/assets/waldo/background1.jpg', 'waldo': {'x': 514.5, 'y': 170}},
+     {'src': '/html/assets/waldo/background2.jpg', 'waldo': {'x': 512.5, 'y': 116}},
+     {'src': '/html/assets/waldo/background3.jpg', 'waldo': {'x': 348.5, 'y': 103}},
+     {'src': '/html/assets/waldo/background4.jpg', 'waldo': {'x': 484.5, 'y': 181}},
+     {'src': '/html/assets/waldo/background5.jpg', 'waldo': {'x': 300.5, 'y': 138}}
+    ]
+    var waldo = waldos[Math.floor((Math.random() * waldos.length))];
+    var canvas = document.getElementById('game_waldo');
+    var ctx = canvas.getContext('2d');
+    var background = new Image();
+    background.src = waldo['src'];
+    var zoom = 6;
+    var targetbox = 10;
+    var start = false;
+    var win = false;
+    var chronos;
+    var chronos_fixed;
+    var refresh = 10;
+    var mouse = {'x': undefined, 'y': undefined};
+
+    var status = {'status': 'pause', 'interval': undefined};
+
+    this.play = function() {
+      if ( 'play' == status['status'])
+        return;
+      canvas.onmousemove = move;
+      canvas.onclick = click;
+      status['interval'] = setInterval(function() {
+        chronos += refresh;
+        draw();
+      }, refresh);
+      status['status'] = 'play';
+    }
+    this.pause = function() {
+      if ( 'pause' == status['status'])
+        return;
+      canvas.onmousemove = function(e) {}
+      canvas.onclick = function(e) {}
+      clearInterval(status['interval']);
+      status['status'] = 'pause';
+    }
+    this.canvas = function() {
+      return canvas;
+    }
+
+
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.drawImage(background, 0, 0, 700, 500);
+      if (true == win) {
+        ctx.fillStyle = "rgba(255, 255, 255, 0.7)";
+        ctx.beginPath();
+        ctx.rect(0, 0, 700, 500);
+        ctx.fill();
+
+        ctx.beginPath();
+        ctx.fillStyle = "#111";
+        ctx.rect((700/2)-100, (500/2)-40, 200, 60);
+        ctx.stroke();
+        ctx.textAlign = "center";
+        ctx.font = "25px Arial";
+        ctx.fillText("Recommencer",700/2,500/2);
+        ctx.font = "20px Arial";
+        ctx.fillText("Bravo",700/2,(500/2)-100);
+        ctx.fillText("(" + (chronos_fixed/1000).toFixed(2) + " secondes)",700/2,(500/2)-75);
+        return;
+      }
+
+      if (false == start) {
+        ctx.beginPath();
+        ctx.fillStyle = "rgba(255, 255, 255, 0.7)";
+        ctx.rect(0, 0, 700, 500);
+        ctx.fill();
+
+        ctx.beginPath();
+        ctx.fillStyle = "#111";
+        ctx.rect((700/2)-100, (500/2)-40, 200, 60);
+        ctx.stroke();
+        ctx.textAlign = "center";
+        ctx.font = "30px Arial";
+        ctx.fillText("Commencer",700/2,500/2);
+        return;
+      }
+
+      if (undefined == mouse['x'] || undefined == mouse['y']) {
+        return;
+      }
+      ctx.drawImage(background, (mouse['x']*background.width/700) - ((700/zoom)/2), (mouse['y']*background.height/500) - ((500/zoom)/2), 700/zoom, 500/zoom, mouse['x'] - 75, mouse['y'] - 75, 150, 150);
+
+      ctx.fillStyle = "#111";
+      ctx.textAlign = "center";
+      ctx.font = "30px Arial";
+      ctx.fillText(""+(chronos/1000).toFixed(2),50, 40);
+
+
+    }
+    function move(e) {
+      var r = canvas.getBoundingClientRect();
+      mouse['x']=parseInt(e.clientX) - r.left;
+      mouse['y']=parseInt(e.clientY) - r.top;
+
+      if (false == start || true == win) {
+        if ((mouse['x'] > (700/2)-100) && (mouse['y'] > (500/2)-40) && (mouse['x'] < (700/2)+100) && (mouse['y'] < (500/2)+20)) {
+          canvas.style.cursor = 'pointer';
+        } else {
+          canvas.style.cursor = 'default';
+        }
+        return;
+      }
+      canvas.style.cursor = 'pointer';
+      draw();
+    }
+
+    function click(e) {
+      var r = canvas.getBoundingClientRect();
+      var x = parseInt(e.clientX) - r.left;
+      var y = parseInt(e.clientY) - r.top;
+      if (false == start || true == win) {
+        if ((mouse['x'] > (700/2)-100) && (mouse['y'] > (500/2)-40) && (mouse['x'] < (700/2)+100) && (mouse['y'] < (500/2)+20)) {
+          if ( true == win ) {
+            waldo = waldos[Math.floor((Math.random() * waldos.length))];
+            background.src = waldo['src'];
+          } else {
+          }
+          start = true;
+          win = false;
+          chronos = 0.0;
+          draw();
+        }
+        return;
+      }
+      if ((x > waldo['waldo']['x']-targetbox) && (x < waldo['waldo']['x']+targetbox) && (y > waldo['waldo']['y']-targetbox) && (y < waldo['waldo']['y']+targetbox)) {
+         win = true;
+         chronos_fixed = chronos;
+         draw();
+
+      }
+      console.log('x:' + x + ' y:' + y);
+    }
+  }
+  function isScrolledIntoView(el) {
+    var elemTop = el.getBoundingClientRect().top;
+    var elemBottom = el.getBoundingClientRect().bottom;
+
+    var isVisible = ((elemTop >= 0) && (elemTop <= window.innerHeight)) || ((elemBottom >= 0) && (elemBottom <= window.innerHeight)) || ((elemTop < 0) && (elemBottom > window.innerHeight));
+    return isVisible;
+  }
+  document.body.onload = function() {
+    var canvas = [new waldo()];
+    function load_visible() {
+      for (var i = 0; i < canvas.length ; i++) {
+        if (isScrolledIntoView(canvas[i].canvas())) {
+          canvas[i].play();
+        } else {
+          canvas[i].pause();
+        }
+      }
+    }
+    document.body.onscroll = load_visible;
+    document.body.onresize = load_visible;
+    load_visible();
+  }
+  </script>
+ </body>
+</html>

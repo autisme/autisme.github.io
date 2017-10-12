@@ -3,6 +3,7 @@ layout: page
 title: "Construire une société inclusive - Divertissements"
 permalink: /construire-une-societe-inclusive/divertissements
 hide_header_link: true
+oembed_image: /assets/pages/construire-une-societe-inclusive/divertissements/ID-100442933.jpg
 ---
 
 Les cinémas, les concerts, les théâtres, les stades, les bowlings - tous ces lieux
@@ -19,16 +20,16 @@ C'est plutôt l'environnement qui est difficile. Cependant avec quelques changem
 
 ### Divertissements - Challenges pour les personnes avec autisme
 
+<amp-img class="left" width="400" height="266" src="/assets/pages/construire-une-societe-inclusive/divertissements/ID-100442933.jpg" alt="ID-100442933"></amp-img>
+
 #### Communication
 
 Les problèmes de communications auxquels les personnes avec autisme font face sont divers et variés.
-
 
 Certaines personnes excèlent dans le maniement du langage, au point de paraître distant ou brutal tandis que d'autres sont non verbaux avec beaucoup de personnes entre ces deux extrêmes.
 Pour ceux qui sont non verbaux, ne pas pouvoir communiquer dans un lieu de divertissement pour exprimer une difficulté ou leur joie peut être très frustrant.
 Il existe plusieurs apps et outils pour votre business afin d'aider les personnes à exprimer leurs besoins.
 
-<img src="/assets/pages/construire-une-societe-inclusive/divertissements/ID-100442933.jpg" class="right" alt="ID-100442933" width="200" />
 
 Pour ceux qui sont verbaux, le langage peut être scripté ou mécanique. Cependant il est important que le personnel ne l'interprète pas comme des mauvaises manières car
 cela peut générer de l'anxiété si la personne sent qu'elle est vue comme hostile.
@@ -71,9 +72,9 @@ Si une personne avec autisme va dans un endroit nouveau, cela peut être très s
 De même, si une personne a l'habitude de venir souvent dans un endroit et que quelque chose change comme par exemple un membre du personnel qui est n'est plus là, un changement dans l'aménagement des locaux, cela peut générer de l'anxiété.
 En aidant les familles à se préparer pour une visite et en prévenant les personnes de futurs changements, vous pouvez rendre la vie plus facile pour tout le monde.
 
-#### Anxiété
+<amp-img class="left" width="250" height="250" src="/assets/pages/construire-une-societe-inclusive/divertissements/ID-100246951.jpg" alt="ID-100246951.jpg"></amp-img>
 
-<img src="/assets/pages/construire-une-societe-inclusive/divertissements/ID-100246951.jpg" class="left" alt="ID-100246951.jpg" width="250" />
+#### Anxiété
 
 Quand les choses ne sont pas assez claires ou qu'une situation non prévue se produit, une personne avec autisme peut devenir anxieuse.
 
@@ -118,12 +119,12 @@ Vous pouvez penser que beaucoup d'expertise est requise pour aider ces personnes
 
 #### Fournir des aides visuelles
 
-<img src="/assets/pages/construire-une-societe-inclusive/divertissements/ID-100207637.jpg" class="left" alt="ID-100207637" width="250" />
-
 Une bonne façon pour les personnes avec autisme à quelque chose de nouveau est d'utiliser des aides visuelles.
 Fournir des images ou une visite à 360° est d'une grande aide pour les familles et les personnes avec autisme pour préparer leur arrivée.
 
 Vous pouvez également détailler les procédures pour réserver/acheter un ticket ou sur le déroulement de l'événement, ce à quoi s'attendre et les règles que vous avez.
+
+<amp-img class="center" width="250" height="166" src="/assets/pages/construire-une-societe-inclusive/divertissements/ID-100207637.jpg" alt="ID-100207637"></amp-img>
 
 #### Mettre en place des séances «&nbsp;autism friendly&nbsp;»
 
@@ -144,5 +145,6 @@ Il n'y a pas deux événements identiques.
 Rencontrez les associations œuvrant dans le domaine de l'autisme pour leur demander conseil sur les adaptations que vous pouvez faire.
 
 
-
+---
+<small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

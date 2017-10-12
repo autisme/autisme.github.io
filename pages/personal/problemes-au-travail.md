@@ -3,9 +3,10 @@ layout: page
 title: Problèmes souvent rencontrés au travail
 permalink: /je-suis-une-personne-avec-autisme/problemes-au-travail
 hide_header_link: true
+oembed_image: /assets/pages/personal/problemes-au-travail/shutterstock_400477627_1.jpg
 ---
 
-<img src="/assets/pages/personal/problemes-au-travail/shutterstock_400477627_1.jpg" class="left" alt="ID_400477627" />
+<amp-img class="left" width="403" height="269" src="/assets/pages/personal/problemes-au-travail/shutterstock_400477627_1.jpg" class="left" alt="ID_400477627"></amp-img>
 
 Beaucoup de personnes avec autisme ont du mal à trouver ou à garder un emploi. 
 Pourquoi est-ce si difficile&nbsp;?

@@ -48,3 +48,9 @@ avec autisme peuvent être énormes.
 Il est important de leur rappeler que l'université est une étape de la vie parmi tant d'autres.
 Encouragez les à discuter de leurs préoccupations et soyez prêts à
 envisager d'autres options telles qu'une année sabbatique si elles ne se sentent pas encore prêtes à faire la transition vers l'université.
+
+<a href="/transition-vers-l-universite" class="big center">
+ <span class="subtitle">Consultez également nos</span>
+ <span>Conseils pour bien démarrer à l'université</span>
+</a>
+

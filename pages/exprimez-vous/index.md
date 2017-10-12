@@ -4,6 +4,8 @@ title: Exprimez-vous
 permalink: /exprimez-vous
 hide_header_link: true
 oembed_image: /assets/pages/exprimez-vous/we_need_you.png
+modules:
+  - iframe
 ---
 
 
@@ -15,7 +17,7 @@ Ci-dessous, une liste de domaines dans lesquels nous cherchons de l'aide princip
 vous avez d'autres compétences ou d'autres idées, n'hésitez pas à nous en faire part&nbsp;!
 
 
-<img src="/assets/pages/exprimez-vous/we_need_you.png" width="500" alt="Nous avons besoin de vous !" class="center" />
+<amp-img class="center" width="500" height="500" src="/assets/pages/exprimez-vous/we_need_you.png" alt="Nous avons besoin de vous !"></amp-img>
 
 ### Donnez votre opinion, votre avis ou nous faire part d'une information que nous n'avons pas
 
@@ -27,7 +29,11 @@ Toutefois, nous avons besoin de votre retour pour améliorer la qualité de notr
 connaître ce que vous attendez de nous.
 
 Une façon simple et rapide et de nous envoyer votre avis, votre opinion out toute idée de sujet que vous souhaitez quel l'on
-traite à <span class="contact"><span id="contact">PLEASE-ACTIVATE-JAVASCRIPT--TPIRCSAVAJ-ETAVITCA-ESAELP</span></span>.
+traite est de nous envoyer un e-mail à l'adresse ci-dessous&nbsp;:
+
+<div class="center">
+ <amp-iframe width="300" height="50" sandbox="allow-scripts allow-same-origin" src="/html/email.html"></amp-iframe>
+</div>
 
 Vous pouvez également nous dire quels sont les sujets que vous souhaitez voir traités sur ce site.
 
@@ -49,8 +55,8 @@ comment les avez-vous surmontés&nbsp;? comment avez-vous été inclus pendant v
 
 Si vous êtes concerné par l'autisme, vous pouvez également nous expliquez ce que vous avez mis en œuvre pour inclure une personne autiste, quelles adaptations avez-vous mis en place dans votre école ou sur votre lieu de travail.
 
-Envoyez-nous votre témoignage à l'adresse indiquée précédemment (<span class="contact"><span id="contact2">PLEASE-ACTIVATE-JAVASCRIPT--TPIRCSAVAJ-ETAVITCA-ESAELP</span></span>). Nous pouvons également publier votre texte anonymement si vous le souhaitez.
-Nous acceptons toute forme de contenu, que ce soit un texte en prose, un poème, un poster, une infographie, un film, une image, etc.
+Envoyez-nous votre témoignage à l'adresse e-mail indiquée précédemment.
+Nous pouvons également publier votre texte anonymement si vous le souhaitez. Nous acceptons toute forme de contenu, que ce soit un texte en prose, un poème, un poster, une infographie, un film, une image, etc.
 
 ### Photographies, design, etc
 
@@ -61,19 +67,4 @@ Une petite aide dans ce domaine sera grandement appréciées.
 Et n'oubliez pas que cela est également pour vous l'opportunité de montrer votre travail et vos compétences&nbsp;!
 
 
-
-<script type="text/javascript">
-window.document.getElementById('contact').innerHTML = '@';
-window.document.getElementById('contact2').innerHTML = '@';
-</script>
-<style type="text/css">
-.contact {
-        unicode-bidi: bidi-override;
-        direction: rtl;
-        font-weight: bold;
-}
-
-#contact:before, #contact2:before { content: "gro.siafnoc"; }
-#contact:after, #contact2:after { content: "emsitua"; }
-</style>
 

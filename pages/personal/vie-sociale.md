@@ -3,9 +3,10 @@ layout: page
 title: Vie sociale
 permalink: /je-suis-une-personne-avec-autisme/vie-sociale
 hide_header_link: true
+oembed_image: /assets/pages/personal/vie-sociale/ID-100456462.jpg
 ---
 
-<img src="/assets/pages/personal/vie-sociale/ID-100456462.jpg" class="left" alt="ID-100456462" />
+<amp-img class="left" width="400" height="333" src="/assets/pages/personal/vie-sociale/ID-100456462.jpg" alt="ID-100456462"></amp-img>
 
 La socialisation avec d'autres personnes est quelque
 chose que la plupart des gens font. Cela peut contribuer au bien-être et à une vie saine.

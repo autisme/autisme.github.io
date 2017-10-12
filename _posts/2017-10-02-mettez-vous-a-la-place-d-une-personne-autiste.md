@@ -21,13 +21,9 @@ Tout le monde y est confronté dans sa vie et tout le monde à un rôle à jouer
 Rien de tel que de se mettre à la place d'une personne avec autisme pour se rendre des difficultés rencontrées dans la société.
 Nous vous proposons une série d'expériences simples afin de vous rendre compte de la façon dont les personnes avec autisme voient le monde.
 
-<a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/">
-<span style="text-align:center; font-size:1.2em; margin: 2em 2em 0 2em; display:block;">
-<strong>Démarrer l'expérience !</strong>
-</span>
-<span style="text-align:center; margin: 0 0 2em 0; display: block;">
-Mettez-vous dans la peau d'une personne autiste
-</span>
+<a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/" class="big center">
+ <span>Démarrer l'expérience !</span>
+ <span class="subtitle">Mettez-vous dans la peau d'une personne autiste</span>
 </a>
 
 

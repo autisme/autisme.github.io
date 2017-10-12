@@ -3,7 +3,7 @@ layout: page
 title:  "Mettez vous dans la peau d'une personne autiste"
 permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/
 hide_header_link: true
-oembed_image: /assets/posts/2017-08-13/opengraph.png
+oembed_image: /assets/posts/2017-10-02/opengraph.png
 ---
 
 Avec plus de 1 personne sur 100 concernée par l'autisme, tout le monde connaît une personne autiste dans son entourage. Que ce soit dans sa famille, au travail ou chez des amis.
@@ -20,7 +20,7 @@ Certains ne sont pas acceptés à l'école, d'autres sont acceptés sans aide et
 Une chose est sûr, tout le monde a oublié que les enfants autistes deviennent adultes. 
 Aujourd'hui, la situation est plus que catastrophique&nbsp;:
 
-<img src="/facebook_campaign/9_inclusion_is_important.png" class="center" alt="80% des adultes avec autisme ne travaillent pas ; beaucoup sont seuls et isolés ; l'anxiété et la dépression font souvent parties de leur vie ; leur espérance de vie est en moyenne réduite de 18 ans ; le taux de suicide est 9 fois plus élevé" width="600" />
+<amp-img class="center" width="600" height="600" src="/facebook_campaign/9_inclusion_is_important.png" alt="80% des adultes avec autisme ne travaillent pas ; beaucoup sont seuls et isolés ; l'anxiété et la dépression font souvent parties de leur vie ; leur espérance de vie est en moyenne réduite de 18 ans ; le taux de suicide est 9 fois plus élevé"></amp-img>
 
  - 80&nbsp;% des personnes autistes ne travaillent pas ou sont sous-employées&nbsp;;
  - Beaucoup sont seuls et isolés socialement&nbsp;;

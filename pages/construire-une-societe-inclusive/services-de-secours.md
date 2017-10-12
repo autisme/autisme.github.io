@@ -3,7 +3,10 @@ layout: page
 title: "Construire une société inclusive - Services de secours"
 permalink: /construire-une-societe-inclusive/services-de-secours
 hide_header_link: true
+oembed_image: /assets/pages/construire-une-societe-inclusive/introduction/dict.jpg
 ---
+
+<amp-img class="right" width="200" height="133" src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" alt="dict"></amp-img>
 
 Environ une personne sur 100 est actuellement concernée par l'autisme.
 Il y a des personnes qui n'ont pas un de diagnostic car l'autisme n'impacte pas suffisamment leur vie.
@@ -11,11 +14,10 @@ Et puis il y a les personnes, toujours plus nombreuses d'années en années, aya
 Certaines tâches et activités de la vie quotidienne génèrent beaucoup de stress et d'anxiété.
 Le shopping en est juste une parmi les autres.
 
-<img src="/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" class="right" alt="dict" />
 
 Le spectre de l'autisme est large et les personnes sont impactées de différentes façons.
 Il n'y a pas deux personnes avec autisme qui ont les mêmes difficultés.
-Toutefois, la plupart des difficultés rencontrées peuvent se classer dans 4 grandes catégories$
+Toutefois, la plupart des difficultés rencontrées peuvent se classer dans 4 grandes catégories&nbsp;:
 
   - La communication sociale
   - L'imagination sociale
@@ -117,3 +119,6 @@ Bien que nous accueillons des idées afin de construire une société inclusive,
   - Fournissez sur votre site web une visite à 360° de vos ambulances pour permettre aux personnes avec autisme et leur famille de se préparer pour le jour où ils auront besoin de vos services&nbsp;;
   - Soyez au fait que le bruit de la sirène peut générer de l'anxiété&nbsp;;
   - Saisissez l'opportunité de fournir une campagne de sensibilisation à l'autisme à tout le personnel.
+---
+<small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
+

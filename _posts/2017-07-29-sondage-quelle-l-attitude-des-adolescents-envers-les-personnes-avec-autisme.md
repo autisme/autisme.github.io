@@ -6,9 +6,11 @@ categories:
  - Sondage
 author: Bastien
 oembed_image: /assets/posts/2017-07-29/opengraph.png
+modules:
+  - iframe
 ---
 
-<img src="/assets/posts/2017-07-29/ID-100212806.jpg" width="250" class="left" alt="ID-100212806" />
+<amp-img class="left" width="250" height="250" src="/assets/posts/2017-07-29/ID-100212806.jpg" alt="ID-100212806"></amp-img>
 
 Afin d'organiser une campagne de sensibilisation à destination des jeunes, pour qu'ils comprennent ce qu'est l'autisme,
 nous aimerions savoir comment l'autisme est perçu par la nouvelle génération.
@@ -17,23 +19,24 @@ Si vous êtes une personne avec autisme et avez entre 15 et 25 ans ou si vous ê
 ou une sœur d'un jeune avec autisme, nous aimerions connaître votre avis.
 Plus nous avons de réponses, ladiversité des points de vue et des expériences vécues par les personnes avec autisme pourra être prise en compte.
 
-Merci en avance pour le temps passé à compléter le sondage.
+Merci par avance pour le temps passé à compléter le sondage.
 
 
-<div style="clear:both"></div>
-
-<div style="display: flex; flex-wrap: wrap;">
-
-<div style="flex: 1 0 500px;">
-<h4>Pour les jeunes avec autisme âgés de 15 à 25 ans&nbsp;:</h4>
-<p>&nbsp;</p>
-<p style="text-align: center;"><iframe src="https://docs.google.com/forms/d/1kQY9W3sMRlXmLjqUXn6HXy8REatgJeXlaZOr1zQgYsU/viewform?embedded=true" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0">Loading&#8230;</iframe></p>
-</div>
-<div style="flex: 1 0 500px;">
-<h4>Pour les parents, les frères et les sœurs d'un jeune avec autisme âgé de 15 à 25 ans&nbsp;:</h4>
-<p style="text-align: center;"><iframe src="https://docs.google.com/forms/d/17cfCjgobmTPqqUZOZEisgV9OdzyX2jPm4VW1uxrZfec/viewform?embedded=true" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0">Loading&#8230;</iframe></p>
-</div>
-
+<div class="clear"></div>
+<div class="cols-2">
+ <div>
+  <h4>Pour les jeunes avec autisme âgés de 15 à 25 ans&nbsp;:</h4>
+  <p>&nbsp;</p>
+  <p class="center">
+   <amp-iframe width="600" height="600" sandbox="allow-scripts allow-same-origin" src="https://docs.google.com/forms/d/1kQY9W3sMRlXmLjqUXn6HXy8REatgJeXlaZOr1zQgYsU/viewform?embedded=true"></amp-iframe>
+  </p>
+ </div>
+ <div>
+  <h4>Pour les parents, les frères et les sœurs d'un jeune avec autisme âgé de 15 à 25 ans&nbsp;:</h4>
+  <p class="center">
+   <amp-iframe width="600" height="600" sandbox="allow-scripts allow-same-origin" src="https://docs.google.com/forms/d/17cfCjgobmTPqqUZOZEisgV9OdzyX2jPm4VW1uxrZfec/viewform?embedded=true"></amp-iframe>
+  </p>
+ </div>
 </div>
 
 

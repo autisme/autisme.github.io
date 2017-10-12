@@ -6,9 +6,11 @@ categories:
   - Opinion
 author: Bastien
 oembed_image: /assets/posts/2017-10-07/opengraph.png
+modules:
+  - facebook
 ---
 
-<img src="/assets/posts/2017-10-07/opengraph.png" width="300" class="left" alt="ID-10088156" />
+<amp-img src="/assets/posts/2017-10-07/opengraph.png" width="300" height="150" class="left" alt="ID-10088156"></amp-img>
 
 En tant que personne autiste, l'autonomie et l'indépendance ont été et sont
  toujours pour moi des défis d'actualité.
@@ -34,7 +36,7 @@ Par exemple, faire le signe pour appeler le bus, dire bonjour au chauffeur. Ou �
 Après trois mois de répétitions et d'entraînements, je peux enfin faire ces deux choses là par moi-même.
 
 <div class="center">
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100011387942681%2Fvideos%2F528502950872632%2F&show_text=1&width=560" width="560" height="432" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+ <amp-facebook width="560" height="432" data-href="https://www.facebook.com/100011387942681/videos/vb.100011387942681/528502950872632/?type=2&theater"></amp-facebook>
 </div>
 
 Cela me laisse plusieurs choses à dire.
