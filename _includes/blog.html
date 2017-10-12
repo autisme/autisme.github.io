@@ -33,7 +33,7 @@
         </h2>
 	<div class="post-">
 		{% if post.oembed_image %}
-		<amp-img class="post-thumb" width="250" height="125" src="{{ post.oembed_image | relative_url }}" /></amp-img>
+		<amp-img class="post-thumb" width="250" height="125" src="{{ site.amp_img_cache_url }}{{ post.oembed_image | relative_url }}" /></amp-img>
 		{% endif %}
 		<div class="post-excerpt">
 	        {{ post.content | strip_html | truncatewords: tr }}
