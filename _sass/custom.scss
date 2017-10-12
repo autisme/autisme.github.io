@@ -116,7 +116,7 @@ ul.horizontal > li {
  background-blend-mode: multiply;
 }
 #iamlist a#personal {
- background: url('/assets/personal.jpg') no-repeat 0 0;
+ background: url('{{ site.amp_img_cache_url }}/assets/personal.jpg') no-repeat 0 0;
  background-color: rgba(78, 151, 178, .7);
  border: 3px solid rgb(78, 151, 178);
 }
@@ -133,7 +133,7 @@ ul.horizontal > li {
  background-color: rgba(128, 186, 67, .9);
 }
 #iamlist a#professional {
- background: url('/assets/professional.jpg') no-repeat 0 0;
+ background: url('{{ site.amp_img_cache_url }}/assets/professional.jpg') no-repeat 0 0;
  background-color: rgba(140, 70, 223, .7);
  border: 3px solid rgb(140, 70, 223);
 }
@@ -142,7 +142,7 @@ ul.horizontal > li {
 }
 #iamlist a#autisme {
  width: 565px;
- background: url('/assets/autisme.jpg') no-repeat 0 0;
+ background: url('{{ site.amp_img_cache_url }}/assets/autisme.jpg') no-repeat 0 0;
  background-color: rgba(229, 90, 124, 0.7);
  border: 3px solid rgb(229, 90, 124);
 }
@@ -153,7 +153,7 @@ ul.horizontal > li {
 /* Involved list */
 #involvedlist a#construire-une-societe-inclusive {
  width: 375px;
- background: url('/assets/construire-une-societe-inclusive.jpg') no-repeat 0 0;
+ background: url('{{ site.amp_img_cache_url }}/assets/construire-une-societe-inclusive.jpg') no-repeat 0 0;
  background-color: rgba(244, 158, 76, 0.7);
  border: 3px solid rgb(244, 158, 76);
 }
@@ -161,7 +161,7 @@ ul.horizontal > li {
  background-color: rgba(244, 158, 76, 0.9);
 }
 #involvedlist a#prenez-la-parole {
- background: url('/assets/prenez-la-parole.jpg') no-repeat 0 0;
+ background: url('{{ site.amp_img_cache_url }}/assets/prenez-la-parole.jpg') no-repeat 0 0;
  background-color: rgba(27, 56, 100, 0.7);
  border: 3px solid rgb(27, 56, 100);
 }
