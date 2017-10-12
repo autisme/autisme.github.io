@@ -125,7 +125,7 @@ ul.horizontal > li {
 }
 
 #iamlist a#parent {
- background: url('/assets/parent.jpg') no-repeat 0 0;
+ background: url('{{ site.amp_img_cache_url }}/assets/parent.jpg') no-repeat 0 0;
  background-color: rgba(128, 186, 67, .7);
  border: 3px solid rgb(128, 186, 67);
 }
