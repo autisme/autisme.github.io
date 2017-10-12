@@ -22,8 +22,8 @@
  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
  <meta name="twitter:description" content="{{ page.content | default: site.description | markdownify | strip_html | normalize_whitespace | truncate: 160 }}" />
  <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
-{% if page.oembed_image %} <meta name="twitter:image" content="{{ site.url }}{{ page.oembed_image }}" />
- <meta name="og:image" content="{{ site.url }}{{ page.oembed_image }}" />{% endif %}
+{% if page.oembed_image %} <meta name="twitter:image" content="{{ site.amp_img_cache_url }}{{ page.oembed_image }}" />
+ <meta name="og:image" content="{{ site.amp_img_cache_url }}{{ page.oembed_image }}" />{% endif %}
  <script type="application/ld+json">
   {
    "@context":"http://schema.org",
@@ -31,7 +31,7 @@
    "@id":"page",
    "headline":"{{ page.title | escape }}",
    "description":"{{ page.content | default: site.description | markdownify | strip_html | normalize_whitespace | truncate: 160 }}",
-{% if page.oembed_image %}   "image":"{{ site.url }}{{ page.oembed_image }}",{% endif %}
+{% if page.oembed_image %}   "image":"{{ site.amp_img_cache_url }}{{ page.oembed_image }}",{% endif %}
    "author":"{{ page.author | default: site.author }}",
    "url":"{{ page.url | replace:'index.html','' | absolute_url }}"
   }
@@ -73,7 +73,7 @@
     "@id":"#page"
    },
    "image": [
-    "{{ site.url }}{{ page.oembed_image | default: '/assets/logo.png' }}"
+    "{{ site.amp_img_cache_url }}{{ page.oembed_image | default: '/assets/logo.png' }}"
    ],
    "author": {
     "@type":"Person",
