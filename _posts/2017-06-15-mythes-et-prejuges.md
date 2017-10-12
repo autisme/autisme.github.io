@@ -23,7 +23,7 @@ Tout d'abord, voici un questionnaire vous permettant de vérifier ce que vous sa
 
 <div class="center">
 <amp-iframe width="700" height="1000" sandbox="allow-scripts" src="/html/mythes.html" scrolling="no">
- <amp-img layout="fill" src="/html/mythes.png" placeholder></amp-img>
+ <amp-img layout="fill" src="{{ site.amp_img_cache_url }}/html/mythes.png" placeholder></amp-img>
 </amp-iframe>
 </div>
 

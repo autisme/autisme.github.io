@@ -23,7 +23,7 @@ Aujourd'hui plus d'<span class="big">1</span> personne sur <span class="big">100
 L'inclusion n'est plus une option, c'est une obligation.
 
 <div align="center">
-<amp-img class="center" width="460" height="300" src="/assets/posts/2017-04-02/1in100.jpg" alt="1 in 100 people" ></amp-img>
+<amp-img class="center" width="460" height="300" src="{{ site.amp_img_cache_url }}/assets/posts/2017-04-02/1in100.jpg" alt="1 in 100 people" ></amp-img>
 </div>
 
 
@@ -165,7 +165,7 @@ Beaucoup de problèmes que les personnes avec autisme rencontrent dans la socié
 Ils n'osent pas demander ce qu'ils doivent faire, comment agir dans telle situation.
 N'oubliez pas que demander c'est aussi apprendre.
 
-<amp-img class="center" width="350" height="233" src="/assets/posts/2017-04-02/blackboard.png" alt="continuous improvement"></amp-img>
+<amp-img class="center" width="350" height="233" src="{{ site.amp_img_cache_url }}/assets/posts/2017-04-02/blackboard.png" alt="continuous improvement"></amp-img>
 
 Il est temps d'arrêter de se focaliser sur ce que les personnes avec autisme ont du mal à faire ou ne peuvent pas faire.
 Il est temps de se demander « dans quel domaine cette personne est-elle bonne ? », « qu'est-ce que cette personne réussi le mieux ? », « comment cette personne peut-elle développer son plein potentiel ? ».

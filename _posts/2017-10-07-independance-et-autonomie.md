@@ -10,7 +10,7 @@ modules:
   - facebook
 ---
 
-<amp-img src="/assets/posts/2017-10-07/opengraph.png" width="300" height="150" class="left" alt="ID-10088156"></amp-img>
+<amp-img src="{{ site.amp_img_cache_url }}/assets/posts/2017-10-07/opengraph.png" width="300" height="150" class="left" alt="ID-10088156"></amp-img>
 
 En tant que personne autiste, l'autonomie et l'indépendance ont été et sont
  toujours pour moi des défis d'actualité.

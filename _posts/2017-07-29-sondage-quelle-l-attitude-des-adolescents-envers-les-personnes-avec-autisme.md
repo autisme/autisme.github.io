@@ -10,7 +10,7 @@ modules:
   - iframe
 ---
 
-<amp-img class="left" width="250" height="250" src="/assets/posts/2017-07-29/ID-100212806.jpg" alt="ID-100212806"></amp-img>
+<amp-img class="left" width="250" height="250" src="{{ site.amp_img_cache_url }}/assets/posts/2017-07-29/ID-100212806.jpg" alt="ID-100212806"></amp-img>
 
 Afin d'organiser une campagne de sensibilisation à destination des jeunes, pour qu'ils comprennent ce qu'est l'autisme,
 nous aimerions savoir comment l'autisme est perçu par la nouvelle génération.

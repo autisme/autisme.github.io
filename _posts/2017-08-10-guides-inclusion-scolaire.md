@@ -10,7 +10,7 @@ author: Bastien
 oembed_image: /assets/posts/2017-08-10/opengraph.png
 ---
 
-<amp-img class="right" width="250" height="250" src="/assets/posts/2017-08-10/ID-10021087.jpg" alt="ID-10021087"></amp-img>
+<amp-img class="right" width="250" height="250" src="{{ site.amp_img_cache_url }}/assets/posts/2017-08-10/ID-10021087.jpg" alt="ID-10021087"></amp-img>
 
 L'école entraîne souvent de nombreuses difficultés pour les personnes avec autisme&nbsp:
 la gestion de l'environnement, l'organisation, l'aspect social sont souvent des choses difficiles.
