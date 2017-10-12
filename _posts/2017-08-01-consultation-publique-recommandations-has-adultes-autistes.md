@@ -7,7 +7,7 @@ author: Bastien
 oembed_image: /assets/posts/2017-08-01/opengraph.png
 ---
 
-<img src="/assets/posts/2017-08-01/cover.png" alt="Cover" class="right" width="300" />
+<amp-img class="right" width="300" height="425" src="/assets/posts/2017-08-01/cover.png" alt="Cover"></amp-img>
 
 La [Haute Autorité de Santé](https://www.has-sante.fr/portail/jcms/c_2774763/fr/autisme-de-l-adulte-une-consultation-publique-pour-recueillir-l-avis-des-organisations-concernees) a 
  au mois de juin une consultation publique sur les recommandations
