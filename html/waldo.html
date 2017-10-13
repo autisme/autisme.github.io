@@ -158,19 +158,8 @@
     return isVisible;
   }
   document.body.onload = function() {
-    var canvas = [new waldo()];
-    function load_visible() {
-      for (var i = 0; i < canvas.length ; i++) {
-        if (isScrolledIntoView(canvas[i].canvas())) {
-          canvas[i].play();
-        } else {
-          canvas[i].pause();
-        }
-      }
-    }
-    document.body.onscroll = load_visible;
-    document.body.onresize = load_visible;
-    load_visible();
+    var canvas = new waldo();
+    canvas.play();
   }
   </script>
  </body>
