@@ -84,9 +84,24 @@ ul.horizontal > li {
  flex: 1 0 500px;
 }
 
+/* recruit */
+#recruit a {
+ background-color: #424242;
+ position: absolute;
+ margin-top: 0;
+ width: calc(100% - 30px);
+ left: 0;
+ top: 56px;
+ padding: 15px;
+ color: #fff;
+ font-size: 1.05em;
+ display: block;
+}
+
 
 /* "I am" list */
 #iam {
+ margin-top: 60px;
  margin-bottom: 50px;
 }
 #iamlist, #involvedlist {
