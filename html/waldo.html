@@ -10,16 +10,17 @@
   function waldo() {
     var self = this;
     waldos = [
-     {'src': function(){var i = new Image(); i.src='/html/assets/waldo/background1.jpg'; return i;}(), 'waldo': {'x': 514.5, 'y': 170}},
-     {'src': function(){var i = new Image(); i.src='/html/assets/waldo/background2.jpg'; return i;}(), 'waldo': {'x': 512.5, 'y': 116}},
-     {'src': function(){var i = new Image(); i.src='/html/assets/waldo/background3.jpg'; return i;}(), 'waldo': {'x': 348.5, 'y': 103}},
-     {'src': function(){var i = new Image(); i.src='/html/assets/waldo/background4.jpg'; return i;}(), 'waldo': {'x': 484.5, 'y': 181}},
-     {'src': function(){var i = new Image(); i.src='/html/assets/waldo/background5.jpg'; return i;}(), 'waldo': {'x': 300.5, 'y': 138}}
+     {'src': '/html/assets/waldo/background1.jpg', 'waldo': {'x': 514.5, 'y': 170}},
+     {'src': '/html/assets/waldo/background2.jpg', 'waldo': {'x': 512.5, 'y': 116}},
+     {'src': '/html/assets/waldo/background3.jpg', 'waldo': {'x': 348.5, 'y': 103}},
+     {'src': '/html/assets/waldo/background4.jpg', 'waldo': {'x': 484.5, 'y': 181}},
+     {'src': '/html/assets/waldo/background5.jpg', 'waldo': {'x': 300.5, 'y': 138}}
     ]
     var waldo = waldos[Math.floor((Math.random() * waldos.length))];
     var canvas = document.getElementById('game_waldo');
     var ctx = canvas.getContext('2d');
-    var background = waldo['src'];
+    var background = new Image();
+    background.src = waldo['src'];
     var zoom = 6;
     var targetbox = 10;
     var start = false;
