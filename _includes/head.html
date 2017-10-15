@@ -40,7 +40,7 @@
   {
    "@context":"http://schema.org",
    "@type":"Organization",
-   "@id":"org",
+   "@id":"{{ site.url }}",
    "name":"{{ site.title | escape }}",
    "logo":{
     "@type": "ImageObject",
@@ -81,7 +81,7 @@
    },
    "publisher": {
     "@type":"Organization",
-    "@id":"#org",
+    "@id":"{{ site.url }}",
     "name":"{{ site.title | escape }}",
     "logo":{
      "@type": "ImageObject",
@@ -120,5 +120,7 @@
 {% if jekyll.environment == 'production' and site.google_analytics %} <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>{% endif %}
  <style amp-custom>{% capture include_to_scssify %}{% include style.scss %}{% endcapture %}{{ include_to_scssify | scssify }}</style>
  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}" />
+<!--
 {{ page.title | where: page.permalink, '/' }}
+-->
 </head>
