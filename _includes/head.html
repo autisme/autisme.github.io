@@ -109,7 +109,7 @@
      "position": {{ position }},
      "item": {
       "@id": "{% for p in site.pages %}{% if p.permalink == breadcrumb %}{{ p.url | replace:'index.html','' | absolute_url }}{% break %}{% endif %}{% endfor %}",
-      "name": "{{ site.pages.title | where: site.pages.permalink, breadcrumb | escape }}"
+      "name": "{% for p in site.pages %}{% if p.permalink == breadcrumb %}{{ p.title | escape }}{% break %}{% endif %}{% endfor %}"
      }
     },
 {% assign position = position | plus: 1 %}
