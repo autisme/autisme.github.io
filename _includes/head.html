@@ -108,8 +108,8 @@
      "@type": "ListItem",
      "position": {{ position }},
      "item": {
-      "@id": "{{ site.page.url | where: site.page.permalink, breadcrumb | replace:'index.html','' | absolute_url }}",
-      "name": "{{ site.page.title | where: site.page.permalink, breadcrumb | escape }}"
+      "@id": "{% for p in site.pages %}{% if p.permalink == breadcrumb %}{{ p.url | replace:'index.html','' | absolute_url }}{% break %}{% endif %}{% endfor %}",
+      "name": "{{ site.pages.title | where: site.pages.permalink, breadcrumb | escape }}"
      }
     },
 {% assign position = position | plus: 1 %}
