@@ -96,24 +96,6 @@
   }
  </script>
 {% endif %}
-{% if page.layout == 'page' %}
- <script type="application/ld+json">
-  {
-   "@context": "http://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "item": {
-       "@id": "{{ page.url | replace:'index.html','' | absolute_url }}",
-       "name": "{{ page.title | escape }}"
-     }
-    }
-   ]
-  }
- </script>
-{% endif %}
 {% if page.modules contains "iframe" %} <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>{% endif %}
 {% if page.modules contains "facebook" %} <script async custom-element="amp-facebook" src="https://cdn.ampproject.org/v0/amp-facebook-0.1.js"></script>{% endif %}
 {% if page.modules contains "youtube" %} <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>{% endif %}
