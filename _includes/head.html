@@ -96,14 +96,19 @@
   }
  </script>
 {% endif %}
-{% if page.layout == 'page' %}
  <script type="application/ld+json">
   {
    "@context": "http://schema.org",
    "@type": "BreadcrumbList",
    "itemListElement": [
+{% if page.layout == 'page' %}
+ {% assign breadcrumbs = pages.breadcrumbs %}
+{% endif %}
+{% if page.layout == 'post' %}
+ {% assign breadcrumbs = '/blog' %}
+{% endif %}
 {% assign position = 1 %}
-{% for breadcrumb in page.breadcrumbs %}
+ {% for breadcrumb in page.breadcrumbs %}
     {
      "@type": "ListItem",
      "position": {{ position }},
@@ -112,7 +117,7 @@
       "name": "{% for p in site.pages %}{% if p.permalink == breadcrumb %}{{ p.title | escape }}{% break %}{% endif %}{% endfor %}"
      }
     },
-{% assign position = position | plus: 1 %}
+ {% assign position = position | plus: 1 %}
 {% endfor %}
     {
      "@type": "ListItem",
@@ -125,7 +130,6 @@
    ]
   }
  </script>
-{% endif %}
 <!--
 -->
 {% if page.modules contains "iframe" %} <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>{% endif %}
