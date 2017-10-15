@@ -28,8 +28,8 @@ et pourtant ces salles utilisent souvent des néons (qui clignotent), peuvent ne
 produit qui sent fort etc.
 En un mot, la question de l'accessibilité n'a pas été traitée.
 
-<div class="highlight">
-<p class="center">Nous avons parfois l'impression d'être inclusif lorsque nous accueillons les personnes autistes mais la véritable  inclusion, c'est lorsque chaque personne peut participer.</p>
+<div class="highlight center">
+<p>Nous avons parfois l'impression d'être inclusif lorsque nous accueillons les personnes autistes mais la véritable  inclusion, c'est lorsque chaque personne peut participer.</p>
 </div>
 
 Lorsque les personnes avec autisme sont accueillies à l'école (en classe ordinaire ou spécialisée) mais qu'elles n'ont pas groupe d'amis, font les travaux de groupe seules dans leur coin,
