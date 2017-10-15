@@ -110,7 +110,8 @@
      "item": {
       "@id": "{{ page.url |  where: page.permalink, breadcrumb | replace:'index.html','' | absolute_url }}",
       "name": "{{ page.title | where: page.permalink, breadcrumb | escape }}"
-     },
+     }
+    },
 {% assign counter = counter | plus: 1 %}
 {% endfor %}
     {
