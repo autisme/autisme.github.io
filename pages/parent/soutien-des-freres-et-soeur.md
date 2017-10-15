@@ -4,6 +4,8 @@ title: Soutien des frères et sœurs
 permalink: /je-suis-un-parent-membre-de-l-entourage/soutien-des-freres-et-soeurs
 hide_header_link: true
 oembed_image: /assets/pages/parent/soutien-des-freres-et-soeur/ID-10063250.jpg
+breadcrumbs:
+  - /je-suis-un-parent-membre-de-l-entourage/
 ---
 
 <amp-img class="left" width="400" height="266" src="{{ site.amp_img_cache_url }}/assets/pages/parent/soutien-des-freres-et-soeur/ID-10063250.jpg" alt="ID-10063250.jpg"></amp-img>

@@ -4,6 +4,8 @@ title: Problèmes souvent rencontrés au travail
 permalink: /je-suis-une-personne-avec-autisme/problemes-au-travail
 hide_header_link: true
 oembed_image: /assets/pages/personal/problemes-au-travail/shutterstock_400477627_1.jpg
+breadcrumbs:
+  - /je-suis-une-personne-avec-autisme/
 ---
 
 <amp-img class="left" width="403" height="269" src="{{ site.amp_img_cache_url }}/assets/pages/personal/problemes-au-travail/shutterstock_400477627_1.jpg" class="left" alt="ID_400477627"></amp-img>

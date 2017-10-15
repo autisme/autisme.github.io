@@ -4,6 +4,8 @@ title: "Construire une société inclusive - Transports en commun"
 permalink: /construire-une-societe-inclusive/transports
 hide_header_link: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/transports/ID-1005839.jpg
+breadcrumbs:
+  - /construire-une-societe-inclusive/
 ---
 
 

@@ -4,6 +4,8 @@ title: Prendre soin de soi
 permalink: /je-suis-un-parent-membre-de-l-entourage/prendre-soin-de-soi
 hide_header_link: true
 oembed_image: /assets/pages/parent/prendre-soin-de-soi/ID-10028215.jpg
+breadcrumbs:
+  - /je-suis-un-parent-membre-de-l-entourage/
 ---
 
 <amp-img class="left" width="400" height="266" src="{{ site.amp_img_cache_url }}/assets/pages/parent/prendre-soin-de-soi/ID-10028215.jpg" alt="ID-10028215"></amp-img>

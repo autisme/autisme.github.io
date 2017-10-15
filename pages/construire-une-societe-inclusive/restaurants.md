@@ -4,6 +4,8 @@ title: "Construire une société inclusive - Restaurants et bars"
 permalink: /construire-une-societe-inclusive/restaurants
 hide_header_link: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/restaurants/ID-100442933.jpg
+breadcrumbs:
+  - /construire-une-societe-inclusive/
 ---
 
 <amp-img class="left" width="200" height="300" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/restaurants/ID-10065277.jpg" alt="ID-10065277"></amp-img>

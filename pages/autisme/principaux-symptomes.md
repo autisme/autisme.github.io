@@ -3,6 +3,8 @@ layout: page
 title: Principaux symptômes
 permalink: /autisme/principaux-symptomes
 hide_header_link: true
+breadcrumbs:
+  - /autisme/
 ---
 
 Nous n'insisterons jamais sur le fait que chaque personne avec autisme est différent. Toutefois il y a des comportements, des symptômes, des caractéristiques que beaucoup de personnes avec autisme peuvent avoir.

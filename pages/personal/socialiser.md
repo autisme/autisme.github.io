@@ -3,6 +3,8 @@ layout: page
 title: Socialiser
 permalink: /je-suis-une-personne-avec-autisme/socialiser
 hide_header_link: true
+breadcrumbs:
+  - /je-suis-une-personne-avec-autisme/
 ---
 
 La socialisation peut être difficile car c'est plein de non dits et

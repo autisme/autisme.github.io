@@ -4,6 +4,8 @@ title: Vie sociale
 permalink: /je-suis-une-personne-avec-autisme/vie-sociale
 hide_header_link: true
 oembed_image: /assets/pages/personal/vie-sociale/ID-100456462.jpg
+breadcrumbs:
+  - /je-suis-une-personne-avec-autisme/
 ---
 
 <amp-img class="left" width="400" height="333" src="{{ site.amp_img_cache_url }}/assets/pages/personal/vie-sociale/ID-100456462.jpg" alt="ID-100456462"></amp-img>

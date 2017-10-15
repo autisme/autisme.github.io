@@ -4,6 +4,8 @@ title: Grands parents
 permalink: /je-suis-un-parent-membre-de-l-entourage/grands-parents
 hide_header_link: true
 oembed_image: /assets/pages/parent/grands-parents/ID-10033342.jpg
+breadcrumbs:
+  - /je-suis-un-parent-membre-de-l-entourage/
 ---
 
 <amp-img class="left" width="266" height="400" src="{{ site.amp_img_cache_url }}/assets/pages/parent/grands-parents/ID-10033342.jpg" alt="ID-10033342"></amp-img>

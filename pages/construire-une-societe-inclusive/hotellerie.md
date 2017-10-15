@@ -4,6 +4,8 @@ title: "Construire une société inclusive - Hôtellerie"
 permalink: /construire-une-societe-inclusive/hotellerie
 hide_header_link: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/introduction/dict.jpg
+breadcrumbs:
+  - /construire-une-societe-inclusive/
 ---
 
 

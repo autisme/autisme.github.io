@@ -3,6 +3,8 @@ layout: page
 title: Transition vers l'université
 permalink: /je-suis-un-professionnel/transition-universite
 hide_header_link: true
+breadcrumbs:
+  - /je-suis-un-professionnel/
 ---
 
 Comme nous le savons, le passage à l'université est difficile pour tous le monde.

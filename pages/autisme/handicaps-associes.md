@@ -4,6 +4,8 @@ title: Handicaps associés
 permalink: /autisme/handicaps-associes
 hide_header_link: true
 oembed_image: /assets/pages/autisme/handicaps-associes/ID-100185923.jpg
+breadcrumbs:
+  - /autisme/
 ---
 Beaucoup de personnes avec autisme sont affectés par d'autres handicaps.
 Cela montre combien il est important de regarder chaque personne avec autisme

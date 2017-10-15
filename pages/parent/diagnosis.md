@@ -3,6 +3,8 @@ layout: page
 title: Que faire après le diagnostic
 permalink: /je-suis-un-parent-membre-de-l-entourage/apres-le-diagnostic
 hide_header_link: true
+breadcrumbs:
+  - /je-suis-un-parent-membre-de-l-entourage/
 ---
 
 Vous avez passé du temps à obtenir un diagnostic et maintenant… que fait-on&nbsp;?
