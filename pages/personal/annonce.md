@@ -3,6 +3,8 @@ layout: page
 title: Dois-je annoncer mon autisme ?
 permalink: /je-suis-une-personne-avec-autisme/dois-je-annoncer-mon-autisme
 hide_header_link: true
+breadcrumbs:
+  - /je-suis-une-personne-avec-autisme/
 ---
 
 Cette question est très souvent posée par les personnes qui viennent de recevoir un diagnostic d'autisme ou par leur parents.
