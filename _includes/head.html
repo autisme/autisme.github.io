@@ -102,21 +102,21 @@
    "@context": "http://schema.org",
    "@type": "BreadcrumbList",
    "itemListElement": [
-{% assign counter = 1 %}
+{% assign position = 1 %}
 {% for breadcrumb in page.breadcrumbs %}
     {
      "@type": "ListItem",
-     "position": {{ counter }},
+     "position": {{ position }},
      "item": {
-      "@id": "{{ page.url |  where: page.permalink, breadcrumb | replace:'index.html','' | absolute_url }}",
-      "name": "{{ page.title | where: page.permalink, breadcrumb | escape }}"
+      "@id": "{{ breadcrumb | replace:'index.html','' | absolute_url }}",
+      "name": "{{ page.title | where: page.permalink, breadcrumb }}"
      }
     },
-{% assign counter = counter | plus: 1 %}
+{% assign position = position | plus: 1 %}
 {% endfor %}
     {
      "@type": "ListItem",
-     "position": 1,
+     "position": {{ position }},
      "item": {
       "@id": "{{ page.url | replace:'index.html','' | absolute_url }}",
       "name": "{{ page.title | escape }}"
