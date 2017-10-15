@@ -28,7 +28,7 @@
   {
    "@context":"http://schema.org",
    "@type":"WebPage",
-   "@id":"page",
+   "@id":"{{ page.url | replace:'index.html','' | absolute_url }}",
    "headline":"{{ page.title | escape }}",
    "description":"{{ page.content | default: site.description | markdownify | strip_html | normalize_whitespace | truncate: 160 }}",
 {% if page.oembed_image %}   "image":"{{ site.amp_img_cache_url }}{{ page.oembed_image }}",{% endif %}
@@ -70,7 +70,7 @@
 {% if page.layout == 'page' %}   "@type":"Article",{% endif %}
    "mainEntityOfPage":{
     "@type":"WebPage",
-    "@id":"#page"
+    "@id":"{{ page.url | replace:'index.html','' | absolute_url }}"
    },
    "image": [
     "{{ site.amp_img_cache_url }}{{ page.oembed_image | default: '/assets/logo.png' }}"
@@ -96,10 +96,29 @@
   }
  </script>
 {% endif %}
+{% if page.layout == 'page' %}
+ <script type="application/ld+json">
+  {
+   "@context": "http://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+       "@id": "{{ page.url | replace:'index.html','' | absolute_url }}",
+       "name": "{{ page.title | escape }}"
+     }
+    }
+   ]
+  }
+ </script>
+{% endif %}
 {% if page.modules contains "iframe" %} <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>{% endif %}
 {% if page.modules contains "facebook" %} <script async custom-element="amp-facebook" src="https://cdn.ampproject.org/v0/amp-facebook-0.1.js"></script>{% endif %}
 {% if page.modules contains "youtube" %} <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>{% endif %}
 {% if jekyll.environment == 'production' and site.google_analytics %} <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>{% endif %}
  <style amp-custom>{% capture include_to_scssify %}{% include style.scss %}{% endcapture %}{{ include_to_scssify | scssify }}</style>
  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}" />
+{{ page.title | where: page.permalink, '/' }}
 </head>
