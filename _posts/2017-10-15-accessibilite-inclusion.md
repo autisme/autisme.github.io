@@ -8,11 +8,14 @@ author: Bastien
 oembed_image: /assets/posts/2017-10-15/opengraph.png
 ---
 
+
 L'autisme est décrit comme un trouble neuro développemental dans le milieu médical et comme un handicap dans la société.
 Comme toutes les personnes handicapées, les personnes autistes font face à des problèmes d'accessibilité.
 Pourtant cela n'est que rarement discuté.
 Lorsque nous discutons d'accessibilité nous pensons aux personnes en fauteuil roulant ou qui ont un handicap qui rend leurs déplacements difficiles.
 Nous pensons plus rarement aux personnes âgées et quasiment jamais aux personnes autistes.
+
+<amp-img class="center" width="600" height="225" src="/facebook_campaign/inclusive.png" alt="L'inclusion c'est permettre à chaque personne de participer dans la société et d'y contribuer. L'accessibilité est essentielle mais ce n'est que la première étape."></amp-img>
 
 Pourtant, le problème de l'accessibilité pour les  personnes avec autisme est réel.
 Par exemple, il est souvent difficile pour les personnes concernées de se rendre dans un lieu rempli de monde, ou bruyant, ou avec des lumières vives.
@@ -54,7 +57,6 @@ autistes et sachent comment interagir avec elles.
 Il ne s'agit pas de faire en sorte que tout le monde soit un expert sur l'autisme. Il s'agit simplement de faire en sorte que les gens aient soient ouverts à la différence
 et aient une attitude qui permette aux personnes autistes de participer.
 
-<amp-img class="center" width="600" height="225" src="/facebook_campaign/inclusive.png" alt="L'inclusion c'est permettre à chaque personne de participer dans la société et d'y contribuer. L'accessibilité est essentielle mais ce n'est que la première étape."></amp-img>
 
 C'est par la mise en accessibilité de la société et en sensibilisant le grand public pour qu'il comprenne ce qu'est l'autisme que l'on pourra enfin
 construire une société véritablement inclusive.
