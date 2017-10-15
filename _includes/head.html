@@ -108,8 +108,8 @@
      "@type": "ListItem",
      "position": {{ position }},
      "item": {
-      "@id": "{{ breadcrumb | replace:'index.html','' | absolute_url }}",
-      "name": "{{ page.title | where: page.permalink, breadcrumb }}"
+      "@id": "{{ br.url | where: br.permalink, breadcrumb | replace:'index.html','' | absolute_url }}",
+      "name": "{{ br.title | where: br.permalink, breadcrumb | escape }}"
      }
     },
 {% assign position = position | plus: 1 %}
