@@ -36,6 +36,7 @@
    "url":"{{ page.url | replace:'index.html','' | absolute_url }}"
   }
  </script>
+<!--
  <script type="application/ld+json">
   {
    "@context":"http://schema.org",
@@ -61,7 +62,7 @@
 {% if site.github_username %}    "https://github.com/{{ site.github_username }}"{% endif %}
    ]
   }
- </script>
+</script>
 {% if page.layout == 'post' or page.layout == 'page' %}
  <script type="application/ld+json">
   {
@@ -96,6 +97,7 @@
   }
  </script>
 {% endif %}
+-->
 {% if page.modules contains "iframe" %} <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>{% endif %}
 {% if page.modules contains "facebook" %} <script async custom-element="amp-facebook" src="https://cdn.ampproject.org/v0/amp-facebook-0.1.js"></script>{% endif %}
 {% if page.modules contains "youtube" %} <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>{% endif %}
