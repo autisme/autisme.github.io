@@ -26,7 +26,7 @@ produit qui sent fort etc.
 En un mot, la question de l'accessibilité n'a pas été traitée.
 
 <div class="highlight">
-<p>Nous avons parfois l'impression d'être inclusif lorsque nous accueillons les personnes autistes mais la véritable  inclusion, c'est lorsque chaque personne peut participer.</p>
+<p class="center">Nous avons parfois l'impression d'être inclusif lorsque nous accueillons les personnes autistes mais la véritable  inclusion, c'est lorsque chaque personne peut participer.</p>
 </div>
 
 Lorsque les personnes avec autisme sont accueillies à l'école (en classe ordinaire ou spécialisée) mais qu'elles n'ont pas groupe d'amis, font les travaux de groupe seules dans leur coin,
@@ -54,7 +54,7 @@ autistes et sachent comment interagir avec elles.
 Il ne s'agit pas de faire en sorte que tout le monde soit un expert sur l'autisme. Il s'agit simplement de faire en sorte que les gens aient soient ouverts à la différence
 et aient une attitude qui permette aux personnes autistes de participer.
 
-<amp-img class="center" width="800" height="300" src="/facebook_campaign/inclusive.png" alt="L'inclusion c'est permettre à chaque personne de participer dans la société et d'y contribuer. L'accessibilité est essentielle mais ce n'est que la première étape."></amp-img>
+<amp-img class="center" width="600" height="225" src="/facebook_campaign/inclusive.png" alt="L'inclusion c'est permettre à chaque personne de participer dans la société et d'y contribuer. L'accessibilité est essentielle mais ce n'est que la première étape."></amp-img>
 
 C'est par la mise en accessibilité de la société et en sensibilisant le grand public pour qu'il comprenne ce qu'est l'autisme que l'on pourra enfin
 construire une société véritablement inclusive.
