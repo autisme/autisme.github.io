@@ -101,14 +101,10 @@
    "@context": "http://schema.org",
    "@type": "BreadcrumbList",
    "itemListElement": [
-{% if page.layout == 'page' %}
- {% assign breadcrumbs = pages.breadcrumbs %}
-{% endif %}
-{% if page.layout == 'post' %}
- {% assign breadcrumbs = '/blog' %}
-{% endif %}
+{% if page.layout == 'page' %}{% assign breadcrumbs = pages.breadcrumbs %}{% endif %}
+{% if page.layout == 'post' %}{% assign breadcrumbs = '/blog' %}{% endif %}
 {% assign position = 1 %}
- {% for breadcrumb in page.breadcrumbs %}
+ {% for breadcrumb in breadcrumbs %}
     {
      "@type": "ListItem",
      "position": {{ position }},
