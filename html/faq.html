@@ -63,57 +63,65 @@ input {
   </datalist>
   <div id="qa">
   </div>
+  <script type="text/javascript" src="/html/lib/fuse.min.js"></script>
   <script type="text/javascript">
    var qa = [
     {
-     'q': 'Question 1',
-     'a': 'This is the first answer'
+     'q': 'Pourquoi aller dans les magasins est difficile pour les personnes autistes ?',
+     'a': '<p>Aller dans une boutique, un magasin ou un supermarché n\'est pas facile pour les personnes autistes. Souvent les magasins sont bruyants, imprévisibles, remplis de monde et communiquer avec les venveurs ou caissiers est souvent nécessaire. Tout cela fait qu\'il est très difficile pour les personnes autistes et leur famille d\'aller dans un magasin.</p><p>Pour les personnes avec autisme, il est plus facile d\'aller dans un magasin aux heures où il y a moins de monde lorsque la sortie est préparée en avance.</p>'
     },
     {
-     'q': 'Question 2',
-     'a': 'This is the <strong>second</strong> answer'
+     'q': 'Pourquoi utiliser les transports en commun est difficile pour certaines personnes autistes ?',
+     'a': '<p></p>'
     },
     {
      'q': 'abc',
      'a': 'This is the <strong>second</strong> answer'
     },
    ];
+   var fuse;
    var input = document.getElementById('question');   
    var datalist = document.getElementById('questions');
    var qa_list = document.getElementById('qa');
-   function toggle(i) {
-    var qa_element = document.getElementById('q'+(i+1));
+   var unfolded = [];
+   function isInt(value) {
+    return !isNaN(value) && 
+     parseInt(Number(value)) == value && 
+     !isNaN(parseInt(value, 10));
+   }
+   function toggle(id) {
+    var qa_element = document.getElementById('q'+(id+1));
     var qa_element_question = qa_element.childNodes[0];
     var qa_element_answer = qa_element.childNodes[1];
 
-    if(false ==  qa[i]['s'] ) {
+    if(-1 == unfolded.indexOf(id)) {
      qa_element_question.setAttribute('class', 'question shown');
      qa_element_answer.setAttribute('class', 'answer shown');
-     qa[i]['s'] = true;
+     unfolded.push(id);
     } else {
      qa_element_question.setAttribute('class', 'question');
      qa_element_answer.setAttribute('class', 'answer');
-     qa[i]['s'] = false;
+     unfolded.splice(unfolded.indexOf(id), 1);
     }
    }
-   function add_question(i) {
+   function add_question(q) {
     var qa_element = document.createElement('div');
     var qa_element_question = document.createElement('span');
     var qa_element_answer = document.createElement('span');
  
-    qa_element.setAttribute('id', 'q' + (i+1));
+    qa_element.setAttribute('id', 'q' + (q['id']+1));
     qa_element.setAttribute('class', 'qa');
 
-    qa_element_question.innerHTML = qa[i]['q'];
-    if(false ==  qa[i]['s'] ) {
+    qa_element_question.innerHTML = q['q'];
+    if(-1 == unfolded.indexOf(q['id'])) {
      qa_element_question.setAttribute('class', 'question');
     } else {
      qa_element_question.setAttribute('class', 'question shown');
     }
-    qa_element_question.setAttribute('onClick', 'toggle('+i+');');
+    qa_element_question.setAttribute('onClick', 'toggle('+q['id']+');');
 
-    qa_element_answer.innerHTML = qa[i]['a'];
-    if(false ==  qa[i]['s'] ) {
+    qa_element_answer.innerHTML = q['a'];
+    if(-1 == unfolded.indexOf(q['id'])) {
      qa_element_answer.setAttribute('class', 'answer');
     } else {
      qa_element_answer.setAttribute('class', 'answer shown');
@@ -123,58 +131,78 @@ input {
     qa_element.appendChild(qa_element_answer);
     qa_list.appendChild(qa_element);
    }
-   function distanceword(s1, s2) {
-    s1 = s1.toLowerCase();
-    s2 = s2.toLowerCase();
-    var costs = new Array();
-    for (var i = 0; i <= s1.length; i++) {
-     var lastValue = i;
-     for (var j = 0; j <= s2.length; j++) {
-      if (i == 0)
-       costs[j] = j;
-      else {
-       if (j > 0) {
-        var newValue = costs[j - 1];
-        if (s1.charAt(i - 1) != s2.charAt(j - 1))
-         newValue = Math.min(Math.min(newValue, lastValue),
-          costs[j]) + 1;
-          costs[j - 1] = lastValue;
-          lastValue = newValue;
-       }
-      }
-     }
-     if (i > 0)
-      costs[s2.length] = lastValue;
-    }
-    return costs[s2.length] / Math.max(s1.length, s2.length);
-   }
-
    function validate() {
-    console.log(input.value);
+//    console.log(input.value);
+    /* erase the div */
     while (qa_list.hasChildNodes()) {
      qa_list.removeChild(qa_list.lastChild);
     }
+    var current_qa;
+
     if ( 0 == input.value.length) {
-     for (var i = 0; i < qa.length; i++) {
-      add_question(i);
-     }
-     return;
+     current_qa = qa;
+    } else {
+     current_qa = fuse.search(input.value);
     }
-    for (var i = 0; i < qa.length; i++) {
-     console.log(distanceword(input.value, qa[i]['q']));
-     if ( distanceword(input.value, qa[i]['q']) < 1 ) {
-      add_question(i);
-     }
+    for (var i = 0; i < current_qa.length; i++) {
+     add_question(current_qa[i]);
     }
    }
    function prepare() {
+    /* add an id to each question */
     for (var i = 0; i < qa.length; i++) {
+     qa[i]['id'] = i;
+    }
+    /* open from url */
+    var hash = window.location.hash.substr(1).split(',');
+    for (var i = 0; i < hash.length; i++) {
+     if (!isInt(hash[i])) {
+      continue;
+     }
+     var s = parseInt(hash[i]);
+     if (s < 0 || s >= qa.length) {
+       continue;
+     }
+     if (-1 != unfolded.indexOf(s)) {
+       continue;
+     }
+     unfolded.push(s);
+    }
+    if (unfolded.length == 1) {
+      input.value = qa[unfolded[0]]['q'];
+    }
+
+    /* prepare fuse */
+    var fuse_options = {
+     shouldSort: true,
+     threshold: 0.6,
+     location: 0,
+     distance: 100,
+     maxPatternLength: 32,
+     minMatchCharLength: 1,
+     keys: [
+      "q",
+     ]
+    };
+    fuse = new Fuse(qa, fuse_options); 
+
+    /* display all questions */
+    for (var i = 0; i < qa.length; i++) {
+
+     /* add them in datalist
      var option = document.createElement('option');
      option.setAttribute('value', qa[i]['q']);
      datalist.appendChild(option);
-     qa[i]['s'] = false;
-     add_question(i);
+
+     /* display them */
+     add_question(qa[i]);
     }
+
+    /* filter in case of one question was asked */
+    if (unfolded.length == 1) {
+      validate();
+    }
+
    }
    document.body.onload = function() {
     prepare();
