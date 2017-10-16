@@ -3,6 +3,8 @@ layout: page
 title: Stress et anxiété
 permalink: /je-suis-une-personne-avec-autisme/stress-et-anxiete
 hide_header_link: true
+breadcrumbs:
+  - /je-suis-une-personne-avec-autisme/
 ---
 
 L'anxiété est quelque chose qui concerne beaucoup de personnes avec autisme.

@@ -4,6 +4,8 @@ title: "Construire une société inclusive - Services de secours"
 permalink: /construire-une-societe-inclusive/services-de-secours
 hide_header_link: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/introduction/dict.jpg
+breadcrumbs:
+  - /construire-une-societe-inclusive/
 ---
 
 <amp-img class="right" width="200" height="133" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/introduction/dict.jpg" alt="dict"></amp-img>

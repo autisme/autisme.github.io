@@ -4,6 +4,8 @@ title: "Construire une société inclusive - Commerçants"
 permalink: /construire-une-societe-inclusive/commercants
 hide_header_link: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/commercants/ID-100264598.jpg
+breadcrumbs:
+  - /construire-une-societe-inclusive/
 ---
 
 Environ une personne sur 100 est actuellement concernée par l'autisme.

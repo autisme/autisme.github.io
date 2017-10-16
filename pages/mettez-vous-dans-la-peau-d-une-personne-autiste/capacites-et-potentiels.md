@@ -4,6 +4,8 @@ title:  "Capacités et potentiels"
 permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/capacites-et-potentiels
 hide_header_link: true
 oembed_image: /assets/posts/2017-10-02/opengraph.png
+breadcrumbs:
+  - /mettez-vous-dans-la-peau-d-une-personne-autiste/
 ---
 
 Bien que nous parlons souvent voire tout le temps des problèmes des personnes autistes, nous ne devons pas oublier que

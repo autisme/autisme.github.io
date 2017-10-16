@@ -3,6 +3,8 @@ layout: page
 title: L'autisme, une étiquette
 permalink: /je-suis-un-parent-membre-de-l-entourage/l-autisme-une-etiquette
 hide_header_link: true
+breadcrumbs:
+  - /je-suis-un-parent-membre-de-l-entourage/
 ---
 
 Un grand défi pour les parents (mais aussi pour les personnes avec autisme) est de dépasser cette notion «&nbsp;d'étiquette&nbsp;»

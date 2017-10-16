@@ -6,6 +6,8 @@ hide_header_link: true
 oembed_image: /assets/posts/2017-10-02/opengraph.png
 modules:
   - iframe
+breadcrumbs:
+  - /mettez-vous-dans-la-peau-d-une-personne-autiste/
 ---
 
 La communication est essentielle pour exprimer ses besoins et ses émotions. Pourtant cela est une difficulté majeure chez beaucoup de personnes avec autisme.

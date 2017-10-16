@@ -4,6 +4,8 @@ title: "Construire une société inclusive - Divertissements"
 permalink: /construire-une-societe-inclusive/divertissements
 hide_header_link: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/divertissements/ID-100442933.jpg
+breadcrumbs:
+  - /construire-une-societe-inclusive/
 ---
 
 Les cinémas, les concerts, les théâtres, les stades, les bowlings - tous ces lieux

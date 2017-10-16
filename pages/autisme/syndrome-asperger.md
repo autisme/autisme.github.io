@@ -6,6 +6,8 @@ hide_header_link: true
 oembed_image: /assets/pages/autisme/syndrome-asperger/ID-100383835.jpg
 modules:
   - youtube
+breadcrumbs:
+  - /autisme/
 ---
 
 Le terme de «&nbsp;Syndrome d'Asperger&nbsp;» fait référence à un profil particulier sur le spectre de l'autisme.
