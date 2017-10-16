@@ -13,7 +13,7 @@ Certaines personnes avec autisme peuvent être non verbales ou avoir un retard d
 Au contraire, d'autres peuvent parler correctement et avoir un large vocabulaire.
 
 Les personnes non verbales peuvent utiliser d'autres moyens pour s'exprimer.
-Certaines utilisent la langue des signes, ou des pictogrammes. 
+Certains utilisent la langue des signes, ou des pictogrammes. 
 Avez-vous déjà imaginé si vous deviez vous exprimer en utilisant des pictogrammes&nbsp;:
 <!-- écriture pictogrammes (pecs) -->
 <div class="center">
