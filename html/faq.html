@@ -38,7 +38,7 @@ input {
  background-color: #5f6f7e;
  text-align: center;
  display: inline-block;
- margin: 10px;
+ margin: 0 10px 0 10px;
  width: 1.4em;
  height: 1.4em;
  line-height: 1.4em;
@@ -51,6 +51,7 @@ input {
  display: none;
  padding: 10px;
  margin-left: 1.5em;
+ text-align: justify;
 }
 .answer.shown {
  display: block;
@@ -75,10 +76,23 @@ input {
      'a': '<p>Utiliser les transports en commun est quelque chose que tout le monde trouve stressant de temps à autre. Vous devez respecter les horaires, attendre dans un endroit rempli de monde et enfin trouver un siège ou rester debout dans un train/bus bondé. Cela rend les transports en commun particulièrement difficiles à utiliser pour les personnes autistes.</p><p>Quelques difficultés souvent recontrées&nbsp;:</p><ul><li>Les lumières vives peuvent être difficiles à supporter&nbsp;;</li><li>Une personne avec autisme peut également ne pas supporter une odeur qu\'elle n\'aime pas. Cela peut se produire lorsque des personnes mettent beaucoup de parfum ou emportent leur déjeuner dans le bus&nbsp;;</li><li>Beaucoup de personnes autistes n\'aiment pas la foule. Pensez aux différents bruits dans les transports. Il y a les sonneries des portes, le système de ventilation ou encore l\'avertisseur sonore. Dans les taxis, la radio ou un chauffeur très bavard&nbsp;;</li><li>Il est très courant que les personnes autistes aient besoin d\'un espace personnel important. IL peut être vraiment stressant lorsque des gens s\'approchent trop, particulièrement lorsqu\'il y a beaucoup de monde dans les transports.</li></ul><p>Nous pouvons ajouter à cette liste, l\'anxiété pour ne pas être à l\'heure, les difficultés de communication et d\'organisation. Tout cela rend les transports en commun vraiment difficiles à prendre pour les personnes concernées.</p>'
     },
     {
-     'q': 'Est-il plus difficile d\'être impliqué dans une activité si vous êtes concerné par l'autisme ?',
-     'a': 'This is the <strong>second</strong> answer'
+     'q': 'Est-il plus difficile d\'être impliqué dans une activité si vous êtes concerné par l\'autisme ?',
+     'a': '<p>Tous les jeunes sont impliqués dans des activités sportives ou des associations à un moment donné. Toutefois pour les personnes autistes il est plus difficile d\'être inclus dans ces activités. Beaucoup de personnes autistes ont une mauvais coordination,  compliquant la pratique sportive. De plus, les difficultés sociales font que s\'intégrer dans un groupe est une tâche épuisante plutôt que plaisante. Si une personne autiste est dans votre groupe ou  association, réfléchissez à comment vous pouvez inclure tout le monde. Soyez attentif au langage que vous utilisez en sport. Ne traitez pas les gens «&nbsp;d\'handicapé&nbsp;» ou autre insulte du même acabit. Les personnes autistes peuvent se sentir visées et ne pouvoir participer. Faites également attention au fait que les personnes autistes peuvent avoir besoin de plus de temps pour réaliser certaines taches.</p>'
     },
+    {
+     'q': 'Pourquoi certaines personnes autistes parlent tout le temps du même sujet ?',
+     'a': '<p>Les personnes autistes peuvent parler beaucoup sur un sujet si celui-ci les intéresse. Ce n\'est pas pour rien que les obsessions et les intérêts spéciaux vont souvent de pair avec l\'autisme. Toutefois, une personne peut être passionnée pour un sujet et ne pas s\'intéresser du tout à d\'autres sujets. S\'intéresser à quelque chose est souvent bien. Cela peut guider la personne dans le choix du métier que la personne pourrait exercer. Cependant, si l\'intrérêt demande trop de temps, cela peut limiter le temps alloué à d\'autres activités comme se faire des amis. Cela peut également être une source de distraction au travail ou à l\'école.</p>'
+    },
+    {
+     'q': 'Pourquoi les personnes autistes sont-elles souvent de bons amis ?',
+     'a': '<p>Avoir un ami qui est autiste peut être bien pour plusieurs raisons. Un aspect de l\'autisme est la manière très concrète dont la personne pense. Soit un fait est vrai soit il ne l\'est pas. Par contéquent, l\'honnêteté et la loyauté sont souvent des traits de caractères fréquents chez les personnes autistes. Même si l\'amitié est longue à se développer, une personne autiste restera un ami fidèle. Une personne autiste peut également avoir un sens du détail ou une connaissance exceptionnelle sur un certain sujet. Cela peut être un bon moyen de développer l\'amitié. Vous pouvez débattre ensemble ou travailler sur un projet autour de ce sujet.</p>'
+    },
+    {
+     'q': 'Pourquoi certaines personnes autistes vont vers les autres et socialisent certaines fois tandis qu\'à d\'autres moment elles ne le font pas ?',
+     'a': ''
+    }
    ];
+
    var fuse;
    var input = document.getElementById('question');   
    var datalist = document.getElementById('questions');
