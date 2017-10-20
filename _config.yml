@@ -20,8 +20,8 @@ google_analytics: UA-99588632-1
 bing_verify: 10AC9E0EFAD518AB76B218E4121A15B5
 permalink: /:title
 
-#amp_img_cache_url: https://autisme-github-io.cdn.ampproject.org/i/autisme.github.io
-amp_img_cache_url: http://localhost:4000
+amp_img_cache_url: https://autisme-github-io.cdn.ampproject.org/i/autisme.github.io
+#amp_img_cache_url: http://localhost:4000
 
 # Build setting
 sass:
