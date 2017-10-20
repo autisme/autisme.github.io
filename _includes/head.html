@@ -62,12 +62,13 @@
    ]
   }
 </script>
-{% if page.layout == 'post' or page.layout == 'page' %}
+{% if page.layout == 'post' or page.layout == 'page' or page.layout == 'faq' %}
  <script type="application/ld+json">
   {
    "@context":"http://schema.org",
 {% if page.layout == 'post' %}   "@type":"BlogPosting",{% endif %}
 {% if page.layout == 'page' %}   "@type":"Article",{% endif %}
+{% if page.layout == 'faq' %}   "@type":"Article",{% endif %}
    "mainEntityOfPage":{
     "@type":"WebPage",
     "@id":"{{ page.url | replace:'index.html','' | absolute_url }}"
@@ -101,7 +102,8 @@
    "@context": "http://schema.org",
    "@type": "BreadcrumbList",
    "itemListElement": [
-{% if page.layout == 'page' %}{% assign breadcrumbs = pages.breadcrumbs %}{% endif %}
+{% if page.layout == 'page' %}{% assign breadcrumbs = page.breadcrumbs %}{% endif %}
+{% if page.layout == 'faq' %}{% assign breadcrumbs = page.breadcrumbs %}{% endif %}
 {% if page.layout == 'post' %}{% assign breadcrumbs = '/blog' %}{% endif %}
 {% assign position = 1 %}
  {% for breadcrumb in breadcrumbs %}
@@ -126,6 +128,21 @@
    ]
   }
  </script>
+{% if page.layout == 'faq' and page.question.question and page.question.answer %}
+ <script type="application/ld+json">
+  {
+   "@context":"http://schema.org",
+   "@type": "Question",
+   "text": "{{ page.question.question | escape }}",
+   "dateCreated": "{{ page.date | default: site.time |  date_to_xmlschema }}",
+   "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "{{ page.question.answer | escape }}",
+       "dateCreated": "{{ page.date | default: site.time |  date_to_xmlschema }}"
+   }
+  }
+ </script>
+{% endif %}
 <!--
 -->
 {% if page.modules contains "iframe" %} <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>{% endif %}
