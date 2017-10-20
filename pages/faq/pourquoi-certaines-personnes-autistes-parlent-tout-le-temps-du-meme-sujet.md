@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Pourquoi certaines personnes autistes parlent tout le temps du même sujet ?"
 permalink: /faq/pourquoi-certaines-personnes-autistes-parlent-tout-le-temps-du-meme-sujet
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

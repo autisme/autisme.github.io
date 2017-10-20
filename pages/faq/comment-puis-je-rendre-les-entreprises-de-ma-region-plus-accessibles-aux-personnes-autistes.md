@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Comment puis-je rendre les entreprises de ma région plus accessibles aux personnes autistes ?"
 permalink: /faq/comment-puis-je-rendre-les-entreprises-de-ma-region-plus-accessibles-aux-personnes-autistes
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

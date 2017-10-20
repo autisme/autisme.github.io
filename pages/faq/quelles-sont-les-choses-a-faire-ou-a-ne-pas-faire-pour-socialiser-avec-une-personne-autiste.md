@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Quelles sont les choses à faire ou à ne pas faire pour socialiser avec une personne autiste ?"
 permalink: /faq/quelles-sont-les-choses-a-faire-ou-a-ne-pas-faire-pour-socialiser-avec-une-personne-autiste
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

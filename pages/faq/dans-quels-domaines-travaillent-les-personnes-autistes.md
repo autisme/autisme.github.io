@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Dans quels domaines travaillent les personnes autistes ?"
 permalink: /faq/dans-quels-domaines-travaillent-les-personnes-autistes
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

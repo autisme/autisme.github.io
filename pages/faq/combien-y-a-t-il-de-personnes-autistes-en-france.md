@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Combien y a-t-il de personnes autistes en France ?"
 permalink: /faq/combien-y-a-t-il-de-personnes-autistes-en-france
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

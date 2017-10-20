@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Qu'est-ce que cela signifie pour moi d'être autiste ?"
 permalink: /faq/qu-est-ce-que-cela-signifie-pour-moi-d-etre-autiste
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

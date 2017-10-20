@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Je suis autiste, comment puis-je m'adapter aux autres ?"
 permalink: /faq/je-suis-autiste-comment-puis-je-m-adapter-aux-autres
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

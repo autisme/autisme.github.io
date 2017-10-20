@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Pourquoi certaines personnes autistes répondent-elles aux questions par un seul mot ?"
 permalink: /faq/pourquoi-certaines-personnes-autistes-repondent-elles-aux-questions-par-un-seul-mot
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

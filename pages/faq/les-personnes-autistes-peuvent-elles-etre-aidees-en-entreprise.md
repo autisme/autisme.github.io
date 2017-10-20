@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Les personnes autistes peuvent-elles être aidées en entreprise ?"
 permalink: /faq/les-personnes-autistes-peuvent-elles-etre-aidees-en-entreprise
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

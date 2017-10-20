@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Pourquoi aller dans les magasins est difficile pour les personnes autistes ?"
 permalink: /faq/pourquoi-aller-dans-les-magasins-est-difficile-pour-les-personnes-autistes
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

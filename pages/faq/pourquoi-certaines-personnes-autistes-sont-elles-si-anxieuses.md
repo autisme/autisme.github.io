@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Pourquoi certaines personnes autistes sont-elles si anxieuses ?"
 permalink: /faq/pourquoi-certaines-personnes-autistes-sont-elles-si-anxieuses
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

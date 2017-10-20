@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Que puis-je faire afin que les personnes autistes socialisent plus facilement ?"
 permalink: /faq/que-puis-je-faire-afin-que-les-personnes-autistes-socialisent-plus-facilement
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

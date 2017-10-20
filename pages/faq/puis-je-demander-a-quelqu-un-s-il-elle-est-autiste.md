@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Puis-je demander à quelqu'un s'il/elle est autiste ?"
 permalink: /faq/puis-je-demander-a-quelqu-un-s-il-elle-est-autiste
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

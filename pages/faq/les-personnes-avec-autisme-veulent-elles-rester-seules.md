@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Les personnes avec autisme veulent-elles rester seules ?"
 permalink: /faq/les-personnes-avec-autisme-veulent-elles-rester-seules
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

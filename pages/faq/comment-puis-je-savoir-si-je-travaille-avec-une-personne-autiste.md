@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Comment puis-je savoir si je travaille avec une personne autiste ?"
 permalink: /faq/comment-puis-je-savoir-si-je-travaille-avec-une-personne-autiste
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Pourquoi les personnes autistes ont du mal à se faire des amis ?"
 permalink: /faq/pourquoi-les-personnes-autistes-ont-du-mal-a-se-faire-des-amis
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

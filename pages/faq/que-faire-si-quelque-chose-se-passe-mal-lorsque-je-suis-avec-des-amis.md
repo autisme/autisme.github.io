@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Que faire si quelque chose se passe mal lorsque je suis avec des amis ?"
 permalink: /faq/que-faire-si-quelque-chose-se-passe-mal-lorsque-je-suis-avec-des-amis
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

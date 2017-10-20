@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Les personnes autistes travaillent-elles différemment ?"
 permalink: /faq/les-personnes-autistes-travaillent-elles-differemment
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Pourquoi certaines personnes autistes ne supportent-elles pas certains environnements ?"
 permalink: /faq/pourquoi-certaines-personnes-autistes-ne-supportent-elles-pas-certains-environnements
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

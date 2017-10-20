@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Peut-on réussir sa vie lorsque nous sommes autiste ?"
 permalink: /faq/peut-on-reussir-sa-vie-lorsque-nous-sommes-autiste
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

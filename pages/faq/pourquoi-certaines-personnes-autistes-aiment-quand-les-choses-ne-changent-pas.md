@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Pourquoi certaines personnes autistes aiment quand les choses ne changent pas ?"
 permalink: /faq/pourquoi-certaines-personnes-autistes-aiment-quand-les-choses-ne-changent-pas
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

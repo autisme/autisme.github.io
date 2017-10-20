@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Pourquoi un employeur embaucherait-il une personne autiste ?"
 permalink: /faq/pourquoi-un-employeur-embaucherait-il-une-personne-autiste
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

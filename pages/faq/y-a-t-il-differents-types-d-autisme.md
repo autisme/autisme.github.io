@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Y a-t-il différents types d'autisme ?"
 permalink: /faq/y-a-t-il-differents-types-d-autisme
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

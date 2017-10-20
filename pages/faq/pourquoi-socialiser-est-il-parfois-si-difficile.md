@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Pourquoi socialiser est-il parfois si difficile ?"
 permalink: /faq/pourquoi-socialiser-est-il-parfois-si-difficile
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

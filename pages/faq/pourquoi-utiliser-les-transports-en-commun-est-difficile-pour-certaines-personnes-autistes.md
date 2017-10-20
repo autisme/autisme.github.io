@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Pourquoi utiliser les transports en commun est difficile pour certaines personnes autistes ?"
 permalink: /faq/pourquoi-utiliser-les-transports-en-commun-est-difficile-pour-certaines-personnes-autistes
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

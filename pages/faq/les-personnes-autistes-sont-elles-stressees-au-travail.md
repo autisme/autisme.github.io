@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Les personnes autistes sont-elles stressées au travail ?"
 permalink: /faq/les-personnes-autistes-sont-elles-stressees-au-travail
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

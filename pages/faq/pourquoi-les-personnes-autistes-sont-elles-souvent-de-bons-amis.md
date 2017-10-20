@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Pourquoi les personnes autistes sont-elles souvent de bons amis ?"
 permalink: /faq/pourquoi-les-personnes-autistes-sont-elles-souvent-de-bons-amis
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

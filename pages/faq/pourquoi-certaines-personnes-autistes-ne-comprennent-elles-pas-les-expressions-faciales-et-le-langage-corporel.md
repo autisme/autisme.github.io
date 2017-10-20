@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Pourquoi certaines personnes autistes ne comprennent-elles pas les expressions faciales et le langage corporel ?"
 permalink: /faq/pourquoi-certaines-personnes-autistes-ne-comprennent-elles-pas-les-expressions-faciales-et-le-langage-corporel
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

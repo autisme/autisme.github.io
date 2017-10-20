@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Est-il plus difficile de travailler pour une personne autiste ?"
 permalink: /faq/est-il-plus-difficile-de-travailler-pour-une-personne-autiste
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

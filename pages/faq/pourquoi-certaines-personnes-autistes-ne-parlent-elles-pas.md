@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Pourquoi certaines personnes autistes ne parlent-elles pas ?"
 permalink: /faq/pourquoi-certaines-personnes-autistes-ne-parlent-elles-pas
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

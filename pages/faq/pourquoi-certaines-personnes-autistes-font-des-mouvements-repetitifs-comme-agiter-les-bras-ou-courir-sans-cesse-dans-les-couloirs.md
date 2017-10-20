@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Pourquoi certaines personnes autistes font des mouvements répétitifs comme agiter les bras ou courir sans cesse dans les couloirs ?"
 permalink: /faq/pourquoi-certaines-personnes-autistes-font-des-mouvements-repetitifs-comme-agiter-les-bras-ou-courir-sans-cesse-dans-les-couloirs
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

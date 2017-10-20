@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Que faire si quelqu'un me dit qu'il est autiste ?"
 permalink: /faq/que-faire-si-quelqu-un-me-dit-qu-il-est-autiste
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

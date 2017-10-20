@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Où puis-je rencontrer d'autres personnes autistes ?"
 permalink: /faq/ou-puis-je-rencontrer-d-autres-personnes-autistes
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

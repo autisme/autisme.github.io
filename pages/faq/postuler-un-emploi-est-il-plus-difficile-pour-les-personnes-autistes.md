@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Postuler un emploi est-il plus difficile pour les personnes autistes ?"
 permalink: /faq/postuler-un-emploi-est-il-plus-difficile-pour-les-personnes-autistes
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Les personnes autistes ont-elles souvent d'autres handicaps ?"
 permalink: /faq/les-personnes-autistes-ont-elles-souvent-d-autres-handicaps
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

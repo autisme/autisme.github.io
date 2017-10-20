@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - La plupart des gens savent-ils ce qu'est l'autisme ?"
 permalink: /faq/la-plupart-des-gens-savent-ils-ce-qu-est-l-autisme
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

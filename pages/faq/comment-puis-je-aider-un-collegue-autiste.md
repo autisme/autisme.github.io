@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Comment puis-je aider un collègue autiste ?"
 permalink: /faq/comment-puis-je-aider-un-collegue-autiste
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

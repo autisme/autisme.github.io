@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Quelles sont les choses à faire et à ne pas faire pour interagir avec un collègue autiste ?"
 permalink: /faq/quelles-sont-les-choses-a-faire-et-a-ne-pas-faire-pour-interagir-avec-un-collegue-autiste
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

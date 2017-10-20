@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Pourquoi certaines personnes autistes vont vers les autres et socialisent certaines fois tandis qu'à d'autres moments elles ne le font pas ?"
 permalink: /faq/pourquoi-certaines-personnes-autistes-vont-vers-les-autres-et-socialisent-certaines-fois-tandis-qu-a-d-autres-moments-elles-ne-le-font-pas
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 

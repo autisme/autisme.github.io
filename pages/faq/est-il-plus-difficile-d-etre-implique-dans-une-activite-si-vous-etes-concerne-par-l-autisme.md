@@ -2,7 +2,8 @@
 layout: faq
 title: "FAQ - Est-il plus difficile d'être impliqué dans une activité si vous êtes concerné par l'autisme ?"
 permalink: /faq/est-il-plus-difficile-d-etre-implique-dans-une-activite-si-vous-etes-concerne-par-l-autisme
-oembed_image: /assets/pages/faq/opengraph. png
+hide_header_link: true
+oembed_image: /assets/pages/faq/opengraph.png
 modules:
   - iframe
 question: 
