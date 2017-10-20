@@ -346,7 +346,7 @@ dd {
      qa[i]['id'] = i;
     }
     /* open from url */
-    var hash = window.parent.location.hash.substr(1).split(',');
+    var hash = window.location.hash.substr(1).split(',');
     for (var i = 0; i < hash.length; i++) {
      if (!isInt(hash[i])) {
       continue;
