@@ -14,7 +14,7 @@ Nous vous proposons ici de répondre aux questions qui sont souvent posées.
 Si vous avez une question dont la réponse n'est pas dans cette liste, n'hésitez pas à nous la [transmettre par email](/a-propos#nous-contacter).
 
 <div class="center">
- <amp-iframe width="800" height="600" sandbox="allow-scripts allow-top-navigation allow-same-origin" src="https://autisme.github.io/html/faq.html" scrolling="no">
+ <amp-iframe width="800" height="600" sandbox="allow-scripts allow-top-navigation" src="{{ site.url }}/html/faq.html" scrolling="no">
   <amp-img layout="fill" src="{{ site.amp_img_cache_url }}/html/faq.png" placeholder></amp-img>
  </amp-iframe>
 </div>
