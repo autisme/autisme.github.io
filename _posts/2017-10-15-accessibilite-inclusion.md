@@ -55,8 +55,7 @@ Encore trop souvent, les personnes autistes sont décrites comme «&nbsp;bizarre
 Pour construire une société inclusive, nous devons donc donner les connaissances sur l'autisme au plus grand nombre afin que le plus de gens possible sachent reconnaître les personnes
 autistes et sachent comment interagir avec elles.
 Il ne s'agit pas de faire en sorte que tout le monde soit un expert sur l'autisme. Il s'agit simplement de faire en sorte que les gens aient soient ouverts à la différence
-et aient une attitude qui permette aux personnes autistes de participer.
-
+et aient une attitude qui permette aux personnes autistes de participer et d'avoir un rôle dans la société.
 
 C'est par la mise en accessibilité de la société et en sensibilisant le grand public pour qu'il comprenne ce qu'est l'autisme que l'on pourra enfin
 construire une société véritablement inclusive.
