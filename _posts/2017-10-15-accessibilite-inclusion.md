@@ -39,7 +39,8 @@ nous ne pouvons pas dire que ces personnes soient incluses bien que l'école leu
 Nous devons donc en plus d'accueillir les personnes, créer un environnement dans lequel celles-ci peuvent contribuer à la société.
 Cela passe par deux choses essentielles.
 La première est de créer un environnement sensoriel supportable pour les personnes autistes. De la même façon que nous construisons des rampes d'accès dans les lieux publics, nous
-devons baisser la musique dans les magasins, essayer de limiter le volume sonore dans les écoles, 
+devons baisser la musique dans les magasins, essayer de limiter le volume sonore dans les écoles. Par exemple nous voulons accueillir les personnes autistes dans les écoles mais aucune école
+n'a adapté les sonneries entre les cours qui font souvent un bruit insupportable.
 Nous avons déjà précédemment [publié de nombreux conseils pour rendre les lieux publics accessibles](/construire-une-societe-inclusive/#ce-que-vous-pouvez-faire-en-tant-quentreprise--organisation).
 
 Toutefois, l'accessibilité n'est que le prérequis pour construire une société inclusive.
@@ -50,7 +51,7 @@ Certains imaginent une personne autiste qu'elle connaisse lorsque d'autres ont u
 Le fait est que peu de monde réalise que chaque personne autiste est différente.
 Peu de monde comprend réellement ce qu'est l'autisme. Beaucoup pensent encore que c'est un trouble psychologique, que les personnes avec autisme aiment rester seules dans leur coin, etc.
 Et en fin de compte, peu de monde  possède le vocabulaire adéquat pour aborder le sujet de l'autisme.
-Encore trop souvent, les personnes autistes sont décrites comme «&nbsp;bizarres&nbps;», «&nbps;étranges&nbsp;» ou «&nbsp;renfermées&nbsp;».
+Encore trop souvent, les personnes autistes sont décrites comme «&nbsp;bizarres&nbsp;», «&nbsp;étranges&nbsp;» ou «&nbsp;renfermées&nbsp;».
 
 Pour construire une société inclusive, nous devons donc donner les connaissances sur l'autisme au plus grand nombre afin que le plus de gens possible sachent reconnaître les personnes
 autistes et sachent comment interagir avec elles.
