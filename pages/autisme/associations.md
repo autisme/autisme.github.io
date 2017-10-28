@@ -3,12 +3,15 @@ layout: page
 title: Associations de soutien
 permalink: /autisme/associations
 hide_header_link: true
-oembed_image: 
+oembed_image: /assets/pages/autisme/associations/ID-10069294.jpg
 breadcrumbs:
   - /autisme/
 modules:
   - iframe
 ---
+
+<amp-img class="left" width="250" height="250" src="{{ site.amp_img_cache_url }}/assets/pages/autisme/associations/ID-10069294.jpg" alt="ID-10069294.jpg"></amp-img>
+
 
 Que ce soit pour vous faire diagnostiquer, vous ou votre enfant, ou bien que ce soit pour vous aider à mettre en place des aménagements à l'école
 ou encore pour vous aider à trouver un emploi, de nombreuses organisations existent en France pour aider les personnes autistes 
