@@ -22,7 +22,7 @@ Si vous connaissez une association ou une organisation qui ne figure pas dans la
 
 
 <div class="center">
- <amp-iframe width="800" height="700" sandbox="allow-scripts allow-top-navigation" src="{{ site.url }}/html/organisations.html
+ <amp-iframe width="800" height="700" sandbox="allow-scripts allow-top-navigation" src="{{ site.url }}/html/organisations.html" scrolling="no">
   <amp-img layout="fill" src="{{ site.amp_img_cache_url }}/html/organisations.png" placeholder></amp-img>
  </amp-iframe>
 </div>
