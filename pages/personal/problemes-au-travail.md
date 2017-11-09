@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Problèmes souvent rencontrés au travail
-permalink: /je-suis-une-personne-avec-autisme/problemes-au-travail
+permalink: /je-suis-une-personne-autiste/problemes-au-travail
 hide_header_link: true
 oembed_image: /assets/pages/personal/problemes-au-travail/shutterstock_400477627_1.jpg
 breadcrumbs:
-  - /je-suis-une-personne-avec-autisme/
+  - /je-suis-une-personne-autiste/
 ---
 
 <amp-img class="left" width="403" height="269" src="{{ site.amp_img_cache_url }}/assets/pages/personal/problemes-au-travail/shutterstock_400477627_1.jpg" class="left" alt="ID_400477627"></amp-img>
 
-Beaucoup de personnes avec autisme ont du mal à trouver ou à garder un emploi. 
+Beaucoup de personnes autistes ont du mal à trouver ou à garder un emploi. 
 Pourquoi est-ce si difficile&nbsp;?
 Il y a de nombreuses raisons pour lesquelles trouver du travail est difficile mais nous devons garder espoir.
 
@@ -36,7 +36,7 @@ L'idée même de s'asseoir avec un groupe de personnes et d'être examiné et in
 peut nous rendre très anxieux. 
 
 ### Aspect social
-L'aspect social du travail peut être vraiment difficile pour les personnes avec autisme.
+L'aspect social du travail peut être vraiment difficile pour les personnes autistes.
 Nous pouvons avoir du mal à travailler au sein d'une équipe
 ou à participer au quotidien .
 Cependant, si vous êtes courtois avec vos collègues, cela devrait bien se passer.
@@ -55,7 +55,8 @@ rythme - vous pourriez bien apprécier et vous permettre rencontrer des personne
 
 ### Structure
 
-Beaucoup de personnes avec autisme aiment faire les choses par eux mêmes en suivant leur propre routine
+Beaucoup de personnes autistes aiment faire les choses par eux mêmes en suivant leur 
+propre routine
 ou rituels. Cela peut rendre difficile le respect des procédures de certaines entreprises.
 Respecter les délais peut être particulièrement difficile
 et certains d'entre nous ont du mal à travailler dans les grandes organisations
@@ -67,7 +68,7 @@ Si vous avez du mal à respecter les délais ou à faire face à la bureaucratie
 responsables qui pourront adapter le travail et la vitesse de travail à la manière qui vous convient.
 
 ### Environnement
-Les personnes avec autisme ne peuvent travailler que dans un environnement satisfaisant.
+Les personnes autistes ne peuvent travailler que dans un environnement satisfaisant.
 Si vous vous trouvez dans un cadre très chaotique ou dans un endroit plein de distractions
 ou d'odeurs et de sons, il peut être difficile de s'adapter.
 Essayez de garder un espace de travail propre afin que vous soyez moins susceptible
@@ -75,7 +76,8 @@ de vous distraire et si vous trouvez que vous ne pouvez pas vous concentrer, par
 la direction. Demandez la possibilité de travailler dans un environnement différent et adapté à vos besoins.
 
 ### Management
-Les personnes avec autisme peuvent avoir des difficultés pour suivre des instructions vagues
+Les personnes autistes peuvent avoir des difficultés pour suivre des instructions 
+vagues
 ou de longues listes de commandes verbales. Vous ne pouvez pas vous attendre à remplir une
 tâche si vous ne savez pas ou ne comprenez pas ce qui est attendu de vous, donc, si vous ne comprenez pas ce que vous devez faire,
 demandez simplement que les choses vous soient expliquées plus clairement
@@ -87,12 +89,13 @@ demander d'être plus clair, pourquoi ne pas demander à un collègue de vous ex
 ### Nos points forts
 
 Ci-dessus, 
-nous avons établi une liste non exhaustive de préoccupations et de problèmes potentiels qui sont fréquemment rencontrés par les personnes avec autisme.
+nous avons établi une liste non exhaustive de préoccupations et de problèmes potentiels 
+qui sont fréquemment rencontrés par les personnes autistes.
 Cependant, nous ne pensons pas qu'il soit sain de se concentrer uniquement sur les problèmes
 et non sur les capacités que nous avons, par conséquent, ci-dessous, 
 nous avons fait une liste des capacités que vous pouvez apporter à l'entreprise.
 
-  - L'honnêteté : beaucoup de personnes avec autisme sont très franches et ne tentent
+  - L'honnêteté : beaucoup de personnes autistes sont très franches et ne tentent
 pas de modifier la réalité ou de déformen les choses. C'est quelque chose dont les entreprises
 ont souvent besoin&nbsp;!
   - Attention aux détails : beaucoup d'entre nous aiment les détails et la perfection.
@@ -103,7 +106,8 @@ et de les soutenir pendant de nombreuses années.
 Dans le marché du travail en constante évolution, c'est un atout réel pour toute entreprise&nbsp;!
   - Concentration : Beaucoup d'entre nous ont des intérêts spécifiques dans certains domaines qui peuvent être utilisés au travail. Les entreprises aiment les gens qui sont passionnés par ce qu'ils font&nbsp;!
   - Intelligence : Certains d'entre nous ont une intelligence au-dessus de l'intelligence moyenne (en particulier ceux atteints du syndrome d'Aspergers). Les entreprises ont besoin de gros cerveaux&nbsp;!
-  - Capacité de réfléchir différemment : Les personnes avec autisme, par leur nature même, pensent différemment de ceux qui sont «neurotypiques». Pour qu'une entreprise puisse avancer, concourir et innover, elle a besoin de personnes qui pensent un peu différemment.
+  - Capacité de réfléchir différemment : Les personnes autistes, par leur nature même, 
+pensent différemment de ceux qui sont «neurotypiques». Pour qu'une entreprise puisse avancer, concourir et innover, elle a besoin de personnes qui pensent un peu différemment.
 
 ---
 <small>Image issue de imagerymajestic/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>

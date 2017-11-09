@@ -39,11 +39,11 @@ Vous n'osez plus aller vers les gens, voire même de sortir de chez vous.
 Vous ne parlez que lorsque cela est vraiment nécessaire.
 Finalement, vous restez dans la solitude.
 
-Comme le dit très bien le docteur Tony Attwood, les personnes avec autisme sont spécialistes lorsqu'il s'agit de devenir inquiet&nbsp;!
+Comme le dit très bien le docteur Tony Attwood, les personnes autistes sont spécialistes lorsqu'il s'agit de devenir inquiet&nbsp;!
 
 # Concentration
 
-Beaucoup de personnes avec autisme ont également du mal à rester concentrer, voire même de rester assis pendant de longues périodes.
+Beaucoup de personnes autistes ont également du mal à rester concentrer, voire même de rester assis pendant de longues périodes.
 Lorsqu'un sujet ne vous intéresse pas, il est impossible de vous faire travailler sur celui-ci car cela demande une concentration trop importante.
 Pour vous donner une idée, c'est comme si vous deviez dire de quelle couleur est écrit chacun des mots suivants&nbsp;:
 

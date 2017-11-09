@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Je suis une personne avec autisme
-permalink: /je-suis-une-personne-avec-autisme/
+title: Je suis une personne autiste
+permalink: /je-suis-une-personne-autiste/
 hide_header_link: true
 ---
 
 
-La vie des personnes avec autisme est remplie de défis.
+La vie des personnes autistes est remplie de défis.
 Ce handicap impacte grandement leur vie quotidienne.
 Des choses simples que tout le monde prend pour acquis comme
 aller à l'école ou au travail, se faire des amis ou aller au supermarché
-peuvent représenter d'immenses difficultés pour les personnes avec autisme.
+peuvent représenter d'immenses difficultés pour les personnes autistes.
 
 
 Quand la vie devient difficile,
@@ -19,7 +19,8 @@ La tentation est grande de se plaindre.
 Malheureusement, cela ne sert à rien et ne résout pas les problèmes.
 
 
-Le spectre de l'autisme est large. Il est donc très difficile de traîter tous les problèmes rencontrés par les personnes avec autisme.
+Le spectre de l'autisme est large. Il est donc très difficile de traîter tous les 
+problèmes rencontrés par les personnes autistes.
 Nous nous concentrons sur les problèmes les plus courants.
 
 
@@ -29,9 +30,9 @@ Souvenez-vous que «&nbsp;la connaissance c'est le pouvoir&nbsp;» et que vous p
 
 # Ressources
 
- - [Dois-je annoncer mon autisme](/je-suis-une-personne-avec-autisme/dois-je-annoncer-mon-autisme)
- - [Stress et anxiété](/je-suis-une-personne-avec-autisme/stress-et-anxiete)
- - [Environnement de travail](/je-suis-une-personne-avec-autisme/environnement-de-travail)
- - [Problèmes souvent rencontrés au travail](/je-suis-une-personne-avec-autisme/problemes-au-travail)
- - [Vie sociale](/je-suis-une-personne-avec-autisme/vie-sociale)
- - [Examens](/je-suis-une-personne-avec-autisme/examens)
+ - [Dois-je annoncer mon autisme](/je-suis-une-personne-autiste/dois-je-annoncer-mon-autisme)
+ - [Stress et anxiété](/je-suis-une-personne-autiste/stress-et-anxiete)
+ - [Environnement de travail](/je-suis-une-personne-autiste/environnement-de-travail)
+ - [Problèmes souvent rencontrés au travail](/je-suis-une-personne-autiste/problemes-au-travail)
+ - [Vie sociale](/je-suis-une-personne-autiste/vie-sociale)
+ - [Examens](/je-suis-une-personne-autiste/examens)

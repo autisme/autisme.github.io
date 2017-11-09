@@ -49,20 +49,20 @@ Bien que les habitants ne semblent pas y prêter attention, vous ne pouvez simpl
 
 <p>La façon la plus simple pour vivre dans ce monde irrationnel est d’appliquer des règles strictes. Vous mettez en place une routine pour éviter les imprévus. Le moindre changement de programme peut vous rendre très anxieux ou vous mettre en colère.
 Parfois, vous vous demandez pourquoi est-ce à vous de faire tous ces efforts pour vous adapter au monde et non le monde qui s’adapte à vous.</p>
-<p><strong class="center">Maintenant, réalisez que les personnes avec autisme vivent sur une planète extra-terrestre appelée la Terre.</strong></p>
+<p><strong class="center">Maintenant, réalisez que les personnes autistes vivent sur une planète extra-terrestre appelée la Terre.</strong></p>
 </div>
 
 Beaucoup de personnes ne souffrent pas à proprement parler de l'autisme mais souffrent de la façon dont la société les perçoit («&nbsp;Different, not Less&nbsp;»). 
 
 Selon vous, parmi les personnes ci-dessous, lesquelles sont autistes&nbsp;?
-<!-- identifier les personnes avec autisme -->
+<!-- identifier les personnes autistes -->
 <div class="center">
 <amp-iframe width="700" height="465" sandbox="allow-scripts" src="/html/people.html" scrolling="no"></amp-iframe>
 </div>
 
 Le fait est que nous avons tous une image qui nous vient en tête quand nous parlons d'autisme, que ce soit Rain Man, Sheldon de la série Big Bang Theory.
 La réalité est qu'il n'y a pas de trait de caractère ou de trait physique permettant de dire «&nbsp;Cette personne est autiste&nbsp;». Il n'existe pas de «&nbsp;personne type&nbsp;» et
-les personnes avec autisme sont très diverses.
+les personnes autistes sont très diverses.
 Certaines peuvent avoir un partenaire et des enfants, vous ne soupsoneriez pas leur autisme tandis que d'autres ont un
 autisme plus visible avec des signes comme le fait de ne pas parler, de ne pas regarder dans les yeux, etc.
 

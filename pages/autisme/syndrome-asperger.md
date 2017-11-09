@@ -11,7 +11,7 @@ breadcrumbs:
 ---
 
 Le terme de «&nbsp;Syndrome d'Asperger&nbsp;» fait référence à un profil particulier sur le spectre de l'autisme.
-Comme les personnes avec autisme en général, les personnes avec un Syndrome d'Asperger sont toutes affectées différemment par le handicap et requiert différents niveaux d'aide.
+Comme les personnes autistes en général, les personnes avec un Syndrome d'Asperger sont toutes affectées différemment par le handicap et requiert différents niveaux d'aide.
 
 Il est parfois confus pour les gens de comprendre les spécificités du «&nbsp;Syndrome d'Asperger&nbsp;», si cela est de l'autisme ou un handicap complètement différent.
 Nous allons essayer d'être le plus clair possible sur cette page.
@@ -19,12 +19,12 @@ Nous allons essayer d'être le plus clair possible sur cette page.
 ### Qu'est-ce que le Syndrome d'Asperger&nbsp;?
 
 Le Syndrome d'Asperger est un type ou un profil sur le spectre de l'autisme.
-En d'autre mots, les personnes avec un Syndrome d'Asperger sont des personnes avec autisme mais se situent dans un endroit particulier du spectre.
-Les personnes avec un Syndrome d'Asperger font face aux mêmes difficultés que les autres personnes avec autisme, comme des difficultés de communication, des difficultés pour interagir avec les autres, 
+En d'autre mots, les personnes avec un Syndrome d'Asperger sont des personnes autistes mais se situent dans un endroit particulier du spectre.
+Les personnes avec un Syndrome d'Asperger font face aux mêmes difficultés que les autres personnes autistes, comme des difficultés de communication, des difficultés pour interagir avec les autres, 
 des difficultés avec le traitement sensoriel de l'environnement et des difficultés à comprendre les situations sociales.
 La différence est que les personnes avec un Syndrome d'Asperger n'ont pas de problèmes avec la parole.
 Toutefois, les personnes avec un Syndrome d'Asperger peuvent avoir des difficultés à communiquer avec les autres, elles ont souvent une compréhension et une utilisation très litérale du langage.
-Habituellement, les personnes avec un Syndrome d'Asperger n'ont pas de retard intellectuel comme peuvent avoir certaines personnes avec autisme.
+Habituellement, les personnes avec un Syndrome d'Asperger n'ont pas de retard intellectuel comme peuvent avoir certaines personnes autistes.
 Toutefois, elles peuvent avoir des difficultés d'apprentissage ou des handicaps associés comme la dyslexie.
 
 <amp-img class="left" width="300" height="200" src="{{ site.amp_img_cache_url }}/assets/pages/autisme/syndrome-asperger/ID-100383835.jpg" alt="ID-100383835"></amp-img>

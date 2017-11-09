@@ -19,8 +19,8 @@ la même situation qu'eux.  Cela leur permet d'échanger sur le devenir de leur 
 
 ### Trouvez de l'aide, faites progresser votre enfant
 N'oubliez pas que les aides précoces sont très importantes. Essayez de trouver LA bonne thérapie pour vous.
-Ne négligez pas l'éducation. Les personnes avec autisme doivent aller à l'école, que ce soit dans une classe ordinaire ou une classe spécialisée. C'est à l'école que les compétences sociales peuvent se développer.
-Les institutions sont déconseillées car la plupart ne permettent pas aux personnes avec autisme de progresser.
+Ne négligez pas l'éducation. Les personnes autistes doivent aller à l'école, que ce soit dans une classe ordinaire ou une classe spécialisée. C'est à l'école que les compétences sociales peuvent se développer.
+Les institutions sont déconseillées car la plupart ne permettent pas aux personnes autistes de progresser.
 
 Faites en sorte que votre enfant développe le mieux possible et soit épanoui.
 

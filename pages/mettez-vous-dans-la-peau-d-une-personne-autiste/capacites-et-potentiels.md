@@ -16,9 +16,9 @@ Vous développez alors une expertise sur ces sujets.
 Vous pouvez utiliser ces centres d'intérêts comme un avantage pour faire face aux difficultés.
 Par exemple, vous pouvez trouver des amis qui ont les mêmes centres d'intérêts que vous.
 Vous pouvez également utiliser ces centre d'intérêts pour trouver du travail. C'est l'approche utilisée par la fondation <a href="http://specialisterne.com/">specialisterne</a> pour
-inclure les personnes avec autisme dans l'entreprise. Vous pouvez être reconnu pour ce qui vous passionne et pour ce que vous savez faire.
+inclure les personnes autistes dans l'entreprise. Vous pouvez être reconnu pour ce qui vous passionne et pour ce que vous savez faire.
 
-De plus, les personnes avec autisme peuvent avoir beaucoup de qualités utiles dans le monde du travail. Par exemple&nbsp;:
+De plus, les personnes autistes peuvent avoir beaucoup de qualités utiles dans le monde du travail. Par exemple&nbsp;:
 
  - Elles respectent scrupuleusement les règles. Elles n'arrivent donc que très rarement en retard en cours, au bureau.  Le travail est souvent fait consciencieusement avec implication&nbsp;;
  - Elles sont souvent honnêtes et loyales&nbsp;;
@@ -53,11 +53,11 @@ Toutefo
 Vous avez du mal à trouver un emploi dans lequel vous pouvez les mettre à profit car l'entretien d'embauche est une épreuve insurmontable pour vous. Si vous le surmonté, le peu d'adaptations
 que vous pourrez bénéficier vous fera quitter cet emploi peu de temps après.
 Pourtant les personnes autistes ont souvent beaucoup de qualité qui peuvent être utilisées dans le monde du travail&nbsp;:
-Les personnes avec autisme n'ont pas que des capacités dans le travail.
+Les personnes autistes n'ont pas que des capacités dans le travail.
 Ces centres d'intérêts sont également un atout pour surmonter les difficultés de communication et de socialisation. Vous pouvez par exemple trouver des amis 
 qui ont les mêmes centres d'intérêts que vous.
 
-Les personnes avec autisme ont
+Les personnes autistes ont
 
 
 -->

@@ -36,7 +36,7 @@ Bien que cela soit facile à dire, c'est bien plus difficile à faire.
 
 ### Ne vous jugez pas et ne laissez pas les autres vous juger
 
-Les parents et les autres membres de la famille des personnes avec autisme
+Les parents et les autres membres de la famille des personnes autistes
 sont des héros méconnus.
 Et pourtant, bien souvent ils sont durs avec eux-mêmes&nbsp;!
 Ne vous croyez pas que c'est de votre faute si vous avez tant de défis à relever ou que vous ne faites pas assez pour aider la personne avec autisme à les surmonter.

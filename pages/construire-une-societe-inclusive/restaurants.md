@@ -15,19 +15,19 @@ Les restaurants et les bars font partis de la vie de tous les jours. Souvent nou
 Toutefois, ce n'est pas si facile pour les clients avec autisme .
 Les restaurants et les bars sont des lieux sociaux qui demandent beaucoup d'interactions et de communication.
 Ce sont également des lieux bruyants.
-Ces éléments posent de sérieuses difficultés pour les personnes avec autisme.
+Ces éléments posent de sérieuses difficultés pour les personnes autistes.
 
 Environ une personne sur 100 est actuellement affectée par l'autisme.
 En devenant sensibilisé aux difficultés de cette population et en faisant de petits changements, vous pouvez trouver de nouveaux clients tout en faisant une contribution à la société.
 
 
-###  Restaurants et bars - Challenges pour les personnes avec autisme
+###  Restaurants et bars - Challenges pour les personnes autistes
 
 #### Communication
 
 
-Beaucoup de personnes avec autisme trouvent la communication difficile et le monde du commerce est rempli de communication avec les clients.
-Les problèmes de communications auxquels les personnes avec autisme font face sont divers et variés.
+Beaucoup de personnes autistes trouvent la communication difficile et le monde du commerce est rempli de communication avec les clients.
+Les problèmes de communications auxquels les personnes autistes font face sont divers et variés.
 
 
 Certaines personnes excèlent dans le maniement du langage, au point de paraître distant ou brutal tandis que d'autres sont non verbaux avec beaucoup de personnes entre ces deux extrêmes.
@@ -40,24 +40,24 @@ La communication est bien plus que la parole.
 
 <amp-img class="right" width="200" height="133" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/restaurants/ID-100442933.jpg" alt="ID-100442933"></amp-img>
 
-Les personnes avec autisme peuvent trouver difficile de comprendre le langage abstrait ou les figures de style.
-Les personnes avec autisme peuvent avoir une compréhension littérale du langage.
+Les personnes autistes peuvent trouver difficile de comprendre le langage abstrait ou les figures de style.
+Les personnes autistes peuvent avoir une compréhension littérale du langage.
 Vous pouvez leur faciliter la vie en utilisant des phrases claires et précises.
 
 #### Traitement sensoriel
-Beaucoup de personnes avec autisme ont du mal avec l'intégration sensorielle, ce qui signifie que leur sens sont à certains moments sous ou sur stimulés.
+Beaucoup de personnes autistes ont du mal avec l'intégration sensorielle, ce qui signifie que leur sens sont à certains moments sous ou sur stimulés.
 Beaucoup de personnes trouvent que les endroits avec du monde sont très bruyants, certaines ont des odeurs qu'elles ne supportent pas tandis que d'autres ont des odeurs qu'elles adorent.
 
 Les bars et les restaurants pleins de monde peuvent des endroits difficiles d'un point de vue sensoriel, notamment à cause du bruit, de l'espace personnel.
-S'il y a une large foule de personnes qui parlent, cela peut être difficile pour les personnes avec autisme. De même, la musique peut rendre les personnes anxieuses.
+S'il y a une large foule de personnes qui parlent, cela peut être difficile pour les personnes autistes. De même, la musique peut rendre les personnes anxieuses.
 
 #### Compétences sociales
 
-Les restaurants et les bars sont des environnements très sociaux. Les personnes avec autisme ont un manque de compétences sociales ce qui pose une réelle difficulté dans un restaurant.
+Les restaurants et les bars sont des environnements très sociaux. Les personnes autistes ont un manque de compétences sociales ce qui pose une réelle difficulté dans un restaurant.
 Un client avec autisme peut être très anxieux de devoir faire la conversation ou d'interagir avec d'autres personnes.
 Certaines personnes seront très distantes du fait de leur inconfort.
 
-Une autre difficulté qui peut arriver dans les bars est que les personnes avec autisme ne savent pas comment commencer une conversation avec d'autres clients.
+Une autre difficulté qui peut arriver dans les bars est que les personnes autistes ne savent pas comment commencer une conversation avec d'autres clients.
 
 #### Choix
 
@@ -69,7 +69,7 @@ Cela peut rendre l'étape de commande très longue, générer de l'anxiété et 
 #### Routine
 
 
-La routine est très importante pour beaucoup de personnes avec autisme. Les changements peuvent impacter la capacité des personnes à venir dans le restaurant.
+La routine est très importante pour beaucoup de personnes autistes. Les changements peuvent impacter la capacité des personnes à venir dans le restaurant.
 Si une personne a une réunion ou un événement au travail suivi d'un repas au restaurant
 ou bien que sa famille l'emmène en restaurant, si ces événements sont inhabituels, c'est un changement dans la routine de la personne.
 Cela peut limiter la capacité de la personne à apprécier les plats et l'environnement.
@@ -80,14 +80,14 @@ De plus, pour un client venant régulièrement, des changements dans votre resta
 
 #### Anxiété
 
-Quand les choses ne sont pas claires ou qu'une situation imprévue se produit, les personnes avec autisme peuvent devenir très anxieuses.
+Quand les choses ne sont pas claires ou qu'une situation imprévue se produit, les personnes autistes peuvent devenir très anxieuses.
 Plus une personne est anxieuse, plus il est difficile pour elle d'apprécier le moment présent.
 C'est pourquoi il est indispensable de faire des adaptations raisonnables et avoir une communication claire.
-Cela profitera à la fois aux personnes avec autisme et au personnel.
+Cela profitera à la fois aux personnes autistes et au personnel.
 
 #### Comportement
 
-Certains fois, les personnes avec autisme peuvent avoir un mauvais comportement. Ce n'est pas être un client difficile mais plutôt la
+Certains fois, les personnes autistes peuvent avoir un mauvais comportement. Ce n'est pas être un client difficile mais plutôt la
 conséquence d'être incapable de communiquer une frustration ou l'impossibilité de supporter l'environnement.
 Il est important de signaler cela à la famille ou à la personne qui accompagne afin de mieux comprendre et de mieux savoir dans
 quelle mesure vous pouvez aider.
@@ -101,12 +101,12 @@ Aider les familles à prendre du temps pour elles sera une grande amélioration 
 
 ### Ce que VOUS pouvez faire
 
-Le pouvoir de changer les choses est entre vos mains&nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes avec autisme doivent faire face.
-Vous pouvez faire beaucoup de choses pour rendre la vie des personnes avec autisme et de leur famille plus facile.
+Le pouvoir de changer les choses est entre vos mains&nbsp;! Vous avez maintenant un aperçu des problèmes courants auxquels les personnes autistes doivent faire face.
+Vous pouvez faire beaucoup de choses pour rendre la vie des personnes autistes et de leur famille plus facile.
 
 
-Rappelez-vous que faciliter la vie des personnes avec autisme n'est pas de la charité, c'est quelque chose de bon pour votre business.
-Les personnes avec autisme représentent une part non négligeable de votre clientèle qui saura vous récompenser pour les petites actions que vous ferez.
+Rappelez-vous que faciliter la vie des personnes autistes n'est pas de la charité, c'est quelque chose de bon pour votre business.
+Les personnes autistes représentent une part non négligeable de votre clientèle qui saura vous récompenser pour les petites actions que vous ferez.
 
 #### Former votre personnel
 
@@ -121,7 +121,7 @@ Le personnel peut avoir besoin d'une grande expertise dans l'autisme mais de pet
 Fournissez sur votre site web des images ou une visite à 360° de vos locaux, de votre parking, de la vaisselle etc
 Vous pouvez également indiquer la procédure à suivre pour passer une commande, comment payer la facture et les différentes règles que vous avez.
 N'oubliez pas d'inclure les heures d'ouverture et de fermeture.
-Cela peut grandement aider les personnes avec autisme et leur famille à préparer leur venue.
+Cela peut grandement aider les personnes autistes et leur famille à préparer leur venue.
 
 <amp-img class="center" width="250" height="166" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/restaurants/ID-100207637.jpg" alt="ID-100207637"></amp-img>
 
@@ -136,14 +136,14 @@ Vous pouvez prendre des réservations, demander les besoins des familles de sort
 #### Mettre à disposition un lieu calme («&nbsp;sensory friendly&nbsp;»)
 
 Vous pouvez fournir une «&nbsp;zone calme&nbsp;»&nbsp;? Cela peut être une petite partie ou une petite pièce à l'abri du bruit et des gens.
-C'est un petit geste qui peut être très utile pour les personnes avec autisme et leur famille et qui peuvent être en détresse de temps à autre.
+C'est un petit geste qui peut être très utile pour les personnes autistes et leur famille et qui peuvent être en détresse de temps à autre.
 Un lieu calme leur permet de partir de situations particulières, de déstresser tout en n'ayant pas besoin de partir.
 Cela est spécialement utile si vous avez par exemple de la musique qui est jouée dans votre restaurant.
 
 #### Demander les besoins des personnes
 
 Souvent, des petites choses génèrent beaucoup de désagrément. Par exemple des ballons peuvent faire peur s'ils explosent en faisant du bruit.
-De plus, certaines personnes avec autisme peuvent avoir un régime alimentaire très strict, par exemple en ne mangeant que très peu d'aliments.
+De plus, certaines personnes autistes peuvent avoir un régime alimentaire très strict, par exemple en ne mangeant que très peu d'aliments.
 Pour d'autres, une pièce bruyante peut être très difficile à supporter.
 
 Fournissez un questionnaire de sorte que les familles puissent signaler en avance les difficultés que la personne peut rencontrer.
@@ -151,12 +151,12 @@ Vous pourrez ainsi résoudre les problèmes en avance tout en réduisant le stre
 
 #### Informer des changements
 
-Des petits changements peuvent générer une grande détresse chez les personnes avec autisme.
+Des petits changements peuvent générer une grande détresse chez les personnes autistes.
 Cela peut être des petites choses comme une nouvelle décoration ou un changement dans le menu.
 Si une personne avec autisme est n'y est pas préparée et ne s'y attend pas, cela peut être très stressant.
 
 Cependant, si une personne avec autisme est capable de s'y préparer en avance, cela est souvent plus facile.
-Les personnes avec autisme pourraient laisser leur adresse e-mail afin que vous puissiez les prévenir des changements à venir.
+Les personnes autistes pourraient laisser leur adresse e-mail afin que vous puissiez les prévenir des changements à venir.
 
 C'est une petite adaptation pour vous qui peut être un grand atout pour les clients avec autisme.
 

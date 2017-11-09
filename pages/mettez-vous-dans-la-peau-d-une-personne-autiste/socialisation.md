@@ -23,7 +23,7 @@ Vous vous posez des dizaines de questions comme par exemple&nbsp;
   - Ce que vous allez-dire est-il pertinent dans la conversation et adapté aux personnes qui y participent&nbsp;? Par exemple, vous ne dites pas «&nbsp;bonjour&nbsp;» de la même manière à un collègue et à supérieur hiérarchique.
 
 Vous ne savez pas vous y prendre.
-Beaucoup de personnes avec autisme peuvent alors ne pas faire attention à cela et prendre la parole dès qu'elles ont quelque chose à dire et cela peut donner
+Beaucoup de personnes autistes peuvent alors ne pas faire attention à cela et prendre la parole dès qu'elles ont quelque chose à dire et cela peut donner
 l'impression que ces personnes manquent de respect. D'autres préfèreront rester à l'écart de la conversation et ne pas participer.
 
 Ci-dessous, une animation, vous permettant de vous rendre compte comment prendre la parole dans un groupe peut être difficile&nbsp;:

@@ -10,8 +10,8 @@ breadcrumbs:
   - /mettez-vous-dans-la-peau-d-une-personne-autiste/
 ---
 
-La communication est essentielle pour exprimer ses besoins et ses émotions. Pourtant cela est une difficulté majeure chez beaucoup de personnes avec autisme.
-Certaines personnes avec autisme peuvent être non verbales ou avoir un retard de langage avec un vocabulaire limité. 
+La communication est essentielle pour exprimer ses besoins et ses émotions. Pourtant cela est une difficulté majeure chez beaucoup de personnes autistes.
+Certaines personnes autistes peuvent être non verbales ou avoir un retard de langage avec un vocabulaire limité. 
 Au contraire, d'autres peuvent parler correctement et avoir un large vocabulaire.
 
 Les personnes non verbales peuvent utiliser d'autres moyens pour s'exprimer.
@@ -40,8 +40,8 @@ Cela peut également se retrouver chez les personnes verbales qui ont besoin de 
 De plus, certaines personnes autistes font de l'écholalie, c'est-à-dire qu'elles peuvent répéter ce qu'elles entendent. Imaginez-vous
 répéter la question que l'on vous pose au lieu d'y répondre. Généralement cela agace votre interlocuteur.
 
-De même, chez beaucoup de personnes avec autisme, comprendre les phrases imagées peut être difficile.
-Par exemple lorsque nous *«&nbsp;racontons des salades&nbsp;»*, les personnes avec autisme peuvent réellement penser que nous parlons d'un légume.
+De même, chez beaucoup de personnes autistes, comprendre les phrases imagées peut être difficile.
+Par exemple lorsque nous *«&nbsp;racontons des salades&nbsp;»*, les personnes autistes peuvent réellement penser que nous parlons d'un légume.
 Lorsque nous *«&nbsp;cassons les pieds&nbsp;»* de quelqu'un, nous ne l'empêchons pas de se déplacer. Nous utilisons tous les jours une quantité
 importante d'expressions, généralement sans même nous en rendre compte.
 

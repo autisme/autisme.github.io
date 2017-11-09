@@ -1,33 +1,45 @@
 ---
 layout: page
 title: Examens
-permalink: /je-suis-une-personne-avec-autisme/examens
+permalink: /je-suis-une-personne-autiste/examens
 hide_header_link: true
 oembed_image: /assets/pages/personal/examens/ID-10035633.jpg
 breadcrumbs:
-  - /je-suis-une-personne-avec-autisme/
+  - /je-suis-une-personne-autiste/
 ---
 
 <amp-img class="left" width="400" height="266" src="{{ site.amp_img_cache_url }}/assets/pages/personal/examens/ID-10035633.jpg" alt="ID-10035633"></amp-img>
 
 ### Les examens - personne n'aime ça, la plupart des gens les trouve difficiles et seules peu de personnes montrent leur vrai talent et leurs vraies capacités dans un environnement aussi stressant
 
-C'est le contexte que tous les étudiants redoutent. Cependant, il peut s'y ajouter d'autres challenges pour les étudiants avec autisme, comme notamment :
+C'est le contexte que tous les étudiants redoutent. Cependant, il peut s'y ajouter 
+d'autres challenges pour les étudiants autistes, comme notamment :
 
 #### La concentration
-À cause de l'hyperactivité, l'hyperstimulation et à cause de problèmes d'introversion, il est extrêmement difficile pour beaucoup de personnes avec autisme de rester concentré sur une même chose pendant une longue période de temps. Ce problème particulier ne rend pas seulement les révisions pour les examens difficiles, mais rend aussi les examens en eux-mêmes très compliqués et qui ne rendent pas compte du travail fournit et des connaissances acquises.
+À cause de l'hyperactivité, l'hyperstimulation et à cause de problèmes d'introversion, 
+il est extrêmement difficile pour beaucoup de personnes autistes de rester concentré 
+sur une même chose pendant une longue période de temps. Ce problème particulier ne rend pas seulement les révisions pour les examens difficiles, mais rend aussi les examens en eux-mêmes très compliqués et qui ne rendent pas compte du travail fournit et des connaissances acquises.
 
 #### Rester assis
-Beaucoup de personnes avec autisme ressentent le besoin de bouger et difficile de rester assis et immobiles pendant une longue période. C'est pourquoi, rester assis à la même place pendant un examen peut causer une certaine frustration ainsi que de l'inconfort. De plus, ceci peut mener à une augmentation de l'anxiété et à une réduction de la concentration.
+Beaucoup de personnes autistes ressentent le besoin de bouger et difficile de rester 
+assis et immobiles pendant une longue période. C'est pourquoi, rester assis à la même place pendant un examen peut causer une certaine frustration ainsi que de l'inconfort. De plus, ceci peut mener à une augmentation de l'anxiété et à une réduction de la concentration.
 
 #### L'anxiété
-Les examens sont très stressants, c'est pourquoi pour les personnes avec autisme qui souffrent déjà d'anxiété, ils peuvent causer d'encore plus gros problèmes. Cette anxiété augmente souvent si l'étudiant sent qu'il n'a pas fait aussi bien qu'il l'aurait pu à cause de toutes ces difficultés. La présence d'autres étudiants aussi très stressés peut aussi avoir un impact sur le niveau de stress de l'étudiant avec autisme qui doit déjà faire face à de grandes salles pleines de monde.
+Les examens sont très stressants, c'est pourquoi pour les personnes autistes qui 
+souffrent déjà d'anxiété, ils peuvent causer d'encore plus gros problèmes. Cette 
+anxiété augmente souvent si l'étudiant sent qu'il n'a pas fait aussi bien qu'il 
+l'aurait pu à cause de toutes ces difficultés. La présence d'autres étudiants aussi 
+très stressés peut aussi avoir un impact sur le niveau de stress de l'étudiant autiste 
+qui doit déjà faire face à de grandes salles pleines de monde.
 
 #### L'édition
-Le désir de la perfection et un intérêt très spécifique pour un sujet particulier peut aussi être une cause de difficultés pour les personnes avec autisme, particulièrement celles avec le syndrome d'Asperger, qui peuvent trouver dur de se restreindre pour répondre à une question ou par conséquent de gérer leur temps.
+Le désir de la perfection et un intérêt très spécifique pour un sujet particulier peut 
+aussi être une cause de difficultés pour les personnes autistes, 
+particulièrement celles avec le syndrome d'Asperger, qui peuvent trouver dur de se restreindre pour répondre à une question ou par conséquent de gérer leur temps.
 
 #### La communication
-Certaines personnes avec autisme trouvent très compliqué d'articuler leurs connaissances entre elles ou de transformer ce qu'elles savent en une réponse compréhensible. À l'inverse, elles peuvent trouver simples certaines questions ou certains mots dans l'examens, qui ne le sont pas forcément.
+Certaines personnes autistes trouvent très compliqué d'articuler leurs 
+connaissances entre elles ou de transformer ce qu'elles savent en une réponse compréhensible. À l'inverse, elles peuvent trouver simples certaines questions ou certains mots dans l'examens, qui ne le sont pas forcément.
 
 <blockquote>
 Si vous, ou votre fils/fille, rencontrez des problèmes à préparer un examen, il est important de demander de l'aide à votre école et d'expliquer vos difficultés. La plupart des professeurs se feront un plaisir de vous aider de toutes les façons dont ils peuvent s'ils connaissent les difficultés que vous devez affronter. Même si des gens différents trouveront des solutions différentes, voici ci-dessous quelques plans communs :

@@ -24,7 +24,7 @@ ne l'ont pas identifié, ou sont en désaccord, cela peut être un sujet très d
 Il n'y a pas nécessairement de bonne ou mauvaise réponse.
 
 Si vous abordez le sujet, il est très important d'être positif - de vous
-concentrer sur la façon dont les personnes avec autisme peuvent 
+concentrer sur la façon dont les personnes autistes peuvent 
 vivre une vie ordinaire et plus tôt vous
 identifiez le handicap, plus vous laissez de chance pour une intervention précoce et des progrès.
 
@@ -35,19 +35,19 @@ En tant que grand-parent, vous pouvez jouer un rôle très important en soutenan
 
 ### «&nbsp;Je trouve le comportement de mon petit-fils avec autisme difficile&nbsp;»
 
-Le comportement des personnes avec autisme peut sembler difficile et peut être fatigant, surtout si vous n'y êtes pas familier et ne savez pas pourquoi votre petit-fils a un comportement particulier.
+Le comportement des personnes autistes peut sembler difficile et peut être fatigant, surtout si vous n'y êtes pas familier et ne savez pas pourquoi votre petit-fils a un comportement particulier.
 
 Un premier pas pourrait être de lister les différents comportements ou difficultés que rencontre votre petit-fils et de parler des causes de ces comportements avec votre fils ou votre fille, afin de les gérer au mieux.
 
-Vous ne devez surtout pas oublier que les comportements qui peuvent être perçus comme «difficiles» ou «bizarres» ne sont ni un mépris délibéré, ni des caprices d'enfants gâtés, mais plutôt des dus à des choses que les personnes avec autisme trouvent compliquées, ou le résultat d'une incapacité à exprimer un besoin ou une anxiété.
+Vous ne devez surtout pas oublier que les comportements qui peuvent être perçus comme «difficiles» ou «bizarres» ne sont ni un mépris délibéré, ni des caprices d'enfants gâtés, mais plutôt des dus à des choses que les personnes autistes trouvent compliquées, ou le résultat d'une incapacité à exprimer un besoin ou une anxiété.
 
-Bien entendu, il est tout à fait compréhensible qu'être avec votre petit-fils pendant une longue période vous fatigue. Enfin, la cohérence est importante pour les personnes avec autisme, notamment pour savoir comment la journée est organisée ou pour savoir comment aborder certains comportements. Discuter avec votre fils ou votre fille de ce qu'il/elle fait, peut être un bon moyen de garder éloignés les comportements à problèmes.
+Bien entendu, il est tout à fait compréhensible qu'être avec votre petit-fils pendant une longue période vous fatigue. Enfin, la cohérence est importante pour les personnes autistes, notamment pour savoir comment la journée est organisée ou pour savoir comment aborder certains comportements. Discuter avec votre fils ou votre fille de ce qu'il/elle fait, peut être un bon moyen de garder éloignés les comportements à problèmes.
 
 ### «&nbsp;Je ne sais pas quels comportements peuvent ou ne peuvent pas être contestés&nbsp;»
 
-Vous vous demandez sûrement «Certainement que les personnes avec autisme peuvent aussi être audacieuses&nbsp;?» ou «Où est la frontière entre un comportement dû à l'autisme et un comportement désobéissant&nbsp;?» et ces questions sont justifiées. Comme toutes les autres personnes, les personnes avec autisme ont leurs jours avec et leurs jours sans, et peuvent repousser les limites&nbsp;!
+Vous vous demandez sûrement «Certainement que les personnes autistes peuvent aussi être audacieuses&nbsp;?» ou «Où est la frontière entre un comportement dû à l'autisme et un comportement désobéissant&nbsp;?» et ces questions sont justifiées. Comme toutes les autres personnes, les personnes autistes ont leurs jours avec et leurs jours sans, et peuvent repousser les limites&nbsp;!
 
-Comme mentionné plus tôt, un bon début serait de trouver quels sont les problèmes et les comportements que votre petit-fils trouve difficiles de sorte à savoir quelles concessions doivent être faites. Généralement, les personnes avec autisme aiment faire plaisir et apprécient la stabilité, donc quand ils sont en colère, ils peuvent se sentir très coupables ou tristes par la suite. Il est donc important que votre approche à la discipline soit la même que celle de leurs parents afin d'assurer «cohérence et routine». C'est pour cela qu'une conversation peut être bénéfique pour tous.
+Comme mentionné plus tôt, un bon début serait de trouver quels sont les problèmes et les comportements que votre petit-fils trouve difficiles de sorte à savoir quelles concessions doivent être faites. Généralement, les personnes autistes aiment faire plaisir et apprécient la stabilité, donc quand ils sont en colère, ils peuvent se sentir très coupables ou tristes par la suite. Il est donc important que votre approche à la discipline soit la même que celle de leurs parents afin d'assurer «cohérence et routine». C'est pour cela qu'une conversation peut être bénéfique pour tous.
 
 ### «&nbsp;Comment puis-je avoir une meilleure relation avec mon petit-fils avec autisme&nbsp;?&nbsp;»
 

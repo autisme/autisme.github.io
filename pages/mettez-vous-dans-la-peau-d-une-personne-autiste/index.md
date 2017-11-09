@@ -7,13 +7,13 @@ oembed_image: /assets/posts/2017-10-02/opengraph.png
 ---
 
 Avec plus de 1 personne sur 100 concernée par l'autisme, tout le monde connaît une personne autiste dans son entourage. Que ce soit dans sa famille, au travail ou chez des amis.
-Tout le monde rencontrera plusieurs personnes avec autisme dans sa vie.
+Tout le monde rencontrera plusieurs personnes autistes dans sa vie.
 Pourtant peu de personnes savent réellement ce qu'est l'autisme, comment inclure une personne avec autisme dans leur groupe d'amis, leur groupe de collègue ou même comment réagir
 face à une personne concernée.
 
 
 Pourtant l'inclusion est quelque chose d'important, de vital, quelque chose que l'on ne peut pas remettre à demain.
-Tous les jours, de nombreuses personnes avec autisme font d'immenses efforts pour par exemple pour supporter l'environnement inconfortable, pour interagir avec les gens, etc, mais en retour
+Tous les jours, de nombreuses personnes autistes font d'immenses efforts pour par exemple pour supporter l'environnement inconfortable, pour interagir avec les gens, etc, mais en retour
 peu de personnes font l'effort de leur faciliter la vie.
 
 Certains ne sont pas acceptés à l'école, d'autres sont acceptés sans aide et doivent se débrouiller seuls.
@@ -29,7 +29,7 @@ Aujourd'hui, la situation est plus que catastrophique&nbsp;:
  - Le taux de suicide est 9 fois plus élevé que dans le reste de la population.
 
 Il est donc nécessaire de changer les choses, et vous pouvez faire la différence.
-Notre objectif est de vous donner les clés pour comprendre et interagir avec les personnes avec autisme.
+Notre objectif est de vous donner les clés pour comprendre et interagir avec les personnes autistes.
 Que vous soyez en mesure de les inclure dans votre groupe d'amis, dans votre groupe de collègue. Bref, que vous sachiez comment réagir la prochaine fois que vous croiserez une personne concernée.
 
 Nous vous proposons des jeux et des expériences qui vous permettront de vous mettre dans la peau d'une personne autiste. Afin de comprendre comment les personnes autistes voient et pensent le monde.
@@ -49,7 +49,7 @@ Nous vous proposons des jeux et des expériences qui vous permettront de vous me
 <!--
 que vous débarquez dans une nouvelle civilisation que vous ne connaissez pas, vous ne connaissez ni la langue ni la culture et vous devez 
 vous débrouiller seul. Vous n'avez pas les outils pour vivre dans cet environnement.
-L'autisme affecte la vie de chaque personne concernée différemment. Deux personnes avec autisme ne se ressemblent pas et n'ont pas les mêmes «&nbsp;symptomes&nbsp;».
+L'autisme affecte la vie de chaque personne concernée différemment. Deux personnes autistes ne se ressemblent pas et n'ont pas les mêmes «&nbsp;symptomes&nbsp;».
 C'est pourquoi certains éléments que vous pouvez lire sont contradictoires. 
-Ci-dessous, les différents points abordés pour découvrir la façon dont les personnes avec autisme voient le monde.
+Ci-dessous, les différents points abordés pour découvrir la façon dont les personnes autistes voient le monde.
 -->

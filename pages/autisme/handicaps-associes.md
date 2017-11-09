@@ -7,7 +7,7 @@ oembed_image: /assets/pages/autisme/handicaps-associes/ID-100185923.jpg
 breadcrumbs:
   - /autisme/
 ---
-Beaucoup de personnes avec autisme sont affectés par d'autres handicaps.
+Beaucoup de personnes autistes sont affectés par d'autres handicaps.
 Cela montre combien il est important de regarder chaque personne avec autisme
 en tant que personne avec ses forces, ses besoins et ses difficultés.
 Quand une personne avec autisme a un autre handicap, il est vital que les difficultés
@@ -24,7 +24,7 @@ en comorbidité avec l'autisme.
 
 ### Dyslexie, Dyspraxie, TDAH
 
-Il y a beaucoup de personnes avec autisme qui ont d'autres handicaps de développement
+Il y a beaucoup de personnes autistes qui ont d'autres handicaps de développement
 comme la dyslexie, la dyspraxie, ou les troubles de l'attention avec ou sans hyperactivité.
 Certaines caractéristiques se recoupent dans ces 4 handicaps.
 
@@ -51,7 +51,7 @@ Pour plus d'informations, consultez le site de la [Ligue Française contre l'Ép
 
 ### Déficience intellectuelle
 
-Entre 30 et 40&nbsp;% des personnes avec autisme ont également une déficience intellectuelle.
+Entre 30 et 40&nbsp;% des personnes autistes ont également une déficience intellectuelle.
 Il est important que les besoins de ces personnes soient satisfaits pour leur permettre d'atteindre leur plein potentiel.
 Il est également important que ces personnes bénéficient d'une éducation, puisse travailler, et puissent participer à la vie en société.
 

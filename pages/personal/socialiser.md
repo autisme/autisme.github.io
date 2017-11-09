@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Socialiser
-permalink: /je-suis-une-personne-avec-autisme/socialiser
+permalink: /je-suis-une-personne-autiste/socialiser
 hide_header_link: true
 breadcrumbs:
-  - /je-suis-une-personne-avec-autisme/
+  - /je-suis-une-personne-autiste/
 ---
 
 La socialisation peut être difficile car c'est plein de non dits et
@@ -19,10 +19,10 @@ Les objectifs et les difficultés sont différentes selon les âges.
 
 ### Pourquoi la socialisation est si difficile&nbsp;?
 
-Les personnes avec autisme ont souvent une pensée très «&nbsp;binaire&nbsp;». De plus les personnes avec autisme ont des intérêts spécifiques et trouvent les conversations
+Les personnes autistes ont souvent une pensée très «&nbsp;binaire&nbsp;». De plus les personnes autistes ont des intérêts spécifiques et trouvent les conversations
 sur «&nbsp;la pluie et le beau temps&nbsp;» sans intérêt.
 Ce sont les principales barrières mais cela ne signifie pas que les personnes ne vous aimeront pas.
-Les personnes avec autisme sont souvent anxieuses et peuvent s'imaginer que les
+Les personnes autistes sont souvent anxieuses et peuvent s'imaginer que les
 situations sociales sont plus difficiles qu'elles ne le sont vraiment.
 
 ### Comment démarrer la socialisation&nbsp;?

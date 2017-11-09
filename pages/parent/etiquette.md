@@ -7,7 +7,7 @@ breadcrumbs:
   - /je-suis-un-parent-membre-de-l-entourage/
 ---
 
-Un grand défi pour les parents (mais aussi pour les personnes avec autisme) est de dépasser cette notion «&nbsp;d'étiquette&nbsp;»
+Un grand défi pour les parents (mais aussi pour les personnes autistes) est de dépasser cette notion «&nbsp;d'étiquette&nbsp;»
 Il y a des avantages et des inconvénients associés à utiliser cette étiquette qu'est l'autisme.
 
 Il est important de réaliser que les inconvénients ne dépassent pas les avantages. Beaucoup d'inconvénients sont liés au manque de compréhension de l'autisme par le grand public.
@@ -45,11 +45,11 @@ Toutefois, l'exclusion et les humiliations sont des problèmes avec ou sans diag
 Certaines personnes ont également traite les personnes autisme avec trop de compassion. Nous espérons qu'éduquer les gens permettra de faire un grande différence sur ce point.
 
 #### Regarder l'étiquette, non la perssone
-Le fait est que les personnes avec autisme sont avant tout des personnes avec des défis et des difficultés en plus.
+Le fait est que les personnes autistes sont avant tout des personnes avec des défis et des difficultés en plus.
 Certaines personnes ne considèrent que ces difficultés sans considérer la personne.
 Toutefois, cela change lentement.
 
-N'oubliez pas qu'avec un diagnostic, cela n'empêche pas les personnes avec autisme d'accomplir de grandes choses.
+N'oubliez pas qu'avec un diagnostic, cela n'empêche pas les personnes autistes d'accomplir de grandes choses.
 Certaines personnes ayant reçue un diagnostic sont très intelligentes ou talentueuses.
 Le diagnostic ne doit pas limiter la personne.
 

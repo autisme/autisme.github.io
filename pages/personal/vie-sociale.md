@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Vie sociale
-permalink: /je-suis-une-personne-avec-autisme/vie-sociale
+permalink: /je-suis-une-personne-autiste/vie-sociale
 hide_header_link: true
 oembed_image: /assets/pages/personal/vie-sociale/ID-100456462.jpg
 breadcrumbs:
-  - /je-suis-une-personne-avec-autisme/
+  - /je-suis-une-personne-autiste/
 ---
 
 <amp-img class="left" width="400" height="333" src="{{ site.amp_img_cache_url }}/assets/pages/personal/vie-sociale/ID-100456462.jpg" alt="ID-100456462"></amp-img>
@@ -21,7 +21,7 @@ donc se sentir mal à l'aise ou être laissée à l'écart.
 
 Cela ne signifie pas qu'une personne avec autisme ne peut pas
 socialiser ou n'apprécie pas le fait d'être avec d'autres gens.
-En effet, de nombreuses personnes avec autisme apprécient
+En effet, de nombreuses personnes autistes apprécient
 la socialisation et souhaitent socialiser.
 Cela signifie simplement qu'une personne peut vouloir 
 Toutefois, il peut être difficile de socialiser normalement et préfèrent le faire
@@ -97,7 +97,7 @@ Ne vous attendez pas à devenir le meilleur ami de tout le monde et ne dérangez
 Les conseils ci-dessus sont des exemples de ce qui pourrait être utile
 à garder à l'esprit..
 Être heureux et être vous-même est la chose la plus importante dans la vie
-et toutes les personnes avec autisme sont différentes.
+et toutes les personnes autistes sont différentes.
 Si vous voulez plus d'idées pour socialiser pourquoi ne pas en parler à vos parents
 ou à quelqu'un de proche qui vous connaît bien&nbsp;?
 
