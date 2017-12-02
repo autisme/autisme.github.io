@@ -15,7 +15,7 @@ de structure.
 
 Cela peut générer du stress dans les familles avec une personne autiste. Toutefois, voici quelques suggestions pour rendre ce moment agréable.
 
-<amp-img class="center" width="400" height="217" src="/assets/posts/2017-11-03/ID-100467407.jpg" alt="ID-100467407"></amp-img>
+<amp-img class="center" width="400" height="217" src="/assets/posts/2017-12-03/ID-100467407.jpg" alt="ID-100467407"></amp-img>
 
 
 ## 1. Réfléchissez aux problèmes qui pourraient survenir
