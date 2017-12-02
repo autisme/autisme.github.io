@@ -15,7 +15,7 @@ de structure.
 
 Cela peut générer du stress dans les familles avec une personne autiste. Toutefois, voici quelques suggestions pour rendre ce moment agréable.
 
-<amp-img class="center" width="400" height="217" src="/assets/posts/2017-12-03/ID-100467407.jpg" alt="ID-100467407"></amp-img>
+<amp-img class="center" width="400" height="300" src="/assets/posts/2017-12-03/ID-100467407.jpg" alt="ID-100467407"></amp-img>
 
 
 ### 1. Réfléchissez aux problèmes qui pourraient survenir
@@ -51,7 +51,7 @@ De cette façon, ils seront plus compréhensifs pendant les célébrations. Expl
 C'est quelque chose qui peut arriver et vous devez y faire face de la manière la plus appropriée possible.
 La plupart de vos amis et de vos invités devrait être trop content de savoir comment s'adapter et respecter les besoins de votre famille.
 
-### 5. Prenez du temps pour vous et profitez des fêtes de fin d'année
+### 5. Prenez du temps pour vous
 
 Cela est très certainement plus facile à dire qu'à faire mais Noël est une fête pour la famille toute entière. Vous devez donc trouver des moyens pour que vous puissiez y 
 participer sans que les besoins de la personne autiste dominent la célébration.
