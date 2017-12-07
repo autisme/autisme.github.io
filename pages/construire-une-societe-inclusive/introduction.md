@@ -29,7 +29,7 @@ Environ 1 personne sur 100 est affectée par l'autisme. Les garçons sont souven
 Nous savons également que beaucoup de personnes autistes cumulent aussi d'autres handicaps
 comme la déficience intellectuelle, la dyslexie, la dyspraxie ou encore l'épilepsie.
 
-L'autisme est «&nbsp;invisible&nbsp;», en d'autres mots, les personnes atteintes n'ont 
+L'autisme est «&nbsp;invisible&nbsp;», en d'autres mots, les personnes atteintes
 ne se distinguent pas du reste de la population.
 Cela peut présenter une difficulté à la fois pour le milieu médical qui doit établir un
 diagnostic et à la fois pour les personnes qui sont souvent maltraitées par la société.
