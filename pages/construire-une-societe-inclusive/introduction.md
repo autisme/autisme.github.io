@@ -108,7 +108,7 @@ Les personnes autistes se sentent souvent isolés car les gens les excluent à c
 Cela arrive car l'autisme est quelque chose d'invisible et les gens peuvent se permettre de remettre en cause le handicap alors qu'ils n'ont pas connaissance du sujet.
 
 
-### Défis que les personnes autistes rencontrent dans leur vie quotidienne
+### Difficultés que les personnes autistes rencontrent dans leur vie quotidienne
 
 #### Communication
 
