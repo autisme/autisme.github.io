@@ -34,14 +34,17 @@ votre commerce plus attractif pour les personnes autistes (autism friendly).
 Si nous considérons que l'autisme affecte 1 personne sur 100 dans la population, cela signifie qu'un nombre important de clients à la fois adultes et enfants sont affectés.
 Par l'expérience, les familles et les personnes concernées connaissent les endroits à éviter pour minimiser le nombre de difficultés rencontrées.
 
-Aller dans un supermarché, ou magasin ou une galerie marchande n'est pas facile pour les personnes autistes.
-Souvent, les magasins sont bruyants, imprévisibles et remplis de monde. Cela fait que les familles et les personnes autistes ont beaucoup de mal à aller dans les magasins.
-Cela est d'autant plus vrai lorsque c'est pour acheter des choses non essentielles.
+Aller dans un supermarché, un magasin ou une galerie marchande n'est pas facile pour 
+les personnes autistes.
+Souvent, les magasins sont bruyants, imprévisibles et remplis de monde.
+Les familles et les personnes autistes ont beaucoup de mal à aller dans
+les magasins, notamment lorsque c'est pour y acheter des choses non essentielles.
 
-En étant conscient des principaux symptômes et des problèmes rencontrés par les personnes autistes, 
+En étant conscient des problèmes rencontrés par les personnes autistes, 
 vous pouvez améliorer votre magasin pour leur simplifier la vie.
 
-Vous ainsi que le personnel de votre magasin peuvent contribuer à améliorer la qualité de vie des personnes autistes.
+Vous, ainsi que le personnel de votre magasin peuvent contribuer à améliorer la qualité 
+de vie des personnes autistes.
 Vous pourriez être surpris par le fait que de simples changements dans votre commerce
 peuvent avoir un impact positif sur la qualité de vie d'une grande partie de vos clients.
 
