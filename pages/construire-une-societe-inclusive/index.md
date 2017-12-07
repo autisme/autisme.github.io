@@ -83,7 +83,7 @@ Des magasins aux services de santé, aux clubs sportifs et d'activités, tous le
 Les personnes autistes trouvent souvent difficile de participer à la vie en société mais de petits changements peuvent faire la différence, à la fois pour les personnes autistes mais également
 pour les autres personnes.
 
-Nos guides peuvent vous aider à devenire «&nbsp;autisme friendly&nbsp;».
+Nos guides peuvent vous aider à rendre vos lieux «&nbsp;autism friendly&nbsp;».
 
   - [Introduction : qu'est-ce que l'autisme&nbsp;?](/construire-une-societe-inclusive/introduction)
   - [Commerçants](/construire-une-societe-inclusive/commercants)
