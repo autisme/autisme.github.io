@@ -100,7 +100,9 @@ Beaucoup de personnes autistes trouvent la communication difficile et le monde d
 Les problèmes de communications auxquels les personnes autistes font face sont divers et variés.
 
 Certaines personnes sont non-verbales. Cela leur rend la vie difficile pour parler au personnel
-mais cela peut également aboutir à de la frustration. En effet, ces personnes communiquent différement (à l'aide d'images par exemple) et sont parfois difficilement comprises.
+mais cela peut également aboutir à de la frustration. En effet, ces personnes 
+communiquent différemment (à l'aide d'images par exemple) et sont parfois difficilement 
+comprises.
 
 Pour celles ayant la capacité de s'exprimer,
 il peut être difficile de dire ce qu'elles ont à dire.
