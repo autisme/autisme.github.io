@@ -134,7 +134,8 @@ faire tourner un crayon, ou jouer avec nos doigts sur la table.
 Si nous restons assis trop longtemps, nous avons besoin de changer de position ou de nous lever.
 C'est la même chose pour les personnes autistes mais cela est plus prononcé ou plus visible.
 Certains ont besoin de sauter, de taper dans leurs mains ou même d'émettre un son bruyant.
-Ces actions sont pour la plupart involontaires et deviennent plus importantes dans une situation de stress
+Ces actions sont pour la plupart involontaires et deviennent plus importantes dans une 
+situation de stress.
 Les enfants ont moins de contrôle sur ces comportements mais en grandissant ils peuvent apprendre à les limiter ou à ne pas les faire en public.
 La plus grande détresse dans ces situations est la réaction des gens qui ne comprennent pas ou font des commentaires désobligeants.
 
