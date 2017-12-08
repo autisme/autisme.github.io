@@ -184,6 +184,8 @@ Ce sont des difficultés pour les personnes autistes. Vous pouvez fournir sur vo
 
 #### Mettre en place des priorités à la caisse
 
+
+
 <amp-img class="left" width="200" height="133" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/commercants/ID-100212137.jpg" alt="ID-100212137" ></amp-img>
 
 Les jours avec beaucoup de monde dans votre magasin peuvent être difficile pour les personnes autistes à cause de la foule et du bruit.
