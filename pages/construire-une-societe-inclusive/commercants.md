@@ -151,7 +151,8 @@ Si une petite chose se produit comme un membre du personnel qui les aborde ou un
 
 #### Attitude du grand public
 
-Comme l'autisme est un handicap «&nbsp;invisible&nbsp;», beaucoup de parents décrivent comment ils sont vus comme «&nbsp;non capable d'élever leur enfant&nbsp;» par les autres client quand leur enfant
+Comme l'autisme est un handicap «&nbsp;invisible&nbsp;», beaucoup de parents décrivent 
+comment ils sont vus comme «&nbsp;non capable d'élever leur enfant&nbsp;» par les autres clients quand leur enfant
 montre un comportement difficile.
 Cela rend leur rôle des parents encore plus difficile et le shopping devient une activité 
 encore plus compliquée.
