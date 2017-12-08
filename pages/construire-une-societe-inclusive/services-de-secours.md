@@ -68,7 +68,7 @@ La plupart des personnes autistes ont une pensée visuelle. Utilisez des images 
 
 
 L'auto-stimulation ou «&nbsp;stimming&nbsp;» désigne des actions répétitives comme le fait
-de se balancer. Quand n'importe nous devenons anxieux, nous faisons tous des choses comme
+de se balancer. Quand nous devenons anxieux, nous faisons tous des choses comme
 faire tourner un crayon, ou jouer avec nos doigts sur la table.
 Si nous restons assis trop longtemps, nous avons besoin de changer de position ou de nous lever.
 C'est la même chose pour les personnes autistes mais cela est plus prononcé ou plus visible.
