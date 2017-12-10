@@ -4,6 +4,9 @@ title:  "Quels aménagements scolaires ?"
 date:   2017-12-10 08:00:00 +0100
 categories:
   - Opinion
+  - Education
+  - Inclusion
+  - Conseils
 author: Bastien
 oembed_image: /assets/posts/2017-12-10/ID-100259934.jpg
 ---
