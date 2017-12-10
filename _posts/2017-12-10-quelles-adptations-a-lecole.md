@@ -75,4 +75,5 @@ Je pense sincèrement que des enseignants ouverts à la différence et tolérant
 
 ---
 <small>Image issue de Stuart Miles/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
+
 ---
