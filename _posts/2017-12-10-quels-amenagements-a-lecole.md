@@ -8,6 +8,7 @@ categories:
   - Education
   - Inclusion
   - Conseils
+  - Témoignage
 author: Bastien
 oembed_image: /assets/posts/2017-12-10/ID-100259934.jpg
 ---
