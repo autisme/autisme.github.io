@@ -4,7 +4,6 @@ title:  Guides pour l'inclusion scolaire des personnes avec autisme
 date:   2017-08-08 08:00:00 +0100
 categories:
   - Education
-  - Scolarisation
   - Ressources
 author: Bastien
 oembed_image: /assets/posts/2017-08-10/opengraph.png

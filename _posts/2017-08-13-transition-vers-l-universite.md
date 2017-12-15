@@ -4,7 +4,6 @@ title:  Conseils pour bien démarrer à l'université
 date:   2017-08-13 08:00:00 +0100
 categories: 
   - Conseils
-  - Scolarisation
   - Education
   - Université
 author: Bastien
