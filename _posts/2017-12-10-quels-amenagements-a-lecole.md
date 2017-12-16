@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quels aménagements scolaires ?"
+title:  "Quels aménagements scolaires à l'école primaire, au collège et au lycée ?"
 date:   2017-12-10 08:00:00 +0100
 date_modified: 2017-12-14 08:00:00 +0100
 categories:
