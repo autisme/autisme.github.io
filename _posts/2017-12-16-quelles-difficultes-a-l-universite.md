@@ -11,6 +11,7 @@ author: Bastien
 oembed_image: /assets/posts/2017-12-16/ID-10046009.jpg
 ---
 
+
 Le passage vers l'université et les études supérieures n'est pas un sujet facilement abordé.
 Pendant de nombreuses années et encore aujourd'hui, les personnes autistes 
 ont été exclues de l'école primaire. Peu arrivent au collège et encore moins au lycée. Bien que cela soit en train de changer, le passage vers 
