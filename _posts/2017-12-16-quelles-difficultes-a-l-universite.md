@@ -11,7 +11,6 @@ author: Bastien
 oembed_image: /assets/posts/2017-12-16/ID-10046009.jpg
 ---
 
-
 Le passage vers l'université et les études supérieures n'est pas un sujet facilement abordé.
 Pendant de nombreuses années et encore aujourd'hui, les personnes autistes 
 ont été exclues de l'école primaire. Peu arrivent au collège et encore moins au lycée. Bien que cela soit en train de changer, le passage vers 
@@ -62,7 +61,7 @@ L'autre est de savoir se limiter dans le temps. Il est facile pour moi de passer
 Enfin, à l'université, les devoirs à faire ne sont pas toujours donnés clairement. Des exercices peuvent être faits pendant le cours et l'enseignant ne précisera pas de terminer à la 
 maison.
   - <strong>Travail en mode «&nbsp;projets&nbsp;».</strong> Au lycée, les devoirs sont donnés pour le prochain cours, quelques fois pour la semaine suivante et rarement pour plus tard. 
-À l'université, j'ai eu beaucoup de «&bnps;projets&nbsp;» à rendre plusieurs mois après que le sujet
+À l'université, j'ai eu beaucoup de «&nbsp;projets&nbsp;» à rendre plusieurs mois après que le sujet
 ait été distribué. S'organiser pour les faire et trouver le temps a parfois été difficile mais ne pas savoir si j'avance assez vite pour que le rendu soit présenté à l'heure m'a souvent stressé.
   - <strong>Les travaux de groupe sont plus nombreux qu'au lycée.</strong> Les travaux pratiques et les projets à réaliser en groupe se sont mal passés car généralement les autres personnes du groupe attendent les derniers jours pour écrire les rapports et les
 compte-rendus tandis que pour moi, tout doit être fini le plus vite possible. Sur les dernières années du cursus, j'ai réalisé les travaux de groupe, seul dans mon coin. Bien que cela m'a rajouté du travail supplémentaire, cela m'a également évité beaucoup
