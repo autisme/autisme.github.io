@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quels aménagements pour les études supérieures ?"
+title:  "Quels difficultés dans les études supérieures ?"
 date:   2017-12-16 08:00:00 +0100
 categories:
   - Opinion
