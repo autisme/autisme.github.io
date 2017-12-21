@@ -32,6 +32,9 @@ d'une manière non habituelle, le repas qui sera plus long que d'habitude, la no
 Si ce n'est pas votre premier Noël, vous pouvez discuter des difficultés rencontrées l'année précédente et comment vous pouvez les éviter cette année.
 Expliquez aussi que le changement fait partie de la vie et que même si nous n'aimons pas, nous devons essayer de faire avec et ne pas laisser nos difficultés impacter la vie des autres.
 
+Vous pouvez également préparer un planning, montrant comment la semaine de Noël est organisée avec les activités que vous ferez, les invités que vous recevrez, etc.
+Un calendrier de l'avent est également très utile pour connaître combien de jours il reste avant Noël.
+
 ### 3. Faites attention à l'environnement sensoriel
 
 Comme vous le savez, l'environnement sensoriel peut être difficile à supporter pour les personnes autistes et Noël est souvent un moment avec beaucoup de stimulations.
@@ -50,6 +53,9 @@ Assurez-vous que votre famille et vos amis ont une compréhension de l'autisme. 
 De cette façon, ils seront plus compréhensifs pendant les célébrations. Expliquez leur également que si la personne s'énerve ou devient stressée, de ne pas se sentir gêné ou coupable.
 C'est quelque chose qui peut arriver et vous devez y faire face de la manière la plus appropriée possible.
 La plupart de vos amis et de vos invités devrait être trop content de savoir comment s'adapter et respecter les besoins de votre famille.
+
+Il est également important de prévenir la personne autiste des personnes qui vont venir. Une visiste innatendue, comme tout imprévu provoque de la colère et de la frustration car la personne
+perd le contrôle de son environnement.
 
 ### 5. Prenez du temps pour vous
 
