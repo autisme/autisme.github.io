@@ -174,7 +174,7 @@ Les personnes autistes représentent une part non négligeable de votre clientè
 Mettre à disposition un petit espace de votre centre commercial de sorte que les familles aient quelque part où aller lorsqu'une personne avec autisme
 se sent mal.
 
-Avec cela, vous allez non seulement attirer les familles qui sont impactées par l'autisme mais aussi vous leur donnerez une zone de confort de sorte à qu'elle puisse rester plus longtemps dans votre magasin et ne partent pas au premiers signes de difficultés&nbsp;!
+Avec cela, vous allez non seulement attirer les familles qui sont impactées par l'autisme mais aussi vous leur donnerez une zone de confort de sorte à qu'elle puisse rester plus longtemps dans votre magasin et ne partent pas aux premiers signes de difficultés&nbsp;!
 
 #### Mettre en place une heure / une demi-journée «&nbsp;sensory friendly&nbsp;»
 
