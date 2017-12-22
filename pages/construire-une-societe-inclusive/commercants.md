@@ -183,7 +183,7 @@ Le shopping sera plus confortable pour les clients avec autisme et leur famille.
 
 #### Fournir des aides visuelles / des scénarios sur votre site web
 Se préparer pour aller dans un magasin est particulièrement difficile pour les personnes autistes.
-À quoi le magasin ressemble&nbsp;? Comment sont agencés les rayons&nbsp;? Où dois-je chercher ce que je veux&nbsp;? Est-ce que tout sera OK&nbsp;?
+À quoi le magasin ressemble&nbsp;? Comment sont agencés les rayons&nbsp;? Où dois-je chercher ce que je veux&nbsp;? Est-ce que tout ira bien&nbsp;?
 
 Ce sont des difficultés pour les personnes autistes. Vous pouvez fournir sur votre site web des images ou une visite 360° de votre magasin. Cela sera une aide précieuse pour les personnes qui se préparent à venir dans votre magasin pour la première fois.
 
