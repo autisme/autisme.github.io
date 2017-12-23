@@ -48,12 +48,14 @@ Cela évite le stress et permet à tout le monde de mieux profiter du moment.
 
 ### 4. Préparez la personne à recevoir les cadeaux
 
-Certains enfants n'aiment pas quand leurs cadeaux sont emballés dans du papier. En effet, ils ne peuvent alors pas savoir ce que le paquet contient, générant du stress.
+Certains enfants n'aiment pas quand leurs cadeaux sont emballés dans du papier. En effet, ils ne peuvent alors pas savoir ce que le paquet contient. Cet inconnu
+ génére du stress et les rend anxieux.
 Ci-dessous, quelques astuces qui peuvent vous être utiles&nbsp;:
 
  - Laissez la veille de Noël, sous le sapin, un rouleau de papier cadeau que le père-Noël utilise&nbsp;;
- - Donnez un cadeau à la fois pour ne pas le surcharger avec l'inconnu&nbsp;;
+ - Donnez un cadeau à la fois pour ne pas surcharger la personne&nbsp;;
  - Donnez à votre enfant le rôle de distribuer les cadeaux aux membres de la famille. Cela peut lui donner du contrôle sur la situation&nbsp;;
+ - Vous pouvez également coller une illustration de ce que contient le paquet&nbsp;;
  - Assurez-vous que le cadeau puisse s'ouvrir facilement. Cela est d'autant plus important pour les personnes qui ont du mal à coordonner leurs mouvements ou qui ont des hypersensibilités au niveau du toucher&nbsp;;
  - Si le cadeau doit être assemblé, faites le avec votre enfant, de même si le jouet à besoin de piles, insérez-les avant que le cadeau soit ouvert.
 
