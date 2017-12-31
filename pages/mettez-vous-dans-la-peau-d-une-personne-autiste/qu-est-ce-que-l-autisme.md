@@ -9,7 +9,7 @@ courtesis:
     plural: true
     custom:
       - https://www.ted.com
-      - https//commons.wikimedia.org
+      - https://commons.wikimedia.org
       - http://www.learnfromautistics.com
       - http://www.letelegramme.fr
       - http://www.ausm.org
