@@ -10,6 +10,10 @@ categories:
   - Conseils
   - Témoignage
 author: Bastien
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: Stuart Miles
 oembed_image: /assets/posts/2017-12-10/ID-100259934.jpg
 ---
 
@@ -82,9 +86,3 @@ Avec le recul, je me dis que ces aménagements m'ont permis de poursuivre des é
 mes difficultés étaient plus prononcées. J'espère toutefois que cette liste pourra donner des idées d'adaptations à d'autres parents, écoles et élèves autistes.
 
 Je pense sincèrement que des enseignants ouverts à la différence et tolérants sont aussi importants que la présence d'une AVS. 
-
-
----
-<small>Image issue de Stuart Miles/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
-
----

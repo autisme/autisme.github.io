@@ -6,6 +6,10 @@ categories:
   - Education
   - Ressources
 author: Bastien
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: nuttakit
 oembed_image: /assets/posts/2017-08-10/opengraph.png
 ---
 
@@ -54,5 +58,3 @@ Vous trouverez ci-dessous les liens de téléchargement des différents guides&n
  </li>
 </ul>
 
----
-<small>Image issue de nuttakit/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>

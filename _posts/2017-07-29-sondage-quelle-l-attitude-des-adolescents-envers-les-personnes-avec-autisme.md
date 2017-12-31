@@ -5,6 +5,10 @@ date:   2017-07-29 08:00:00 +0100
 categories: 
  - Sondage
 author: Bastien
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: smarnad
 oembed_image: /assets/posts/2017-07-29/opengraph.png
 modules:
   - iframe
@@ -38,7 +42,3 @@ Merci par avance pour le temps passé à compléter le sondage.
   </p>
  </div>
 </div>
-
-
----
-<small>Image issue de smarnad/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>

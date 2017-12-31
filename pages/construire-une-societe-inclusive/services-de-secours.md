@@ -3,6 +3,10 @@ layout: page
 title: "Construire une société inclusive - Services de secours"
 permalink: /construire-une-societe-inclusive/services-de-secours
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    plural: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/introduction/dict.jpg
 breadcrumbs:
   - /construire-une-societe-inclusive/
@@ -121,6 +125,5 @@ Bien que nous accueillons des idées afin de construire une société inclusive,
   - Fournissez sur votre site web une visite à 360° de vos ambulances pour permettre aux personnes autistes et leur famille de se préparer pour le jour où ils auront besoin de vos services&nbsp;;
   - Soyez au fait que le bruit de la sirène peut générer de l'anxiété&nbsp;;
   - Saisissez l'opportunité de fournir une campagne de sensibilisation à l'autisme à tout le personnel.
----
-<small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
+
 

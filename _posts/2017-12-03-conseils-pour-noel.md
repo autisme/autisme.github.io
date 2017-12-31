@@ -5,6 +5,10 @@ date:   2017-12-03 08:00:00 +0100
 categories:
   - Conseils
 author: Bastien
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: freebieshutterb
 oembed_image: /assets/posts/2017-12-03/ID-100467407.jpg
 ---
 
@@ -83,7 +87,3 @@ Vous faites de votre mieux
 
 La chose la plus importante est de passer d'excellentes fêtes de fin d'année et d'en profiter pour vous reposer un peu.
 
----
-<small>Image issue de freebieshutterb/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
-
----

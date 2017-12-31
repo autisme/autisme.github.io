@@ -3,6 +3,13 @@ layout: page
 title:  "Traitement sensoriel"
 permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/traitement-sensoriel
 hide_header_link: true
+courtesis:
+  image:
+    bank: custom
+    plural: true
+    custom:
+      - https://whereswaldoemotionally.files.wordpress.com
+      - https://www.glassdoor.com
 oembed_image: /assets/posts/2017-10-02/opengraph.png
 modules:
   - iframe
@@ -79,6 +86,4 @@ Beaucoup de personnes autistes font attention à des détails que vous ne percev
 </div>
 
 
----
-<small>Images issues de <a href="https://whereswaldoemotionally.files.wordpress.com/" rel="nofollow">https://whereswaldoemotionally.files.wordpress.com</a>, <a href="https://www.glassdoor.com" rel="nofollow">https://www.glassdoor.com</a>.</small>
 

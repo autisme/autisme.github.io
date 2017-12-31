@@ -3,6 +3,10 @@ layout: page
 title: Handicaps associés
 permalink: /autisme/handicaps-associes
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: ddpavumba
 oembed_image: /assets/pages/autisme/handicaps-associes/ID-100185923.jpg
 breadcrumbs:
   - /autisme/
@@ -56,7 +60,4 @@ Il est important que les besoins de ces personnes soient satisfaits pour leur pe
 Il est également important que ces personnes bénéficient d'une éducation, puisse travailler, et puissent participer à la vie en société.
 
 Pour plus d'informations, consultez le site de l'[Unapei](http://www.unapei.org/)
-
----
-<small>Image issue de ddpavumba/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

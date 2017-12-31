@@ -3,6 +3,10 @@ layout: page
 title: Grands parents
 permalink: /je-suis-un-parent-membre-de-l-entourage/grands-parents
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: photostock
 oembed_image: /assets/pages/parent/grands-parents/ID-10033342.jpg
 breadcrumbs:
   - /je-suis-un-parent-membre-de-l-entourage/
@@ -55,6 +59,4 @@ Tous les grands-parents n'ont pas le même niveau d'implication dans la vie de l
 
 C'est important pour vous de préserver votre énergie et votre temps, mais en sachant quelles activités votre petit-fils apprécie et en les planifiant régulièrement, vous pouvez tous entretenir une belle relation&nbsp;!
 
----
-<small>Image issue de photostock/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

@@ -3,6 +3,10 @@ layout: page
 title: Soutien des frères et sœurs
 permalink: /je-suis-un-parent-membre-de-l-entourage/soutien-des-freres-et-soeurs
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: Ambro
 oembed_image: /assets/pages/parent/soutien-des-freres-et-soeur/ID-10063250.jpg
 breadcrumbs:
   - /je-suis-un-parent-membre-de-l-entourage/
@@ -61,7 +65,7 @@ Beaucoup plus facile à dire qu'à faire, vous pourriez même vous sentir
 coupable car vous pourriez penser que vous délaissez votre enfant avec autisme, mais il s'agit de s'assurer que
 chaque enfant passe du temps seul avec vous pour faire des choses qu'ils apprécient.
 
-### Louez et rappelez-vous les avantages
+### Rappelez-leurs qu'avoir un frère ou un sœur autiste a aussi des avantages
 Assurez-vous d'honorer et de remercier vos autres enfants lorsqu'ils font quelque chose de
 gentil ou qu'ils tiennent compte de leurs frères et sœurs avec autisme.
 Cela ne les aidera pas seulement à se sentir appréciés, mais cela devrait également leur rappeler
@@ -70,10 +74,5 @@ Vos enfants sont plus susceptibles de comprendre, de soigner et d'accepter la
 différence et les personnes ayant des difficultés dans la vie.
 
 
-
-
-
----
-<small>Image issue de Ambro/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
 

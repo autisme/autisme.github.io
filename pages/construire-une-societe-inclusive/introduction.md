@@ -3,6 +3,10 @@ layout: page
 title: "Construire une société inclusive - Introduction : Qu'est-ce que l'autisme ?"
 permalink: /construire-une-societe-inclusive/introduction
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    plural: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/introduction/dict.jpg
 breadcrumbs:
   - /construire-une-societe-inclusive/
@@ -263,5 +267,3 @@ Vous avez lu ceci, vous avez aimé&nbsp;?
 
 Faites passer le message au travers de vos conversations, des réseaux sociaux et faites passer la connaissance à au moins une personne&nbsp;!
 
----
-<small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>

@@ -3,6 +3,10 @@ layout: page
 title: "Construire une société inclusive - Services de soins et de santé"
 permalink: /construire-une-societe-inclusive/services-de-soins-et-de-sante
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    plural: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/introduction/dict.jpg
 breadcrumbs:
   - /construire-une-societe-inclusive/
@@ -158,9 +162,5 @@ Cela est dû au manque de sensibilisation du grand public qui amène les personn
 
 Pour améliorer la situation, vous pouvez sensibiliser à l'autisme en affichant des posters ou distribuant des dépliants dans votre magasin.
 
-
-
----
-<small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
 

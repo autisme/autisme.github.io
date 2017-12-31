@@ -3,6 +3,10 @@ layout: page
 title: Environnement de travail
 permalink: /je-suis-une-personne-autiste/environnement-de-travail
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: bugtiger
 oembed_image: /assets/pages/personal/environnement-de-travail/ID-100394985.jpg
 breadcrumbs:
   - /je-suis-une-personne-autiste/
@@ -50,7 +54,4 @@ Pour les personnes autistes, souvent très anxieuses, cela est plus facile à
 dire qu'à faire.
 Si quelque chose vous tracasse, il peut être difficile d'en faire abstraction.
 Dans ce cas, parlez en à votre employeur ou à quelqu'un de confiance (sans donner trop de détails).
-
----
-<small>Image issue de bugtiger/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

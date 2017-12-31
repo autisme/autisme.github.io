@@ -3,6 +3,10 @@ layout: page
 title: Examens
 permalink: /je-suis-une-personne-autiste/examens
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: Keerati
 oembed_image: /assets/pages/personal/examens/ID-10035633.jpg
 breadcrumbs:
   - /je-suis-une-personne-autiste/
@@ -54,9 +58,6 @@ Si vous êtes trop anxieux pour composer dans la même salle que les autres, ou 
 #### Bénéficiez d’un tiers temps
 Le tiers temps est l’adaptation la plus courante. Bien que cela soit utile si vous avez du mal à organiser votre pensée ou à rendre un devoir qui n’est pas parfait / excellent, cela peut ne pas être la solution idéale si vous avez du mal à rester concentré pendant de longues périodes.
 
-#### Utilisez une stratégie
+#### Considérez l'examen comme un jeu
 Les personnes affectées par la liste de problèmes énoncés ci-dessus ne doivent pas essayer de se conformer aux approches traditionnelles des examens si elles trouvent que ces approches ne fonctionnent pas pour elles. Parler à vos professeurs, à vos parents à d'autres gens, pour développer une approche qui conviendra au mieux à vos besoins pour les examens, comme par exemple, faire une petite pause entre chaque question, ce qui vous permettra de reposer votre esprit un court instant. Faites un plan, essayez le avant les examens et s'il fonctionne, appliquez le !
-
----
-<small>Image issue de Keerati/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

@@ -3,6 +3,10 @@ layout: page
 title: Vie sociale
 permalink: /je-suis-une-personne-autiste/vie-sociale
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: Stuart Miles
 oembed_image: /assets/pages/personal/vie-sociale/ID-100456462.jpg
 breadcrumbs:
   - /je-suis-une-personne-autiste/
@@ -100,7 +104,3 @@ Les conseils ci-dessus sont des exemples de ce qui pourrait être utile
 et toutes les personnes autistes sont différentes.
 Si vous voulez plus d'idées pour socialiser pourquoi ne pas en parler à vos parents
 ou à quelqu'un de proche qui vous connaît bien&nbsp;?
-
----
-<small>Image issue de Stuart Miles/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
-

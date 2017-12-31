@@ -3,6 +3,10 @@ layout: page
 title: Ce que VOUS pouvez faire pour construire une société inclusive ?
 permalink: /construire-une-societe-inclusive/
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: digitalart
 oembed_image: /facebook_campaign/9_inclusion_is_important.png
 ---
 
@@ -95,8 +99,6 @@ Nos guides peuvent vous aider à rendre vos lieux «&nbsp;autism friendly&nbsp;�
   - [Services de secours](/construire-une-societe-inclusive/services-de-secours)
   - [Services de soins et de santé](/construire-une-societe-inclusive/services-de-soins-et-de-sante)
 
----
-<small>Image issue de digitalart/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
 
 

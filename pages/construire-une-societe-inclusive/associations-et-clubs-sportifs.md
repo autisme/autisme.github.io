@@ -3,6 +3,10 @@ layout: page
 title: "Construire une société inclusive - Associations et clubs sportifs"
 permalink: /construire-une-societe-inclusive/assocations-et-clubs-sportifs
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    plural: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/associations-et-clubs-sportifs/170422.jpg
 breadcrumbs:
   - /construire-une-societe-inclusive/
@@ -199,7 +203,4 @@ De la même façon que toutes les associations sont différentes, toutes les per
 Une première étape est d'identifier les adaptations que vous pouvez faire pour les personnes autistes.
 
 Rencontrer les associations aidant les personnes autistes peut être un bon début dans cette voie.
-
----
-<small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

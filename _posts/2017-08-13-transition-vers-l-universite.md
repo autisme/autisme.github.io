@@ -7,6 +7,10 @@ categories:
   - Education
   - Université
 author: Bastien
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: pannawat
 oembed_image: /assets/posts/2017-08-13/opengraph.png
 ---
 
@@ -99,8 +103,4 @@ Les premières semaines à l'université impliquent une quantité considérable 
 Si vous vivez loin de la maison dans une résidence universitaire il peut y avoir la pression supplémentaire pour participer avec des activités du soir, dont beaucoup impliquent de l'alcool. 
 Les règles de bonne conduite ne doivent pas céder à la pression des pairs&nbsp;: soyez ferme, poli,  amical, mais sachez dire «&nbsp;non&nbsp;» si vous ne voulez pas participer.
 Peut-être que vous participerez une prochaine fois.
-
-
----
-<small>Image issue de Stuart pannawat/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

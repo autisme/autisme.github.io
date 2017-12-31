@@ -3,6 +3,10 @@ layout: page
 title: Problèmes souvent rencontrés au travail
 permalink: /je-suis-une-personne-autiste/problemes-au-travail
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: imagerymajestic
 oembed_image: /assets/pages/personal/problemes-au-travail/shutterstock_400477627_1.jpg
 breadcrumbs:
   - /je-suis-une-personne-autiste/
@@ -108,7 +112,4 @@ Dans le marché du travail en constante évolution, c'est un atout réel pour to
   - Intelligence : Certains d'entre nous ont une intelligence au-dessus de l'intelligence moyenne (en particulier ceux atteints du syndrome d'Aspergers). Les entreprises ont besoin de gros cerveaux&nbsp;!
   - Capacité de réfléchir différemment : Les personnes autistes, par leur nature même, 
 pensent différemment de ceux qui sont «neurotypiques». Pour qu'une entreprise puisse avancer, concourir et innover, elle a besoin de personnes qui pensent un peu différemment.
-
----
-<small>Image issue de imagerymajestic/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

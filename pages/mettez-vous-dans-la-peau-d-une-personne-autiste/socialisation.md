@@ -3,6 +3,12 @@ layout: page
 title:  "Socialisation"
 permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/socialisation
 hide_header_link: true
+courtesis:
+  image:
+    bank: custom
+    plural: true
+    custom:
+      - http://www.linkedin.com
 oembed_image: /assets/posts/2017-10-02/opengraph.png
 modules:
   - iframe
@@ -51,7 +57,4 @@ et lorsque vous êtes fin prêt à prendre la parole, l'opportunité de vous exp
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/capacites-et-potentiels">Capacités et potentiels</a></li>
 </ol>
 </div>
-
----
-<small>Images issues de <a href="http://www.linkedin.com/" rel="nofollow">http://www.linkedin.com</a>.</small>
 

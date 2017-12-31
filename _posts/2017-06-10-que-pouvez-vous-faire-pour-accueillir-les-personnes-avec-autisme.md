@@ -5,6 +5,10 @@ date:   2017-06-10 08:00:00 +0100
 categories: 
   - Inclusion
 author: Bastien
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: Stuart Miles
 ---
 
 
@@ -39,8 +43,4 @@ Nous espérons pouvoir impliquer le plus de monde possible et faire changer les 
 De petits changements font vraiment une **GRANDE** différence.
 Nous comptons sur vous.
 
-Bastien
-
-
----
-<small>Image issue de Stuart Miles/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
+Bastien.

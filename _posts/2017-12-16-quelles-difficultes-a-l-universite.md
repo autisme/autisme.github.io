@@ -8,6 +8,10 @@ categories:
   - Inclusion
   - Témoignage
 author: Bastien
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: Keerati
 oembed_image: /assets/posts/2017-12-16/ID-10046009.jpg
 ---
 
@@ -80,9 +84,3 @@ J'ai également été chanceux d'avoir mes parents pour m'emmener et venir me ch
 J'ai également eu la chance que mes parents soient là pour discuter avec les enseignants, signaler les problèmes, etc.
 Sans eux, mon parcours aurait été bien plus compliqué.
 Je pense qu'aujourd'hui, il est important d'apprendre aux personnes autistes les compétences pour aller demander eux-mêmes les aménagements et les aides dont ils ont besoin.
-
-
----
-<small>Image issue de Keerati/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
-
----

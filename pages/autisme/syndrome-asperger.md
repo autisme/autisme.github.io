@@ -3,6 +3,10 @@ layout: page
 title: Syndrome d'Asperger
 permalink: /autisme/syndrome-asperger
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: tuelekza
 oembed_image: /assets/pages/autisme/syndrome-asperger/ID-100383835.jpg
 modules:
   - youtube
@@ -74,6 +78,4 @@ Une campagne est en cours pour que le Syndrome d'Asperger reste dans le manuel.
 Bien que les nouveaux critères de diagnostic sont de plus en plus utilisés, beaucoup de docteurs continuent de diagnostiquer le Syndrome d'Asperger et ces diagnostiques sont encore reconnus.
 Il faut également noter que les personnes ayant un Syndrome d'Asperger ne perdent pas leur diagnostic avec le passage aux nouvelles classifications.
 
----
-<small>Image issue de tuelekza/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

@@ -3,6 +3,10 @@ layout: page
 title: "Construire une société inclusive - Hôtellerie"
 permalink: /construire-une-societe-inclusive/hotellerie
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    plural: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/introduction/dict.jpg
 breadcrumbs:
   - /construire-une-societe-inclusive/
@@ -183,6 +187,4 @@ Il n'y a pas deux hôtels identiques et personne d'autre que les familles des pe
 ne peut vous dire quels sont les problèmes d'accessibilités rencontrés.
 Écoutez leurs conseils pour améliorer la qualité de votre hôtel.
 
----
-<small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

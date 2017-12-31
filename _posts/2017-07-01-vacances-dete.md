@@ -4,6 +4,10 @@ title:  Vacances d'été 2017
 date:   2017-07-01 08:00:00 +0100
 categories: 
 author: Bastien
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: Nutdanai Apikhomboonwaroot
 oembed_image: /assets/posts/2017-07-01/opengraph.jpg
 ---
 
@@ -61,7 +65,4 @@ pour accueillir les personnes avec autisme dans les meilleures conditions possib
 
 Nous espérons que cette période se passe pour le mieux et nous vous souhaitons un bel été.
 Bastien.
-
----
-<small>Image issue de Nutdanai Apikhomboonwaroot/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

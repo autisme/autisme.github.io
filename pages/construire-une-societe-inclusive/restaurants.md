@@ -3,6 +3,10 @@ layout: page
 title: "Construire une société inclusive - Restaurants et bars"
 permalink: /construire-une-societe-inclusive/restaurants
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    plural: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/restaurants/ID-100442933.jpg
 breadcrumbs:
   - /construire-une-societe-inclusive/
@@ -166,6 +170,4 @@ C'est une petite adaptation pour vous qui peut être un grand atout pour les cli
 Il n'y a pas deux restaurants identiques.
 Rencontrez les associations œuvrant dans le domaine de l'autisme pour leur demander conseil sur les adaptations que vous pouvez faire.
 
----
-<small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

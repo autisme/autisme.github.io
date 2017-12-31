@@ -3,6 +3,10 @@ layout: page
 title: "Construire une société inclusive - Transports en commun"
 permalink: /construire-une-societe-inclusive/transports
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    plural: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/transports/ID-1005839.jpg
 breadcrumbs:
   - /construire-une-societe-inclusive/
@@ -188,7 +192,5 @@ Cela peut être plus facile si elles ont du temps pour s'y préparer.
 Pourquoi ne pas informer les passagers avec autisme où les informations telles que les retards sont envoyées
 (autant que possible) en avance&nbsp;?
 
----
-<small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 
 

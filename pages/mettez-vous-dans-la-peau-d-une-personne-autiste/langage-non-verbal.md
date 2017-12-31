@@ -3,6 +3,12 @@ layout: page
 title:  "Langage non verbal"
 permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/langage-non-verbal
 hide_header_link: true
+courtesis:
+  image:
+    bank: custom
+    plural: true
+    custom:
+      - http://socialintelligence.labinthewild.org
 oembed_image: /assets/posts/2017-10-02/opengraph.png
 modules:
   - iframe
@@ -54,8 +60,3 @@ Beaucoup de personnes autistes répndent «&nbsp;je ne sais pas&nbsp;» si vous 
 </div>
 
 
-
-
-
----
-<small>Images issues de <a href="http://socialintelligence.labinthewild.org/" rel="nofollow">http://socialintelligence.labinthewild.org</a></small>

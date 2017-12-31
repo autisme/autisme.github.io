@@ -3,6 +3,10 @@ layout: page
 title: "Construire une société inclusive - Commerçants"
 permalink: /construire-une-societe-inclusive/commercants
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    plural: true
 oembed_image: /assets/pages/construire-une-societe-inclusive/commercants/ID-100264598.jpg
 breadcrumbs:
   - /construire-une-societe-inclusive/
@@ -236,6 +240,4 @@ Cela est dû à un manque de connaissance de l'autisme par le grand public.
 
 Pour améliorer la situation, vous pouvez sensibiliser à l'autisme en affichant des posters ou distribuant des dépliants dans votre magasin.
 
----
-<small>Images issues de <a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

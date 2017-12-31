@@ -3,6 +3,21 @@ layout: page
 title:  "Qu'est-ce que l'autisme ?"
 permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/qu-est-ce-que-l-autisme
 hide_header_link: true
+courtesis:
+  image:
+    bank: custom
+    plural: true
+    custom:
+      - https://www.ted.com
+      - https//commons.wikimedia.org
+      - http://www.learnfromautistics.com
+      - http://www.letelegramme.fr
+      - http://www.ausm.org
+      - http://www.jkp.com
+      - http://www.autismspeaks.org
+      - http://www.capecodtimes.com
+      - http://www.autismarticulated.com
+      - http://network.autism.org.uk
 oembed_image: /assets/posts/2017-10-02/opengraph.png
 modules:
   - iframe
@@ -78,8 +93,4 @@ autisme plus visible avec des signes comme le fait de ne pas parler, de ne pas r
  <li><a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/capacites-et-potentiels">Capacités et potentiels</a></li>
 </ol>
 </div>
-
-
----
-<small>Images issues de <a href="https://www.ted.com/" rel="nofollow">https://www.ted.com</a>, <a href="https://commons.wikimedia.org/" rel="nofollow">https://commons.wikimedia.org</a>, <a href="http://www.standard.co.uk/" rel="nofollow">https://www.standard.co.uk</a>, <a href="http://www.learnfromautistics.com/" rel="nofollow">http://www.learnfromautistics.com</a>, <a href="http://www.letelegramme.fr/" rel="nofollow">http://www.letelegramme.fr</a>, <a href="http://www.ausm.org/" rel="nofollow">http://www.ausm.org</a>, <a href="http://www.jkp.com/" rel="nofollow">http://www.jkp.com</a>, <a href="http://www.autismspeaks.org/" rel="nofollow">http://www.autismspeaks.org</a>, <a href="http://www.capecodtimes.com/" rel="nofollow">http://www.capecodtimes.com</a>, <a href="http://www.autismarticulated.com/" rel="nofollow">http://www.autismarticulated.com</a>, <a href="http://network.autism.org.uk/" rel="nofollow">http://network.autism.org.uk</a>.</small>
 

@@ -3,6 +3,10 @@ layout: page
 title: Prendre soin de soi
 permalink: /je-suis-un-parent-membre-de-l-entourage/prendre-soin-de-soi
 hide_header_link: true
+courtesis:
+  image:
+    bank: freedigitalphotos
+    author: dan
 oembed_image: /assets/pages/parent/prendre-soin-de-soi/ID-10028215.jpg
 breadcrumbs:
   - /je-suis-un-parent-membre-de-l-entourage/
@@ -57,6 +61,4 @@ et les comportements difficiles peuvent vraiment vous fatiguer
 Il est essentiel que vous parliez à votre médecin si vous vous sentez
 tendu ou accablé par tous les problèmes
 
----
-<small>Image issue de dan/<a href="http://www.freedigitalphotos.net">freedigitalphotos.net</a>.</small>
 

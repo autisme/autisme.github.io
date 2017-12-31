@@ -3,6 +3,13 @@ layout: page
 title:  "Communication"
 permalink: /mettez-vous-dans-la-peau-d-une-personne-autiste/communication
 hide_header_link: true
+courtesis:
+  image:
+    bank: custom
+    plural: true
+    custom: 
+      - http://www.cygnification.com
+      - http://www.arasaac.org
 oembed_image: /assets/posts/2017-10-02/opengraph.png
 modules:
   - iframe
@@ -62,7 +69,5 @@ Vous finissez par faire fuir le peu d'amis que vous avez réussis à vous faire.
 </ol>
 </div>
 
----
-<small>Images issues de <a href="http://www.cygnification.com/" rel="nofollow">http://www.cygnification.com</a>, <a href="http://www.arasaac.org/" rel="nofollow">http://www.arasaac.org</a>.</small>
 
 
