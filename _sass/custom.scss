@@ -89,14 +89,20 @@ ul.horizontal > li {
 }
 
 /* recruit */
+#scroll-marker {
+ position: absolute;
+ top: 40px;
+ width: 0;
+ height: 0;
+}
 #recruit-notification {
- background-color: #424242;
- position: absolute !important;
- margin-top: 0;
  width: calc(100% - 30px);
- height: 4em;
+ height: 3.5em;
  left: 0;
  top: 56px;
+ background-color: #424242;
+ position: sticky;
+ margin-top: 0;
  padding: 15px;
  display: flex;
  flex-direction: row;

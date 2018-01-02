@@ -1,12 +1,53 @@
 ---
 layout: default
 ---
+<amp-animation id="hide-notification-anim" layout="nodisplay">
+ <script type="application/json">
+  {
+   "duration": "200ms",
+   "fill": "both",
+   "iterations": "1",
+   "direction": "alternate",
+   "animations": [{
+     "selector": "#recruit-notification",
+     "keyframes": [{
+       "opacity": "0",
+       "visibility": "hidden"
+     }]
+   }]
+  }
+ </script>
+</amp-animation>
+<amp-animation id="show-notification-anim" layout="nodisplay">
+ <script type="application/json">
+  {
+   "duration": "200ms",
+   "fill": "both",
+   "iterations": "1",
+   "direction": "alternate",
+   "animations": [{
+     "selector": "#recruit-notification",
+     "keyframes": [{
+       "opacity": "1",
+       "visibility": "visible"
+     }]
+   }]
+  }
+ </script>
+</amp-animation>
+
+
 <amp-user-notification id="recruit-notification" layout="nodisplay">
  <a href="/exprimez-vous">Vous souhaitez raconter votre parcours de diagnostic, votre 
 parcours scolaire, ou décrire les aides dont vous avez bénéficié et qui vous ont été 
 utiles. <span class="underline">Contactez-nous</span>.</a>
  <button on="tap:recruit-notification.dismiss" class="ampstart-btn caps ml1">×</button>
 </amp-user-notification>
+
+<div id="scroll-marker">
+ <amp-position-observer on="enter:show-notification-anim.start;exit:hide-notification-anim.start" layout="nodisplay">
+ </amp-position-observer>
+</div>
 
 <div id="iam">
  <p>Je suis…</p>
