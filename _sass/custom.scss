@@ -89,9 +89,6 @@ ul.horizontal > li {
 }
 
 /* recruit */
-#recruit a:visited {
- display: none;
-}
 #recruit a {
  background-color: #424242;
  position: absolute;
@@ -103,6 +100,9 @@ ul.horizontal > li {
  color: #fff;
  font-size: 1.05em;
  display: block;
+}
+#recruit a:visited {
+ display: none;
 }
 
 
