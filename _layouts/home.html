@@ -1,11 +1,12 @@
 ---
 layout: default
 ---
-<div id="recruit">
+<amp-user-notification id="recruit-notification" layout="nodisplay">
  <a href="/exprimez-vous">Vous souhaitez raconter votre parcours de diagnostic, votre 
 parcours scolaire, ou décrire les aides dont vous avez bénéficié et qui vous ont été 
-utiles, n'hésitez pas à nous contacter. <span class="underline">En savoir plus</span>.</a>
-</div>
+utiles. <span class="underline">Contactez-nous</span>.</a>
+ <button on="tap:recruit-notification.dismiss" class="ampstart-btn caps ml1">×</button>
+</amp-user-notification>
 
 <div id="iam">
  <p>Je suis…</p>
