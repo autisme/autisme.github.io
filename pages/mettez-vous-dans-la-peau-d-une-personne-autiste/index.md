@@ -20,8 +20,6 @@ Certains ne sont pas acceptés à l'école, d'autres sont acceptés sans aide et
 Une chose est sûr, tout le monde a oublié que les enfants autistes deviennent adultes. 
 Aujourd'hui, la situation est plus que catastrophique&nbsp;:
 
-<amp-img class="center" width="600" height="600" src="{{ site.amp_img_cache_url }}/facebook_campaign/9_inclusion_is_important.png" alt="80% des adultes avec autisme ne travaillent pas ; beaucoup sont seuls et isolés ; l'anxiété et la dépression font souvent parties de leur vie ; leur espérance de vie est en moyenne réduite de 18 ans ; le taux de suicide est 9 fois plus élevé"></amp-img>
-
  - 80&nbsp;% des personnes autistes ne travaillent pas ou sont sous-employées&nbsp;;
  - Beaucoup sont seuls et isolés socialement&nbsp;;
  - Les personnes développent souvent de l'anxiété et de la dépression&nbsp;;
