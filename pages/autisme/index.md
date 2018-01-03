@@ -19,4 +19,5 @@ Dans les sections ci-dessous, nous introduisons le handicap et ses caractéristi
   - [Principaux symptômes](/autisme/principaux-symptomes)
   - [Handicaps associés](/autisme/handicaps-associes)
   - [Ce que VOUS pouvez faire pour construire une société inclusive ?](/construire-une-societe-inclusive/)
+  - [Mettez-vous à la place d'une personne autiste](/mettez-vous-a-la-place-d-une-personne-autiste)
   - [Associations de soutien](/autisme/associations)
