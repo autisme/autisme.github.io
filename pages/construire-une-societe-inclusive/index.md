@@ -14,7 +14,7 @@ oembed_image: /facebook_campaign/9_inclusion_is_important.png
 rendre la vie des personnes autistes plus facile ou que ce soit des parents, des proches d'une personne avec autisme qui veulent aider cette dernière.
 
 S'assurer que les personnes autistes puissent développer leur potentiel et faire partie de la société est quelque chose qui doit impliquer la société tout entière.
-Ce n'est pas juste pour les familles qui sont affectées, ce n'est pas juste pour les médecins ou les enseignants.
+Ce n'est pas juste pour les familles qui sont affectées, ce n'est pas juste pour les médecins, les psychologues et les enseignants.
 Cela est important dans la mesure où actuellement la situation des personnes autistes est catastrophique.
 
 <amp-img class="center" width="600" height="600" src="{{ site.amp_img_cache_url }}/facebook_campaign/9_inclusion_is_important.png" alt="80% des adultes avec autisme ne travaillent pas ; beaucoup sont seuls et isolés ; l'anxiété et la dépression font souvent parties de leur vie ; leur espérance de vie est en moyenne réduite de 18 ans ; le taux de suicide est 9 fois plus élevé"></amp-img>
