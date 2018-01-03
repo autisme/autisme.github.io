@@ -104,7 +104,7 @@
    "itemListElement": [
 {% if page.layout == 'page' %}{% assign breadcrumbs = page.breadcrumbs %}{% endif %}
 {% if page.layout == 'faq' %}{% assign breadcrumbs = page.breadcrumbs %}{% endif %}
-{% if page.layout == 'post' %}{% assign breadcrumbs = '/blog' %}{% endif %}
+{% if page.layout == 'post' %}{% assign breadcrumbs = '/blog/' %}{% endif %}
 {% assign position = 1 %}
  {% for breadcrumb in breadcrumbs %}
     {

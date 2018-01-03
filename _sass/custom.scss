@@ -235,6 +235,52 @@ ul.horizontal > li {
 .more-articles:hover {
  background-color: #2a7ae2;
 }
+#blog-navigation {
+ margin: 0 auto 0 auto;
+ width: 100%;
+}
+#blog-navigation > ul {
+ display: flex;
+ list-style-type: none;
+ flex-wrap: nowrap;
+ justify-content: center;
+ align-content: center;
+ margin: 0 auto 0px auto;
+}
+#blog-navigation > ul > li {
+ display: inline-block;
+ flex: 0 0 42px;
+ border: 1px solid #828282;
+ border-right: none;
+ width: 42px;
+ height: 42px;
+ text-align: center;
+ vertical-align: middle;
+ line-height: 42px;
+}
+#blog-navigation > ul > li:first-child {
+ border-radius: 3px 0 0 3px;
+}
+#blog-navigation > ul > li:last-child {
+ border-right: 1px solid #828282;
+ border-radius: 0 3px 3px 0;
+}
+#blog-navigation > ul > li > a {
+ display: block;
+ width: 42px;
+ height: 42px;
+}
+#blog-navigation > ul > li.current_year {
+ background-color: #1756a9;
+ color: #fff;
+}
+#blog-navigation > ul > li > a:hover {
+ background-color: #2a7ae2;
+ color: #fff;
+ text-decoration: none;
+ font-weight: normal;
+}
+
 .post-list > li .post- {
  display: flex;
  flex-direction: row;
