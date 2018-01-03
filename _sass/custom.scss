@@ -126,69 +126,91 @@ ul.horizontal > li {
 
 /* "I am" list */
 #iam {
- margin-top: 60px;
- margin-bottom: 50px;
+ margin: 60px auto 50px auto;
 }
-#iamlist, #involvedlist {
- max-width: 800px;
+#iamlist, #iamlist > li > ul {
+ display: flex;
+ list-style-type: none;
+ flex-wrap: wrap;
+ justify-content: center;
+ align-content: center;
+ margin: 0 auto 0px auto;
+}
+#iamlist > li, #iamlist > li > ul > li {
+ flex: 1 0 auto;
+ height: 150px;
+ justify-content: center;
+ align-content: center;
+ margin: 0 auto 20px auto;
+}
+#iamlist > li > ul > li {
+ display: block;
+ height: 150px;
+ width: 150px;
+ margin: 5px;
+ text-align: center;
+ background-size: cover;
+ background-blend-mode: multiply;
+}
+#iamlist > li > ul > li > a {
+ display: inline-block;
+ width: 100%;
+ height: 150px;
+ line-height: 150px;
+ font-weight: bold;
+ color: #fff;
+}
+#iamlist > li > ul > li > a > span {
+ display: inline-block;
+ line-height: 20px;
+ vertical-align: middle;
+}
+#iamlist-personal {
+ background: url('/assets/personal.jpg') no-repeat 0 0;
+ background-color: rgb(78, 151, 178);
+ border: 3px solid rgb(78, 151, 178);
+}
+#iamlist-parent {
+ background: url('/assets/parent.jpg') no-repeat 0 0;
+ background-color: rgb(28, 186, 67);
+ border: 3px solid rgb(28, 186, 67);
+}
+#iamlist-professional {
+ background: url('/assets/professional.jpg') no-repeat 0 0;
+ background-color: rgb(140, 70, 223);
+ border: 3px solid rgb(140, 70, 223);
+}
+#iamlist-autism {
+ background: url('/assets/autism.jpg') no-repeat 0 0;
+ background-color: rgb(229, 90, 124);
+ border: 3px solid rgb(229, 90, 124);
+}
+#iamlist-personal a:hover {
+ background-color: rgba(78, 151, 178, 0.75);
+}
+#iamlist-parent a:hover {
+ background-color: rgba(28, 186, 67, 0.75);
+}
+#iamlist-professional a:hover {
+ background-color: rgba(140, 70, 223, 0.75);
+}
+#iamlist-autism a:hover {
+ background-color: rgba(229, 90, 124, 0.75);
+}
+
+#involvedlist {
+ max-width: 900px;
  margin: 0 auto 0 auto;
  text-align: center;
  list-style-type: none;
  border-collapse:separate;
- display:table;
+ display:flex;
  border-spacing: 3px;
 }
-#iamlist li, #involvedlist li {
+#involvedlist li {
  display : inline;
 }
-#iamlist a, #involvedlist a {
- display: table-cell;
- text-align: center;
- vertical-align: middle;
- width: 180px;
- height: 150px;
- border: 3px solid black;
- font-weight: bold;
- color: #fff;
- border-radius: 10px;
-}
-#iamlist a, #involvedlist a {
- background-blend-mode: multiply;
-}
-#iamlist a#personal {
- background: url('/assets/personal.jpg') no-repeat 0 0;
- background-color: rgba(78, 151, 178, .7);
- border: 3px solid rgb(78, 151, 178);
-}
-#iamlist a#personal:hover {
- background-color: rgba(78, 151, 178, .9);
-}
 
-#iamlist a#parent {
- background: url('/assets/parent.jpg') no-repeat 0 0;
- background-color: rgba(128, 186, 67, .7);
- border: 3px solid rgb(128, 186, 67);
-}
-#iamlist a#parent:hover {
- background-color: rgba(128, 186, 67, .9);
-}
-#iamlist a#professional {
- background: url('/assets/professional.jpg') no-repeat 0 0;
- background-color: rgba(140, 70, 223, .7);
- border: 3px solid rgb(140, 70, 223);
-}
-#iamlist a#professional:hover {
- background-color: rgba(140, 70, 223, .9);
-}
-#iamlist a#autisme {
- width: 565px;
- background: url('/assets/autisme.jpg') no-repeat 0 0;
- background-color: rgba(229, 90, 124, 0.7);
- border: 3px solid rgb(229, 90, 124);
-}
-#iamlist a#autisme:hover {
- background-color: rgba(229, 90, 124, 0.9);
-}
 
 /* Involved list */
 #involvedlist a#construire-une-societe-inclusive {
