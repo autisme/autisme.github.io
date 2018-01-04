@@ -15,7 +15,7 @@ Pourtant cela n'est que rarement discuté.
 Lorsque nous discutons d'accessibilité nous pensons aux personnes en fauteuil roulant ou qui ont un handicap qui rend leurs déplacements difficiles.
 Nous pensons plus rarement aux personnes âgées et quasiment jamais aux personnes autistes.
 
-<amp-img class="center" width="600" height="225" src="/facebook_campaign/inclusive.png" alt="L'inclusion c'est permettre à chaque personne de participer dans la société et d'y contribuer. L'accessibilité est essentielle mais ce n'est que la première étape."></amp-img>
+<amp-img class="center" width="600" height="225" src="https://raw.githubusercontent.com/autisme/twitter-campaign/master/quotes/accessibility-vs-inclusion/img-v1.png"  alt="L'inclusion c'est permettre à chaque personne de participer dans la société et d'y contribuer. L'accessibilité est essentielle mais ce n'est que la première étape."></amp-img>
 
 Pourtant, le problème de l'accessibilité pour les  personnes avec autisme est réel.
 Par exemple, il est souvent difficile pour les personnes concernées de se rendre dans un lieu rempli de monde, ou bruyant, ou avec des lumières vives.

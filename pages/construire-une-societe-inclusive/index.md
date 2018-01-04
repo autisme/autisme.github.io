@@ -7,7 +7,7 @@ courtesis:
   image:
     bank: freedigitalphotos
     author: digitalart
-oembed_image: /facebook_campaign/9_inclusion_is_important.png
+oembed_image: /assets/pages/construire-une-societe-inclusive/opengraph.png
 ---
 
 «&nbsp;Que puis-je faire pour aider&nbsp;?&nbsp;» c'est une question que beaucoup de gens se posent, que ce soit des personnes qui viennent d'être sensibilisés à l'autisme et qui veulent 
@@ -17,7 +17,7 @@ S'assurer que les personnes autistes puissent développer leur potentiel et fair
 Ce n'est pas juste pour les familles qui sont affectées, ce n'est pas juste pour les médecins, les psychologues et les enseignants.
 Cela est important dans la mesure où actuellement la situation des personnes autistes est catastrophique.
 
-<amp-img class="center" width="600" height="600" src="{{ site.amp_img_cache_url }}/facebook_campaign/9_inclusion_is_important.png" alt="80% des adultes avec autisme ne travaillent pas ; beaucoup sont seuls et isolés ; l'anxiété et la dépression font souvent parties de leur vie ; leur espérance de vie est en moyenne réduite de 18 ans ; le taux de suicide est 9 fois plus élevé"></amp-img>
+<amp-img class="center" width="600" height="600" src="https://raw.githubusercontent.com/autisme/twitter-campaign/master/monday-messages/09-inclusion-is-important/img.png" alt="80% des adultes avec autisme ne travaillent pas ; beaucoup sont seuls et isolés ; l'anxiété et la dépression font souvent parties de leur vie ; leur espérance de vie est en moyenne réduite de 18 ans ; le taux de suicide est 9 fois plus élevé"></amp-img>
 
 Les personnes autistes ont besoin d'aides pour atteindre leur potentiel mais elles ont également besoin de compréhension et d'ouverture de la part de la société.
 C'est là que vous avez un rôle à jouer&nbsp;! Donner de l'argent aux associations est important et toujours apprécié mais il est plus important encore de prendre des mesures 
