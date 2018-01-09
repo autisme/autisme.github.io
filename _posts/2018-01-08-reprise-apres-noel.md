@@ -23,24 +23,30 @@ Imaginez devoir supporter les bruits comme la sonnerie entre les cours, les voix
 et auxquels nous ne faisons pas attention. Il peut en être de même avec les odeurs du repas de la cantine, ou du café.
 Dans ces conditions, l'idée même de retourner à l'école ou au travail génère souvent beaucoup d'anxiété et de stress, parfois cela commence plusieurs jours avant la fin des vacances. 
 
-En tant qu'enseignant, auxiliaire de vie scolaire, vous pouvez rendre plus facile la reprise de l'école&nbsp;:
+En tant qu'enseignant, auxiliaire de vie scolaire, vous pouvez rendre plus facile la reprise de l'école
+&nbsp;:
 
-  - **Attendez-vous à ce que l'élève soit perturbé & soyez tolérants**
+  - **Attendez-vous à ce que l'élève soit perturbé et soyez tolérants**
+
 L'élève retrouve les difficultés auxquelles il fait face tous les jours, comme la concentration, les devoirs ou encore la socialisation au sein de la classe.
 Essayez de maintenir une atmosphère détendue afin d'éviter les crises/meltdowns.
 
-  - **Facilitez le retour au travail**
+  - **Facilitez-lui le retour au travail**
+
 Les premiers jours, laissez l'élève travailler à un rythme plus lent, allégez la quantité de travail demandée et augmentez-là progressivement jusqu'à retrouver le rythme habituel.
 
-  - **Autorisez des pauses**
+  - **Autorisez-lui des pauses**
+
 Si l'élève a vraiment du mal à rester assis, à se concentrer ou tout simplement à supporter l'environnement, permettez-lui de faire un petit tour en dehors de la classe
 pour se ressourcer.
 
-  - **Rassurez**
+  - **Rassurez l'élève**
+
 Les élèves autistes ont souvent une faible estime d'eux-mêmes et angoissent pour «&nbsp;au cas où…&nbsp;».
 Dites-lui que tout va bien se passer et encouragez-le à vous dire ce qui l'angoisse ou le stress. 
 
-  - **Encouragez**
+  - **Encouragez-le**
+
 Lorsque l'élève essaie de faire de son mieux, n'hésitez pas à l'encourager. Cela lui donnera de la confiance en lui.
 
 
