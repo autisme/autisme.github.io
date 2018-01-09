@@ -188,6 +188,11 @@ ul.horizontal > li {
  background-color: rgb(244, 128, 66);
  border: 3px solid rgb(244, 128, 66);
 }
+#involvedlist-step-into-the-shoes-of-an-autistic-person {
+ background: url('/assets/step-into-the-shoes-of-an-autistic-person.jpg') no-repeat 0 0;
+ background-color: rgb(245, 89, 115);
+ border: 3px solid rgb(255, 89, 115);
+}
 #involvedlist-build-an-inclusive-society {
  background: url('/assets/build-an-inclusive-society.jpg') no-repeat 0 0;
  background-color: rgb(255, 187, 51);
@@ -210,6 +215,9 @@ ul.horizontal > li {
 }
 #iamlist-autism a:hover {
  background-color: rgba(244, 128, 66, 0.75);
+}
+#involvedlist-step-into-the-shoes-of-an-autistic-person a:hover {
+ background-color: rgba(245, 89, 115, 0.75);
 }
 #involvedlist-build-an-inclusive-society a:hover {
  background-color: rgba(255, 187, 51, 0.75);
