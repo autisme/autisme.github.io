@@ -27,7 +27,7 @@ En tant qu'enseignant, auxiliaire de vie scolaire, vous pouvez rendre plus facil
 
   - **Attendez-vous à ce que l'élève soit perturbé & soyez tolérants**
 L'élève retrouve les difficultés auxquelles il fait face tous les jours, comme la concentration, les devoirs ou encore la socialisation au sein de la classe.
-Essayez de maintenir une atmosphère détendue afin d'éviter les crises/meltdown.
+Essayez de maintenir une atmosphère détendue afin d'éviter les crises/meltdowns.
 
   - **Facilitez le retour au travail**
 Les premiers jours, laissez l'élève travailler à un rythme plus lent, allégez la quantité de travail demandée et augmentez-là progressivement jusqu'à retrouver le rythme habituel.
@@ -37,7 +37,7 @@ Si l'élève a vraiment du mal à rester assis, à se concentrer ou tout simplem
 pour se ressourcer.
 
   - **Rassurez**
-Les élèves autistes ont souvent une faible estime d'eux-mêmes et angoissent pour "au cas où...".
+Les élèves autistes ont souvent une faible estime d'eux-mêmes et angoissent pour «&nbsp;au cas où…&nbsp;».
 Dites-lui que tout va bien se passer et encouragez-le à vous dire ce qui l'angoisse ou le stress. 
 
   - **Encouragez**
