@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: blog
-permalink: /category/temoignage
+permalink: /category/témoignage
 category: Témoignage
 title: Blog / Témoignage
 hide_header_link: true
