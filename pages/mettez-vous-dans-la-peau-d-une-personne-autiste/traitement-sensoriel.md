@@ -35,7 +35,7 @@ Imaginez ce que cela serait pour vous si vous deviez passer vos journées à tra
 </div>
 
 Les personnes autistes peuvent être également hypersensibles aux bruits. Imaginez que vous seul entendez le bruit du crissement de la craie sur le tableau.
-Ce bruit est très énervant mais les autres personnes ne comprennent pas pourquoi vous vous énervez.
+Ce bruit est très énervant et vous fait mal, mais les autres personnes ne comprennent pas pourquoi vous vous énervez.
 De même, certaines personnes ont du mal à différencier la parole des bruits et doivent attentivement et conscieusement écouter tout ce qu'il se passe autour d'elles pour identifier de potentielles voix.
 Elles peuvent donner l'impression de ne pas vous écouter lorsque vous leurs parlez alors qu'il leur faut juste plus de temps pour analyser ce que vous dites.
 
