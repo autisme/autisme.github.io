@@ -49,5 +49,7 @@ Ma proposition a été reprise dans le second compte-rendu du groupe de travail.
 
 <amp-img class="center" layout="responsive" width="1167" height="296" src="{{ site.amp_img_cache_url }}/assets/posts/2018-01-28/cr_qvt.png" alt="Actions identifiées - Soutenir une démarche de tutorat bénéficiant aux nouveaux arrivants, pour les accompagner dans leur vie d’étudiant au quotidien - Améliorer et personnaliser l'accueil des étudiants porteurs de handicap en lien avec Handisup et le relais handicap - Campus autism friendly"></amp-img>
 
-J'espère qu'au-delà d'une mention dans des comptes-rendus, cela sera suivi d'actions concrètes dans les mois à venir&nbsp;!
+
+
+J'espère que ma proposition sera la première étape pour l'inclusion des personnes autistes à l'université et qu'au-delà d'une mention dans des comptes-rendus, cela sera suivi d'actions concrètes dans les mois à venir&nbsp;!
 Bastien.
