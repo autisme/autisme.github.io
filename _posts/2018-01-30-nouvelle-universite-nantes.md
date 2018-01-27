@@ -7,11 +7,12 @@ categories:
 author: Bastien
 courtesis:
   image:
-    bank: freepik
+    bank: freedigitalphotos
+    author: David Castillo Dominici
 oembed_image: /assets/posts/2018-01-30/opengraph.png
 ---
 
-<amp-img class="center" width="300" height="225" src="/assets/posts/2018-01-30/opengraph.png" alt="Université"></amp-img>
+<amp-img class="left" width="300" height="225" src="/assets/posts/2018-01-30/opengraph.png" alt="Université"></amp-img>
 
 L'université de Nantes a récemment lancé un appel à contributions pour demander aux élèves et aux personnels ce qu'ils souhaitaient
 voir modifier dans l'organisation de l'école.
@@ -31,7 +32,7 @@ Ci-dessous, le texte que j'ai soumis dans le groupe de travail «&nbsp;Qualité 
 <div class="highlight">
 Bonjour, je ne sais pas si cela entre dans les thèmes de travail pour le projet de nouvelle université mais il s’agit d’un sujet, qui je pense, est important d’être traité, que ce soit au sein de ce projet ou en dehors.
 
-De plus en plus de personnes sont affectées par l’autisme. Dans la plupart des pays, environ une personne sur cent est aujourd’hui concernée. Pendant de nombreuses années, les personnes autistes ont été dé-scolarisées, exclues de l’école. Les mentalités sont cependant en train de changer. Il leur est maintenant plus facile d’accéder à l’école primaire, au collège et au lycée et sont donc de plus en plus nombreux à obtenir leur baccalauréat.  L’université doit être prête pour les accueillir pour leurs études supérieures ! Le service de santé de l’université fait un travail remarquable pour ce qui est de l’aménagement des examens et les enseignants sont généralement à l’écoute en ce qui concerne les difficultés des étudiants, mais je pense que nous devons aller plus loin.
+De plus en plus de personnes sont affectées par l’autisme. Dans la plupart des pays, environ une personne sur cent est aujourd’hui concernée. Pendant de nombreuses années, les personnes autistes ont été dé-scolarisées, exclues de l’école. Les mentalités sont cependant en train de changer. Il leur est maintenant plus facile d’accéder à l’école primaire, au collège et au lycée et sont donc de plus en plus nombreux à obtenir leur baccalauréat.  L’université doit être prête pour les accueillir pour leurs études supérieures&nbsp;! Le service de santé de l’université fait un travail remarquable pour ce qui est de l’aménagement des examens et les enseignants sont généralement à l’écoute en ce qui concerne les difficultés des étudiants, mais je pense que nous devons aller plus loin.
 
 Tout d’abord il est important de faciliter la transition entre le lycée et l’université :  l’organisation des cours à  l’université est vraiment différente de ce que nous connaissons à la sortie du lycée, que ce soit parce que l’emploi du temps change chaque semaine ou parce que le travail personnel à rendre sur de longues échéances demande beaucoup plus d’organisation. L’entrée à l’université signifie également pour certaines personnes de devoir apprendre à vivre seules, loin de leur famille. Cela demande beaucoup d’efforts, d’énergie et génère beaucoup de stress.
 De plus, l’environnement, notamment les lieux comme la cafétéria ou les associations étudiantes, sont difficilement accessibles à cause du bruit, de la foule, …
