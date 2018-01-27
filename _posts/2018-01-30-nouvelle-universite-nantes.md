@@ -12,7 +12,7 @@ courtesis:
 oembed_image: /assets/posts/2018-01-30/opengraph.png
 ---
 
-<amp-img class="left" width="300" height="225" src="/assets/posts/2018-01-30/opengraph.png" alt="Université"></amp-img>
+<amp-img class="left" width="300" height="225" src="{{ site.amp_img_cache_url }}/assets/posts/2018-01-30/opengraph.png" alt="Université"></amp-img>
 
 L'université de Nantes a récemment lancé un appel à contributions pour demander aux élèves et aux personnels ce qu'ils souhaitaient
 voir modifier dans l'organisation de l'école.
@@ -47,7 +47,7 @@ Bastien.
 
 Ma proposition a été reprise dans le second compte-rendu du groupe de travail. Il y est écrit&nbsp;:
 
-<amp-img class="center" width="600" height="152" src="/assets/posts/2018-01-30/cr_qvt.png" alt="Actions identifiées - Soutenir une démarche de tutorat bénéficiant aux nouveaux arrivants, pour les accompagner dans leur vie d’étudiant au quotidien - Améliorer et personnaliser l'accueil des étudiants porteurs de handicap en lien avec Handisup et le relais handicap - Campus autism friendly"></amp-img>
+<amp-img class="center" layout="responsive" src="{{ site.amp_img_cache_url }}/assets/posts/2018-01-30/cr_qvt.png" alt="Actions identifiées - Soutenir une démarche de tutorat bénéficiant aux nouveaux arrivants, pour les accompagner dans leur vie d’étudiant au quotidien - Améliorer et personnaliser l'accueil des étudiants porteurs de handicap en lien avec Handisup et le relais handicap - Campus autism friendly"></amp-img>
 
 J'espère qu'au-delà d'une mention dans des comptes-rendus, cela sera suivi d'actions concrètes dans les mois à venir&nbsp;!
 Bastien.

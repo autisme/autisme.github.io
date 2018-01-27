@@ -22,7 +22,7 @@ C'est même très souvent une condition nécessaire pour que l'enfant soit scola
 
 Pour ma part, je n'ai eu une AVS qu'en classe de seconde pour m'aider à faire la transition entre le collège et le lycée, pour m'aider entre les cours et pendant les travaux pratiques.
 
-<amp-img class="left" width="300" height="300" src="/assets/posts/2017-12-10/ID-100259934.jpg" alt="ID-100259934"></amp-img>
+<amp-img class="left" width="300" height="300" src="{{ site.amp_img_cache_url }}/assets/posts/2017-12-10/ID-100259934.jpg" alt="ID-100259934"></amp-img>
 
 De l'école primaire, au collège et pendant mes deux dernières années de lycée, j'ai dû me débrouiller seul.
 En classe, recopier le cours du tableau me donnait des crampes au poignet. Mes cahiers étaient tellement illisibles que pour réviser le cours pour un contrôle je comptais uniquement 

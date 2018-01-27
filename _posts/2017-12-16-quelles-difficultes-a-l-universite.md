@@ -28,7 +28,7 @@ Du mois de janvier à la rentrée des classes en septembre, j'ai bénéficié de
 aller le midi, etc. J'ai également eu l'occasion de rencontrer certains enseignants. Je pense que cela est très important pour ne pas être perdu le jour de la rentrée et ne pas angoisser avec des questions
 comme «&nbsp;Que dois-je faire si… ?&nbsp;».
 
-<amp-img class="left" width="400" height="266" src="/assets/posts/2017-12-16/ID-10046009.jpg" alt="ID-10046009"></amp-img>
+<amp-img class="left" width="400" height="266" src="{{ site.amp_img_cache_url }}/assets/posts/2017-12-16/ID-10046009.jpg" alt="ID-10046009"></amp-img>
 
 Une enseignante de mon lycée s'est également déplacée pour expliquer quels aménagements avaient été mis en place, quelles sont mes difficultés, etc. L'accueil s'est donc très bien passé 
 et la plupart des aménagements dont je [/quels-amenagements-a-lecole](bénéficiais au lycée ont été reconduits). Je ne refais pas la liste.
