@@ -12,10 +12,11 @@ courtesis:
 oembed_image: /assets/posts/2018-01-31/opengraph.png
 ---
 
+<amp-img class="center" width="400" height="200" src="{{ site.amp_img_cache_url }}/assets/posts/2018-01-31/opengraph.png" alt="Autisme et écrans"></amp-img>
+
 L'idée selon laquelle exposer les enfants aux écrans favoriserait le développement de troubles autistiques se répand depuis quelques mois.
 Au départ limité aux articles sur Internet, cette théorie est maintenant présentée dans les journaux et même sur les grandes chaînes de télévision nationale.
 
-<amp-img class="center" width="400" height="200" src="{{ site.amp_img_cache_url }}/assets/posts/2018-01-31/opengraph.png" alt="Autisme et écrans"></amp-img>
 
 Je n'écrirai pas un long paragraphe pour critiquer cette théorie, d'autant plus qu'elle fut déformée à maintes reprises.
 Beaucoup de personnes ont avancés des arguments pour démontrer les erreurs et les lacunes de la théorie.
