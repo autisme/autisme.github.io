@@ -25,8 +25,9 @@ Trois domaines sont abordés :
 
 J'ai été heureux de pouvoir participer à cet appel pour proposer de construire une université réellement inclusive, que ce soit pour accompagner les lycéens
 dans la transition à l'univerité, mais aussi pour accompagner les étudiants vers le monde de travail, que ce soit à la fin du cursus où pour les stages en entreprise.
-J'espère également que cela soit l'opportunité de faire de l'université un environnement dans lequel les personnes autistes
-puissent travailler dans les meilleures conditions&nbsp;: se sentir incluses et puisse 
+J'espère également que cela soit l'opportunité de faire de l'université un lieu accessible sur le plan sensoriel mais aussi que cela devienne un environnement 
+dans lequel les personnes autistes
+puissent se sentir incluses et puissent atteindre le meilleur d'elles-mêmes. 
 Ci-dessous, le texte que j'ai soumis dans le groupe de travail «&nbsp;Qualité de vie&nbsp;»&nbsp;:
 
 <div class="highlight">
