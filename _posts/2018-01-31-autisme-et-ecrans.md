@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Lien supposé entre écrans et autisme"
 date:   2018-01-31 08:00:00 +0100
 categories:
   - Opinion
@@ -13,9 +13,9 @@ oembed_image: /assets/posts/2018-01-31/opengraph.png
 ---
 
 L'idée selon laquelle exposer les enfants aux écrans favoriserait le développement de troubles autistiques se répand depuis quelques mois.
-Au départ limité aux articles sur Internet, cette théorie est maintenant présentée dans les journaux et mêmes maintenant sur les grandes chaînes de télévision nationale.
+Au départ limité aux articles sur Internet, cette théorie est maintenant présentée dans les journaux et même sur les grandes chaînes de télévision nationale.
 
-Je n'écrirais pas un long paragraphe pour critiquer cette théorie, d'autant plus qu'elle fut déformée à maintes reprises.
+Je n'écrirai pas un long paragraphe pour critiquer cette théorie, d'autant plus qu'elle fut déformée à maintes reprises.
 Beaucoup de personnes ont avancés des arguments pour démontrer les erreurs et les lacunes de la théorie.
 Je dirai simplement que même s'il y a une corrélation constatée entre le temps passé devant un écran et le développement de certains symptômes de l'autisme&nbsp;:
 
