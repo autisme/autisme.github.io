@@ -3,6 +3,10 @@ layout: page
 title: Informations pour les employeurs
 permalink: /je-suis-un-professionnel/informations-employeurs
 hide_header_link: true
+courtesis:
+  image:
+    bank: freepik
+oembed_image: /assets/pages/professional/informations-employeurs/opengraph.png
 breadcrumbs:
   - /je-suis-un-professionnel/
 ---
