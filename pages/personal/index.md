@@ -32,7 +32,11 @@ Souvenez-vous que «&nbsp;la connaissance c'est le pouvoir&nbsp;» et que vous p
 
  - [Dois-je annoncer mon autisme](/je-suis-une-personne-autiste/dois-je-annoncer-mon-autisme)
  - [Stress et anxiété](/je-suis-une-personne-autiste/stress-et-anxiete)
+ - [Vie sociale](/je-suis-une-personne-autiste/vie-sociale)
+
+### À l'école
+ - [Examens](/je-suis-une-personne-autiste/examens)
+
+### Au travail
  - [Environnement de travail](/je-suis-une-personne-autiste/environnement-de-travail)
  - [Problèmes souvent rencontrés au travail](/je-suis-une-personne-autiste/problemes-au-travail)
- - [Vie sociale](/je-suis-une-personne-autiste/vie-sociale)
- - [Examens](/je-suis-une-personne-autiste/examens)
