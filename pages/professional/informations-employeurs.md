@@ -86,26 +86,26 @@ Ci-dessous quelques forces des personnes autistes&nbsp;:
 
 Les personnes autistes sont généralement très franches et n'essaient pas de déformer la réalité. C'est quelque chose de vraiment nécessaire en entreprise et qui est pourtant bien trop rare.
 
-### Attention aux détails
+##### Attention aux détails
 
 Beaucoup de personnes autistes ont le souci du détail et cherchent la perfection. Les entreprises ont tellement besoin de cela que certains postes sont consacrés exclusivement à cette tâche.
 
-### Loyauté
+##### Loyauté
 
 Quand les personnes autistes ont confiance en quelqu'un ou une organisation, elles restent très loyales et sont souvent heureuses de travailler pour vous depuis de nombreuses années
 Dans un marché du travail qui change constamment, c'est un atout essentiel pour n'importe quelle entreprise&nbsp;!
 
-### Concentration
+##### Concentration
 
 Beaucoup de personnes autistes ont des intérêts spécifiques dans certains domaines et recherchent toutes les informations qui tournent autour de celui-ci.
 Avoir des gens passionnés qui aiment ce qu'ils font est important en entreprise.
 
-### Intelligence
+##### Intelligence
 
 Certaines personnes autistes ont une intelligence qui n'est pas seulement dans la moyenne mais qui est au-dessus de la moyenne.
 Les entreprises ont besoin de grands cerveaux&nbsp;!
 
-### Capacité à penser différemment
+##### Capacité à penser différemment
 
 Les personnes autistes, par leur nature, réfléchissent différemment des personnes ordinaires. Afin de garder un avantage compétitif sur vos concurrents et innover, vous devez embaucher des personnes qui pensent légèrement différemment.
 
