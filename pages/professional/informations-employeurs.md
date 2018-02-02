@@ -19,6 +19,9 @@ En employant les personnes autistes, cela améliore votre image, cela permet d'a
 mais cela vous permet surtout de travailler avec des personnes qui ont de nombreuses qualités comme la loyauté, l'honnêteté, un grand niveau de concentration et la capacité de sortir des schémas de pensées habituels
 (n'est-ce pas de là que provient l'innovation&nbsp;?)
 
+<amp-img class="center" width="1000" height="500" src="{{ site.amp_img_cache_url }}/assets/pages/professional/informations-employeurs/opengraph.png" alt="Illustration"></amp-img>
+
+
 L'autisme est un handicap invisible. Cela signifie que vous ne pourrez pas toujours savoir si la personne en face de vous lors d'un entretien ou d'une réunion est concernée ou non.
 Cependant il existe des caractéristiques assez courantes qui peuvent vous suggérer que le candidat ou l'employé est affecté.
 
