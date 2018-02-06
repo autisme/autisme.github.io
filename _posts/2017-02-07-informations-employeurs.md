@@ -13,7 +13,7 @@ courtesis:
 oembed_image: /assets/pages/professional/informations-employeurs/opengraph.png
 ---
 
-Plus de 80% des personnes autistes n'ont pas de travail ou sont sous-employées au regard de leurs compétences.
+Plus de 80&nbsp;% des personnes autistes n'ont pas de travail ou sont sous-employées au regard de leurs compétences.
 L'autisme peut être un frein pour beaucoup d'employeurs qui ne savent pas comment accueillir les personnes concernées.
 Pourtant avec les aménagements nécessaires, ces personnes peuvent être de grands atouts pour les entreprises qui les emploient.
 
