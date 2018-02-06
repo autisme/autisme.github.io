@@ -58,7 +58,7 @@ Certaines ne supportent pas certains bruits ou certaines odeurs ou encore certai
 Les lumières clignotantes par exemple peuvent être très dures à supporter.
 Au contraire, d'autres les apprécient.
 
-### Compétences sociales
+#### Compétences sociales
 
 Les lieux de divertissements sont des lieux très sociables.
 Les personnes autistes ont souvent un manque de compétences sociales.
