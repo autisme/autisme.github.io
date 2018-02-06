@@ -7,9 +7,6 @@ categories:
   - Conseils
   - Inclusion
 author: Bastien
-courtesis:
-  image:
-    bank: freepik
 oembed_image: /assets/pages/professional/informations-employeurs/opengraph.png
 ---
 
