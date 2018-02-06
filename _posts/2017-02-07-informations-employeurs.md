@@ -26,8 +26,6 @@ Ci-dessous, un guide qui vous donnera quelques conseils pour accueillir les pers
 
 
 
-Pourtant 
-Pourtant, elles ont beaucouo 
 <!--
 <meta http-equiv="refresh" content="1; url=/je-suis-un-professionnel/informations-employeurs" />
 -->
