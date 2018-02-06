@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pour l'embauche des personnes autistes: informations pour les employeurs"
+title:  "Pour l'emploi des personnes autistes: informations pour les employeurs"
 date:   2018-02-07 08:00:00 +0100
 categories:
   - Ressources
