@@ -60,7 +60,7 @@ Au contraire, d'autres les apprécient.
 
 #### Compétences sociales
 
-Les lieux de divertissements sont des lieux très sociables.
+Les lieux de divertissements sont des lieux de socialisation.
 Les personnes autistes ont souvent un manque de compétences sociales.
 Un client par exemple peut être très anxieux dans une situation particulière et peut ne plus arriver à faire la conversation ou ne plus savoir comment interagir avec les autres clients.
 Elles peuvent être très distantes à cause de leur inconfort.
