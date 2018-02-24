@@ -40,7 +40,7 @@ que nous n'aimons pas de faire partir le goût désagréable qui reste dans notr
 Personnellement, j'ai connu du personnel à la cantine qui utilisait cette méthode avec des phrases comme "si tu ne goûtes pas ce plat, tu seras privé de dessert".
 Cela ne fonctionne pas et est totalement contre productif. Cela est d'autant plus 
 dommageable lorsque le dessert est le seul aliment du repas que vous pouvez manger.
-Passer des après-midi à l'école avec le ventre vide juste parce qu'une personne de la cantine vous fait du chantage n'est pas quelque chose d'acceptable !
+Passer des après-midi à l'école avec le ventre vide juste parce qu'une personne de la cantine vous fait du chantage n'est pas quelque chose d'acceptable&nbsp;!
 
 - «&nbsp;Quand il aura faim, il mangera&nbsp;»
 
