@@ -9,7 +9,7 @@ author: Bastien
 courtesis:
   image:
     bank: freepik
-oembed_image: /assets/pages/posts/2018-02-25/opengraph.jpg
+oembed_image: /assets/posts/2018-02-25/opengraph.jpg
 ---
 
 
