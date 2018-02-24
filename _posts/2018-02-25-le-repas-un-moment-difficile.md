@@ -14,7 +14,7 @@ oembed_image: /assets/posts/2018-02-25/opengraph.jpg
 ---
 
 
-<amp-img class="left" width="400" height="200" src="{{ site.amp_img_cache_url }}/assets/posts/2018-02-25/opengraph.jpg" alt="Assiette et couverts"></amp-img>
+<amp-img class="left" width="400" height="250" src="{{ site.amp_img_cache_url }}/assets/posts/2018-02-25/opengraph.jpg" alt="Assiette et couverts"></amp-img>
 
 
 La nourriture peut vraiment être un sujet difficile pour les personnes autistes qui ont souvent des hypersensibilités.
