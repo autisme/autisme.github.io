@@ -31,7 +31,7 @@ comme «&nbsp;Que dois-je faire si… ?&nbsp;».
 <amp-img class="left" width="400" height="266" src="{{ site.amp_img_cache_url }}/assets/posts/2017-12-16/ID-10046009.jpg" alt="ID-10046009"></amp-img>
 
 Une enseignante de mon lycée s'est également déplacée pour expliquer quels aménagements avaient été mis en place, quelles sont mes difficultés, etc. L'accueil s'est donc très bien passé 
-et la plupart des aménagements dont je [/quels-amenagements-a-lecole](bénéficiais au lycée ont été reconduits). Je ne refais pas la liste.
+et la plupart des aménagements dont je [bénéficiais au lycée ont été reconduits](/quels-amenagements-a-lecole). Je ne refais pas la liste.
 Les enseignants m'ont beaucoup aidés, que ce soit pour me demander si tout se passe bien à la fin de chaque cours, 
 pour la gestion de l'emploi du temps&nbsp;: les enseignants appelaient mes parents lorsque l'emploi du temps était modifié à la dernière minute,
 ou pour les stages&nbsp;: ce sont eux qui m'ont trouvé les entreprises dans lesquelles j'ai effectué les différents stages obligatoires tout au long de mon cursus.
