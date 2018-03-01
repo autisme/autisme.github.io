@@ -14,7 +14,7 @@ oembed_image: /assets/posts/2018-03-02/opengraph.png
 
 
 Bâtir une société plus compréhensible, accessible et tolérante envers les personnes autistes est quelque chose de vraiment important.
-Que les personnes autistes puissent aller au supermarché, au cinéma ou prendre les transports en commun pour aller travailler ou voir des amis est vraiment quelque choise d'important.
+Que les personnes autistes puissent aller au supermarché, au cinéma ou prendre les transports en commun pour aller travailler ou voir des amis est vraiment quelque chose d'important.
 
 L'an dernier, nous avons publié une liste de conseils pour [rendre les lieux publics « autism-friendly »](/construire-une-societe-inclusive/#ce-que-vous-pouvez-faire-en-tant-quentreprise--organisation),
 et inciter les responsables de lieux publics à mettre en place des aménagements pour faciliter la vie des personnes autistes.
