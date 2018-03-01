@@ -20,7 +20,8 @@ L'an dernier, nous avons publié une liste de conseils pour [rendre les lieux pu
 et inciter les responsables de lieux publics à mettre en place des aménagements pour faciliter la vie des personnes autistes.
 
 Nous proposons cette année une liste de dépliants dont l'objectif est de découvrir en un coup d'œil ce qui peut être mis en place et qui peut faire la différence
-pour les personnes autistes. Nous espérons qu'un format plus concis permette une meilleure diffusion et que tout le 
+pour les personnes autistes. Nous espérons qu'un format plus concis permette une meilleure diffusion.
+
 
 
 <ul class="horizontal center">
