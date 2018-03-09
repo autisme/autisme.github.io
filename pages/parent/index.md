@@ -20,3 +20,4 @@ soutien nécessaire pour que la personne puisse développer son potentiel, vivre
  - [Soutien des frères et sœurs](/je-suis-un-parent-membre-de-l-entourage/soutien-des-freres-et-soeurs)
  - [Prendre soin de soi](/je-suis-un-parent-membre-de-l-entourage/prendre-soin-de-soi)
  - [Grands parents](/je-suis-un-parent-membre-de-l-entourage/grands-parents)
+ - [Quels professionnels pour obtenir de l'aide ?](/je-suis-un-parent-membre-de-l-entourage/quels-professionnels-pour-obtenir-de-laide)
