@@ -219,7 +219,7 @@ Vous pouvez faire beaucoup de choses pour rendre la vie des personnes autistes e
 Nous vous encourageons à trouver vous-même des idées pour inclure les personnes autistes dans la société.
 Toutefois, voici une liste de choses que vous pouvez faire :
 
-#### Surveiller mon langage
+#### Surveiller votre langage
 
 Nous pouvons utiliser des termes négatifs quand nous parlons des personnes autistes ou des personnes handicapées en général.
 Nous faisons cela rapidement avec des mots comme «&nbsp;attardé&nbsp;», «&nbsp;débile&nbsp;», …
@@ -251,7 +251,7 @@ Gardez à l'esprit que vous ne savez pas toujours qui est affecté par l'autisme
 
 Considérez l'environnement sensoriel, et particulièrement ce que les personnes autistes trouvent difficile.
 
-#### Regarder les compétences en communication
+#### Faire attention à votre communication
 
 <amp-img class="left" width="200" height="133" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/introduction/ID-10075051.jpg" alt="ID-10075051"></amp-img>
 
