@@ -103,7 +103,7 @@ De même, toutes les personnes autistes ne sont pas des génies.
 En effet, seulement une toute petite partie des personnes autistes ou des compétences de «&nbsp;génie&nbsp;» dans un certain domaine.
 Les personnes autistes peuvent avoir des compétences différentes de la population générale. Indépendamment de leur intellect, certaines ont des compétences dans lesquelles elles excellent ou affichent un talent particulier.
 
-### Les enfants avec autisme sont simplement «&nbsp;mal élevés&nbsp;» / Ce garçon est bizarre / Il est difficile…
+#### Les enfants autistes sont simplement «&nbsp;mal élevés&nbsp;» / Ce garçon est bizarre / Il est difficile…
 
 Les expressions ci-dessus sont simplement des variations du même mythe.
 Nous vivons dans une société où il est facile de juger quelqu'un qui se comporte différemment.
