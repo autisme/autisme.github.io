@@ -60,14 +60,16 @@ Ce n’est pas seulement un bruit que vous n’aimez pas, c’est un bruit que v
 
 Les difficultés sensorielles varient grandement entre les personnes autistes mais soyez conscient du problème d’accessibilité posé par l’environnement.
 
-### 4. Soyez réassurants
+### 4. Soyez rassurants
 Les personnes autistes ont des difficultés avec le changement, les situations nouvelles et inattendues.
 Les personnes autistes ont des difficultés à prédire ce qui va arriver dans telle ou telle situation, ce qui génère beaucoup de stress et d'anxiété.
 Vous pouvez rendre leur vie plus facile en les prévenant à l’avance des changements.
 
 ### 5. Adaptez-vous
-On attend toujours des personnes autistes de s’adapter au monde autour d’eux ce qui est drôle parce que l’autisme lui-même rend les changements et les adaptations difficiles.
-Essayez de faire votre moitié de chemin pour vous adapter à la personne avec autisme.
+On attend toujours des personnes autistes de s’adapter au monde autour
+d'elles, ce qui est drôle parce que l’autisme lui-même rend les changements
+et les adaptations difficiles.
+Essayez de faire votre partie du chemin pour vous adapter à la personne avec autisme.
 
 ### 6. Ne jugez pas si rapidement
 Avez-vous déjà vu une mère dans un supermarché avec un enfant qui criait et pleurait&nbsp;? Avez-vous déjà vu une personne «&nbsp;étrange&nbsp;»
