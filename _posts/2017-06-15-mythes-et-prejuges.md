@@ -32,7 +32,7 @@ Tout d'abord, voici un questionnaire vous permettant de vérifier ce que vous sa
 Certaines personnes sont très intelligentes, d'autres ont une intelligence moyenne et d'autres ont
 un retard intellectuel. Comme dans la population en général, les personnes avec autisme ont différents types et niveaux d'intelligence.
 
-### Mythe 2&nbsp;: Le quotient intellectuel dépend du niveau de fonctionnement de la personne
+### Mythe 2&nbsp;: Le quotient intellectuel dépend des difficultés rencontrées par la personne
 
 Il existe un préjugé disant que si une personne avec autisme a un «&nbsp;haut niveau de fonctionnement&nbsp;» dans la société, son quotient intellectuel est plus élevé qu'une personne ayant un «&nbsp;faible niveau de fonctionnement&nbsp;» en société.
 En réalité, la recherche a montré qu'il n'y a pas de corrélation entre le niveau de fonctionnement dans la société et le quotient intellectuel.
@@ -42,7 +42,7 @@ certaines personnes se mettent à parler plus fort ou plus lentement,
 comme si la personne n'était pas à apte à comprendre ce qu'on lui dit.
 
 
-### Mythe 3&nbsp;: Le bonheur dépend du niveau de fonctionnement
+### Mythe 3&nbsp;: Le bonheur est lié aux difficultés rencontrées
 
 Tout comme le quotient intellectuel, le bonheur ne dépend pas du «&nbsp;niveau de fonctionnement&nbsp;».
 Il existe un préjugé disant qu'une personne ayant un «&nbsp;haut niveau de fonctionnement&nbsp;» dans la société seraient plus heureuses que les personnes qui ont besoin de plus d'aides.
@@ -60,7 +60,7 @@ Les personnes avec autisme qui sont non verbales peuvent communiquer différemme
 Cela ne signifie pas que ces personnes ne peuvent pas communiquer - elles le font juste d'une autre manière.
 Il nous appartient à tous d'apprendre à communiquer avec ces personnes&nbsp;!
 
-### Mythe 5&nbsp;: L'autisme est causé par les parents
+### Mythe 5&nbsp;: L'autisme est la faute des parents
 
 Les personnes naissent avec l'autisme. Par conséquent, la façon dont elles sont élevées après la naissance
 n'a pas d'impact sur l'apparition de l'autisme ou non.
