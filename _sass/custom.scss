@@ -147,8 +147,8 @@ ul.horizontal > li {
  margin: 0 auto 0px auto;
 }
 #iamlist > li, #iamlist > li > ul > li {
- flex: 1 0 auto;
- height: 150px;
+ flex: 1 1 auto;
+ display: block;
  justify-content: center;
  align-content: center;
  margin: 0 auto 20px auto;
