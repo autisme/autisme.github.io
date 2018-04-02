@@ -26,8 +26,10 @@ démarches pour vous.
  
 ### Médecin généraliste / Pédiatre
 
-Votre médecin généraliste peut vous aiguiller vers les médecins spécialisés. En fonction des difficultés que vous ou votre enfant rencontre. N'hésitez pas à lui demander 
-des noms et à partager son carnet d'adresses.
+Votre médecin généraliste n'est pas un spécialiste de l'autisme. Toutefois, il peut vous aiguiller vers les médecins spécialisés.
+En fonction des difficultés que vous ou votre enfant 
+rencontre. N'hésitez pas à lui demander des noms et à partager son carnet d'adresses.
+
 
 ### Psychiatre
 
@@ -55,19 +57,26 @@ enfants qui ont des difficultés avec le développement du langage.
 
 ### Ergothérapeute
 
-Beaucoup de personnes autistes ont des difficultés avec la motricité, que ce soit des difficultés pour coordonner les mouvements (motricité globale) ou pour écrire (motricité fine)
+Beaucoup de personnes autistes ont des difficultés avec la motricité, que ce soit des difficultés pour coordonner les mouvements, faire du vélo, jouer au ballon (motricité globale) ou 
+pour écrire (motricité fine).
 Un ergothérapeute pourra faire progresser la personnes dans ces domaines.
-
 L'ergothérapie est également bénéfique pour améliorer l'attention, et pour mieux gérer la vie quotidienne.
 
 ### Diététicien
 Les personnes autistes ont souvent de mauvaises habitudes alimentaires. Manger toujours les mêmes aliments est
 une caractéristique que beaucoup de personnes autistes partage.
-
 Un diététicien pourra aider à varier les repas, à manger de façon saine et équilibrée.
 
 ### Référent de l'éducation nationale
 
 La personne référente de l'éducation nationale est responsable de la mise en place d'aménagements au sein de l'école.
 Il joue également un rôle de conseil et de médiateur entre l'école et les parents.
+
+Il représente l'éducation nationale lors de la réunion annuelle entre les parents, l'école et les professionnels de santé, permettant de construire le Plan Personnalisé de 
+Scolarisation.
+Ce document contient la liste des aménagements à mettre en place à l'école.
+
+### Assistant de vie scolaire
+
+L'assistant de vie scolaire est la personne qui accompagne votre enfant à l'école.
 

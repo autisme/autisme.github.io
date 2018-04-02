@@ -302,7 +302,7 @@ ul.horizontal > li {
 .post-list > li .post- {
  display: flex;
  flex-direction: row;
- flex-wrap: nowrap;
+ flex-wrap: wrap;
 }
 
 .post-list > li .post-thumb {
