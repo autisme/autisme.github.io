@@ -27,41 +27,41 @@ pour les personnes autistes. Nous espérons qu'un format plus concis permette un
 <ul class="horizontal center">
  <li>
    <a href="https://github.com/autisme/twitter-campaign/raw/master/asyoucan/commerces/flyer.pdf" class="big center">
-     <amp-img class="center" width="140" height="113" src="/assets/posts/2018-03-02/commerces.png" alt="Commerces & Magasins"></amp-img>
+     <amp-img class="center" width="140" height="113" src="{{ site.amp_img_cache_url }}/assets/posts/2018-03-02/commerces.png" alt="Commerces & Magasins"></amp-img>
      <span class="subtitle">Commerces & Magasins</span>
    </a>
  </li>
  <li>
    <a href="https://github.com/autisme/twitter-campaign/raw/master/asyoucan/restaurants/flyer.pdf" class="big center">
-     <amp-img class="center" width="86" height="127" src="/assets/posts/2018-03-02/restaurants.png" alt="Restaurants"></amp-img>
+     <amp-img class="center" width="86" height="127" src="{{ site.amp_img_cache_url }}/assets/posts/2018-03-02/restaurants.png" alt="Restaurants"></amp-img>
      <span class="subtitle">Restaurants</span>
    </a>
  </li>
 
  <li>
    <a href="https://github.com/autisme/twitter-campaign/raw/master/asyoucan/attractions/flyer.pdf" class="big center">
-     <amp-img class="center" width="190" height="115" src="/assets/posts/2018-03-02/attractions.png" alt="Attractions & Loisirs"></amp-img>
+     <amp-img class="center" width="190" height="115" src="{{ site.amp_img_cache_url }}/assets/posts/2018-03-02/attractions.png" alt="Attractions & Loisirs"></amp-img>
      <span class="subtitle">Attractions & Loisirs</span>
    </a>
  </li>
 
  <li>
    <a href="https://github.com/autisme/twitter-campaign/raw/master/asyoucan/cinemas/flyer.pdf" class="big center">
-     <amp-img class="center" width="159" height="107" src="/assets/posts/2018-03-02/cinemas.png" alt="Cinémas"></amp-img>
+     <amp-img class="center" width="159" height="107" src="{{ site.amp_img_cache_url }}/assets/posts/2018-03-02/cinemas.png" alt="Cinémas"></amp-img>
      <span class="subtitle">Cinémas</span>
    </a>
  </li>
 
  <li>
    <a href="https://github.com/autisme/twitter-campaign/raw/master/asyoucan/sports/flyer.pdf" class="big center">
-     <amp-img class="center" width="92" height="97" src="/assets/posts/2018-03-02/sport.png" alt="Clubs sportifs & Associations"></amp-img>
+     <amp-img class="center" width="92" height="97" src="{{ site.amp_img_cache_url }}/assets/posts/2018-03-02/sport.png" alt="Clubs sportifs & Associations"></amp-img>
      <span class="subtitle">Clubs sportifs & Associations</span>
    </a>
  </li>
 
  <li>
    <a href="https://github.com/autisme/twitter-campaign/raw/master/asyoucan/transport/flyer.pdf" class="big center">
-     <amp-img class="center" width="224" height="109" src="/assets/posts/2018-03-02/transports.png" alt="Transports en commun"></amp-img>
+     <amp-img class="center" width="224" height="109" src="{{ site.amp_img_cache_url }}/assets/posts/2018-03-02/transports.png" alt="Transports en commun"></amp-img>
      <span class="subtitle">Transports en commun</span>
    </a>
  </li>

@@ -12,12 +12,12 @@ oembed_image: /assets/posts/2018-04-08/opengraph.png
 ---
 
 
-<amp-img class="center" width="320" height="188" src="/assets/posts/2018-04-08/opengraph.png" alt="Mois de sensibilisation à l'autisme"></amp-img>
 
 
 Avril est le mois de sensibilisation à l'autisme. Comme chaque année, nous pouvons lire quelques critiques. Par exemple, la sensibilisation à l'autisme ne devrait-elle pas se dérouler tout au long de l'année&nbsp;? Ne devrait-on pas parler
 de <strong>compréhension</strong> et d'<strong>acceptation</strong> des personnes autistes plutôt qu'uniquement de <strong>sensibilisation</strong>&nbsp;? Le mot «&nbsp;autism-friendly&nbsp;» est-il juste un mot à la mode&nbsp;?
 
+<amp-img class="center" width="800" height="800" src="https://raw.githubusercontent.com/autisme/twitter-campaign/master/monday-messages/38-autism-awareness-month/img.png" alt="Mois de sensibilisation à l'autisme"></amp-img>
 
 Au-delà de ces questions, ce mois de sensibilisation à l'autisme est une occasion à ne pas manquer pour faire connaître l'autisme au grand public mais aussi pour mettre en lumière les difficultés rencontrées par les personnes concernées
 et de faire en sorte que celles-ci soient acceptées et incluses dans la société.
@@ -28,7 +28,7 @@ J'espère que cela sera l'occasion pour beaucoup de personnes de changer leur re
 Actuellement, lorsque nous parlons d'autisme, nous parlons essentiellement de problèmes de communications, qui sont certes réels, mais nous oublions totalement l'aspect sensoriel qui est tout aussi important.
 
 <a href="https://www.lesechos.fr/idees-debats/cercle/cercle-181167-mois-de-sensibilisation-a-lautisme-pour-une-societe-accessible-et-inclusive-2166656.php" class="big center">
- <amp-img class="center" width="574" height="134" src="/assets/posts/2018-04-08/card.png" alt="Mois de sensibilisation à l'autisme : pour une société accessible et inclusive"></amp-img>
+ <amp-img class="center" width="574" height="134" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-08/card.png" alt="Mois de sensibilisation à l'autisme : pour une société accessible et inclusive"></amp-img>
  <span class="subtitle">Mois de sensibilisation à l'autisme : pour une société accessible et inclusive</span>
 </a>
 
