@@ -11,7 +11,8 @@ courtesis:
 oembed_image: /assets/posts/2018-04-08/opengraph.png
 ---
 
-     <amp-img class="center" width="320" height="188" src="/assets/posts/2018-04-08/opengraph.png" alt="Mois de sensibilisation à l'autisme"></amp-img>
+
+<amp-img class="center" width="320" height="188" src="/assets/posts/2018-04-08/opengraph.png" alt="Mois de sensibilisation à l'autisme"></amp-img>
 
 
 Avril est le mois de sensibilisation à l'autisme. Comme chaque année, nous pouvons lire quelques critiques. Par exemple, la sensibilisation à l'autisme ne devrait-elle pas se dérouler tout au long de l'année&nbsp;? Ne devrait-on pas parler
@@ -26,10 +27,10 @@ Je remercie le journal Les Echos pour avoir publié la semaine dernière, ma des
 J'espère que cela sera l'occasion pour beaucoup de personnes de changer leur regard sur l'autisme mais aussi que les difficultés sensorielles de l'autisme soient mieux considérées. 
 Actuellement, lorsque nous parlons d'autisme, nous parlons essentiellement de problèmes de communications, qui sont certes réels, mais nous oublions totalement l'aspect sensoriel qui est tout aussi important.
 
-   <a href="https://www.lesechos.fr/idees-debats/cercle/cercle-181167-mois-de-sensibilisation-a-lautisme-pour-une-societe-accessible-et-inclusive-2166656.php" class="big center">
-     <amp-img class="center" width="574" height="134" src="/assets/posts/2018-04-08/card.png" alt="Mois de sensibilisation à l'autisme : pour une société accessible et inclusive"></amp-img>
-     <span class="subtitle">Mois de sensibilisation à l'autisme : pour une société accessible et inclusive</span>
-   </a>
+<a href="https://www.lesechos.fr/idees-debats/cercle/cercle-181167-mois-de-sensibilisation-a-lautisme-pour-une-societe-accessible-et-inclusive-2166656.php" class="big center">
+ <amp-img class="center" width="574" height="134" src="/assets/posts/2018-04-08/card.png" alt="Mois de sensibilisation à l'autisme : pour une société accessible et inclusive"></amp-img>
+ <span class="subtitle">Mois de sensibilisation à l'autisme : pour une société accessible et inclusive</span>
+</a>
 
 Également, lorsque l'autisme est peu connu, les mythes et les préjugés s'installent pour combler le manque de connaissances.
 Afin d'aider le plus de personnes à distinguer les mythes des faits, nous postons chaque jour sur twitter, un mythe largement répandu dans la population.
