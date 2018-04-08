@@ -22,7 +22,7 @@ J'espère que cela sera l'occasion pour beaucoup de personnes de changer leur re
 Actuellement, lorsque nous parlons d'autisme, nous parlons essentiellement de problèmes de communications, qui sont certes réels, mais nous oublions totalement l'aspect sensoriel qui est tout aussi important.
 
    <a href="https://www.lesechos.fr/idees-debats/cercle/cercle-181167-mois-de-sensibilisation-a-lautisme-pour-une-societe-accessible-et-inclusive-2166656.php" class="big center">
-     <amp-img class="center" width="86" height="127" src="/assets/posts/2018-04-08/card.png" alt="Mois de sensibilisation à l'autisme : pour une société accessible et inclusive"></amp-img>
+     <amp-img class="center" width="574" height="134" src="/assets/posts/2018-04-08/card.png" alt="Mois de sensibilisation à l'autisme : pour une société accessible et inclusive"></amp-img>
      <span class="subtitle">Mois de sensibilisation à l'autisme : pour une société accessible et inclusive</span>
    </a>
 
