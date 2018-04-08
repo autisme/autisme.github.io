@@ -16,7 +16,7 @@ Avril est le mois de sensibilisation à l'autisme. Comme chaque année, nous pou
 de <strong>compréhension</strong> et d'<strong>acceptation</strong> des personnes autistes plutôt qu'uniquement de <strong>sensibilisation</strong>&nbsp;? Le mot «&nbsp;autism-friendly&nbsp;» est-il juste un mot à la mode&nbsp;?
 
 Au-delà de ces questions, ce mois de sensibilisation à l'autisme est l'occasion pour faire connaître l'autisme au grand public mais aussi de mettre en lumière les difficultés rencontrées par les personnes concernées.
-D'essayer d'améliorer la qualité de vie des personnes concernées et de faire en sorte que celles-ci soient acceptées et inclusent dans la société.
+D'essayer d'améliorer la qualité de vie des personnes concernées et de faire en sorte que celles-ci soient acceptées et incluses dans la société.
 Je remercie le journal Les Echos pour avoir publié la semaine dernière, ma description de l'autisme ainsi que mon appel à la construction d'une société plus accessible.
 J'espère que cela sera l'occasion pour beaucoup de personnes de changer leur regard sur l'autisme mais aussi que les difficultés sensorielles de l'autisme soient mieux considérées. 
 Actuellement, lorsque nous parlons d'autisme, nous parlons essentiellement de problèmes de communications, qui sont certes réels, mais nous oublions totalement l'aspect sensoriel qui est tout aussi important.
