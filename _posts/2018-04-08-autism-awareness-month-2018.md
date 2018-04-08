@@ -11,6 +11,8 @@ courtesis:
 oembed_image: /assets/posts/2018-04-08/opengraph.png
 ---
 
+     <amp-img class="center" width="320" height="188" src="/assets/posts/2018-04-08/opengraph.png" alt="Mois de sensibilisation à l'autisme"></amp-img>
+
 
 Avril est le mois de sensibilisation à l'autisme. Comme chaque année, nous pouvons lire quelques critiques. Par exemple, la sensibilisation à l'autisme ne devrait-elle pas se dérouler tout au long de l'année&nbsp;? Ne devrait-on pas parler
 de <strong>compréhension</strong> et d'<strong>acceptation</strong> des personnes autistes plutôt qu'uniquement de <strong>sensibilisation</strong>&nbsp;? Le mot «&nbsp;autism-friendly&nbsp;» est-il juste un mot à la mode&nbsp;?
