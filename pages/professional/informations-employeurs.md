@@ -26,7 +26,7 @@ L'autisme est un handicap invisible. Cela signifie que vous ne pourrez pas toujo
 Cependant il existe des caractéristiques assez courantes qui peuvent vous suggérer que le candidat ou l'employé est affecté.
 
 Ci-dessous, une liste de choses que les personnes autistes trouvent difficiles pour obtenir et garder un emploi.
-Nous vous donnons des conseils pour limiter ces difficultés, ce qui est à la fois bon pour la personne concernée mais aussi pour votre business.
+Nous vous donnons des conseils pour limiter ces difficultés, ce qui est à la fois bon pour la personne concernée mais aussi pour votre activité.
 
 ### Entretien d'embauche
 
