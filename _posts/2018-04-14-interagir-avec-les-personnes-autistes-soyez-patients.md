@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interagir avec les personnes autistes : soyez patients
-date:   2018-04-14 10:00:00 +0200
+date: 2018-04-14 10:00:00 +0200
 categories:
   - Conseils
   - Ressources
@@ -13,7 +13,6 @@ oembed_image: /assets/posts/2018-04-14/opengraph.png
 ---
 
 Ce post est une traduction d'un article récemment publié par *AsIAm Ireland*.
-
 
 <amp-img class="center" width="320" height="188" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-14/opengraph.png" alt="Soyez patients"></amp-img>
 
