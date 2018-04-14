@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interagir avec les personnes autistes : soyez patients"
+title: "Pour interagir avec les personnes autistes : soyez patients"
 date: 2018-04-14 10:00:00 +0200
 categories:
   - Conseils
