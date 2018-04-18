@@ -15,7 +15,22 @@ Dans cette section, vous pouvez accéder aux ressources que nous avons développ
 
 # Ressources
 
-  - [Transition vers l'université](/je-suis-un-professionnel/transition-universite)
-  - [Informations pour les employeurs](/je-suis-un-professionnel/informations-employeurs)
-  - [Pour interagir avec les personnes autistes : soyez patients](/pour-interagir-avec-les-personnes-autistes-soyez-patients)
-  - [Rédigez des scénarios sociaux](/redigez-des-scenarios-sociaux)
+<ul class="thumb">
+ <li><a href="/je-suis-un-professionnel/transition-universite"><span>Transition vers l'université</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/undefined_.png"></amp-img>
+ </a></li>
+ <li><a href="/je-suis-un-professionnel/informations-employeurs"><span>Informations pour les employeurs</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2017-08-13/ID-100305240.jpg"></amp-img>
+ </a></li>
+ <li><a href="/pour-interagir-avec-les-personnes-autistes-soyez-patients"><span>Pour interagir avec les personnes autistes : soyez patients</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-14/opengraph.png"></amp-img>
+ </a></li>
+ <li><a href="/redigez-des-scenarios-sociaux"><span>Rédigez des scénarios sociaux</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-18/opengraph.png"></amp-img>
+ </a></li>
+ <li><a href="/communiquez-de-facon-claire"><span>Communiquez de façon claire</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-19/opengraph_.png"></amp-img>
+ </a></li>
+</ul>
+
+
