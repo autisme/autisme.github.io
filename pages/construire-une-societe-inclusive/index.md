@@ -7,7 +7,7 @@ courtesis:
   image:
     bank: freedigitalphotos
     author: digitalart
-oembed_image: /assets/pages/construire-une-societe-inclusive/opengraph.png
+oembed_image: /assets/posts/2017-06-10/ID-100259934.jpg
 ---
 
 «&nbsp;Que puis-je faire pour aider&nbsp;?&nbsp;» c'est une question que beaucoup de gens se posent, que ce soit des personnes qui viennent d'être sensibilisés à l'autisme et qui veulent 
