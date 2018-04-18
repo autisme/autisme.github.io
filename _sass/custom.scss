@@ -134,11 +134,39 @@ ul.horizontal > li {
  font-size: 1.5em;
 }
 
+/* List */
+ul.thumb > li {
+ flex: 0 0 320px;
+ display: block;
+ border: 3px solid #cccccc; 
+ text-align: center;
+ padding: 0;
+ margin: 0 15px 30px 15px;
+}
+ul.thumb > li > a {
+ display: flex;
+ flex-direction: column;
+ justify-content: space-between;
+ height: 100%;
+ background-color: #fff;
+ color: #2a7ae2;
+ font-weight: bold;
+}
+ul.thumb > li > a > amp-img, ul.thumb > li > a > span {
+ flex: 0 0 auto;
+ display: block;
+}
+ul.thumb > li > a > span {
+}
+ul.thumb > li > a > amp-img {
+ border-top: 3px solid #cccccc;  
+}
+
 /* "I am" list */
 #iam {
  margin: 60px auto 50px auto;
 }
-#iamlist, #iamlist > li > ul, #involvedlist {
+#iamlist, #iamlist > li > ul, #involvedlist, ul.thumb {
  display: flex;
  list-style-type: none;
  flex-wrap: wrap;

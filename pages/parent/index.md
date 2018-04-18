@@ -15,9 +15,25 @@ soutien nécessaire pour que la personne puisse développer son potentiel, vivre
 
 # Ressources
 
- - [Que faire après le diagnostic ?](/je-suis-un-parent-membre-de-l-entourage/apres-le-diagnostic)
- - [L'autisme, une étiquette](/je-suis-un-parent-membre-de-l-entourage/l-autisme-une-etiquette)
- - [Soutien des frères et sœurs](/je-suis-un-parent-membre-de-l-entourage/soutien-des-freres-et-soeurs)
- - [Prendre soin de soi](/je-suis-un-parent-membre-de-l-entourage/prendre-soin-de-soi)
- - [Grands parents](/je-suis-un-parent-membre-de-l-entourage/grands-parents)
- - [Quels professionnels pour obtenir de l'aide ?](/je-suis-un-parent-membre-de-l-entourage/quels-professionnels-pour-obtenir-de-laide)
+<ul class="thumb">
+ <li><a href="/je-suis-un-parent-membre-de-l-entourage/apres-le-diagnostic"><span>Que faire après le diagnostic&nbsp;?</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/undefined.png"></amp-img>
+ </a></li>
+ <li><a href="/je-suis-un-parent-membre-de-l-entourage/l-autisme-une-etiquette"><span>L'autisme, une étiquette</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/undefined.png"></amp-img>
+ </a></li>
+ <li><a href="/je-suis-un-parent-membre-de-l-entourage/soutien-des-freres-et-soeurs"><span>Soutien des frères et sœurs</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/parent/soutien-des-freres-et-soeur/ID-10063250.jpg"></amp-img>
+ </a></li>
+ <li><a href="/je-suis-un-parent-membre-de-l-entourage/prendre-soin-de-soi"><span>Prendre soin de soi</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/parent/prendre-soin-de-soi/ID-10028215.jpg"></amp-img>
+ </a></li>
+ <li><a href="/je-suis-un-parent-membre-de-l-entourage/grands-parents"><span>Grands parents</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/parent/grands-parents/ID-10033342.jpg"></amp-img>
+ </a></li>
+ <li><a href="/je-suis-un-parent-membre-de-l-entourage/quels-professionnels-pour-obtenir-de-laide"><span>Quels professionnels pour obtenir de l'aide&nbsp;?</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/undefined.png"></amp-img>
+ </a></li>
+</ul>
+
+
