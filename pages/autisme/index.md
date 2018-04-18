@@ -29,7 +29,7 @@ Dans les sections ci-dessous, nous introduisons le handicap et ses caractéristi
   <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/autisme/handicaps-associes/ID-100185923.jpg"></amp-img>
  </a></li>
  <li><a href="/construire-une-societe-inclusive/"><span>Ce que VOUS pouvez faire pour construire une société inclusive&nbsp;?</span>
-  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/opengraph.png"></amp-img>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2017-06-10/ID-100259934.jpg"></amp-img>
  </a></li>
  <li><a href="/mettez-vous-a-la-place-d-une-personne-autiste"><span>Mettez-vous à la place d'une personne autiste</span>
   <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2017-10-02/opengraph.png"></amp-img>
