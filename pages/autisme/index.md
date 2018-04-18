@@ -14,10 +14,29 @@ Dans les sections ci-dessous, nous introduisons le handicap et ses caractéristi
 
 # Ressources
 
-  - [Syndrome d'Asperger](/autisme/syndrome-asperger)
-  - [Mythes et préjugés](/mythes-et-prejuges)
-  - [Principaux symptômes](/autisme/principaux-symptomes)
-  - [Handicaps associés](/autisme/handicaps-associes)
-  - [Ce que VOUS pouvez faire pour construire une société inclusive ?](/construire-une-societe-inclusive/)
-  - [Mettez-vous à la place d'une personne autiste](/mettez-vous-a-la-place-d-une-personne-autiste)
-  - [Associations de soutien](/autisme/associations)
+
+<ul class="thumb">
+ <li><a href="/autisme/syndrome-asperger"><span>Syndrome d'Asperger</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/autisme/syndrome-asperger/ID-100383835.jpg"></amp-img>
+ </a></li>
+ <li><a href="/mythes-et-prejuges"><span>Mythes et préjugés</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2017-06-15/opengraph.png"></amp-img>
+ </a></li>
+ <li><a href="/autisme/principaux-symptomes"><span>Principaux symptômes</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/undefined_.png"></amp-img>
+ </a></li>
+ <li><a href="/autisme/handicaps-associes"><span>Handicaps associés</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/autisme/handicaps-associes/ID-100185923.jpg"></amp-img>
+ </a></li>
+ <li><a href="/construire-une-societe-inclusive/"><span>Ce que VOUS pouvez faire pour construire une société inclusive&nbsp;?</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/opengraph.png"></amp-img>
+ </a></li>
+ <li><a href="/mettez-vous-a-la-place-d-une-personne-autiste"><span>Mettez-vous à la place d'une personne autiste</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2017-10-02/opengraph.png"></amp-img>
+ </a></li>
+ <li><a href="/autisme/associations"><span>Associations de soutien</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/autisme/associations/ID-10069294.jpg"></amp-img>
+ </a></li>
+</ul>
+
+
