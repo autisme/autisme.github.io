@@ -30,13 +30,37 @@ Souvenez-vous que «&nbsp;la connaissance c'est le pouvoir&nbsp;» et que vous p
 
 # Ressources
 
- - [Dois-je annoncer mon autisme](/je-suis-une-personne-autiste/dois-je-annoncer-mon-autisme)
- - [Stress et anxiété](/je-suis-une-personne-autiste/stress-et-anxiete)
- - [Vie sociale](/je-suis-une-personne-autiste/vie-sociale)
+<ul class="thumb">
+ <li><a href="/je-suis-une-personne-autiste/dois-je-annoncer-mon-autisme"><span>Dois-je annoncer mon autisme&nbsp;?</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/undefined_.png"></amp-img>
+ </a></li>
+ <li><a href="/je-suis-une-personne-autiste/stress-et-anxiete"><span>Stress et anxiété</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/undefined_.png"></amp-img>
+ </a></li>
+ <li><a href="/je-suis-une-personne-autiste/vie-sociale"><span>Vie sociale</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/personal/vie-sociale/ID-100456462.jpg"></amp-img>
+ </a></li>
+</ul>
+
+
 
 ### À l'école
- - [Examens](/je-suis-une-personne-autiste/examens)
+
+<ul class="thumb">
+ <li><a href="/je-suis-une-personne-autiste/examens"><span>Examens</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/personal/examens/ID-10035633.jpg"></amp-img>
+ </a></li>
+</ul>
 
 ### Au travail
- - [Environnement de travail](/je-suis-une-personne-autiste/environnement-de-travail)
- - [Problèmes souvent rencontrés au travail](/je-suis-une-personne-autiste/problemes-au-travail)
+
+<ul class="thumb">
+ <li><a href="/je-suis-une-personne-autiste/environnement-de-travail"><span>Environnement de travail</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/personal/environnement-de-travail/ID-100394985.jpg"></amp-img>
+ </a></li>
+ <li><a href="/je-suis-une-personne-autiste/problemes-au-travail"><span>Problèmes souvent rencontrés au travail</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/personal/problemes-au-travail/shutterstock_400477627_1.jpg"></amp-img>
+ </a></li>
+</ul>
+
+
