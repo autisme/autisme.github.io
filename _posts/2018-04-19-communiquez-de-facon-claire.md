@@ -9,10 +9,10 @@ author: Caroline
 courtesis:
   image:
     bank: freepik
-oembed_image: /assets/posts/2018-04-19/opengraph.png
+oembed_image: /assets/posts/2018-04-19/opengraph_.png
 ---
 
-<amp-img class="center" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-19/opengraph.png" alt="Communiquez de façon claire"></amp-img>
+<amp-img class="center" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-19/opengraph_.png" alt="Communiquez de façon claire"></amp-img>
 
 
 

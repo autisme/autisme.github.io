@@ -17,10 +17,10 @@ soutien nécessaire pour que la personne puisse développer son potentiel, vivre
 
 <ul class="thumb">
  <li><a href="/je-suis-un-parent-membre-de-l-entourage/apres-le-diagnostic"><span>Que faire après le diagnostic&nbsp;?</span>
-  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/undefined.png"></amp-img>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/undefined_.png"></amp-img>
  </a></li>
  <li><a href="/je-suis-un-parent-membre-de-l-entourage/l-autisme-une-etiquette"><span>L'autisme, une étiquette</span>
-  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/undefined.png"></amp-img>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/undefined_.png"></amp-img>
  </a></li>
  <li><a href="/je-suis-un-parent-membre-de-l-entourage/soutien-des-freres-et-soeurs"><span>Soutien des frères et sœurs</span>
   <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/parent/soutien-des-freres-et-soeur/ID-10063250.jpg"></amp-img>
@@ -32,7 +32,7 @@ soutien nécessaire pour que la personne puisse développer son potentiel, vivre
   <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/parent/grands-parents/ID-10033342.jpg"></amp-img>
  </a></li>
  <li><a href="/je-suis-un-parent-membre-de-l-entourage/quels-professionnels-pour-obtenir-de-laide"><span>Quels professionnels pour obtenir de l'aide&nbsp;?</span>
-  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/undefined.png"></amp-img>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/undefined_.png"></amp-img>
  </a></li>
 </ul>
 
