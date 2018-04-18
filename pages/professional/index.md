@@ -20,7 +20,7 @@ Dans cette section, vous pouvez accéder aux ressources que nous avons développ
   <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/undefined_.png"></amp-img>
  </a></li>
  <li><a href="/je-suis-un-professionnel/informations-employeurs"><span>Informations pour les employeurs</span>
-  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2017-08-13/ID-100305240.jpg"></amp-img>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/professional/informations-employeurs/opengraph.png"></amp-img>
  </a></li>
  <li><a href="/pour-interagir-avec-les-personnes-autistes-soyez-patients"><span>Pour interagir avec les personnes autistes : soyez patients</span>
   <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-14/opengraph.png"></amp-img>
