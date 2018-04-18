@@ -17,3 +17,5 @@ Dans cette section, vous pouvez accéder aux ressources que nous avons développ
 
   - [Transition vers l'université](/je-suis-un-professionnel/transition-universite)
   - [Informations pour les employeurs](/je-suis-un-professionnel/informations-employeurs)
+  - [Pour interagir avec les personnes autistes : soyez patients](/pour-interagir-avec-les-personnes-autistes-soyez-patients)
+  - [Rédigez des scénarios sociaux](/redigez-des-scenarios-sociaux)
