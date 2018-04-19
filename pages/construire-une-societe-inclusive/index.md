@@ -28,7 +28,7 @@ Ci-dessous, une liste de choses que **vous** pouvez faire.
 <amp-img class="center" width="400" height="266" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/ID-10045222.jpg" class="center" alt="ID-10045222"></amp-img>
 
 
-## Ce que vous pouvez faire en tant que personne
+# Ce que vous pouvez faire en tant que personne
 
 ### 1. Soyez clair, facile à comprendre et patient
 Beaucoup de personnes autistes trouvent la communication difficile. Cela peut prendre différentes formes. Certaines personnes sont non verbales tandis que d’autres peuvent avoir du mal à organiser leurs idées et avoir besoin de temps pour cela. Il peut être difficile pour ces personnes de savoir et comprendre ce qu’elles ressentent.
@@ -96,7 +96,11 @@ Les personnes autistes représentent 1&nbsp;% de la population et nous avons bes
 ### 10. N’hésitez pas à demander
 Beaucoup de problèmes que les personnes autistes rencontrent dans la société vient du fait que les gens n’osent pas demander. Ils n’osent pas demander ce qu’ils doivent faire, comment agir dans telle situation. N’oubliez pas que demander c’est aussi apprendre.
 
-## Ce que vous pouvez faire en tant qu'entreprise / organisation
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+# Ce que vous pouvez faire en tant qu'entreprise / organisation
 
 Avec 1 personne sur 100 affectée par l'autisme, il est vital que tout le monde comprenne de quoi il s'agit. 
 Des magasins aux services de santé, aux clubs sportifs et d'activités, tous les lieux publics se doivent d'être accessibles pour les personnes autistes.
