@@ -26,7 +26,6 @@ Quand ils sont utilisés correctement, les espaces sensoriels&nbsp;:
 Nous pensons souvent que créer un tel espace coûte cher ou que celui-ci doit être grand pour être efficace. Cela n’est pas vrai. Une salle de relaxation est un lieu sûr que les personnes autistes peuvent utiliser pour se calmer. Cela peut être une pièce dédiée ou bien le coin d’une pièce.
 Il est possible de trouver un endroit dans la plupart des classes et des lieux de travail si nous le voulons.
 
- 
 
 Les espaces sensoriels peuvent facilement être mis en place lorsque nous avons les bons outils et connaissons les besoins des utilisateurs. Mettre en place un tel lieu dans votre école ou lieu de travail montre une réelle volonté d’inclure les personnes autistes. Lorsque nous mettons en place un endroit sensoriel, il est important d’être particulièrement attentif aux éléments suivants&nbsp;:
 
@@ -36,7 +35,6 @@ Au lieu d’installer des balançoires, vous pouvez mettre à disposition des ba
 
 
 # Éclairage
-
 
 Vous n’avez pas besoin d’équipements de haute technologie. Vous pouvez simplement ajouter une lumière relaxante en utilisant des lumières des guirlandes, des bougies à piles, des bâtons lumineux ou des lampes à lave. L’éclairage est quelque chose de très puissant. Il influence de façon subtile notre humeur. Par exemple, les lampes fluorescentes qui émettent une couleur froide peuvent nous mettre mal à l’aise. Un éclairage chaud et doux peut nous détendre. N’ayez pas peur de créer une ambiance relaxante et confortable.
 
