@@ -40,7 +40,7 @@ Ces difficultés de communication sont sources de beaucoup d’anxiété dans la
 
 # Utiliser un français correct
 Par Français correct, nous entendons une information présentée de façon à aider les personnes à la comprendre. Utilisez des phrases courtes et claires et du vocabulaire de tous les jours. Enlevez le jargon et les astérisques associées à des lignes en petits caractères qui sont encore trop souvent utilisées.
-Cette façon de procéder permet de simplifier le traitement de l’information par les personnes autistes. Ci-dessous, quelques exemples :
+Cette façon de procéder permet de simplifier le traitement de l’information par les personnes autistes. Ci-dessous, quelques exemples&nbsp;:
 
  - **Pensez à la personne qui va lire votre document** et utilisez les mots « je », « vous » et « nous » où vous le pouvez.
  - **Soyez constants dans l’utilisation de vos mots**. Pour éviter de rendre le lecteur confus, utilisez toujours le même mot pour désigner le même concept ou la me chose. Par exemple, si vous appelez quelque chose un « rapport », ne l’appelez pas « mémoire » quelques lignes plus loin.
