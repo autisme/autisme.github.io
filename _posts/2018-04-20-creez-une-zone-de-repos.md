@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Créez une zone de repos"
+title: "Créez une zone de détente"
 date: 2018-04-19 10:00:00 +0200
 categories:
   - Conseils
