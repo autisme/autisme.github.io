@@ -31,7 +31,10 @@ Dans cette section, vous pouvez accéder aux ressources que nous avons développ
  <li><a href="/communiquez-de-facon-claire"><span>Communiquez de façon claire</span>
   <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-19/opengraph_.png"></amp-img>
  </a></li>
- <li><a href="/creez-une-zone-de-repos"><span>Créez une zone de repos</span>
+ <li><a href="/creez-une-zone-de-detente"><span>Créez une zone de détente</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-20/opengraph.jpg"></amp-img>
+ </a></li>
+ <li><a href="/faites-passer-entretiens-dembauche-autism-friendly"><span>Faites passer des entretiens d'embauche «&nbsp;autism-friendly&nbsp;»</span>
   <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-20/opengraph.jpg"></amp-img>
  </a></li>
 </ul>

@@ -14,6 +14,7 @@ oembed_image: /assets/posts/2018-04-20/opengraph.jpg
 
 <amp-img class="center" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-20/opengraph.jpg" alt="Créez une zone de repos"></amp-img>
 
+<div class="small"><a href="https://asiam.ie/7629-2">Ce post est une traduction d’un article récemment publié par <strong>AsIAm Ireland</strong></a>.</div>
 
 
 Les salles de relaxation ou de repos sont des endroits où les personnes autistes peuvent se défouler ou se réfugier lorsqu’elles se sentent trop stimulées. Cet espace est désigné pour aider à la communication, à la coordination, à l’organisation et à la gestion sensorielle. Les enfants autistes utilisent souvent ces aménagements à l’école, mais ces aménagements peuvent aussi être destinés aux adultes.

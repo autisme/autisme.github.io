@@ -14,8 +14,7 @@ oembed_image: /assets/posts/2018-04-18/opengraph.png
 
 <amp-img class="center" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-18/opengraph.png" alt="Rédigez des scénarios sociaux"></amp-img>
 
-Ce post est une traduction d’un article récemment publié par *AsIAm Ireland*.
-
+<div class="small"><a href="https://asiam.ie/create-social-story-business-organisation">Ce post est une traduction d’un article récemment publié par <strong>AsIAm Ireland</strong></a>.</div>
 
 Une «&nbsp;social story&nbsp;» ou un scénario social est un guide qui décrit pas à pas une situation sociale particulière qui peut
 générer du stress ou de l’inconfort pour les personnes autistes.

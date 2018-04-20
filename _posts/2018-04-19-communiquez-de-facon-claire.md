@@ -14,7 +14,7 @@ oembed_image: /assets/posts/2018-04-19/opengraph_.png
 
 <amp-img class="center" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-19/opengraph_.png" alt="Communiquez de façon claire"></amp-img>
 
-
+<div class="small"><a href="https://asiam.ie/day-13-making-written-communication-clear">Ce post est une traduction d’un article récemment publié par <strong>AsIAm Ireland</strong></a>.</div>
 
 Nous pensons souvent que les difficultés de communication et de langage avec les personnes autistes se résolvent avec l’âge. Cela est vrai dans une certaine mesure puisque les personnes peuvent apprendre certains codes sociaux qui leur permettent d’avoir des amis et de construire des liens avec celles et ceux autour d’eux. Toutefois, les difficultés de compréhension du langage ne s’arrêtent pas là. Les personnes autistes traitent les informations différemment. Le sarcasme, les tons de la voix peuvent être difficiles à évaluer et à interpréter. 
 Certains peuvent avoir plus de facilités que d’autres mais les difficultés de traitement sensoriel et de prise en compte du contexte peuvent compliquer les interaction et générer beaucoup de stress.
