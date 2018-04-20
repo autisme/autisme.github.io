@@ -9,10 +9,10 @@ author: Bastien
 courtesis:
   image:
     bank: freepik
-oembed_image: /assets/posts/2018-04-21/opengraph.jpg
+oembed_image: /assets/posts/2018-04-21/opengraph.png
 ---
 
-<amp-img class="center" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-21/opengraph.jpg" alt="Faites passer des entretiens d'embauche « autism-friendly »"></amp-img>
+<amp-img class="center" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-21/opengraph.png" alt="Faites passer des entretiens d'embauche « autism-friendly »"></amp-img>
 
 <div class="small"><a href="https://asiam.ie/conducting-autism-friendly-interviews">Ce post est une traduction d’un article récemment publié par <strong>AsIAm Ireland</strong></a>.</div>
 

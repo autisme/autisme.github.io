@@ -35,7 +35,7 @@ Dans cette section, vous pouvez accéder aux ressources que nous avons développ
   <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-20/opengraph.jpg"></amp-img>
  </a></li>
  <li><a href="/faites-passer-entretiens-dembauche-autism-friendly"><span>Faites passer des entretiens d'embauche «&nbsp;autism-friendly&nbsp;»</span>
-  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-21/opengraph.jpg"></amp-img>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-21/opengraph.png"></amp-img>
  </a></li>
 </ul>
 
