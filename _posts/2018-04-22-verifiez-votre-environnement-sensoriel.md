@@ -33,7 +33,7 @@ posées par l’environnement ou de comprendre quels changements sont nécessair
 petits changements peuvent non seulement rendre l’environnement accessible pour les 
 personnes autistes mais aussi plus agréable pour tout le monde.
 Nous avons compilé dans un court document une liste de choses à vérifier pour rendre 
-votre maison, votre entreprise ou votre lieu public plus inclusif !
+votre maison, votre entreprise ou votre lieu public plus inclusif&nbsp;!
 
 Chaque personne autiste a des besoins sensoriels qui lui sont propres mais nous 
 espérons que cela vous aidera à créer un environnement dans lequel les personnes pourront 
