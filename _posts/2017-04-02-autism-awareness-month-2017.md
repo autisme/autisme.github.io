@@ -97,7 +97,7 @@ Cela ne signifie pas qu'elle ne voudra jamais socialiser.
 ## 3. Soyez sensible
 
 Les personnes avec autisme traitent l'environnement différemment.
-Certaines personnes avec autisme sont hyposensibles et ont besoin d'importants stimulis.
+Certaines personnes avec autisme sont hyposensibles et ont besoin d'importants stimuli.
 D'autres sont très sensibles et l'environnement peut les submerger.
 
 Pensez au bruit de la craie sur le tableau mais que seulement vous pouvez entendre.

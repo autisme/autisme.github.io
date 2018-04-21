@@ -53,7 +53,7 @@ Cela ne signifie pas qu’elle ne voudra jamais socialiser.
 
 ### 3. Soyez sensible
 Les personnes autistes traitent l’environnement différemment.
-Certaines personnes autistes sont hyposensibles et ont besoin d’importants stimulis. D’autres sont très sensibles et l’environnement peut les submerger.
+Certaines personnes autistes sont hyposensibles et ont besoin d’importants stimuli. D’autres sont très sensibles et l’environnement peut les submerger.
 
 Pensez au bruit de la craie sur le tableau mais imaginez que vous êtes la seule personne à l'entendre et que vous y êtes confronté au quotidien.
 Ce n’est pas seulement un bruit que vous n’aimez pas, c’est un bruit que vous ne supportez pas.
