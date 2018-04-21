@@ -44,7 +44,7 @@ avance afin que vos visiteurs puissent préparer leur venue.
  <li>
    <a href="https://github.com/autisme/twitter-campaign/raw/master/sensory-checklist/checklist.pdf" class="big center">
      <amp-img class="center" width="150" height="212" src="https://github.com/autisme/twitter-campaign/raw/master/sensory-checklist/checklist.png" alt="Sensory Checklist"></amp-img>
-     <span class="subtitle">Liste de vérifictions</span>
+     <span class="subtitle">Liste de vérifications</span>
      <span>pour un environnement sensoriel de qualité</span>
    </a>
  </li>
