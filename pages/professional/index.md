@@ -40,6 +40,9 @@ Dans cette section, vous pouvez accéder aux ressources que nous avons développ
  <li><a href="/verifiez-votre-environnement-sensoriel"><span>Un outil pour vérifier votre environnement sensoriel</span>
   <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-22/opengraph.png"></amp-img>
  </a></li>
+ <li><a href="/nayez-pas-peur-de-poser-des-questions"><span>N'ayez pas peur de poser des questions</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-23/opengraph.png"></amp-img>
+ </a></li>
 </ul>
 
 

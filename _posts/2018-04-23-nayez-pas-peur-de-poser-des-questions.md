@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "N'ayez pas peur de poser des questions lorsque vous ne savez pas commment inclure les personnes autistes"
+title: "N'ayez pas peur de poser des questions"
 date: 2018-04-23 10:00:00 +0200
 categories:
   - Conseils
