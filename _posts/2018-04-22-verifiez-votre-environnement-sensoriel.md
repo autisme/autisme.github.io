@@ -16,6 +16,8 @@ oembed_image: /assets/posts/2018-04-22/opengraph.png
 
 <div class="small"><a href="https://asiam.ie/check-sensory-checklist-tool">Ce post est une traduction d’un article récemment publié par <strong>AsIAm Ireland</strong></a>.</div>
 
+Aujourd’hui nous incitons les responsables de lieux publics, d’entreprises ou d’écoles, 
+à réaliser un audit sensoriel de leur environnement.
 
 Les personnes autistes peuvent traiter l’environnement d’une façon différente des 
 personnes non autistes - certaines personnes peuvent subir des surcharges sensorielles 
