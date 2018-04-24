@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mettre en place un environnement « autism friendly »"
+title: "Mettez en place un environnement « autism friendly »"
 date: 2018-04-25 10:00:00 +0200
 categories:
   - Conseils
@@ -9,7 +9,7 @@ author: Bastien
 courtesis:
   image:
     bank: freepik
-oembed_image: /assets/posts/2018-04-23/opengraph.png
+oembed_image: /assets/posts/2018-04-25/opengraph.png
 ---
 
 <amp-img class="center" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-25/opengraph.png" alt="Mettre en place un environnement « autism friendly »"></amp-img>
