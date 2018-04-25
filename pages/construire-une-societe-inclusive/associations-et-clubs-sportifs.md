@@ -185,7 +185,7 @@ Cela permet aux personnes de se préparer avant leur première visite.
 #### Sensibiliser au sein de l'association
 
 La non compréhension du handicap fait partie des problèmes auxquels les personnes autistes font face.
-Faites une campagne de sensibilisation au sein de l'association et ayez une tolérance zéro contre le harcèlement ou l'isolation.
+Faites une campagne de sensibilisation au sein de l'association et ayez une tolérance zéro contre le harcèlement ou l'isolement.
 
 #### Former
 

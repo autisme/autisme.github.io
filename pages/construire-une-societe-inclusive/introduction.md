@@ -134,7 +134,7 @@ De plus les personnes autistes peuvent ne pas comprendre les attentes sociales c
 Ces défis peuvent être une barrière à la socialisation.
 Il peut être difficile pour les personnes autistes de se faire des amis et d'échanger avec les étudiants ou les collègues de travail.
 Comme l'autisme est un handicap «&nbsp;invisible&nbsp;», les personnes sont vues comme étranges, bizarres.
-Le harcèlement, l'isolation et l'exclusion sont les conséquences de cela.
+Le harcèlement, l'isolement et l'exclusion sont les conséquences de cela.
 
 <amp-img class="center" width="400" height="266" src="{{ site.amp_img_cache_url }}/assets/pages/construire-une-societe-inclusive/introduction/ID-10025772.jpg" alt="ID-10025772"></amp-img>
 
