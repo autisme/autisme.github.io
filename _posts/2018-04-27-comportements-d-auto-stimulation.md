@@ -16,7 +16,7 @@ oembed_image: /assets/posts/2018-04-27/opengraph.png
 
 <div class="small"><a href="https://asiam.ie/stimming">Ce post est une traduction d’un article récemment publié par <strong>AsIAm Ireland</strong></a>.</div>
 
-L’auto-stimulation ou stimming en anglais sont des actions répétitives que font les personnes autistes lorsqu’elles sont contentes, anxieuses ou stimulées.
+L’auto-stimulation ou stimming en anglais sont des actions répétitives que font les personnes autistes lorsqu’elles sont contentes, anxieuses ou stressées.
 
 Bien que tout le monde fasse de l’auto-stimulation à certains niveaux, en craquant leurs doigts, tapant leurs pieds ou juste en sifflotant, les personnes autistes font souvent des actions moins discrètes. Battre des mains, se balancer ou répéter certains mots permettent de réguler leur traitement sensoriel.
 
