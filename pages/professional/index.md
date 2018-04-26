@@ -43,8 +43,11 @@ Dans cette section, vous pouvez accéder aux ressources que nous avons développ
  <li><a href="/nayez-pas-peur-de-poser-des-questions"><span>N'ayez pas peur de poser des questions</span>
   <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-23/opengraph.png"></amp-img>
  </a></li>
- <li><a href="/creez-un-environnement-autism-friendly"><span>Mettez en place un environnement « autism friendly »</span>
+ <li><a href="/creez-un-environnement-autism-friendly"><span>Mettez en place un environnement «&nbsp;autism friendly&nbsp;»</span>
   <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-25/opengraph.png"></amp-img>
+ </a></li>
+ <li><a href="/comportements-d-auto-stimulation"><span>Les comportements d'auto-stimulation</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-27/opengraph.png"></amp-img>
  </a></li>
 </ul>
 
