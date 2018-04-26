@@ -12,7 +12,7 @@ courtesis:
 oembed_image: /assets/posts/2018-04-28/opengraph.png
 ---
 
-<amp-img class="center" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-28/opengraph.png" alt="5 leçons sur l’autisme pour les écoles non seulement pour les élèves mais aussi pour les enseignants"></amp-img>
+<amp-img class="center" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-28/opengraph.png" alt="5 leçons sur l’autisme non seulement pour les élèves mais aussi pour les enseignants"></amp-img>
 
 <div class="small"><a href="https://www.changex.org/blog/5-lessons-for-schools-about-autism-that-not-only-educators-should-learn/">Ce post est une traduction d’un article publié par <strong>Changex</strong></a>.</div>
 
