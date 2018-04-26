@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5 leçons sur l’autisme pour les écoles non seulement pour les élèves mais aussi pour les enseignants"
+title: "5 leçons sur l’autisme non seulement pour les élèves mais aussi pour les enseignants"
 date: 2018-04-28 10:00:00 +0200
 categories:
   - Conseils
