@@ -14,7 +14,6 @@ courtesis:
 oembed_image: /assets/posts/2018-05-08/opengraph.png
 ---
 
-<amp-img class="center" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-05-08/opengraph.png" alt="opengraph"></amp-img>
 
 
 Lorsqu'une personne autiste est scolarisée dans une nouvelle école, s'inscrit dans une nouvelle activité ou tout simplement, essaie d'apprendre à être autonome, le «&nbsp;buddy system&nbsp;» ou 
@@ -24,6 +23,7 @@ Cela consiste à faire accompagner la personne autiste par d'autres élèves de 
 pour la personne autiste, cela lui permet d'avoir des personnes qui lui servent de repère, qui veillent sur elle et qui peuvent l'aider en cas de difficultés.
 Pour les autres personnes, cela leur permet de développer leur sens des responsabilités mais permet également découvrir ce qu'est l'autisme.
 
+<amp-img class="center" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-05-08/opengraph.png" alt="opengraph"></amp-img>
 
 Personnellement, j'ai expérimenté le «&nbsp;buddy system&nbsp;» dès mon entrée au collège et ce, jusqu'à la fin de mes études. Il y a toujours eu dans ma classe une ou deux personnes
 qui se sont dévouées pour m'aider. Généralement, des personnes plus matures que les autres.
@@ -79,7 +79,6 @@ Cela me donnait l'impression d'être considéré comme un bébé.
 comme mentionné ci-dessus)
  - Garder des repères lors des changements de classe
  - Avoir des opportunités pour aller vers les autres et se faire des amis
- - 
 
 ### Bénéfices pour les personnes de la classe&nbsp;:
 
