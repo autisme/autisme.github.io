@@ -50,12 +50,12 @@ Cela a brisé les quelques amitiés qui commençaient à se développer.
 Avec le recul, je pense que les enseignants ne se sont pas assez impliqués et auraient dû vérifier plus attentivement «&nbsp;l'état&nbsp;» du binôme.
 
 Enfin, un dernier point que je voudrais aborder est que ce système peut parfois impliquer toute la classe.
-Lors de mon année de seconde, les enseignant avaient établi une liste de personne pour m'accompagner le midi à la cantine.
+Lors de mon année de seconde, les enseignant avaient établi une liste de personnes pour m'accompagner le midi à la cantine.
 Chaque midi, une personne différente de la classe s'occupait de m'emmener à la cantine et de manger avec moi.
 Cela m'a permis de pouvoir échanger et d'apprendre à connaître toutes les personnes de la classe et non seulement un petit groupe de personnes.
 Cela m'a également permis à tolérer certains changements en ne reposant pas tout le temps sur les mêmes personnes.
 Pour les élèves de la classe, certaines personnes se sont portées volontaires simplement pour ne pas avoir à faire la queue à la cantine. Pourtant, après quelques minutes
-elles se sont rendues compte ce que cela impliquait. Cela leur a permis de se responsabiliser et d'apprendre à
+elles se sont rendues compte de ce que cela impliquait.
 Cela est peut-être, de mon point de vue, la meilleure expérience que j'ai vécue jusqu'à présent.
 
 Pour terminer, voici quelques conseils lors de la mise en place d'un système de binômes&nbsp;:
