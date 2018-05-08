@@ -60,14 +60,16 @@ Cela est peut-être, de mon point de vue, la meilleure expérience que j'ai véc
 
 Pour terminer, voici quelques conseils lors de la mise en place d'un système de binômes&nbsp;:
 
- - <strong>Ne forcez jamais un élève à accompagner une personne autiste.</strong> Cela demande vraiment beaucoup d'efforts et ne peut se faire uniquement sur la base du volontariat.
+ - <strong>Ne forcez jamais un élève à accompagner une personne autiste.</strong> Cela demande vraiment beaucoup d'efforts et ne peut se faire uniquement sur la base du 
+volontariat&nbsp;;
  - <strong>Vérifiez régulièrement comment cela se passe.</strong> Au début de l'année scolaire, tout le monde est motivé, mais au fil du temps, cela peut devenir une charge de travail 
-vraiment lourde que certaines personnes peuvent avoir du mal à assumer
- - <strong>Faites en sorte que la personne autiste ne sollicite pas trop les personnes qui l'aident et la soutienne.</strong> Le binôme ne remplace pas une Auxiliaire de Vie Scolaire 
-(AVS) formée pour faire ce métier à plein temps.
+vraiment lourde que certaines personnes peuvent avoir du mal à assumer&nbsp;;
+ - <strong>Faites en sorte que la personne autiste ne sollicite pas trop les personnes qui l'aident et la soutiennent.</strong> Le binôme ne remplace pas une Auxiliaire de Vie Scolaire 
+(AVS) formée pour faire ce métier à plein temps&nbsp;;
  - <strong>Créez une ambiance propice à l'entre-aide</strong>. Même si des personnes de la classe sont désignées pour s'occuper de la personne autiste, cela ne doit pas empêcher les 
-autres personnes de ne rien faire, en d'autres mots, laissez de la souplesse dans le processus. Par exemple lorsqu'un enseignant était absent à 
-l'université, il y avait toujours une ou deux personnes de la classe/promotion qui venaient naturellement me voir pour m'emmener à l'accueil où la secrétaire pouvait appeler mes parents.
+autres personnes de s'impliquer, en d'autres mots, laissez de la souplesse dans le processus. Par exemple lorsqu'un enseignant était absent à 
+l'université, il y avait toujours une ou deux personnes de la classe/promotion qui venaient naturellement me voir pour m'emmener à l'accueil où la secrétaire pouvait appeler mes 
+parents&nbsp;;
  - <strong>Faites en sorte que les élèves de la classe aient quelques connaissances sur l'autisme et connaissent les besoins et les difficultés de la personne autiste à accompagner.</strong>
  Je me souviens encore au collège d'une fille qui voulait m'aider mais ne savait pas quoi faire et qui essayait alors de tout faire pour moi, même des choses que je savais faire. 
 Cela me donnait l'impression d'être considéré comme un bébé.
