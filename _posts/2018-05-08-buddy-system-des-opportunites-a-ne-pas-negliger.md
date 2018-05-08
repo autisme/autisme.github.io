@@ -77,15 +77,15 @@ Cela me donnait l'impression d'être considéré comme un bébé.
 
 ### Bénéfices pour la personne autiste&nbsp;:
  
- - Recevoir de l'aide des pairs est parfois mieux vécu de la part des personnes de la classe que de la par d'une auxiliaire de vie scolaire (même si cela peut avoir des inconvénients 
-comme mentionné ci-dessus)
- - Garder des repères lors des changements de classe
- - Avoir des opportunités pour aller vers les autres et se faire des amis
+ - Recevoir de l'aide des pairs est parfois mieux vécu de la part des personnes de la classe que de la part d'une auxiliaire de vie scolaire (même si cela peut avoir des inconvénients 
+comme mentionné ci-dessus)&nbsp;;
+ - Garder des repères lors des changements de classe&nbsp;;
+ - Avoir des opportunités pour aller vers les autres et se faire des amis.
 
 ### Bénéfices pour les personnes de la classe&nbsp;:
 
- - Responsabilisation
- - Renforcement des liens au sein de la classe
+ - Responsabilisation&nbsp;;
+ - Renforcement des liens au sein de la classe.
 
 ---
 
