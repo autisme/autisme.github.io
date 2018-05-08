@@ -49,7 +49,7 @@ voulaient vraiment arrêter mais se sentaient obligées de continuer, ne trouvan
 Cela a brisé les quelques amitiés qui commençaient à se développer.
 Avec le recul, je pense que les enseignants ne se sont pas assez impliqués et auraient dû vérifier plus attentivement «&nbsp;l'état&nbsp;» du binôme.
 
-Enfin, un dernier point que je voudrai aborder est que ce système peut parfois impliquer toute la classe.
+Enfin, un dernier point que je voudrais aborder est que ce système peut parfois impliquer toute la classe.
 Lors de mon année de seconde, les enseignant avaient établi une liste de personne pour m'accompagner le midi à la cantine.
 Chaque midi, une personne différente de la classe s'occupait de m'emmener à la cantine et de manger avec moi.
 Cela m'a permis de pouvoir échanger et d'apprendre à connaître toutes les personnes de la classe et non seulement un petit groupe de personnes.
