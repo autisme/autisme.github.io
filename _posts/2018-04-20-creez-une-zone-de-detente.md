@@ -49,6 +49,8 @@ Il est particulièrement important pour les jeunes enfants d’utiliser cet espa
 # Quelques outils que vous pouvez mettre à disposition
 
 <p class="center">
- <amp-iframe layout="responsive" resizable width="600" height="600" sandbox="allow-scripts" src="/html/relaxation-room.html"></amp-iframe>
+ <amp-iframe layout="responsive" resizable width="600" height="600" sandbox="allow-scripts" src="/html/relaxation-room.html">
+  <div overflow tabindex=0 role=button aria-label="Read more">Read more!</div>
+ </amp-iframe>
 </p>
 
