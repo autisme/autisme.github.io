@@ -48,6 +48,8 @@ Il est particulièrement important pour les jeunes enfants d’utiliser cet espa
 
 # Quelques outils que vous pouvez mettre à disposition
 
+Ci-dessous, une liste d'objets que vous pouvez mettre à disposition dans votre salle de détente.
+
 <p class="center">
  <amp-iframe layout="responsive" width="780" height="5000" sandbox="allow-scripts" src="/html/relaxation-room.html">
  </amp-iframe>
