@@ -52,7 +52,7 @@ Il est donc important d'
 Généralement les environnements comportent plusieurs types de stimulations simultanément, ce qui rend l'ensemble difficile à supporter.
 La vidéo ci-dessous vous montre ce qu'il faut endurer en allant dans une galerie marchande&nbsp;:
 
-<amp-youtube class="center" data-videoid="DgDR_gYk_a8" width="480" height="270"></amp-youtube>
+<amp-youtube class="center" layout="responsive" data-videoid="DgDR_gYk_a8" width="480" height="270"></amp-youtube>
 
 Cela peut être encore plus compliqué dans les moments où la personne est fatiguée, comme les fins de journées par exemple.
 Cela peut mener à ce qui est appelé un «&nbsp;effondrement autistique&nbsp;» (ou *meltdown* en anglais).
