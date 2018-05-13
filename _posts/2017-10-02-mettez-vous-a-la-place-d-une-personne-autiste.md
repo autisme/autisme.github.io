@@ -22,7 +22,7 @@ Rien de tel que de se mettre à la place d'une personne avec autisme pour se ren
 Nous vous proposons une série d'expériences simples afin de vous rendre compte de la façon dont ces personnes voient le monde.
 
 <a href="/mettez-vous-dans-la-peau-d-une-personne-autiste/" class="big center">
- <span>Démarrer l'expérience !</span>
+ <span>Démarrer l'expérience&nbsp;!</span>
  <span class="subtitle">Mettez-vous dans la peau d'une personne autiste</span>
 </a>
 
