@@ -144,7 +144,7 @@
       draw();
     }
     function move(e) {
-e.preventDefault();
+//e.preventDefault();
       var r = canvas.getBoundingClientRect();
       if ( false == mobile_device ) {
        mouse['x']=parseInt(e.clientX) - r.left;
@@ -153,6 +153,8 @@ e.preventDefault();
        mouse['x']=parseInt(e.touches[0].clientX) - r.left;
        mouse['y']=parseInt(e.touches[0].clientY) - r.top;
       }
+      mouse['x'] = mouse['x']*700/canvas.offsetWidth;
+      mouse['y'] = mouse['y']*1050/canvas.offsetHeight;
 
       y = 0;
       cursor = 'default';
