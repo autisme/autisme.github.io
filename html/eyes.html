@@ -50,7 +50,7 @@
       canvas.onclick = function(e) { mobile_device = false; click(e); };
 
 //      canvas.ontouchmove = function(e) { mobile_device = true; move(e); };
-      canvas.ontouchstart = function(e) { mobile_device = true; click(e); };
+      canvas.ontouchstart = function(e) { mobile_device = true; move(e); click(e); };
 
       status['interval'] = setInterval(function() {
         draw();
