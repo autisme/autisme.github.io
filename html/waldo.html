@@ -19,6 +19,8 @@
     var waldo = waldos[Math.floor((Math.random() * waldos.length))];
     var canvas = document.getElementById('game_waldo');
     var ctx = canvas.getContext('2d');
+    ctx.scale(canvas.width/700, canvas.height/500);
+
     var background = new Image();
     background.src = waldo['src'];
     var zoom = 6;
