@@ -72,7 +72,7 @@ Beaucoup de personnes ne souffrent pas à proprement parler de l'autisme mais so
 Selon vous, parmi les personnes ci-dessous, lesquelles sont autistes&nbsp;?
 <!-- identifier les personnes autistes -->
 <div class="center">
-<amp-iframe width="700" height="465" sandbox="allow-scripts" src="/html/people.html" scrolling="no"></amp-iframe>
+<amp-iframe layout="responsive" width="700" height="465" sandbox="allow-scripts" src="/html/people.html" scrolling="no"></amp-iframe>
 </div>
 
 Le fait est que nous avons tous une image qui nous vient en tête quand nous parlons d'autisme, que ce soit Rain Man, Sheldon de la série Big Bang Theory.
