@@ -17,33 +17,34 @@
     var nb_catalog = 10;
     var refresh = 1000;
     var clicked = false;
+    var mobile_device = false;
     var state = {'dragged': 'none', 'hover': 'none', 'sentence': []};
     var catalog = [
-      {'word': 'je', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/je.png'; return i;}(), 'selected': false },
-      {'word': 'tu', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/tu.png'; return i;}(), 'selected': false },
-      {'word': 'qui', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/qui.png'; return i;}(), 'selected': false },
+      {'word': 'je', 'img': function(){var i = new Image(); i.src='assets/pecs/je.png'; return i;}(), 'selected': false },
+      {'word': 'tu', 'img': function(){var i = new Image(); i.src='assets/pecs/tu.png'; return i;}(), 'selected': false },
+      {'word': 'qui', 'img': function(){var i = new Image(); i.src='assets/pecs/qui.png'; return i;}(), 'selected': false },
 
-      {'word': 'un', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/un.png'; return i;}(), 'selected': false },
-      {'word': 'bonbon', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/bonbon.png'; return i;}(), 'selected': false },
+      {'word': 'un', 'img': function(){var i = new Image(); i.src='assets/pecs/un.png'; return i;}(), 'selected': false },
+      {'word': 'bonbon', 'img': function(){var i = new Image(); i.src='assets/pecs/bonbon.png'; return i;}(), 'selected': false },
 
-      {'word': 'parc', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/parc.png'; return i;}(), 'selected': false },
+      {'word': 'parc', 'img': function(){var i = new Image(); i.src='assets/pecs/parc.png'; return i;}(), 'selected': false },
 
-      {'word': 'aller', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/aller.png'; return i;}(), 'selected': false },
-      {'word': 'manger', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/manger.png'; return i;}(), 'selected': false },
-      {'word': 'coucher', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/coucher.png'; return i;}(), 'selected': false },
-      {'word': 'aimer', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/aimer.png'; return i;}(), 'selected': false },
-      {'word': 'lire', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/lire.png'; return i;}(), 'selected': false },
-      {'word': 'venir', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/venir.png'; return i;}(), 'selected': false },
-      {'word': 'voir', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/voir.png'; return i;}(), 'selected': false },
-      {'word': 'ecouter', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/ecouter.png'; return i;}(), 'selected': false },
-      {'word': 'promener_le_chien', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/promener_le_chien.png'; return i;}(), 'selected': false },
+      {'word': 'aller', 'img': function(){var i = new Image(); i.src='assets/pecs/aller.png'; return i;}(), 'selected': false },
+      {'word': 'manger', 'img': function(){var i = new Image(); i.src='assets/pecs/manger.png'; return i;}(), 'selected': false },
+      {'word': 'coucher', 'img': function(){var i = new Image(); i.src='assets/pecs/coucher.png'; return i;}(), 'selected': false },
+      {'word': 'aimer', 'img': function(){var i = new Image(); i.src='assets/pecs/aimer.png'; return i;}(), 'selected': false },
+      {'word': 'lire', 'img': function(){var i = new Image(); i.src='assets/pecs/lire.png'; return i;}(), 'selected': false },
+      {'word': 'venir', 'img': function(){var i = new Image(); i.src='assets/pecs/venir.png'; return i;}(), 'selected': false },
+      {'word': 'voir', 'img': function(){var i = new Image(); i.src='assets/pecs/voir.png'; return i;}(), 'selected': false },
+      {'word': 'ecouter', 'img': function(){var i = new Image(); i.src='assets/pecs/ecouter.png'; return i;}(), 'selected': false },
+      {'word': 'promener_le_chien', 'img': function(){var i = new Image(); i.src='assets/pecs/promener_le_chien.png'; return i;}(), 'selected': false },
 
 
-      {'word': 'dans', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/dans.png'; return i;}(), 'selected': false },
-      {'word': 'quand', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/quand.png'; return i;}(), 'selected': false },
-      {'word': 'demain', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/demain.png'; return i;}(), 'selected': false },
+      {'word': 'dans', 'img': function(){var i = new Image(); i.src='assets/pecs/dans.png'; return i;}(), 'selected': false },
+      {'word': 'quand', 'img': function(){var i = new Image(); i.src='assets/pecs/quand.png'; return i;}(), 'selected': false },
+      {'word': 'demain', 'img': function(){var i = new Image(); i.src='assets/pecs/demain.png'; return i;}(), 'selected': false },
 
-      {'word': 'question', 'img': function(){var i = new Image(); i.src='/html/assets/pecs/question.png'; return i;}(), 'selected': false },
+      {'word': 'question', 'img': function(){var i = new Image(); i.src='assets/pecs/question.png'; return i;}(), 'selected': false },
     ];
     var sentences = [
       {'sentence': 'Je veux manger un bonbon.', 'pictos': ['manger', 'bonbon']},
@@ -75,13 +76,14 @@
     this.play = function() {
       if ( 'play' == status['status'])
         return;
-      canvas.onmousemove = move;
-      canvas.onmousedown = mousedown;
-      canvas.onmouseup = mouseup;
 
-      canvas.ontouchmove = move;
-      canvas.ontouchstart = mousedown;
-      canvas.ontouchend = mouseup;
+      canvas.onmousemove = function(e) { mobile_device = false; move(e); };
+      canvas.onmousedown = function(e) { mobile_device = false; mousedown(e); };
+      canvas.onmouseup = function(e) { mobile_device = false; mouseup(e); };
+
+      canvas.ontouchmove = function(e) { mobile_device = true; move(e); };
+      canvas.ontouchstart = function(e) { mobile_device = true; mousedown(e); };
+      canvas.ontouchend = function(e) { mobile_device = true; mouseup(e); };
 
       status['interval'] = setInterval(function() {
         draw();
@@ -205,8 +207,13 @@
     function mousedown(e) {
 e.preventDefault();
       var r = canvas.getBoundingClientRect();
-      mouse['x']=parseInt(e.clientX) - r.left;
-      mouse['y']=parseInt(e.clientY) - r.top;
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
       mouse['x'] = mouse['x']*700/canvas.offsetWidth;
       mouse['y'] = mouse['y']*400/canvas.offsetHeight;
 
@@ -256,8 +263,13 @@ e.preventDefault();
 
     function move(e) {
       var r = canvas.getBoundingClientRect();
-      mouse['x']=parseInt(e.clientX) - r.left;
-      mouse['y']=parseInt(e.clientY) - r.top;
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
       mouse['x'] = mouse['x']*700/canvas.offsetWidth;
       mouse['y'] = mouse['y']*400/canvas.offsetHeight;
       var c = what_is_under_mouse()
