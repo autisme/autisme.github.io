@@ -26,7 +26,7 @@ Certains utilisent la langue des signes, ou des pictogrammes.
 Avez-vous déjà imaginé si vous deviez vous exprimer en utilisant des pictogrammes&nbsp;:
 <!-- écriture pictogrammes (pecs) -->
 <div class="center">
-<amp-iframe width="700" height="400" sandbox="allow-scripts" src="/html/pecs.html" scrolling="no">
+<amp-iframe layout="responsive" width="700" height="400" sandbox="allow-scripts" src="/html/pecs.html" scrolling="no">
  <amp-img layout="fill" src="{{ site.amp_img_cache_url }}/html/pecs.png" placeholder></amp-img>
 </amp-iframe>
 </div>
