@@ -29,7 +29,7 @@ Imaginez ce que cela serait pour vous si vous deviez passer vos journées à tra
 
 <!-- neon -->
 <div class="center">
-<amp-iframe width="700" height="451" sandbox="allow-scripts" src="/html/neon.html" scrolling="no">
+<amp-iframe layout="responsive" width="700" height="451" sandbox="allow-scripts" src="/html/neon.html" scrolling="no">
  <amp-img layout="fill" src="{{ site.amp_img_cache_url }}/html/neon.png" placeholder></amp-img>
 </amp-iframe>
 </div>
