@@ -36,21 +36,21 @@ Vous trouverez ci-dessous les liens de téléchargement des différents guides&n
 
 <ul class="horizontal center">
  <li>
-   <a href="/assets/posts/2017-08-10/handbook/student.pdf" class="big">
+   <a href="/assets/posts/2017-08-10/handbook/student.pdf" class="big center">
      <amp-img class="center" width="150" height="212" src="/assets/posts/2017-08-10/handbook/student.png" alt="Guide à destination des élèves avec autisme"></amp-img>
      <span class="subtitle">Guide à destination</span>
      <span>des élèves avec autisme</span>
    </a>
  </li>
  <li>
-   <a href="/assets/posts/2017-08-10/handbook/parent.pdf" class="big">
+   <a href="/assets/posts/2017-08-10/handbook/parent.pdf" class="big center">
      <amp-img class="center" width="150" height="212" src="/assets/posts/2017-08-10/handbook/parent.png" alt="Guide à destination des parents"></amp-img>
      <span class="subtitle">Guide à destination</span>
      <span>des parents</span>
    </a>
  </li>
  <li>
-   <a href="/assets/posts/2017-08-10/handbook/teacher.pdf" class="big">
+   <a href="/assets/posts/2017-08-10/handbook/teacher.pdf" class="big center">
      <amp-img class="center" width="150" height="212" src="/assets/posts/2017-08-10/handbook/teacher.png" alt="Guide à destination des enseignants"></amp-img>
      <span class="subtitle">Guide à destination</span>
      <span>des enseignants</span>

@@ -16,7 +16,7 @@ Pourtant avec les aménagements nécessaires, ces personnes peuvent être de gra
 
 Ci-dessous, un guide qui vous donnera quelques conseils pour accueillir les personnes autistes dans votre entreprise&nbsp;:
 
-<a href="/je-suis-un-professionnel/informations-employeurs" class="big">
+<a href="/je-suis-un-professionnel/informations-employeurs" class="big center">
  <span>Guide pour l'emploi des personnes autistes</span>
  <span class="subtitle">à destination des employeurs</span>
 </a>

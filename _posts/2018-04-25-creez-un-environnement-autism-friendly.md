@@ -36,7 +36,7 @@ Il existe un guide vous permettant de vous aider à réaliser étape par étape 
 
 <ul class="horizontal center">
  <li>
-   <a href="https://github.com/autisme/twitter-campaign/raw/master/sensory-checklist/checklist.pdf" class="big">
+   <a href="https://github.com/autisme/twitter-campaign/raw/master/sensory-checklist/checklist.pdf" class="big center">
      <span class="subtitle">Téléchargez le guide</span>
    </a>
  </li>
