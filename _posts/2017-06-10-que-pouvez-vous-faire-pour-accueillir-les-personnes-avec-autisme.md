@@ -34,7 +34,7 @@ Qui n'a jamais été stressé de ne pas savoir ce qui allait se passer ou de se 
 Déterminer quelles sont les adaptations possibles peut être quelque chose de compliqué.
 C'est pourquoi nous [publions une liste de choses simples et adaptées à votre secteur d'activité](/construire-une-societe-inclusive/).
 
-<a href="/construire-une-societe-inclusive/" class="big center"><span>Ressources pour construire une société inclusive</span></a>
+<a href="/construire-une-societe-inclusive/" class="big"><span>Ressources pour construire une société inclusive</span></a>
 
 
 N'hésitez pas à **être créatif** et à proposer vos propres adaptations.
