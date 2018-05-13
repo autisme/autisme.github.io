@@ -23,7 +23,7 @@ Cela consiste à faire accompagner la personne autiste par d'autres élèves de 
 pour la personne autiste, cela lui permet d'avoir des personnes qui lui servent de repère, qui veillent sur elle et qui peuvent l'aider en cas de difficultés.
 Pour les autres personnes, cela leur permet de développer leur sens des responsabilités mais permet également découvrir ce qu'est l'autisme.
 
-<amp-img class="center" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-05-08/opengraph.png" alt="opengraph"></amp-img>
+<amp-img class="center" layout="responsive" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-05-08/opengraph.png" alt="opengraph"></amp-img>
 
 Personnellement, j'ai expérimenté le «&nbsp;buddy system&nbsp;» dès mon entrée au collège et ce, jusqu'à la fin de mes études. Il y a toujours eu dans ma classe une ou deux personnes
 qui se sont dévouées pour m'aider. Généralement, des personnes plus matures que les autres.

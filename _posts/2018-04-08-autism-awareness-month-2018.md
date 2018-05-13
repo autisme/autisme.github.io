@@ -17,7 +17,7 @@ oembed_image: /assets/posts/2018-04-08/opengraph.png
 Avril est le mois de sensibilisation à l'autisme. Comme chaque année, nous pouvons lire quelques critiques. Par exemple, la sensibilisation à l'autisme ne devrait-elle pas se dérouler tout au long de l'année&nbsp;? Ne devrait-on pas parler
 de <strong>compréhension</strong> et d'<strong>acceptation</strong> des personnes autistes plutôt qu'uniquement de <strong>sensibilisation</strong>&nbsp;? Le mot «&nbsp;autism-friendly&nbsp;» est-il juste un mot à la mode&nbsp;?
 
-<amp-img class="center" width="500" height="500" src="https://raw.githubusercontent.com/autisme/twitter-campaign/master/monday-messages/38-autism-awareness-month/img.png" alt="Mois de sensibilisation à l'autisme"></amp-img>
+<amp-img class="center" layout="responsive" width="500" height="500" src="https://raw.githubusercontent.com/autisme/twitter-campaign/master/monday-messages/38-autism-awareness-month/img.png" alt="Mois de sensibilisation à l'autisme"></amp-img>
 
 Au-delà de ces questions, ce mois de sensibilisation à l'autisme est une occasion à ne pas manquer pour faire connaître l'autisme au grand public mais aussi pour mettre en lumière les difficultés rencontrées par les personnes concernées
 et de faire en sorte que celles-ci soient acceptées et incluses dans la société.

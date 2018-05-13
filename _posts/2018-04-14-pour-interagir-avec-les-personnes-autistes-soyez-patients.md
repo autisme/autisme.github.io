@@ -15,7 +15,7 @@ oembed_image: /assets/posts/2018-04-14/opengraph.png
 Ce post est une traduction d'un article récemment publié par *AsIAm Ireland*. Je les 
 remercie très chaleureusement pour leur travail.
 
-<amp-img class="center" width="320" height="188" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-14/opengraph.png" alt="Soyez patients"></amp-img>
+<amp-img class="center" layout="responsive" width="320" height="188" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-14/opengraph.png" alt="Soyez patients"></amp-img>
 
 # Une information à la fois
 
