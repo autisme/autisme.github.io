@@ -47,8 +47,8 @@
     this.play = function() {
       if ( 'play' == status['status'])
         return;
-      canvas.onclick = { mobile_device = false; click(e); };
-      canvas.onmousemove = { mobile_device = false; move(e); };
+      canvas.onclick = function(e){ mobile_device = false; click(e); };
+      canvas.onmousemove = function(e){ mobile_device = false; move(e); };
 
       canvas.ontouchstart = function(e) { mobile_device = true; click(e); };
       canvas.ontouchmove = function(e) { mobile_device = true; move(e); };
