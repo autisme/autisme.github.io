@@ -14,7 +14,7 @@ modules:
   - iframe
 ---
 
-<amp-img class="center" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-20/opengraph.jpg" alt="Créez une zone de repos"></amp-img>
+<amp-img class="center" layout="responsive" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-20/opengraph.jpg" alt="Créez une zone de repos"></amp-img>
 
 <div class="small"><a href="https://asiam.ie/7629-2">Ce post est une traduction d’un article récemment publié par <strong>AsIAm Ireland</strong></a>.</div>
 
