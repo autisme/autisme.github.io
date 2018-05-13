@@ -21,6 +21,7 @@
     var ctx = canvas.getContext('2d');
     ctx.scale(1, 1);
 
+    var mobile_device = false;
     var mouse = {'x': undefined, 'y': undefined};
     var cursor = 'default';
     var refresh = 1000;
@@ -46,8 +47,12 @@
     this.play = function() {
       if ( 'play' == status['status'])
         return;
-      canvas.onclick = click;
-      canvas.onmousemove = move;
+      canvas.onclick = { mobile_device = false; click(e); };
+      canvas.onmousemove = { mobile_device = false; move(e); };
+
+      canvas.ontouchstart = function(e) { mobile_device = true; click(e); };
+      canvas.ontouchmove = function(e) { mobile_device = true; move(e); };
+
       status['interval'] = setInterval(function() {
         draw();
       }, refresh);
@@ -59,6 +64,9 @@
       clearInterval(status['interval']);
       canvas.onclick = function(e) {};
       canvas.onmousemove = function(e) {};
+
+      canvas.ontouchstart = function(e) {};
+      canvas.ontouchmove = function(e) {};
       status['status'] = 'pause';
     }    
     this.canvas = function() {
@@ -120,9 +128,15 @@
 
 
     function click(e) {
+e.preventDefault();
       var r = canvas.getBoundingClientRect();
-      mouse['x']=parseInt(e.clientX) - r.left;
-      mouse['y']=parseInt(e.clientY) - r.top;
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
       mouse['x'] = mouse['x']*700/canvas.offsetWidth;
       mouse['y'] = mouse['y']*465/canvas.offsetHeight;
 
@@ -138,8 +152,13 @@
     }
     function move(e) {
       var r = canvas.getBoundingClientRect();
-      mouse['x']=parseInt(e.clientX) - r.left;
-      mouse['y']=parseInt(e.clientY) - r.top;
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
       r = what_is_under_mouse();
       if (r['where'] == "people") {
         for (var i = 0 ; i < nb_people ; i++ ) {
