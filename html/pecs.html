@@ -78,6 +78,11 @@
       canvas.onmousemove = move;
       canvas.onmousedown = mousedown;
       canvas.onmouseup = mouseup;
+
+      canvas.ontouchmove = move;
+      canvas.ontouchstart = mousedown;
+      canvas.ontouchend = mouseup;
+
       status['interval'] = setInterval(function() {
         draw();
       }, refresh);
