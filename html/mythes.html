@@ -2,6 +2,7 @@
  <head>
   <meta charset="utf-8" />
   <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
+  <style type="text/css">#mythbusters_game { width: 100%; height: 100%; }</style>  
  </head>
  <body>
   <canvas id="mythbusters_game" width="700" height="1000"></canvas>
@@ -9,7 +10,9 @@
   <script type="text/javascript">
   var canvas = document.getElementById('mythbusters_game');
   var ctx = canvas.getContext('2d');
+  ctx.scale(1, 1);
 
+  var mobile_device = false;
   var background = new Image();
   background.src = '/html/assets/mythes/background.png'
   start_height = 120;
@@ -45,18 +48,40 @@
 
   document.body.onload = function() {
     canvas.onmousemove = function(e) {
+     mobile_device = false;
      move(e)
     }
     canvas.onclick = function(e) {
+     mobile_device = false;
      click(e)
     }
+
+    canvas.ontouchmove = function(e) {
+     mobile_device = true;
+     move(e)
+    }
+    canvas.ontouchstart = function(e) {
+     mobile_device = true;
+     click(e)
+    }
+
     draw();
   }
 
   function click(e) {
-    var r = canvas.getBoundingClientRect();
-    var mouse_x=parseInt(e.clientX) - r.left;
-    var mouse_y=parseInt(e.clientY) - r.top;
+e.preventDefault();
+      var mouse_x;
+      var mouse_y;
+      var r = canvas.getBoundingClientRect();
+      if ( false == mobile_device ) {
+       mouse_x=parseInt(e.clientX) - r.left;
+       mouse_y=parseInt(e.clientY) - r.top;
+      } else {
+       mouse_x=parseInt(e.touches[0].clientX) - r.left;
+       mouse_y=parseInt(e.touches[0].clientY) - r.top;
+      }
+      mouse_x = mouse_x*700/canvas.offsetWidth;
+      mouse_y = mouse_y*1000/canvas.offsetHeight;
 
     if ('validated' == validated) {
       return;
@@ -84,9 +109,19 @@
   }
 
   function move(e) {
-    var r = canvas.getBoundingClientRect();
-    var mouse_x=parseInt(e.clientX) - r.left;
-    var mouse_y=parseInt(e.clientY) - r.top;
+e.preventDefault();
+      var mouse_x;
+      var mouse_y;
+      var r = canvas.getBoundingClientRect();
+      if ( false == mobile_device ) {
+       mouse_x=parseInt(e.clientX) - r.left;
+       mouse_y=parseInt(e.clientY) - r.top;
+      } else {
+       mouse_x=parseInt(e.touches[0].clientX) - r.left;
+       mouse_y=parseInt(e.touches[0].clientY) - r.top;
+      }
+      mouse_x = mouse_x*700/canvas.offsetWidth;
+      mouse_y = mouse_y*1000/canvas.offsetHeight;
 
     if ('validated' == validated) {
       return;
