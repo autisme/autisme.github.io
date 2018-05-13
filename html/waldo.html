@@ -21,6 +21,7 @@
     var ctx = canvas.getContext('2d');
     ctx.scale(1, 1);
 
+    var mobile_device = false;
     var background = new Image();
     background.src = waldo['src'];
     var zoom = 6;
@@ -37,9 +38,12 @@
     this.play = function() {
       if ( 'play' == status['status'])
         return;
-      canvas.onmousemove = move;
-      canvas.ontouchmove = move;
-      canvas.onclick = click;
+      canvas.onmousemove = function(e){ mobile_device = false; move(e); };
+      canvas.onclick = function(e){ mobile_device = false; click(e); };
+
+      canvas.ontouchmove = function(e){ mobile_device = true; move(e); };
+      canvas.ontouchend = function(e){ mobile_device = true; click(e); };
+
       status['interval'] = setInterval(function() {
         chronos += refresh;
         draw();
@@ -50,8 +54,9 @@
       if ( 'pause' == status['status'])
         return;
       canvas.onmousemove = function(e) {}
-      canvas.ontouchmove = function(e) {}
       canvas.onclick = function(e) {}
+      canvas.ontouchmove = function(e) {}
+      canvas.ontouchend = function(e) {}
       clearInterval(status['interval']);
       status['status'] = 'pause';
     }
@@ -111,9 +116,15 @@
 
     }
     function move(e) {
+e.preventDefault();
       var r = canvas.getBoundingClientRect();
-      mouse['x']=parseInt(e.clientX) - r.left;
-      mouse['y']=parseInt(e.clientY) - r.top;
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
       mouse['x'] = mouse['x']*700/canvas.offsetWidth;
       mouse['y'] = mouse['y']*500/canvas.offsetHeight;
 
@@ -131,8 +142,15 @@
 
     function click(e) {
       var r = canvas.getBoundingClientRect();
-      var x = parseInt(e.clientX) - r.left;
-      var y = parseInt(e.clientY) - r.top;
+      var x;
+      var y;
+      if ( false == mobile_device ) {
+       x=parseInt(e.clientX) - r.left;
+       y=parseInt(e.clientY) - r.top;
+      } else {
+       x=parseInt(e.touches[0].clientX) - r.left;
+       y=parseInt(e.touches[0].clientY) - r.top;
+      }
       x = x*700/canvas.offsetWidth;
       y = y*500/canvas.offsetHeight;
 
