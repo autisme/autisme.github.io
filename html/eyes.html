@@ -49,7 +49,7 @@
       canvas.onmousemove = function(e) { mobile_device = false; move(e); };
       canvas.onclick = function(e) { mobile_device = false; click(e); };
 
-      canvas.ontouchmove = function(e) { mobile_device = true; move(e); };
+//      canvas.ontouchmove = function(e) { mobile_device = true; move(e); };
       canvas.ontouchstart = function(e) { mobile_device = true; click(e); };
 
       status['interval'] = setInterval(function() {
@@ -63,7 +63,7 @@
       canvas.onmousemove = function(e) {}
       canvas.onclick = function(e) {}
 
-      canvas.ontouchmove = function(e) {}
+//      canvas.ontouchmove = function(e) {}
       canvas.ontouchstart = function(e) {}
       clearInterval(status['interval']);
       status['status'] = 'pause';
