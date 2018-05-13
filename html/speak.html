@@ -2,6 +2,7 @@
  <head>
   <meta charset="utf-8" />
   <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
+  <style type="text/css">#game_speak { width: 100%; height: 100%; }</style>
  </head>
  <body>
   <canvas id="game_speak" width="700" height="450"></canvas>
@@ -9,6 +10,9 @@
   function speak() {
     var canvas = document.getElementById('game_speak');
     var ctx = canvas.getContext('2d');
+    ctx.scale(1, 1);
+
+    var mobile_device = false;
     var mouse = {'x': undefined, 'y': undefined};
     var cursor = 'pointer';
     var refresh = 300;
@@ -51,7 +55,8 @@
     this.play = function() {
       if ( 'play' == status['status'])
         return;
-      canvas.onclick = click;
+      canvas.onclick = function(e) { mobile_device = false; click(e); };
+      canvas.ontouchstart = function(e) { mobile_device = true; click(e); };
       status['interval'] = setInterval(function() {
         draw();
       }, refresh);
@@ -62,6 +67,7 @@
         return;
       clearInterval(status['interval']);
       canvas.onclick = function(e) {};
+      canvas.ontouchstart = function(e) {};
       status['status'] = 'pause';
     }    
     this.canvas = function() {
@@ -148,9 +154,19 @@
       canvas.style.cursor = cursor;
     }
     function click(e) {
+e.preventDefault();
       var r = canvas.getBoundingClientRect();
-      mouse['x']=parseInt(e.clientX) - r.left;
-      mouse['y']=parseInt(e.clientY) - r.top;
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
+      mouse['x'] = mouse['x']*700/canvas.offsetWidth;
+      mouse['y'] = mouse['y']*450/canvas.offsetHeight;
+
+
       if (state['speakers'][2] == -1) {
         if (state['speakers'][0] == -1 && state['speakers'][1] == -1) {
           state['sentence'] = sentences['non interrupt'][Math.floor(Math.random()*(sentences['non interrupt'].length))];
