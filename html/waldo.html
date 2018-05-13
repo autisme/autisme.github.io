@@ -10,16 +10,16 @@
   function waldo() {
     var self = this;
     waldos = [
-     {'src': '/html/assets/waldo/background1.jpg', 'waldo': {'x': 514.5, 'y': 170}},
-     {'src': '/html/assets/waldo/background2.jpg', 'waldo': {'x': 512.5, 'y': 116}},
-     {'src': '/html/assets/waldo/background3.jpg', 'waldo': {'x': 348.5, 'y': 103}},
-     {'src': '/html/assets/waldo/background4.jpg', 'waldo': {'x': 484.5, 'y': 181}},
-     {'src': '/html/assets/waldo/background5.jpg', 'waldo': {'x': 300.5, 'y': 138}}
+     {'src': 'assets/waldo/background1.jpg', 'waldo': {'x': 514.5, 'y': 170}},
+     {'src': 'assets/waldo/background2.jpg', 'waldo': {'x': 512.5, 'y': 116}},
+     {'src': 'assets/waldo/background3.jpg', 'waldo': {'x': 348.5, 'y': 103}},
+     {'src': 'assets/waldo/background4.jpg', 'waldo': {'x': 484.5, 'y': 181}},
+     {'src': 'assets/waldo/background5.jpg', 'waldo': {'x': 300.5, 'y': 138}}
     ]
     var waldo = waldos[Math.floor((Math.random() * waldos.length))];
     var canvas = document.getElementById('game_waldo');
     var ctx = canvas.getContext('2d');
-    ctx.scale(canvas.width/700, canvas.height/500);
+    ctx.scale(1, 1);
 
     var background = new Image();
     background.src = waldo['src'];
@@ -112,6 +112,8 @@
       var r = canvas.getBoundingClientRect();
       mouse['x']=parseInt(e.clientX) - r.left;
       mouse['y']=parseInt(e.clientY) - r.top;
+      mouse['x'] = mouse['x']*700/canvas.offsetWidth;
+      mouse['y'] = mouse['y']*500/canvas.offsetHeight;
 
       if (false == start || true == win) {
         if ((mouse['x'] > (700/2)-100) && (mouse['y'] > (500/2)-40) && (mouse['x'] < (700/2)+100) && (mouse['y'] < (500/2)+20)) {
@@ -129,6 +131,10 @@
       var r = canvas.getBoundingClientRect();
       var x = parseInt(e.clientX) - r.left;
       var y = parseInt(e.clientY) - r.top;
+      x = x*700/canvas.offsetWidth;
+      y = y*500/canvas.offsetHeight;
+
+
       if (false == start || true == win) {
         if ((mouse['x'] > (700/2)-100) && (mouse['y'] > (500/2)-40) && (mouse['x'] < (700/2)+100) && (mouse['y'] < (500/2)+20)) {
           if ( true == win ) {
