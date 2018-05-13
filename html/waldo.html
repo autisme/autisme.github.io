@@ -38,6 +38,7 @@
       if ( 'play' == status['status'])
         return;
       canvas.onmousemove = move;
+      canvas.ontouchmove = move;
       canvas.onclick = click;
       status['interval'] = setInterval(function() {
         chronos += refresh;
@@ -49,6 +50,7 @@
       if ( 'pause' == status['status'])
         return;
       canvas.onmousemove = function(e) {}
+      canvas.ontouchmove = function(e) {}
       canvas.onclick = function(e) {}
       clearInterval(status['interval']);
       status['status'] = 'pause';
