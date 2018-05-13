@@ -203,6 +203,7 @@
     }
 
     function mousedown(e) {
+e.preventDefault();
       var r = canvas.getBoundingClientRect();
       mouse['x']=parseInt(e.clientX) - r.left;
       mouse['y']=parseInt(e.clientY) - r.top;
