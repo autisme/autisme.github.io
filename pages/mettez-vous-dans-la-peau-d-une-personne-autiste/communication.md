@@ -34,7 +34,7 @@ Avez-vous déjà imaginé si vous deviez vous exprimer en utilisant des pictogra
 D'autres encore peuvent s'exprimer en écrivant sur un clavier ou en pointant les lettres d'une feuille.
 <!-- écriture en cliquant sur les lettres -->
 <div class="center">
-<amp-iframe width="500" height="350" sandbox="allow-scripts" src="/html/writing.html" scrolling="no">
+<amp-iframe layout="responsive" width="500" height="350" sandbox="allow-scripts" src="/html/writing.html" scrolling="no">
  <amp-img layout="fill" src="{{ site.amp_img_cache_url }}/html/writing.png" placeholder></amp-img>
 </amp-iframe>
 </div>
