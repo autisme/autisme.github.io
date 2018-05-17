@@ -46,7 +46,7 @@ Certaines personnes peuvent également rechercher certaines odeurs, goût ou tex
 
 
 Par exemple certaines personnes autistes ne supportent pas le bruit mais veulent pouvoir aller au concert de leur chanteur préféré.
-Il est donc important d'
+Il est donc important de ne pas faire de supposition sur ce que la personne est capable de supporter ou non mais de prendre le demander à chaque fois.
 
 
 Généralement les environnements comportent plusieurs types de stimulations simultanément, ce qui rend l'ensemble difficile à supporter.
