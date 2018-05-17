@@ -49,7 +49,7 @@ Pour vous donner une idée, c'est comme si vous deviez dire de quelle couleur es
 
 <!-- lire les couleurs écrites dans une autre couleur -->
 <div class="center">
-<amp-iframe width="700" height="300" sandbox="allow-scripts" src="/html/colour.html" scrolling="no">
+<amp-iframe layout="responsive" width="700" height="300" sandbox="allow-scripts" src="/html/colour.html" scrolling="no">
  <amp-img layout="fill" src="{{ site.amp_img_cache_url }}/html/colour.png" placeholder></amp-img>
 </amp-iframe>
 </div>

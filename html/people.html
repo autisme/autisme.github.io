@@ -2,6 +2,7 @@
  <head>
   <meta charset="utf-8" />
   <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
+  <style type="text/css">#game_people { width: 100%; height: 100%; }</style>
  </head>
  <body>
   <canvas id="game_people" width="700" height="465"></canvas>
@@ -18,23 +19,26 @@
     }
     var canvas = document.getElementById('game_people');
     var ctx = canvas.getContext('2d');
+    ctx.scale(1, 1);
+
+    var mobile_device = false;
     var mouse = {'x': undefined, 'y': undefined};
     var cursor = 'default';
     var refresh = 1000;
     var line_people_size = 4;
     var nb_people = 8;
     var people = [
-      function() { var img = new Image(); img.src = '/html/assets/people/alix_generous.jpg'; return img; }(),
-      function() { var img = new Image(); img.src = '/html/assets/people/autism.jpg'; return img; }(),
-      function() { var img = new Image(); img.src = '/html/assets/people/daniel_lightwing.jpg'; return img; }(),
-      function() { var img = new Image(); img.src = '/html/assets/people/jacob_barnett.jpg'; return img; }(),
-      function() { var img = new Image(); img.src = '/html/assets/people/josef_schovanec.jpg'; return img; }(),
-      function() { var img = new Image(); img.src = '/html/assets/people/kerry_magro.jpg'; return img; }(),
-      function() { var img = new Image(); img.src = '/html/assets/people/liane_hollidaywilley.jpg'; return img; }(),
-      function() { var img = new Image(); img.src = '/html/assets/people/michael_mccreary.jpg'; return img; }(),
-      function() { var img = new Image(); img.src = '/html/assets/people/owen_suskind.jpg'; return img; }(),
-      function() { var img = new Image(); img.src = '/html/assets/people/rosie_king.jpg'; return img; }(),
-      function() { var img = new Image(); img.src = '/html/assets/people/sarah_hendrickx.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/alix_generous.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/autism.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/daniel_lightwing.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/jacob_barnett.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/josef_schovanec.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/kerry_magro.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/liane_hollidaywilley.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/michael_mccreary.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/owen_suskind.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/rosie_king.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/sarah_hendrickx.jpg'; return img; }(),
     ];
     shuffle(people);
     var state = {'clicked': [false,false,false,false,false,false,false,false], 'hover': [false,false,false,false,false,false,false,false]};
@@ -43,8 +47,12 @@
     this.play = function() {
       if ( 'play' == status['status'])
         return;
-      canvas.onclick = click;
-      canvas.onmousemove = move;
+      canvas.onclick = function(e){ mobile_device = false; click(e); };
+      canvas.onmousemove = function(e){ mobile_device = false; move(e); };
+
+      canvas.ontouchstart = function(e) { mobile_device = true; click(e); };
+      canvas.ontouchmove = function(e) { mobile_device = true; move(e); };
+
       status['interval'] = setInterval(function() {
         draw();
       }, refresh);
@@ -56,6 +64,9 @@
       clearInterval(status['interval']);
       canvas.onclick = function(e) {};
       canvas.onmousemove = function(e) {};
+
+      canvas.ontouchstart = function(e) {};
+      canvas.ontouchmove = function(e) {};
       status['status'] = 'pause';
     }    
     this.canvas = function() {
@@ -117,9 +128,18 @@
 
 
     function click(e) {
+e.preventDefault();
       var r = canvas.getBoundingClientRect();
-      mouse['x']=parseInt(e.clientX) - r.left;
-      mouse['y']=parseInt(e.clientY) - r.top;
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
+      mouse['x'] = mouse['x']*700/canvas.offsetWidth;
+      mouse['y'] = mouse['y']*465/canvas.offsetHeight;
+
       r = what_is_under_mouse();
       if (r['where'] == "people") {
         if (state['clicked'][r['which']] == false) {
@@ -132,8 +152,13 @@
     }
     function move(e) {
       var r = canvas.getBoundingClientRect();
-      mouse['x']=parseInt(e.clientX) - r.left;
-      mouse['y']=parseInt(e.clientY) - r.top;
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
       r = what_is_under_mouse();
       if (r['where'] == "people") {
         for (var i = 0 ; i < nb_people ; i++ ) {

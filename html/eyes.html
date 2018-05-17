@@ -2,6 +2,7 @@
  <head>
   <meta charset="utf-8" />
   <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
+  <style type="text/css">#game_eyes { width: 100%; height: 100%; }</style>
  </head>
  <body>
   <canvas id="game_eyes" width="700" height="1050"></canvas>
@@ -9,6 +10,9 @@
   function eyes() {
     var canvas = document.getElementById('game_eyes');
     var ctx = canvas.getContext('2d');
+    ctx.scale(1, 1);
+
+    var mobile_device = false;
     var refresh = 2000;
     var step = 150+25;
     var mouse = {'x': undefined, 'y': undefined};
@@ -42,8 +46,12 @@
     this.play = function() {
       if ( 'play' == status['status'])
         return;
-      canvas.onmousemove = move;
-      canvas.onclick = click;
+      canvas.onmousemove = function(e) { mobile_device = false; move(e); };
+      canvas.onclick = function(e) { mobile_device = false; click(e); };
+
+//      canvas.ontouchmove = function(e) { mobile_device = true; move(e); };
+      canvas.ontouchstart = function(e) { mobile_device = true; move(e); click(e); };
+
       status['interval'] = setInterval(function() {
         draw();
       }, refresh);
@@ -54,6 +62,9 @@
         return;
       canvas.onmousemove = function(e) {}
       canvas.onclick = function(e) {}
+
+//      canvas.ontouchmove = function(e) {}
+      canvas.ontouchstart = function(e) {}
       clearInterval(status['interval']);
       status['status'] = 'pause';
     }
@@ -124,6 +135,17 @@
       return;
     }
     function click(e) {
+      var r = canvas.getBoundingClientRect();
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
+      mouse['x'] = mouse['x']*700/canvas.offsetWidth;
+      mouse['y'] = mouse['y']*1050/canvas.offsetHeight;
+
       for (var i = 0 ; i < questions.length ; i++ ) {
         if ('none' != questions[i]['o'] && 'none' == questions[i]['c']) {
           questions[i]['c'] = questions[i]['o'];
@@ -133,9 +155,18 @@
       draw();
     }
     function move(e) {
+//e.preventDefault();
       var r = canvas.getBoundingClientRect();
-      mouse['x']=parseInt(e.clientX) - r.left;
-      mouse['y']=parseInt(e.clientY) - r.top;
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
+      mouse['x'] = mouse['x']*700/canvas.offsetWidth;
+      mouse['y'] = mouse['y']*1050/canvas.offsetHeight;
+
       y = 0;
       cursor = 'default';
       for (var i = 0 ; i < questions.length ; i++ ) {

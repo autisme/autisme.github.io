@@ -29,7 +29,7 @@ Imaginez ce que cela serait pour vous si vous deviez passer vos journées à tra
 
 <!-- neon -->
 <div class="center">
-<amp-iframe width="700" height="451" sandbox="allow-scripts" src="/html/neon.html" scrolling="no">
+<amp-iframe layout="responsive" width="700" height="451" sandbox="allow-scripts" src="/html/neon.html" scrolling="no">
  <amp-img layout="fill" src="{{ site.amp_img_cache_url }}/html/neon.png" placeholder></amp-img>
 </amp-iframe>
 </div>
@@ -52,7 +52,7 @@ Il est donc important de ne pas faire de supposition sur ce que la personne est 
 Généralement les environnements comportent plusieurs types de stimulations simultanément, ce qui rend l'ensemble difficile à supporter.
 La vidéo ci-dessous vous montre ce qu'il faut endurer en allant dans une galerie marchande&nbsp;:
 
-<amp-youtube class="center" data-videoid="DgDR_gYk_a8" width="480" height="270"></amp-youtube>
+<amp-youtube class="center" layout="responsive" data-videoid="DgDR_gYk_a8" width="480" height="270"></amp-youtube>
 
 Cela peut être encore plus compliqué dans les moments où la personne est fatiguée, comme les fins de journées par exemple.
 Cela peut mener à ce qui est appelé un «&nbsp;effondrement autistique&nbsp;» (ou *meltdown* en anglais).
@@ -66,7 +66,7 @@ Combien de temps, mettrez-vous pour trouver Charlie dans l'image ci-dessous&nbsp
 
 <!-- ou est charlie ? -->
 <div class="center">
-<amp-iframe width="700" height="451" sandbox="allow-scripts" src="/html/waldo.html" scrolling="no">
+<amp-iframe layout="responsive" width="700" height="451" sandbox="allow-scripts" src="/html/waldo.html" scrolling="no">
  <amp-img layout="fill" src="{{ site.amp_img_cache_url }}/html/waldo.png" placeholder></amp-img>
 </amp-iframe>
 </div>

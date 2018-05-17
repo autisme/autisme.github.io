@@ -10,9 +10,11 @@ courtesis:
   image:
     bank: freepik
 oembed_image: /assets/posts/2018-04-20/opengraph.jpg
+modules:
+  - iframe
 ---
 
-<amp-img class="center" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-20/opengraph.jpg" alt="Créez une zone de repos"></amp-img>
+<amp-img class="center" layout="responsive" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/posts/2018-04-20/opengraph.jpg" alt="Créez une zone de repos"></amp-img>
 
 <div class="small"><a href="https://asiam.ie/7629-2">Ce post est une traduction d’un article récemment publié par <strong>AsIAm Ireland</strong></a>.</div>
 
@@ -43,3 +45,13 @@ Vous n’avez pas besoin d’équipements de haute technologie. Vous pouvez simp
 # Toucher
 
 Il est particulièrement important pour les jeunes enfants d’utiliser cet espace. Une option rentable serait d’y mettre le plus de coussins, de couvertures et de peluches que possible. Les personnes hypersensibles pourront utiliser ces objets sans le risque de stimulation excessive, tandis que les personnes hyposensibles seront aussi capables d’en profiter.
+
+# Quelques outils que vous pouvez mettre à disposition
+
+Ci-dessous, une liste d'objets que vous pouvez mettre à disposition dans votre salle de détente.
+
+<p class="center">
+ <amp-iframe layout="responsive" width="800" height="5000" sandbox="allow-scripts" src="/html/relaxation-room.html">
+ </amp-iframe>
+</p>
+
