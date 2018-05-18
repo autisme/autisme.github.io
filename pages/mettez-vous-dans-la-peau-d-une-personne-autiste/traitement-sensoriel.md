@@ -54,11 +54,25 @@ La vidéo ci-dessous vous montre ce qu'il faut endurer en allant dans une galeri
 
 <amp-youtube class="center" layout="responsive" data-videoid="DgDR_gYk_a8" width="480" height="270"></amp-youtube>
 
-Cela peut être encore plus compliqué dans les moments où la personne est fatiguée, comme les fins de journées par exemple.
+Imaginez maintenant que dans un tel environnement, vous devez vous concentrer pour réaliser une tâche quelconque.
+Si vous voulez un aperçu de ce que les personnes autistes peuvent vivre,
+essayez de repasser sur les contours des figures ci-dessous. Cela est compliqué n'est-ce pas&nbsp;?
+Dans la vie des personnes autistes, les figures n'auraient pas bougées mais la luminosité de la pièce, la proximité des personnes autour de vous, etc auraient donné un effet similaire.
+<!-- enclose -->
+<div class="center">
+<amp-iframe layout="responsive" width="700" height="700" sandbox="allow-scripts" src="/html/enclose.html" scrolling="no">
+ <amp-img layout="fill" src="{{ site.amp_img_cache_url }}/html/enclose.png" placeholder></amp-img>
+</amp-iframe>
+</div>
+
+
+Cette surcharge sensorielle peut être encore plus compliqué dans les moments où la personne est fatiguée, comme les fins de journées par exemple.
 Cela peut mener à ce qui est appelé un «&nbsp;effondrement autistique&nbsp;» (ou *meltdown* en anglais).
 Vous n'êtes alors plus capable de faire face à l'environnement. Vous êtes totalement submergés et vous n'êtes plus capable de traiter les informations de votre environnement
  ni de vous contrôler. La seule chose à faire pour vous calmer est de vous reposer.
 Vu de l'extérieur, cela ressemble à une grosse colère et beaucoup de personnes ne font pas la différence.
+
+
 
 Toutefois, ce traitement sensoriel différent peut parfois présenter un avantage.
 Par exemple, beaucoup de personnes autistes remarquent des détails que la plupart des gens ne voient pas.
