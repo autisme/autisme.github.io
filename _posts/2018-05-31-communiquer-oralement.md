@@ -49,7 +49,7 @@ avoir besoin de faire des phrases grammaticalement correctes et en étant parfoi
 En d'autres mots, parler comme n'importe qui d'autre est capable de parler.
 
 
-Dans quelques semaines, je devrai effectuer ma soutenance de thèse devant un jury et j'aimerais vraiment être capable de réaliser la présentation par moi-même.
+Dans quelques semaines, je devrai effectuer ma soutenance de doctorat devant un jury et j'aimerais vraiment être capable de réaliser la présentation par moi-même.
 Je ne veux pas qu'un enseignant qui oubliera de dire la plupart des choses importantes le fasse pour moi.
 Je ne veux pas non plus préparer un enregistrement audio qui dégrade l'interaction.
 Mais parler en public devant des gens inconnus et plus encore, à un large public me fait réellement peur.
