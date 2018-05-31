@@ -13,7 +13,7 @@ courtesis:
 oembed_image: /assets/posts/2018-05-31/opengraph.png
 ---
 
-<amp-img class="left" width="300" height="188" src="{{ site.amp_img_cache_url }}/assets/posts/2018-05-31/opengraph.jpg" alt="Communiquer oralement"></amp-img>
+<amp-img class="left" width="300" height="188" src="{{ site.amp_img_cache_url }}/assets/posts/2018-05-31/opengraph.png" alt="Communiquer oralement"></amp-img>
 
 
 En tant que personne autiste, une de mes plus grandes difficultés a toujours été d'arriver à parler verbalement aux gens.
