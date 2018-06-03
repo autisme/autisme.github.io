@@ -44,10 +44,11 @@ div.topic {
 div.graph-wrapper {
  margin: 40px 40px 40px 45px;
  text-align: center;
+ width: calc(100%-85px);
+ max-width: 1000px;
+ margin: auto;
 }
 div.graph {
- display: inline-block;
- width: auto;
 }
 div.footer {
  margin: 30px 45px 5px 45px;
@@ -111,9 +112,10 @@ div.footer > ul > li.twitter {
    }
 
    var ctx = document.getElementById('graph').getContext('2d');
-   var d = getDates('2018-05-07', '2018-05-30');
+   var d = getDates('2018-05-07', '2018-06-03');
    var chart = new Chart(ctx, {
     type: 'bar',
+    responsive: false,
     data: {
         labels: d,
         datasets: [{
@@ -125,7 +127,9 @@ div.footer > ul > li.twitter {
     },
     options: {}
    });
-   
+   var canvas =  document.getElementById('graph');
+   chart.resize(canvas.style.width, canvas.style.height);
+   chart.resize();   
   </script>
  </body>
 </html>
