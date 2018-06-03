@@ -10,7 +10,7 @@ breadcrumbs:
   - /je-suis-un-parent-membre-de-l-entourage/
 ---
 
-<amp-img class="center" layout="responsive" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/pages/parents/sortir-avec-frere-ou-soeur-autiste/opengraph.png" alt="Sortir avec votre frère ou votre sœur autiste cet été"></amp-img>
+<amp-img class="center" layout="responsive" width="640" height="376" src="{{ site.amp_img_cache_url }}/assets/pages/parent/sortir-avec-frere-ou-soeur-autiste/opengraph.png" alt="Sortir avec votre frère ou votre sœur autiste cet été"></amp-img>
 
 
 

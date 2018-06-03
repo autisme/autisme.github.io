@@ -35,7 +35,7 @@ soutien nécessaire pour que la personne puisse développer son potentiel, vivre
   <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/undefined_.png"></amp-img>
  </a></li>
  <li><a href="/je-suis-un-parent-membre-de-l-entourage/sortir-avec-frere-ou-soeur-autiste"><span>Sortir avec votre frère ou votre sœur autiste cet été</span>
-  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/parents/sortir-avec-frere-ou-soeur-autiste.png"></amp-img>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/parent/sortir-avec-frere-ou-soeur-autiste.png"></amp-img>
  </a></li>
 </ul>
 
