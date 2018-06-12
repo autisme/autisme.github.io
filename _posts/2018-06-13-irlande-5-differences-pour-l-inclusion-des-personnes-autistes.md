@@ -57,6 +57,7 @@ Enfin, et je pense que c’est également une différence importante avec ce que
 De la même manière, le handicap est abordé sous un angle beaucoup plus professionnel. Qu’est-ce que cela apporte aux entreprises d’employer une personne autiste&nbsp;? Qu’est-ce que cela apporte à un lieu public de considérer les personnes autistes ou à une école d’accueillir les élèves concernés&nbsp;? La présentation est toujours faite sous l’angle de ce que cela apporte à l’autre, plutôt que sous l’angle de la charité. Personnellement, je trouve cela plus que positif.
 
 
-Ces 5 différences fondamentales doivent nous montrer que la construction d’une société inclusive est possible et est à notre portée.
-
+Ces 5 différences ne doivent
+ pas être une occasion de nous dire que tout ce que nous faisons en France est mal ou nul mais doit nous permettre de progresser rapidement et doivent
+nous montrer que la construction d’une société inclusive est possible et est à notre portée.
 
