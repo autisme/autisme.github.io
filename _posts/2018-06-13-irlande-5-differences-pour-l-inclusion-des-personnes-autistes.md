@@ -14,7 +14,7 @@ oembed_image: /assets/posts/2018-06-13/opengraph.jpg
 
 
 
-Nous entendons souvent que la France est en retard sur la question de l’autisme, que beaucoup d’efforts doivent encore être faits pour l’inclusion des personnes autistes dans la société et qu’à l’étranger tout est mieux. Qu’en est-il vraiment ? Est-ce vraiment mieux à l’étranger ? Les personnes autistes sont-elles mieux acceptées ? 
+Nous entendons souvent que la France est en retard sur la question de l’autisme, que beaucoup d’efforts doivent encore être faits pour l’inclusion des personnes autistes dans la société et qu’à l’étranger tout est mieux. Qu’en est-il vraiment&nbsp;? Est-ce vraiment mieux à l’étranger&nbsp;? Les personnes autistes sont-elles mieux acceptées&nbsp;? 
 
 
 Je suis parti une semaine en Irlande où j’ai rencontré une association qui cherche à construire une société inclusive et à faire de l’Irlande le pays le plus accueillant pour les personnes autistes. Voici les différences qui m’ont le plus marqué avec ce que nous faisons et pratiquons en France.
@@ -31,7 +31,7 @@ Une caractéristique et peut être l’une des choses les plus frappantes lorsqu
 
 Lorsque nous décrivons l’autisme en France, nous décrivons d’abord un problème de communication, des difficultés sociales et des intérêts restreints et répétitifs. Les difficultés sensorielles ne sont très souvent abordées que brièvement voire ne sont pas considérées du tout. En Irlande, cela est totalement différent. L’autisme est principalement abordé sous l’angle sensoriel. Les associations incitent les entreprises et les organisations à limiter les stimuli sensoriels et à mettre en place des endroits plus calmes à destination des personnes autistes afin que celles-ci puissent se reposer.
 
-Juste pour prendre un exemple, à l’aéroport, au moment de repartir, le personnel m’a demandé 3 fois si le bruit et la foule étaient supportables. Du jamais vu dans nos contrées.
+Juste pour prendre un exemple, à l’aéroport, au moment de repartir, le personnel m’a demandé 3 fois si le bruit et la foule étaient supportables. Nous n'avons jamais vu cela dans nos contrées.
 
 
 ## Distinction entre l’autisme classique et le syndrome d’Asperger
@@ -46,7 +46,7 @@ Faire comprendre ce qu’est l’autisme, inciter les entreprises, les services 
 
 De la même manière, la sensibilisation et la compréhension de l’autisme sont considérées comme deux choses différentes. Vous pouvez savoir que le chinois est une langue, si vous ne le parlez pas, vous ne pourrez pas inclure les personnes ne parlant que cette langue.
 
-La conséquence est que partout où vous allez, partout les gens sont informés et , que ce soit dans les magasins ou au restaurant.
+La conséquence est que partout où vous allez, partout les gens sont informés et, que ce soit dans les magasins ou au restaurant.
 
 
 ## Des organisations plus professionnelles
@@ -54,7 +54,7 @@ La conséquence est que partout où vous allez, partout les gens sont informés 
 Enfin, et je pense que c’est également une différence importante avec ce que nous connaissons, les organisations Irlandaises tendent à être plus professionnelles. En France, bien souvent, les associations ne sont composées que de bénévoles. Les personnes s’y investissent uniquement sur leur temps libre. En Irlande, les associations n’hésitent pas à chercher des fonds pour embaucher du personnel qui peut se consacrer à la cause plus de 40 heures par semaine. Ainsi les progrès et les transformations dans la société se mettent plus rapidement en place que chez nous tout en permettant également aux associations d’agir à un niveau européen.
 
 
-De la même manière, le handicap est abordé sous un angle beaucoup plus professionnel. Qu’est-ce que cela apporte aux entreprises d’employer une personne autiste ? Qu’est-ce que cela apporte à un lieu public de considérer les personnes autistes ou à une école d’accueillir les élèves concernés ? La présentation est toujours faite sous l’angle de ce que cela apporte à l’autre, plutôt que sous l’angle de la charité. Personnellement, je trouve cela plus que positif.
+De la même manière, le handicap est abordé sous un angle beaucoup plus professionnel. Qu’est-ce que cela apporte aux entreprises d’employer une personne autiste&nbsp;? Qu’est-ce que cela apporte à un lieu public de considérer les personnes autistes ou à une école d’accueillir les élèves concernés&nbsp;? La présentation est toujours faite sous l’angle de ce que cela apporte à l’autre, plutôt que sous l’angle de la charité. Personnellement, je trouve cela plus que positif.
 
 
 Ces 5 différences fondamentales doivent nous montrer que la construction d’une société inclusive est possible et est à notre portée.
