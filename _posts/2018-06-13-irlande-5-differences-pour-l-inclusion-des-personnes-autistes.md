@@ -1,4 +1,4 @@
-$---
+---
 layout: post
 title: "Voyage en Irlande : 5 différences essentielles pour l’inclusion des personnes autistes"
 date: 2018-05-31 08:00:00 +0200
