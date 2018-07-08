@@ -42,6 +42,6 @@ L'attente est souvent longue et difficilement supportable&nbsp;!
 
 ### 5. Profitez de la journée
 
-Profitez de la journée sans angoisser. Le 14 juillet est d'abord une fête à célébrer 
+Profitez de la journée sans angoisser&nbsp;! Le 14 juillet est d'abord une fête à célébrer.
 
 ---
