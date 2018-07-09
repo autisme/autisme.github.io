@@ -13,13 +13,13 @@ oembed_image: /assets/posts/2018-07-12/opengraph.png
 
 <amp-img class="left" width="320" height="188" src="{{ site.amp_img_cache_url }}/assets/posts/2018-07-12/opengraph.png" alt="Pour un 14 juillet autism friendly"></amp-img>
 
-La fête nationale, peut être un moment stressant pour les personnes autistes. Non seulement à cause de la foule dans les rues et de 
-la musique qui est souvent très forte mais surtout pour son traditionnel feu d'artifice qui peut s'avérer traumatisant pour certaines personnes.
+La fête nationale, peut être un moment stressant pour les personnes autistes. Que ce soit à cause de la foule dans les rues, 
+de la musique jouée par les orchestres dans les bals en plein air qui est souvent très forte mais surtout à cause du traditionnel feu d'artifice qui peut s'avérer traumatisant pour certaines personnes.
 Les lumières et le bruit d'explosion de chaque artifice y sont souvent difficilement tolérables.
 
 Par conséquence, beaucoup de personnes autistes préfèrent rester chez elles cette journée-là, les isolant un peu plus des activités du reste de la population.
 Pourtant, avec un peu de préparation, il est possible de profiter au mieux de ce moment.
-Voici quelques conseils pour assister au feu d'artifice.
+Voici quelques conseils.
 
 ### 1. Préparez-vous
 Renseignez-vous sur le lieu et l'heure du feu d'artifice. Rendez-vous sur place pour repérer où vous pourrez-vous asseoir. Repérez également le chemin pour repartir&nbsp;: 
