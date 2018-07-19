@@ -34,6 +34,9 @@ Dans les sections ci-dessous, nous introduisons le handicap et ses caractéristi
  <li><a href="/mettez-vous-a-la-place-d-une-personne-autiste"><span>Mettez-vous à la place d'une personne autiste</span>
   <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/posts/2017-10-02/opengraph.png"></amp-img>
  </a></li>
+ <li><a href="/faq/"><span>Questions fréquemment posées</span>
+  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/faq/opengraph.png"></amp-img>
+ </a></li>
  <li><a href="/autisme/associations"><span>Associations de soutien</span>
   <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/autisme/associations/ID-10069294.jpg"></amp-img>
  </a></li>
