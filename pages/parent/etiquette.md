@@ -40,7 +40,7 @@ Vous allez finir par vous demander «&nbsp;qu'est-ce qui ne va pas chez moi&nbsp
 Toutefois, il y a quelques inconvénients à l'étiquette d'autisme.
 
 #### Un traitement différent
-Tout ce que nous voulons est que la personne avec autisme se développe pleinement. Une étiquette d'autisme c'est risquer l'exclusion, risquer d'être traîté différemment, de subir des humiliations.
+Tout ce que nous voulons est que la personne autiste se développe pleinement. Une étiquette d'autisme c'est risquer l'exclusion, risquer d'être traîté différemment, de subir des humiliations.
 Toutefois, l'exclusion et les humiliations sont des problèmes avec ou sans diagnostic.
 Certaines personnes ont également traite les personnes autisme avec trop de compassion. Nous espérons qu'éduquer les gens permettra de faire un grande différence sur ce point.
 

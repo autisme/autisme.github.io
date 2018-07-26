@@ -24,7 +24,7 @@ aides nécessaires à votre enfant autiste, qui peut être à vos yeux le plus
 vulnérable ou qui demande le plus de soutien.
 
 Il est cependant important de relever les défis auxquels est confronté
-le fait de vivre avec un frère ou une soeur avec autisme.
+le fait de vivre avec un frère ou une soeur autiste.
 Le ménage tourne probablement autour de ses besoins,
 
 Il est toutefois important que les frères et sœurs reçoivent
@@ -62,12 +62,12 @@ la famille. Cela leur permet de sortir de la la routine et des exigences que vot
 
 ### Prenez le temps pour eux
 Beaucoup plus facile à dire qu'à faire, vous pourriez même vous sentir
-coupable car vous pourriez penser que vous délaissez votre enfant avec autisme, mais il s'agit de s'assurer que
+coupable car vous pourriez penser que vous délaissez votre enfant autiste, mais il s'agit de s'assurer que
 chaque enfant passe du temps seul avec vous pour faire des choses qu'ils apprécient.
 
 ### Rappelez-leurs qu'avoir un frère ou un sœur autiste a aussi des avantages
 Assurez-vous d'honorer et de remercier vos autres enfants lorsqu'ils font quelque chose de
-gentil ou qu'ils tiennent compte de leurs frères et sœurs avec autisme.
+gentil ou qu'ils tiennent compte de leurs frères et sœurs autiste.
 Cela ne les aidera pas seulement à se sentir appréciés, mais cela devrait également leur rappeler
 les avantages d'avoir des frères et sœurs avec l'autisme.
 Vos enfants sont plus susceptibles de comprendre, de soigner et d'accepter la

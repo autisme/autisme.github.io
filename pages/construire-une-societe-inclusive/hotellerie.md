@@ -53,12 +53,12 @@ quelques éléments sur l'autisme, vous pourrez faire des petits changements qui
 
 #### Préparation et planification
 
-Quand une personne avec autisme voyage, seule ou avec sa famille, c'est souvent une source de stress.
+Quand une personne autiste voyage, seule ou avec sa famille, c'est souvent une source de stress.
 Le voyage casse la routine et la routine est quelque chose de très important pour les personnes autistes.
 Ce stress peut être évité ou atténué par une importante étape de préparation, si elles ont accès à des images des chambres et de l'hôtel avant d'y aller.
 Il pourrait également être très utile d'avoir la liste de ce qui est fourni dans l'hôtel.
 
-Si vous avez des clients avec autisme qui viennent régulièrement, il peut être important de leur signaler à l'avance les futurs changements afin qu'ils puissent se préparer.
+Si vous avez des clients autistes qui viennent régulièrement, il peut être important de leur signaler à l'avance les futurs changements afin qu'ils puissent se préparer.
 
 #### Communication
 
@@ -121,7 +121,7 @@ De la même façon quand quelqu'un part de l'hôtel, le stress fait qu'il peut a
 
 #### Routine
 
-Pour une personne avec autisme, sortir de la routine peut être une source de stress.
+Pour une personne autiste, sortir de la routine peut être une source de stress.
 Par conséquent, partir en voyage peut être très difficile.
 Les hôtels peuvent participer à cela, par exemple l'annulation d'une réunion dans l'hôtel, l'absence d'un membre du personnel qui est habituellement en service ou même un changement dans le menu des dîners peut accentuer le stress.
 
@@ -161,7 +161,7 @@ Les personnes autistes représentent une part non négligeable de votre clientè
 
 #### Fournir des photos de votre hôtel
 
-Prenez des photos qui peuvent être téléchargées en ligne, de sorte que les clients avec autisme puis préparer leur venue.
+Prenez des photos qui peuvent être téléchargées en ligne, de sorte que les clients autistes puis préparer leur venue.
 Vous pouvez également inclure sur votre site web une visite à 360°.
 
 Vous pouvez également fournir sur votre site web des informations comme les procédures d'enregistrement, les objets qu'il est nécessaire d'apporter ainsi que la liste des règles que l'hôtel peut avoir.

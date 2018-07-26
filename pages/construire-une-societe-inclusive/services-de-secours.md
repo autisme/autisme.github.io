@@ -89,22 +89,22 @@ Gérer la vie quotidienne est souvent une source d'anxiété en soi.
 Pour réduire l'anxiété, elles peuvent avoir des routines afin de maintenir de la prédictibilité dans leur vies.
 La recherche a montré que le niveau d'anxiété sont particulièrement élevés chez les personnes autistes et un petit grain de sable peut générer une très grande réaction de stress.
 
-Soyez prêts à aider quelqu'un avec autisme dans une situation d'urgence.
+Soyez prêts à aider une personne autiste dans une situation d'urgence.
 Avec suffisamment d'informations, vous pouvez transformer une situation potentiellement difficile en une sitation de réussite, tout en apportant quelque chose de positif à toutes les personnes impliquées.
 
 ### Liste de conseils pour le personnel des services de secours
 
-  - La personne avec autisme peut «&nbsps'auto-stimuler&nbsp;» à cause de l'anxiété excessive ou de la douleur&nbsp;;
+  - La personne autiste peut «&nbsps'auto-stimuler&nbsp;» à cause de l'anxiété excessive ou de la douleur&nbsp;;
   - Elle peut avoir une réponse inappropriée à la douleur, comme rire, chanter ou encore se déshabiller&nbsp;;
   - La communication verbale peut être difficile ou impossible, utilisez plutôt des images ou une application mobile pour évaluer la situation&nbsp;;
   - Les personnes qui ne semblent pas comprendre ce que vous dites peuvent en fait comprendre mais ne pas réagir&nbsp;;
-  - Si possible, demandez à l'accompagnant, le «&nbsp;niveau de fonctionnement&nbsp;» de la personne avec autisme. Tenez en compte dans votre approche&nbsp;;
+  - Si possible, demandez à l'accompagnant, le «&nbsp;niveau de fonctionnement&nbsp;» de la personne autiste. Tenez en compte dans votre approche&nbsp;;
   - Les signes de la douleur peuvent être moins visibles&nbsp;;
-  - Les enfants avec autisme peuvent mâcher et avaler des choses sans que leurs parents en soient informés&nbsp;;
+  - Les enfants autistes peuvent mâcher et avaler des choses sans que leurs parents en soient informés&nbsp;;
   - Certaines personnes autistes peuvent ressentir les sensations d'une manière différente. Elles peuvent ne pas ressentir le froid, la chaleur ou la douleur d'une manière ordinaire. Elles peuvent ne pas savoir où elles ont mal malgré une douleur intense&nbsp;;
   - Réalisez les examens médicaux dans un endroit le plus calme possible&nbsp;;
   - Expliquez en avance ce que vous êtes allez faire et ce que vous faites&nbsp;;
-  - Réalisez les examens sur une autre personne en premier. Cela permet à la personne avec autisme de visualiser ce qu'il l'attend&nbsp;;
+  - Réalisez les examens sur une autre personne en premier. Cela permet à la personne autiste de visualiser ce qu'il l'attend&nbsp;;
   - Déplacez vous doucement et essayez de faire l'examen de l'extrémité distale à l'extrémité proximale&nbsp;;
   - Les personnes autistes peuvent avoir des difficultés à supporter le toucher. Cela peut rendre l'examen difficile, allez-y doucement en faisant attention&nbsp;;
   - Si possible, évitez d'utiliser les plâtres ou les matières adhésives qui peuvent générer de l'anxiété&nbsp;;

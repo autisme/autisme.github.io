@@ -73,7 +73,7 @@ Cela aboutit à de l'anxiété et du stress et finalement à de l'isolement.
 La routine est très importante pour beaucoup de gens.
 Un changement dans la routine peut grandement impacter leur possibilité de venir à un divertissement.
 
-Si une personne avec autisme va dans un endroit nouveau, cela peut être très stressant, spécialement si elle n'a pas eu le temps de s'y préparer ou ne sait pas à quoi s'attendre (par exemple, une famille décide d'aller au cinéma à la dernière minute).
+Si une personne autiste va dans un endroit nouveau, cela peut être très stressant, spécialement si elle n'a pas eu le temps de s'y préparer ou ne sait pas à quoi s'attendre (par exemple, une famille décide d'aller au cinéma à la dernière minute).
 
 De même, si une personne a l'habitude de venir souvent dans un endroit et que quelque chose change comme par exemple un membre du personnel qui est n'est plus là, un changement dans l'aménagement des locaux, cela peut générer de l'anxiété.
 En aidant les familles à se préparer pour une visite et en prévenant les personnes de futurs changements, vous pouvez rendre la vie plus facile pour tout le monde.
@@ -82,7 +82,7 @@ En aidant les familles à se préparer pour une visite et en prévenant les pers
 
 #### Anxiété
 
-Quand les choses ne sont pas assez claires ou qu'une situation non prévue se produit, une personne avec autisme peut devenir anxieuse.
+Quand les choses ne sont pas assez claires ou qu'une situation non prévue se produit, une personne autiste peut devenir anxieuse.
 
 Plus une personne est anxieuse, plus les difficultés apparaissent. C'est pourquoi il est indispensable d'avoir une communication claire et de faire des adaptations raisonnables qui profitent à la fois aux clients et au personnel.
 

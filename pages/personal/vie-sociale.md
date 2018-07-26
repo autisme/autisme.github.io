@@ -23,7 +23,7 @@ Cela peut provoquer de l'anxiété. Une personne peut également avoir du mal à
 comment se comporter ou de quoi parler et peut
 donc se sentir mal à l'aise ou être laissée à l'écart.
 
-Cela ne signifie pas qu'une personne avec autisme ne peut pas
+Cela ne signifie pas qu'une personne autiste ne peut pas
 socialiser ou n'apprécie pas le fait d'être avec d'autres gens.
 En effet, de nombreuses personnes autistes apprécient
 la socialisation et souhaitent socialiser.

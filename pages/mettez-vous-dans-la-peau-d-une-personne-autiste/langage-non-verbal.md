@@ -24,7 +24,7 @@ Certaines personnes autistes n'arrivent pas à regarder les personnes dans les y
 Cela peut générer des problèmes de communications à la fois pour la personne autiste et son interlocuteur.
 Les personnes non autistes peuvent penser que si l'on ne les regarde pas dans les yeux, c'est que la personne est suspecte ou a quelque chose à cacher.
 Au contraire trop regarder dans les yeux met la personne mal à l'aise.
-Du point de vue de la personne avec autisme,
+Du point de vue de la personne autiste,
  vous pouvez par exemple vous demander pour quelle raison vous êtes félicité après avoir fait une bêtise puisque l'on vous aura dit&nbsp;: «&nbsp;Tu es fier de toi j'espère !&nbsp;» avec
 un air en colère mais vous n'aurez considéré uniquement le texte et non l'expression du visage affichée.
 

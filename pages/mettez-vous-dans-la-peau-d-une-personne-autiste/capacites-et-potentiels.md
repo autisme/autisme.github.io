@@ -10,7 +10,7 @@ breadcrumbs:
 
 Bien que nous parlons souvent voire tout le temps des problèmes des personnes autistes, nous ne devons pas oublier que
 ces personnes, comme toutes les personnes, ont des capacités et des talents.
-Par exemple, en tant que personne avec autisme, vous pouvez passer des journées entière à travailler sur les sujets qui vous intéressent, que ce soit une activité manuelle, du sport, l'étude de langues vivantes ou mortes, l'histoire, ou encore 
+Par exemple, en tant que personne autiste, vous pouvez passer des journées entière à travailler sur les sujets qui vous intéressent, que ce soit une activité manuelle, du sport, l'étude de langues vivantes ou mortes, l'histoire, ou encore 
 des sciences. 
 Vous développez alors une expertise sur ces sujets.
 Vous pouvez utiliser ces centres d'intérêts comme un avantage pour faire face aux difficultés.

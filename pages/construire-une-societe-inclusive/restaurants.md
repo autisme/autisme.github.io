@@ -16,7 +16,7 @@ breadcrumbs:
 
 Les restaurants et les bars font partis de la vie de tous les jours. Souvent nous y allons pour nous détendre ou pour marquer les grandes occasions.
 
-Toutefois, ce n'est pas si facile pour les clients avec autisme .
+Toutefois, ce n'est pas si facile pour les clients autistes .
 Les restaurants et les bars sont des lieux sociaux qui demandent beaucoup d'interactions et de communication.
 Ce sont également des lieux bruyants.
 Ces éléments posent de sérieuses difficultés pour les personnes autistes.
@@ -58,14 +58,14 @@ S'il y a une large foule de personnes qui parlent, cela peut être difficile pou
 #### Compétences sociales
 
 Les restaurants et les bars sont des environnements très sociaux. Les personnes autistes ont un manque de compétences sociales ce qui pose une réelle difficulté dans un restaurant.
-Un client avec autisme peut être très anxieux de devoir faire la conversation ou d'interagir avec d'autres personnes.
+Un client autiste peut être très anxieux de devoir faire la conversation ou d'interagir avec d'autres personnes.
 Certaines personnes seront très distantes du fait de leur inconfort.
 
 Une autre difficulté qui peut arriver dans les bars est que les personnes autistes ne savent pas comment commencer une conversation avec d'autres clients.
 
 #### Choix
 
-Les clients avec autisme peuvent avoir des difficultés à faire des choix, notamment pour choisir la nourriture ou la boisson qu'ils veulent commander.
+Les clients autistes peuvent avoir des difficultés à faire des choix, notamment pour choisir la nourriture ou la boisson qu'ils veulent commander.
 Cela est d'autant plus vrai si vous proposez un large choix ou si la personne ne peut pas visualiser/s'imaginer à quoi ressemble les différents plats.
 
 Cela peut rendre l'étape de commande très longue, générer de l'anxiété et souvent les autres clients et le personnel deviennent impatients.
@@ -157,12 +157,12 @@ Vous pourrez ainsi résoudre les problèmes en avance tout en réduisant le stre
 
 Des petits changements peuvent générer une grande détresse chez les personnes autistes.
 Cela peut être des petites choses comme une nouvelle décoration ou un changement dans le menu.
-Si une personne avec autisme est n'y est pas préparée et ne s'y attend pas, cela peut être très stressant.
+Si une personne autiste est n'y est pas préparée et ne s'y attend pas, cela peut être très stressant.
 
-Cependant, si une personne avec autisme est capable de s'y préparer en avance, cela est souvent plus facile.
+Cependant, si une personne autiste est capable de s'y préparer en avance, cela est souvent plus facile.
 Les personnes autistes pourraient laisser leur adresse e-mail afin que vous puissiez les prévenir des changements à venir.
 
-C'est une petite adaptation pour vous qui peut être un grand atout pour les clients avec autisme.
+C'est une petite adaptation pour vous qui peut être un grand atout pour les clients autistes.
 
 
 #### Rencontrer les associations

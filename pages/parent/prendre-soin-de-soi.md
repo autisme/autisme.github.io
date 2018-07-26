@@ -14,7 +14,7 @@ breadcrumbs:
 
 <amp-img class="left" width="400" height="266" src="{{ site.amp_img_cache_url }}/assets/pages/parent/prendre-soin-de-soi/ID-10028215.jpg" alt="ID-10028215"></amp-img>
 
-Lorsque vous vous occupez d'un membre de la famille ou d'un proche avec autisme,
+Lorsque vous vous occupez d'un membre de la famille ou d'un proche autiste,
 il est facile de perdre de vue votre propre santé et votre bien-être mental.
 
 L'obtention d'un diagnostic n'est pas une chose facile, et, comme vous le savez, 
@@ -24,7 +24,7 @@ En outre, l'environnement familial
 peut être très difficile avec une personne atteinte d'autisme qui demande de l'attention à chaque instant.
 
 Cependant, il est important de vous souvenir que vous n'êtes pas la cause
-de ces problèmes auxquels la personne avec autisme doit faire face.
+de ces problèmes auxquels la personne autiste doit faire face.
 En fait, vous faites partie de la solution&nbsp;!
 Vous devez également vous rappeler que si vous vous effondrez en raison du stress et de la fatigue, vous ne pouvez pas apporter votre aide&nbsp;!
 
@@ -43,7 +43,7 @@ Bien que cela soit facile à dire, c'est bien plus difficile à faire.
 Les parents et les autres membres de la famille des personnes autistes
 sont des héros méconnus.
 Et pourtant, bien souvent ils sont durs avec eux-mêmes&nbsp;!
-Ne vous croyez pas que c'est de votre faute si vous avez tant de défis à relever ou que vous ne faites pas assez pour aider la personne avec autisme à les surmonter.
+Ne vous croyez pas que c'est de votre faute si vous avez tant de défis à relever ou que vous ne faites pas assez pour aider la personne autiste à les surmonter.
 
 En outre, les membres de la famille estiment souvent
 que d'autres personnes, sans connaissance de l'autisme,

@@ -41,7 +41,7 @@ Certains parents d’enfants autistes témoignent même que d’autres parents e
 Environ une personne sur cent est autiste, donc il est très probable que chacun d’entre nous en connaisse une, et qu’il y ait des étudiants autistes dans toutes les écoles, et pourtant, c’est quelque chose dont on ne parle pas encore assez avec les autres étudiants.
 
 
-Les jeunes sont très curieux et ont beaucoup moins de préjugés que les adultes. Ils n’ont pas peur de poser des questions qui pourraient paraître impolies à propos des choses qu’ils voient mais qu’ils ne comprennent pas, comme&nbsp;: «Pourquoi les personnes avec autisme font cela ?» ou «Il y a quelqu’un qui fait cela et je ne comprends pas pourquoi».
+Les jeunes sont très curieux et ont beaucoup moins de préjugés que les adultes. Ils n’ont pas peur de poser des questions qui pourraient paraître impolies à propos des choses qu’ils voient mais qu’ils ne comprennent pas, comme&nbsp;: «Pourquoi les personnes autistes font cela ?» ou «Il y a quelqu’un qui fait cela et je ne comprends pas pourquoi».
 
 
 Beaucoup d’adultes peuvent être réticents à propos de certaines choses ou à poser certaines questions car ils ont peur d’être impolis, mais en fait, ce serait beaucoup mieux si les gens posaient leurs questions, avec respect et directement, pour avoir des réponses honnêtes et justes au lieu de laisser des interrogations chez les personnes qui interagissent souvent avec des gens du spectre.

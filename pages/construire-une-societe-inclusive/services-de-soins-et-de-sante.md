@@ -67,7 +67,8 @@ Une forte aversion à certains goûts comme les médicaments ou du dentifrice / 
 Un sens de l'odorat très développé rend difficile pour un patient la présence d'odeurs d'hôpital.
 
 ##### Toucher
-Le toucher est particulièrement difficile lors de la consultation d'un patient avec autisme.
+Le toucher est particulièrement difficile lors de la consultation d'un patient 
+autiste.
 Une haute sensibilité du toucher peut rendre l'examen ou le traitement difficile.
 De plus, beaucoup ont un seuil de réaction à la douleur élevé, rendant le diagnostic difficile.
 
@@ -123,7 +124,7 @@ et les questions courantes de toute consultation chez le médecin.
 Tout le personnel devrait être au fait des difficultés de communication que les patients rencontrent.
 Utilisez un langage clair et factuel et évitez les termes abstraits.
 Laissez du temps à la personne pour répondre.
-Gardez à l'esprit que la personne avec autisme peut avoir du mal avec le contact visuel.
+Gardez à l'esprit que la personne autiste peut avoir du mal avec le contact visuel.
 
 #### Rendre le lieu «&nbsp;autism friendly&nbsp;»
 
@@ -134,16 +135,17 @@ Si une lumière forte est nécessaire, prévenez le patient en avance et allumez
 
 #### Fournir une «&nbsp;social story&nbsp;» sur votre site web
 Une «&nbsp;social story&nbsp;» peut être un outil utile pour se préparer avant de venir dans votre cabinet.
-Une visite virtuelle et une gallerie de photo du personnel peuvent également permettre à une personne avec autisme de se préparer pour une visite.
+Une visite virtuelle et une gallerie de photo du personnel peuvent également permettre 
+à une personne autiste de se préparer pour une visite.
 
 #### Impliquer les parents
 
-Les parents d'un enfant avec autisme sont souvent les experts quand il s'agit de connaître leur enfant.
+Les parents d'un enfant autiste sont souvent les experts quand il s'agit de connaître leur enfant.
 Écoutez ce qu'ils ont à vous dire et acceptez les conseils qu'ils peuvent vous donner.
 
 #### Former le personnel
 
-Il n'y a pas de meilleur moyen que de former le personnel à travailler avec des patients avec autisme afin d'éviter la plupart des problèmes qui pourraient survenir.
+Il n'y a pas de meilleur moyen que de former le personnel à travailler avec des patients autistes afin d'éviter la plupart des problèmes qui pourraient survenir.
 
 #### Rencontrer les associations
 

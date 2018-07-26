@@ -11,13 +11,13 @@ oembed_image: /assets/posts/2017-06-10/ID-100259934.jpg
 ---
 
 «&nbsp;Que puis-je faire pour aider&nbsp;?&nbsp;» c'est une question que beaucoup de gens se posent, que ce soit des personnes qui viennent d'être sensibilisés à l'autisme et qui veulent 
-rendre la vie des personnes autistes plus facile ou que ce soit des parents, des proches d'une personne avec autisme qui veulent aider cette dernière.
+rendre la vie des personnes autistes plus facile ou que ce soit des parents, des proches d'une personne autiste qui veulent aider cette dernière.
 
 S'assurer que les personnes autistes puissent développer leur potentiel et faire partie de la société est quelque chose qui doit impliquer la société tout entière.
 Ce n'est pas juste pour les familles qui sont affectées, ce n'est pas juste pour les médecins, les psychologues et les enseignants.
 Cela est important dans la mesure où actuellement la situation des personnes autistes est catastrophique.
 
-<amp-img class="center" width="600" height="600" src="https://raw.githubusercontent.com/autisme/twitter-campaign/master/monday-messages/09-inclusion-is-important/img.png" alt="80% des adultes avec autisme ne travaillent pas ; beaucoup sont seuls et isolés ; l'anxiété et la dépression font souvent parties de leur vie ; leur espérance de vie est en moyenne réduite de 18 ans ; le taux de suicide est 9 fois plus élevé"></amp-img>
+<amp-img class="center" width="600" height="600" src="https://raw.githubusercontent.com/autisme/twitter-campaign/master/monday-messages/09-inclusion-is-important/img.png" alt="80% des adultes autistes ne travaillent pas ; beaucoup sont seuls et isolés ; l'anxiété et la dépression font souvent parties de leur vie ; leur espérance de vie est en moyenne réduite de 18 ans ; le taux de suicide est 9 fois plus élevé"></amp-img>
 
 Les personnes autistes ont besoin d'aides pour atteindre leur potentiel mais elles ont également besoin de compréhension et d'ouverture de la part de la société.
 C'est là que vous avez un rôle à jouer&nbsp;! Donner de l'argent aux associations est important et toujours apprécié mais il est plus important encore de prendre des mesures 
@@ -34,7 +34,7 @@ Ci-dessous, une liste de choses que **vous** pouvez faire.
 Beaucoup de personnes autistes trouvent la communication difficile. Cela peut prendre différentes formes. Certaines personnes sont non verbales tandis que d’autres peuvent avoir du mal à organiser leurs idées et avoir besoin de temps pour cela. Il peut être difficile pour ces personnes de savoir et comprendre ce qu’elles ressentent.
 Beaucoup de personnes autistes ont une compréhension littérale du langage, ce qui signifie que l’humour, le sarcasme ou autres figures de styles peuvent être déroutantes.
 
-Si vous rencontrez une personne avec autisme qui a des difficultés avec le langage, vous devriez utiliser des phrases claires qui disent exactement ce que vous voulez dire.
+Si vous rencontrez une personne autiste qui a des difficultés avec le langage, vous devriez utiliser des phrases claires qui disent exactement ce que vous voulez dire.
 Laissez suffisamment de temps à la personne pour vous répondre, ne posez pas de nombreuses questions à la suite.
 
 N’oubliez pas, ce n’est pas parce qu’une personne ne parle pas que celle-ci n’a rien à dire.
@@ -42,13 +42,13 @@ N’oubliez pas, ce n’est pas parce qu’une personne ne parle pas que celle-c
 ### 2. Allez à la rencontre des personnes autistes
 Nous avons souvent l’impression que les personnes autistes vivent leur vie et ne souhaitent pas socialiser.
 Bien que cela soit le cas pour certaines personnes, d’autres aimeraient bien mais ne savent pas comment s’y prendre.
-Une personne avec autisme peut ne pas savoir comment commencer une conversation ou devenir très anxieuse.
+Une personne autiste peut ne pas savoir comment commencer une conversation ou devenir très anxieuse.
 Ne forcez jamais une personne à socialiser mais invitez là même si à chaque fois la personne décline votre invitation.
 La personne sait qu’elle sera la bienvenue à participer si elle le 
 souhaite. Les personnes autistes trouvent souvent qu’il est plus facile de socialiser d’une façon structurée, au travers de leurs intérêts spécifiques plutôt que 
 de «&nbsp;parler de la pluie et du beau temps&nbsp;».
 
-N’oubliez pas, une personne avec autisme peut ne pas vouloir socialiser à un moment donné car elle n’est pas prête ou n’a pas envie.
+N’oubliez pas, une personne autiste peut ne pas vouloir socialiser à un moment donné car elle n’est pas prête ou n’a pas envie.
 Cela ne signifie pas qu’elle ne voudra jamais socialiser.
 
 ### 3. Soyez sensible
@@ -69,7 +69,7 @@ Vous pouvez rendre leur vie plus facile en les prévenant à l’avance des chan
 On attend toujours des personnes autistes de s’adapter au monde autour
 d'elles, ce qui est drôle parce que l’autisme lui-même rend les changements
 et les adaptations difficiles.
-Essayez de faire votre partie du chemin pour vous adapter à la personne avec autisme.
+Essayez de faire votre partie du chemin pour vous adapter à la personne autiste.
 
 ### 6. Ne jugez pas si rapidement
 Avez-vous déjà vu une mère dans un supermarché avec un enfant qui criait et pleurait&nbsp;? Avez-vous déjà vu une personne «&nbsp;étrange&nbsp;»

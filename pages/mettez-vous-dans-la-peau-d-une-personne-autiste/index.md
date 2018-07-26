@@ -8,7 +8,7 @@ oembed_image: /assets/posts/2017-10-02/opengraph.png
 
 Avec plus de 1 personne sur 100 concernée par l'autisme, tout le monde connaît une personne autiste dans son entourage. Que ce soit dans sa famille, au travail ou chez des amis.
 Tout le monde rencontrera plusieurs personnes autistes dans sa vie.
-Pourtant peu de personnes savent réellement ce qu'est l'autisme, comment inclure une personne avec autisme dans leur groupe d'amis, leur groupe de collègue ou même comment réagir
+Pourtant peu de personnes savent réellement ce qu'est l'autisme, comment inclure une personne autiste dans leur groupe d'amis, leur groupe de collègue ou même comment réagir
 face à une personne concernée.
 
 

@@ -53,7 +53,7 @@ Cependant, les associations et les clubs peuvent aussi poser quelques difficult�
 satisfaits, notamment parce que le handicap n'est pas forcément évident à reconnaître pour les autres gens.
 C'est vraiment dommage, à la fois pour les personnes autistes mais aussi pour les autres membres du club.
 Les personnes autistes sont connues pour leur capacité à rester concentrée, leur enthousiasme et dans beaucoup de cas pour leur excellence dans les activités qu'ils apprécient.
-Une personne avec autisme est un atout pour les associations à cause de leur façon particulière de voir le monde.
+Une personne autiste est un atout pour les associations à cause de leur façon particulière de voir le monde.
 
 ### Associations et clubs sportifs - Challenges pour les personnes autistes
 
@@ -139,7 +139,7 @@ Si des stratégies ne  sont pas mises en place, cela tend généralement à ce q
 
 #### Comportements
 
-Quand une personne avec autisme devient stressée ou anxieuse et ne peut pas le communiquer, cela peut générer un comportement difficile.
+Quand une personne autiste devient stressée ou anxieuse et ne peut pas le communiquer, cela peut générer un comportement difficile.
 Il est important que les associations comprennent les raisons derrières ces comportements et comment les éviter.
 
 #### Anxiété
@@ -189,7 +189,7 @@ Faites une campagne de sensibilisation au sein de l'association et ayez une tol�
 
 #### Former
 
-IL est important que les personnes comprennent les besoins des membres avec autisme.
+IL est important que les personnes comprennent les besoins des membres autistes.
 Pourquoi ne pas tenir une journée de formation pour éduquer les personnes à propos des problèmes auxquels les personnes autistes font face et comment les résoudre dans le contexte d'une association ?
 
 #### Fournir un environnement «&nbsp;sensory friendly&nbsp;»

@@ -12,9 +12,9 @@ breadcrumbs:
   - /autisme/
 ---
 Beaucoup de personnes autistes sont affectés par d'autres handicaps.
-Cela montre combien il est important de regarder chaque personne avec autisme
+Cela montre combien il est important de regarder chaque personne autiste
 en tant que personne avec ses forces, ses besoins et ses difficultés.
-Quand une personne avec autisme a un autre handicap, il est vital que les difficultés
+Quand une personne autiste a un autre handicap, il est vital que les difficultés
 des deux handicaps soient prises en compte et que des solutions soient apportées.
 Il est également important de se rappeler que l'autisme doit être pris en compte
 lorsque les aides et les prises en charge pour les autres handicaps sont mises en place.

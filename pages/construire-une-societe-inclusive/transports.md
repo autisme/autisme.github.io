@@ -51,12 +51,12 @@ Les personnes autistes ont des difficultés à traiter l'environnement sensoriel
 Cela rend l'usage des transports en commun difficile.
 
 ##### Vue
-Les lumières vives des transports peuvent être difficiles à supporter pour les clients avec autisme.
+Les lumières vives des transports peuvent être difficiles à supporter pour les clients autistes.
 Les tunnels noirs peuvent aussi poser des problèmes.
 De plus, certaines personnes n'aiment pas certaines couleurs et peuvent devenir anxieuses en y étant exposées comme par exemple un panneau rouge lumineux.
 
 ##### Odorat
-Une personne avec autisme peut ne pas supporter certaines odeurs.
+Une personne autiste peut ne pas supporter certaines odeurs.
 Dans les transports, il peut être difficile de rester assis à côté de quelqu'un qui mange quelque chose ou qui a une forte odeur.
 Cela peut générer de la détresse.
 
@@ -135,7 +135,7 @@ Les personnes autistes représentent une part non négligeable de votre clientè
 
 #### Former le personnel
 
-Il est essentiel que le personnel comprenne ce handicap et soit capables d'identifier les sources de stress et de difficultés pour les personne avec autisme.
+Il est essentiel que le personnel comprenne ce handicap et soit capables d'identifier les sources de stress et de difficultés pour les personne autistes.
 Parce que l'autisme est un «&nbsp;handicap invisible&nbsp;», les personnes affectées peuvent être vues comme des clients difficiles.
 
 ##### Fournir une zone d'attente
@@ -189,7 +189,7 @@ Voulez-vous que 1 client sur 100 soit confiant dans l'utilisation de vos service
 Les changements sont difficiles pour les personnes autistes.
 Cela peut être plus facile si elles ont du temps pour s'y préparer.
 
-Pourquoi ne pas informer les passagers avec autisme où les informations telles que les retards sont envoyées
+Pourquoi ne pas informer les passagers autistes où les informations telles que les retards sont envoyées
 (autant que possible) en avance&nbsp;?
 
 

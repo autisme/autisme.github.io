@@ -175,7 +175,7 @@ Les personnes autistes représentent une part non négligeable de votre clientè
 #### Mettre à disposition un lieu calme («&nbsp;sensory friendly&nbsp;»)
 
 
-Mettre à disposition un petit espace de votre centre commercial de sorte que les familles aient quelque part où aller lorsqu'une personne avec autisme
+Mettre à disposition un petit espace de votre centre commercial de sorte que les familles aient quelque part où aller lorsqu'une personne autiste
 se sent mal.
 
 Avec cela, vous allez non seulement attirer les familles qui sont impactées par l'autisme mais aussi vous leur donnerez une zone de confort de sorte à qu'elle puisse rester plus longtemps dans votre magasin et ne partent pas aux premiers signes de difficultés&nbsp;!
@@ -183,7 +183,7 @@ Avec cela, vous allez non seulement attirer les familles qui sont impactées par
 #### Mettre en place une heure / une demi-journée «&nbsp;sensory friendly&nbsp;»
 
 Vous pouvez mettre en place une heure par jour ou une demi-journée par semaine pendant laquelle  vous ne faites pas d'annonce avec les haut-parleurs, où vous ne mettez pas la musique d'ambiance.
-Le shopping sera plus confortable pour les clients avec autisme et leur famille.
+Le shopping sera plus confortable pour les clients autistes et leur famille.
 
 #### Fournir des aides visuelles / des scénarios sur votre site web
 Se préparer pour aller dans un magasin est particulièrement difficile pour les personnes autistes.

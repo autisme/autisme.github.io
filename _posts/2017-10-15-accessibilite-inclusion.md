@@ -17,7 +17,7 @@ Nous pensons plus rarement aux personnes âgées et quasiment jamais aux personn
 
 <amp-img class="center" width="600" height="225" src="https://raw.githubusercontent.com/autisme/twitter-campaign/master/quotes/accessibility-vs-inclusion/img-v1.png"  alt="L'inclusion c'est permettre à chaque personne de participer dans la société et d'y contribuer. L'accessibilité est essentielle mais ce n'est que la première étape."></amp-img>
 
-Pourtant, le problème de l'accessibilité pour les  personnes avec autisme est réel.
+Pourtant, le problème de l'accessibilité pour les  personnes autistes est réel.
 Par exemple, il est souvent difficile pour les personnes concernées de se rendre dans un lieu rempli de monde, ou bruyant, ou avec des lumières vives.
 Aller faire des courses, prendre les transports en commun, aller au travail ou chez le médecin sont souvent des activités difficiles voire impossibles à réaliser.
 D'après la National Autistic Society au Royaume-Uni, 64&nbsp;% des personnes autistes évitent d'aller dans les magasins à cause de l'environnement difficile à supporter.
@@ -32,7 +32,7 @@ En un mot, la question de l'accessibilité n'a pas été traitée.
 <p>Nous avons parfois l'impression d'être inclusif lorsque nous accueillons les personnes autistes mais la véritable  inclusion, c'est lorsque chaque personne peut participer.</p>
 </div>
 
-Lorsque les personnes avec autisme sont accueillies à l'école (en classe ordinaire ou spécialisée) mais qu'elles n'ont pas groupe d'amis, font les travaux de groupe seules dans leur coin,
+Lorsque les personnes autistes sont accueillies à l'école (en classe ordinaire ou spécialisée) mais qu'elles n'ont pas groupe d'amis, font les travaux de groupe seules dans leur coin,
 nous ne pouvons pas dire que ces personnes soient incluses bien que l'école leur ait été accessible.
 
 
@@ -49,7 +49,7 @@ Beaucoup de personnes ne savent pas ce qu'est l'autisme ou en ont une représent
 Beaucoup pensent à Rainman.
 Certains imaginent une personne autiste qu'elle connaisse lorsque d'autres ont une vague idée du handicap en général.
 Le fait est que peu de monde réalise que chaque personne autiste est différente.
-Peu de monde comprend réellement ce qu'est l'autisme. Beaucoup pensent encore que c'est un trouble psychologique, que les personnes avec autisme aiment rester seules dans leur coin, etc.
+Peu de monde comprend réellement ce qu'est l'autisme. Beaucoup pensent encore que c'est un trouble psychologique, que les personnes autistes aiment rester seules dans leur coin, etc.
 Et en fin de compte, peu de monde  possède le vocabulaire adéquat pour aborder le sujet de l'autisme.
 Encore trop souvent, les personnes autistes sont décrites comme «&nbsp;bizarres&nbsp;», «&nbsp;étranges&nbsp;» ou «&nbsp;renfermées&nbsp;».
 

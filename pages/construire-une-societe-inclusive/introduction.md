@@ -152,7 +152,7 @@ Au contraire, il peut y avoir des textures ou des odeurs qui les apaise et qui l
 Cela peut causer de la détresse et de l'anxiété. Cela signifie que les personnes autistes peuvent éviter certains lieux, certaines activités à cause d'un
 mauvais environnement sensoriel, par exemple une maison avec un chien qui aboie ou un supermarché avec de la musique forte.
 
-Si une personne avec autisme est exposée à un environnement particulièrement difficile pour elle, même dans sa propre maison, les effets physiques peuvent être importants.
+Si une personne autiste est exposée à un environnement particulièrement difficile pour elle, même dans sa propre maison, les effets physiques peuvent être importants.
 Ils peuvent même être incapable de dire ce qui ne va pas. Parfois les personnes qui les accompagne peuvent elles-mêmes ne pas connaître les causes de cette détresse.
 
 #### Organisation
@@ -203,9 +203,9 @@ quelle mesure vous pouvez aider.
 
 Un grand problème auquel les personnes autistes doivent faire face est comment l'image que leur renvoie la société.
 Les personnes autistes sont parfois traités avec compassion, avec un comportement paternel.  Parfois, on ne considère pas ce qu'elles désirent ou espèrent. Elles sont vues comme des sous-individus, des sous-citoyens.
-Les stéréotypes font que les personnes supposent beaucoup de choses, notamment que toutes les personnes autistes sont les mêmes alors qu'en réalité, chaque personne avec autisme
+Les stéréotypes font que les personnes supposent beaucoup de choses, notamment que toutes les personnes autistes sont les mêmes alors qu'en réalité, chaque personne autiste
 est avant tout une personne.
-Chaque personne avec autisme a ses talents, ses compétences mais aussi ses difficultés.
+Chaque personne autiste a ses talents, ses compétences mais aussi ses difficultés.
 
 De plus, les personnes autistes sont souvent jugées à cause de la nature «&nbsp;invisible&nbsp;» de leur handicap. Les gens jugent les comportements sans connaître tous les faits.
 Les personnes autistes n'ont pas d'autre choix que de vivre dans un monde qui n'est pas fait pour eux et le manque d'adaptation dans la société leur rend la vie encore plus difficile.
@@ -240,7 +240,8 @@ Nous pouvons tous tomber dans les pièges des stéréotypes, mais cela ne vous a
 Parfois, nous avons l'impression que les personnes autistes ne veulent pas être incluses. Que ces personnes préfèrent être seules et évitent les activités en groupe.
 Cependant, elles peuvent apprécier d'avoir l'opportunité d'interagir et de participer comme tout le monde.
 
-Nous pouvons être réticent à inviter quelqu'un avec autisme parce que nous ne savons pas comment elle va répondre ou nous supposons qu'il refusera - mais ne supposez pas, demandez d'abord&nbsp;!
+Nous pouvons être réticent à inviter quelqu'un qui est autiste parce que nous ne savons pas comment il va nous répondre, ou bien, nous supposons qu'il refusera - mais ne supposez pas, 
+demandez d'abord&nbsp;!
 Si une personne dit non une fois, deux fois, ou même des centaines de fois, peut être qu'un jour, elle sera décidée à dire oui.
 
 Considérez également les activités que la personne apprécie, cela facilite la socialisation et limite le stress.
