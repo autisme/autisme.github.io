@@ -41,9 +41,9 @@ Dans les deux cas nous ne savons pas comment réagir.
 Les connaissances théoriques que nous avons se résument souvent à ceci&nbsp;:
 L'autisme est caractérisé par trois difficultés majeures dans la vie de la personne&nbsp;:
 
-  - Difficultés dans les intéractions sociale&nbsp;;
+  - Difficultés dans les interactions sociale&nbsp;;
   - Difficultés de communication&nbsp;;
-  - Comportements répétitifs et intérets restreints.
+  - Comportements répétitifs et intérêts restreints.
 
 À cela s'ajoute également des difficultés dans le traitement sensoriel, notamment des hypos et hyper sensibilités.
 Également, malgré certaines idées reçues, il n'est pas possible de devenir «&nbsp;autiste&nbsp;» au cours de la vie. Les personnes autistes le sont dès leur naissance.

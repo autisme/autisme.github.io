@@ -38,7 +38,8 @@ Que ce soit pour le travail ou pour les loisirs, nous allons à l'hôtel de temp
 Nous y allons pour nous reposer après des dures périodes de travail. Nous y allons aussi à cause de
 notre métier, pour participer à des conférences à certaines moments.
 
-Pour les personnes autistes, les hôtels peuvent être des endroits stressants avec beaucoup d'intéractions sociales sont nécessaires.
+Pour les personnes autistes, les hôtels peuvent être des endroits stressants avec 
+beaucoup d'interactions sociales sont nécessaires.
 C'est un lieu qui peut être imprévisible.
 En conséquence il peut être difficile pour les personnes autistes d'aller à l'hôtel ou de les apprécier.
 C'est une réelle barrière pour l'inclusion dans la société mais c'est aussi une grande perte pour l'industrie hôtelière.
