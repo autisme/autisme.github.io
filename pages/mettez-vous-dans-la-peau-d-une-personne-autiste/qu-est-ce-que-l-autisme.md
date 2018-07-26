@@ -35,8 +35,8 @@ Avez-vous déjà imaginé comment vous vous sentiriez si&nbsp;:
 
 Pourtant c'est ce que les personnes autistes vivent au quotidien.
 
-Nous avons parfois des connaissances théoriques sur l'autisme, ou lorsque nous manquons de connaissances, les préjugés remplissent le vide.
-Dans les deux cas nous ne savons pas comment réagir.
+Nous avons parfois des connaissances beaucoup trop théoriques sur l'autisme, ou parfois nous manquons de connaissances.
+Dans ces deux situations, les préjugés se développent et nous ne savons pas comment réagir.
 
 Les connaissances théoriques que nous avons se résument souvent à ceci&nbsp;:
 L'autisme est caractérisé par trois difficultés majeures dans la vie de la personne&nbsp;:
