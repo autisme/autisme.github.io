@@ -28,7 +28,7 @@ breadcrumbs:
 Avez-vous déjà imaginé comment vous vous sentiriez si&nbsp;:
 
   - vous ne pouvez pas voir clairement les mots que vous lisez&nbsp;;
-  - vous ne comprenez pas ce que les autres personnes vous disent car vous ne comprennez pas leur langue&nbsp;;
+  - vous ne comprenez pas ce que les autres personnes vous disent car vous ne comprenez pas leur langue&nbsp;;
   - vous ne pouvez pas entendre et comprendre les instructions que l'on vous donne dans un environnement trop bruyant&nbsp;;
   - vous ne pouvez pas communiquez avec votre voix&nbsp;;
   - vous ne pouvez pas supporter les odeurs et la texture de certains aliments&nbsp;;
