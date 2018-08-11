@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+ <head>
+  <meta charset="utf-8" />
+  <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
+  <style type="text/css">#game_people { width: 100%; height: 100%; }</style>
+ </head>
+ <body>
+  <canvas id="game_people" width="700" height="465"></canvas>
+  <script type="text/javascript">
+  function people() {
+    function shuffle(a) {
+      var j, x, i;
+      for (i = a.length; i; i--) {
+        j = Math.floor(Math.random() * i);
+        x = a[i - 1];
+        a[i - 1] = a[j];
+        a[j] = x;
+      }
+    }
+    var canvas = document.getElementById('game_people');
+    var ctx = canvas.getContext('2d');
+    ctx.scale(1, 1);
+
+    var mobile_device = false;
+    var mouse = {'x': undefined, 'y': undefined};
+    var cursor = 'default';
+    var refresh = 1000;
+    var line_people_size = 4;
+    var nb_people = 8;
+    var people = [
+      function() { var img = new Image(); img.src = 'assets/people/alix_generous.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/autism.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/daniel_lightwing.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/jacob_barnett.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/josef_schovanec.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/kerry_magro.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/liane_hollidaywilley.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/michael_mccreary.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/owen_suskind.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/rosie_king.jpg'; return img; }(),
+      function() { var img = new Image(); img.src = 'assets/people/sarah_hendrickx.jpg'; return img; }(),
+    ];
+    shuffle(people);
+    var state = {'clicked': [false,false,false,false,false,false,false,false], 'hover': [false,false,false,false,false,false,false,false]};
+
+    var status = {'status': 'pause', 'interval': undefined};
+    this.play = function() {
+      if ( 'play' == status['status'])
+        return;
+      canvas.onclick = function(e){ mobile_device = false; click(e); };
+      canvas.onmousemove = function(e){ mobile_device = false; move(e); };
+
+      canvas.ontouchstart = function(e) { mobile_device = true; click(e); };
+      canvas.ontouchmove = function(e) { mobile_device = true; move(e); };
+
+      status['interval'] = setInterval(function() {
+        draw();
+      }, refresh);
+      status['status'] = 'play';
+    }
+    this.pause = function() {
+      if ( 'pause' == status['status'])
+        return;
+      clearInterval(status['interval']);
+      canvas.onclick = function(e) {};
+      canvas.onmousemove = function(e) {};
+
+      canvas.ontouchstart = function(e) {};
+      canvas.ontouchmove = function(e) {};
+      status['status'] = 'pause';
+    }    
+    this.canvas = function() {
+      return canvas;
+    }
+
+
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      var x = 0;
+      var y = 0;
+      var width =  parseInt(canvas.width / line_people_size);
+      var height = parseInt(width*1.33);
+      for(var i = 0; i < nb_people; i++) {
+        ctx.beginPath();
+
+        if (state['clicked'][i] == true ) {
+          ctx.strokeStyle="#80ba43";
+          ctx.lineWidth="6";
+        } else if (state['hover'][i] == true ) {
+          ctx.strokeStyle="#407c92";
+          ctx.lineWidth="10";
+        } else {
+          ctx.strokeStyle="#000";
+          ctx.lineWidth="1";
+        }
+
+        ctx.rect( x+5, y+5, width-10, height-10); 
+        ctx.stroke();
+        ctx.drawImage(people[i], x+5, y+5, width-10, height-10);
+
+        x += width;
+        if ( i % line_people_size == (line_people_size-1) ) {
+         y += height;
+         x = 0;
+        }
+        canvas.style.cursor = cursor;
+      }
+    }
+    function what_is_under_mouse() {
+      var x = 0;
+      var y = 0;
+      var width =  parseInt(canvas.width / line_people_size);
+      var height = parseInt(width*1.33);
+      for(var i = 0; i < nb_people; i++) {
+        if (mouse['x'] > x+5 && mouse['x'] < x+5+(width-10) && mouse['y'] > y+5 && mouse['y'] < y+5+(height-10)) {
+          return {'where': 'people', 'which': i};
+        }
+        x += width;
+        if ( i % line_people_size == (line_people_size-1) ) {
+         y += height;
+         x = 0;
+        }
+
+
+      }
+      return {'where': 'nowhere'};
+    }
+
+
+    function click(e) {
+e.preventDefault();
+      var r = canvas.getBoundingClientRect();
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
+      mouse['x'] = mouse['x']*700/canvas.offsetWidth;
+      mouse['y'] = mouse['y']*465/canvas.offsetHeight;
+
+      r = what_is_under_mouse();
+      if (r['where'] == "people") {
+        if (state['clicked'][r['which']] == false) {
+          state['clicked'][r['which']] = true;
+          cursor = 'default';
+        }
+      }
+
+      draw();
+    }
+    function move(e) {
+      var r = canvas.getBoundingClientRect();
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
+      r = what_is_under_mouse();
+      if (r['where'] == "people") {
+        for (var i = 0 ; i < nb_people ; i++ ) {
+          state['hover'][i] = false;
+        }
+        if (state['clicked'][r['which']] ==  true) {
+          cursor = 'default';
+        } else {
+          state['hover'][r['which']] = true;
+          cursor = 'pointer';
+        }
+      } else {
+        for (var i = 0 ; i < nb_people ; i++ ) {
+          state['hover'][i] = false;
+        }
+        cursor = 'default';
+      }
+      draw();
+    }
+  }
+  function isScrolledIntoView(el) {
+    var elemTop = el.getBoundingClientRect().top;
+    var elemBottom = el.getBoundingClientRect().bottom;
+
+    var isVisible = ((elemTop >= 0) && (elemTop <= window.innerHeight)) || ((elemBottom >= 0) && (elemBottom <= window.innerHeight)) || ((elemTop < 0) && (elemBottom > window.innerHeight));
+    return isVisible;
+  }
+  document.body.onload = function() {
+    var canvas = new people();
+    canvas.play();
+  }
+  </script>
+ </body>
+</html>

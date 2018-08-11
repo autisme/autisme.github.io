@@ -1,0 +1,248 @@
+<!DOCTYPE html lang="fr">
+ <head>
+  <meta charset="utf-8" />
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+  <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
+  <style type="text/css">
+@mixin circle($radius){
+  width: $radius*2;
+  height: $radius*2;
+  border-radius: $radius;
+  &::before{
+    content: '';
+    height: 100%;
+    width: 50%;
+    float: left;
+    shape-outside: polygon(
+      0 0,
+      100% 0,
+      60% 4%,
+      40% 10%,
+      20% 20%,
+      10% 28.2%,
+      5% 34.4%,
+      0 50%,
+      5% 65.6%,
+      10% 71.8%,
+      20% 80%,
+      40% 90%,
+      60% 96%,
+      100% 100%,
+      0% 100%
+    );
+  }
+  > span::before{
+    content: '';
+    height: 100%;
+    width: 50%;
+    float: right;
+    shape-outside: polygon(
+      100% 0,
+      0 0,
+      40% 4%,
+      60% 10%,
+      80% 20%,
+      90% 28.2%,
+      95% 34.4%,
+      100% 50%,
+      95% 65.6%,
+      90% 71.8%,
+      80% 80%,
+      60% 90%,
+      40% 96%,
+      0 100%,
+      100% 100%
+    );
+  }
+}
+
+
+
+body {
+ font-family: 'Lato', sans-serif;
+ display: flex;
+ flex-wrap: wrap;
+ align-items: start;
+ align-content: start;
+ justify-content: center;
+}
+body > div {
+ flex: 0 0 250px;
+ margin: 20px;
+ perspective: 1000px;
+ cursor: pointer;
+}
+body > div:hover > div, body > div.hover > div {
+ transform: rotateY(180deg);
+} 
+body > div > div {
+ transition: 0.6s;
+ transform-style: preserve-3d;
+}
+body > div, body > div > div > img, body > div > div > div {
+ display: block; width: 250px; height: 250px;
+ border-radius: 50%;
+}
+body > div > div > img, body > div > div > div {
+ backface-visibility: hidden;
+ position: absolute;
+ top: 0;
+}
+body > div > div > img {
+ transform: rotateY(0deg);
+}
+body > div > div > div {
+ transform: rotateY(180deg);
+ @include circle(250px);
+ display: block;
+ text-align: center;
+ overflow: hidden;
+ border: 1px solid #ccc;
+}
+body > div > div > div > h1 {
+ padding: 10px;
+ background-color: #999;
+ font-size: 1em;
+}
+body > div > div > div > p {
+ background-color: #ccc;
+ padding: 30px 25px 25px 25px;
+ font-size: 0.9em;
+ word-wrap: break-word;
+ hyphens: auto;
+ -webkit-hyphens: auto;
+ -moz-hyphens: auto;
+ -ms-hyphens: auto;
+ height: 300px;
+}
+p.big { padding-top: 10px; font-size: 0.7em; }
+body > div.blue > div > div { border: 1px solid rgb(0, 110, 191); }
+body > div.blue > div > div > h1 { background-color: rgb(0, 110, 191); color: #fff; }
+body > div.blue > div > img, body > div.blue > div > div > p { background-color: rgb(214, 237, 252); }
+
+body > div.green > div > div { border: 1px solid rgb(0, 134, 127); }
+body > div.green > div > div > h1 { background-color: rgb(0, 134, 127); color: #fff; }
+body > div.green > div > img, body > div.green > div > div > p { background-color: rgb(213,247,244); }
+
+body > div.grey > div > div { border: 1px solid rgb(51, 51, 51); }
+body > div.grey > div > div > h1 { background-color: rgb(51, 51, 51); color: #fff; }
+body > div.grey > div > img, body > div.grey > div > div > p { background-color: rgb(245, 243, 238); }
+
+body > div.orange > div > div { border: 1px solid rgb(221,74,44); }
+body > div.orange > div > div > h1 { background-color: rgb(221,74,44); color: #fff; }
+body > div.orange > div > img, body > div.orange > div > div > p { background-color: rgb(255,215,210); }
+
+body > div.purple > div > div { border: 1px solid rgb(93,35,125); }
+body > div.purple > div > div > h1 { background-color: rgb(93,35,125); color: #fff; }
+body > div.purple > div > img, body > div.purple > div > div > p { background-color: rgb(241,230,252); }
+
+body > div.red > div > div { border: 1px solid rgb(196,0,100); }
+body > div.red > div > div > h1 { background-color: rgb(196,0,100); color: #fff; }
+body > div.red > div > img, body > div.red > div > div > p { background-color: rgb(254,222,237); }
+
+body > div.yellow > div > div { border: 1px solid rgb(252,191,10); }
+body > div.yellow > div > div > h1 { background-color: rgb(252,191,10); }
+body > div.yellow > div > img, body > div.yellow > div > div > p { background-color: rgb(252, 225, 147); }
+
+
+  </style>
+ </head>
+ <body>
+<div id="chewing-gum" class="blue" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/chewing-gum.png" />
+ <div><h1>Chewing-gum</h1> <p class="big">Mâcher peut être bénéfique pour tout le monde. La sensation ressentie dans la bouche et dans la mâchoire (appelée proprioception) peut aider à 
+calmer le système nerveux ou à le solliciter. C’est le même principe que de mordre nos ongles lorsque nous sommes stressés, cela stimule le système nerveux en lui fournissant 
+des stimulis sensoriels. Mâcher peut également aider certaines personnes à se concentrer lorsqu’elles en ont besoin, en bloquant les distractions provenant de l’environnement</p></div>
+</div></div>
+
+<div id="chewy" class="green" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/chewy.png" />
+ <div><h1>Chewy</h1> <p class="big">Les «&nbsp;chewy&nbsp;» sont des objets à machouiller dans la bouche. Ils aident les personnes autistes qui ont des difficultés à s’alimenter, ont 
+des problèmes avec leur mâchoire ou qui ne peuvent pas se retenir de mâcher. Ils fonctionnent également bien pour les personnes qui ont des difficultés d’intégration sensorielle. 
+Ils peuvent également être utilisés par des personnes qui mangent leurs ongles, leur cheveux ou le col de leur vêtement.</p></div>
+</div></div>
+
+<div id="flubber" class="orange" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/flubber.png" />
+ <div><h1>Flubber</h1><p>Le «&nbsp;flubber&nbsp;» est une pâte gluante, rigolote à manipuler. Cela peut aider les personnes à se sentir calme.</p></div>
+</div></div>
+
+<div id="sticky-men" class="purple" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/sticky-men.png" />
+ <div><h1>Bonhommes<br />(sticky men)</h1><p>Ces petits bonhommes ont des longues jambes ce qui permet de leur donner de nombreuses poses. Cela permet d’aider les personnes à se 
+concentrer tout en leur occupant les mains.</p></div>
+</div></div>
+
+<div id="tente" class="red" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/tent.png" />
+ <div><h1>Tente</h1><p class="big">Une tente crée un petit espace sombre dans lequel la personne peut se retirer si elle se sent anxieuse ou trop sensible à certains stimulis. Un espace 
+de relaxation ne doit pas stimuler de façon trop importante la personne mais doit l’aider à développer un ressenti de calme en répondant à ses besoins.</p></div>
+</div></div>
+
+<div id="weighted-chain" class="yellow" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/weighted-chain.png" />
+ <div><h1>Bracelet lourd</h1><p>Ces bracelets pèsent plus de 100g. Cela peut créer une sensation de pression qui peuvent aider les personnes en recherche de 
+stimulation sensorielle. Le bracelet peut également être utilisé comme un objet permettant d’occuper les mains.</p></div>
+</div></div>
+
+<div id="squidgy-toys" class="blue" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/squidgy-toys.png" />
+ <div><h1>Jouets mous</h1><p>Les objets mous comme les balles peuvent être manipulés de plusieurs façon et procurent une sensation agréable. Comme leur nom l’indique, 
+ils sont utiles pour faire descendre le niveau de stress.</p></div>
+</div></div>
+
+<div id="eni-puzzle-charm" class="green" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/eni-puzzle-charm.png" />
+ <div><h1>Eni puzzle</h1><p>Le puzzle est composé de différents pièces de couleurs organisées en lignes. Les pièces se déplacent de haut en bas ainsi qu’horizontalement, 
+de quoi occuper l’esprit de son utilisateur pendant plusieurs heures.</p></div>
+</div></div>
+
+<div id="bouncy-balls" class="orange" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/bouncy-balls.png" />
+ <div><h1>Balles<br />rebondissantes</h1><p>Les balles rebondissantes sont un bon outil sensoriel car elles sont facile à prendre dans la main. Elles peuvent également être 
+utilisées en extérieur et aident les personnes à se relaxer.</p></div>
+</div></div>
+
+<div id="playdoh" class="purple" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/playdoh.png" />
+ <div><h1>Pâte à modeler</h1><p>La pâte à modeler est parfaite pour améliorer sa motricité fine et sa coordination des mouvements.</p></div>
+</div></div>
+
+<div id="tiger-balm" class="red" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/tiger-balm.png" />
+ <div><h1>Baume du tigre</h1><p>Certaines personnes autistes peuvent aimer les odeurs fortes. Le baume du tigre peut alors être utilisé comme odeur plaisante.</p></div>
+</div></div>
+
+<div id="fairy-lights" class="yellow" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/fairy-lights.png" />
+ <div><h1>Lampes<br />féériques</h1><p>Les lumières féériques créent une ambiance calme dans la salle de relaxation.</p></div>
+</div></div>
+
+<div id="fiber-optic-light" class="blue" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/fiber-optic-light.png" />
+ <div><h1>Lampes<br />fibres optiques</h1><p>Les lumières en fibres optiques sont appréciées par les personnes de tout âge.</p></div>
+</div></div>
+
+<div id="colouring-book" class="green" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/colouring-book.png" />
+ <div><h1>Livre de<br />coloriage</h1><p>Faire du coloriage est bon pour se relaxer, pour se concentrer et pour améliorer ses compétences en motricité fine.</p></div>
+</div></div>
+
+<div id="cushions" class="orange" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/cushions.png" />
+ <div><h1>Coussins</h1><p>Les coussins sont très utiles dans une tente par exemple.</p></div>
+</div></div>
+
+<div id="fidget-cube" class="purple" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/fidget-cube.png" />
+ <div><h1>Fidget cube</h1><p>Le fidget cube permet de s'occuper les mains tout en restant discret.</p></div>
+</div></div>
+
+<div id="lava-lamp" class="red" ontouchstart="this.classList.toggle('hover');"><div>
+ <img src="assets/relaxation-room/lava-lamp.png" />
+ <div><h1>Lampe à lave</h1><p>Les lampes à lave sont de bons outils visuels qui aident à la relaxation.</p></div>
+</div></div>
+
+
+ </body>
+</html>

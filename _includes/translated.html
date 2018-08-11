@@ -1,0 +1,4 @@
+{% if page.translated and page.translated.advertised != false %}
+ <a class="translated" data-vars-outbound-link="{% if page.translated.website == 'asiam' %}https://asiam.ie{% elsif page.translated.website == 'changex' %}https://www.changex.org{% endif %}{{ page.translated.url }}"  href="{% if page.translated.website == 'asiam' %}https://asiam.ie{% elsif page.translated.website == 'changex' %}https://www.changex.org{% endif %}{{ page.translated.url }}">Cette page web est une traduction d'un article publié par <span class="{{ page.translated.website }}"></span>.</a>
+{% endif %}
+

@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+ <head>
+  <meta charset="utf-8" />
+  <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
+  <style type="text/css">#game_writing { width: 100%; height: 100%; }</style>
+ </head>
+ <body>
+  <canvas id="game_writing" width="500" height="350"></canvas>
+  <script type="text/javascript">
+  function writing() {
+    var canvas = document.getElementById('game_writing');
+    var ctx = canvas.getContext('2d');
+    ctx.scale(1, 1);
+
+    var mobile_device = false;
+    var mouse = {'x': undefined, 'y': undefined};
+    var cursor = 'default';
+    var refresh = 1000;
+    var background = new Image();
+    background.src = 'assets/writing/background.png';
+    var alphabet_width = 7;
+    var alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
+    var sentences = [
+      "J'aime le chocolat",
+      "Je me sens triste",
+      "Quand reviens-tu ?",
+      "Je n'aime pas etre seul",
+      "Le cours de maths etait difficile ce matin",
+    ];
+    var sentence = sentences[Math.floor((Math.random() * sentences.length))];
+    var status = {'status': 'pause', 'interval': undefined};
+    var state = {'hover': 'none', 'letters': []};
+
+    this.play = function() {
+      if ( 'play' == status['status'])
+        return;
+      canvas.onmousemove = function(e){ mobile_device = false; move(e); };
+      canvas.onclick = function(e){ mobile_device = false; click(e); };
+
+      canvas.ontouchmove = function(e){ mobile_device = true; move(e); };
+      canvas.ontouchstart = function(e){ mobile_device = true; click(e); };
+
+      status['interval'] = setInterval(function() {
+        draw();
+      }, refresh);
+      
+      status['status'] = 'play';
+    }
+    this.pause = function() {
+      if ( 'pause' == status['status'])
+        return;
+      clearInterval(status['interval']);
+      canvas.onmousemove = function(e) {}
+      canvas.onclick = function(e) {}
+
+      canvas.ontouchmove = function(e) {}
+      canvas.ontouchstart = function(e) {}
+      status['status'] = 'pause';
+    }
+    this.canvas = function() {
+      return canvas;
+    }
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.drawImage(background, 0, 0, 600, 350);
+      /* draw sentence */
+      ctx.font = "25px Arial";
+      ctx.textAlign = "left";
+      ctx.fillStyle = "#111";
+      x = (canvas.width - ctx.measureText(sentence).width)/2;
+      var j = 0;
+      for (var i = 0; i < sentence.length ; i++) {
+        var char = sentence.charAt(i);
+        if ( -1 == alphabet.indexOf(char.toUpperCase())) {
+          ctx.fillStyle = "#111";
+        } else {
+          if (j >= state['letters'].length) {
+            ctx.fillStyle = "#111";
+          } else if (char.toUpperCase() == alphabet[state['letters'][j]]) {
+            ctx.fillStyle = "#75aa3d";  
+          } else {
+            ctx.fillStyle = "#9e2127";
+          }
+          j += 1;
+        }
+
+        ctx.fillText(char, x, 40);
+        x+= ctx.measureText(char).width;
+      }
+
+      /* draw alphabet */
+      var y = 0;
+      var j = 0;
+      for (var i = 0 ; i < alphabet.length; i++) {
+        if ((i%alphabet_width) == 0 && i != 0) {
+          y += (canvas.width/alphabet_width);
+          j = 0;
+        }
+        if (i == 21) {
+          j += 1; // to center align the last row
+        }
+        ctx.fillStyle = '#ffffff';
+        ctx.fillRect( (j*canvas.width/alphabet_width)+5, ((canvas.width/alphabet_width)-10)+y, (canvas.width/alphabet_width)-10, (canvas.width/alphabet_width)-10);
+        ctx.beginPath();
+        if (i == state['hover']) {
+          ctx.strokeStyle="#4e97b2";
+          ctx.lineWidth="3";
+        } else {
+          ctx.lineWidth="1";
+          ctx.strokeStyle="#000000";
+        }
+        ctx.rect( (j*canvas.width/alphabet_width)+5, ((canvas.width/alphabet_width)-10)+y, (canvas.width/alphabet_width)-10, (canvas.width/alphabet_width)-10);
+        ctx.stroke();
+        ctx.font = "30px Arial";
+        ctx.textAlign = "center";
+        ctx.fillStyle = "#111";
+        ctx.fillText(alphabet[i], (j*canvas.width/alphabet_width)+5 + (((canvas.width/alphabet_width)-10) / 2), ((canvas.width/alphabet_width)-10)+y+(((canvas.width/alphabet_width)-10) / 2));
+//        ctx.drawImage(catalog[i]['img'], (j*canvas.width/alphabet_width)+5, 70+((canvas.width/alphabet_width)-10)+30+y,  (canvas.width/alphabet_width)-10, (canvas.width/alphabet_width)-10);
+        j += 1;
+      }
+      canvas.style.cursor = cursor;
+    }
+
+    function what_is_under_mouse() {
+      var y = 0;
+      var j = 0;
+      for (var i = 0 ; i < alphabet.length; i++) {
+        if ((i%alphabet_width) == 0 && i != 0) {
+          y += (canvas.width/alphabet_width);
+          j = 0;
+        }
+        if (i == 21) {
+          j += 1; // to center align the last row
+        }
+        if ( (mouse['x'] >= (j*canvas.width/alphabet_width)+5) && (mouse['x'] <= ((j*canvas.width/alphabet_width)+5)+((canvas.width/alphabet_width)-10)) && (mouse['y'] >= ((canvas.width/alphabet_width)-10)+y) && (mouse['y'] <= (((canvas.width/alphabet_width)-10)+y) + ((canvas.width/alphabet_width)-10)) ) {
+          return {'where': 'alphabet', 'which': i};
+        }
+        j += 1;
+      }
+      return {'where': 'nowhere'};
+    }
+    function move(e) {
+e.preventDefault();
+      var r = canvas.getBoundingClientRect();
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
+      mouse['x'] = mouse['x']*500/canvas.offsetWidth;
+      mouse['y'] = mouse['y']*350/canvas.offsetHeight;
+
+      var c = what_is_under_mouse()
+      if (c['where'] == 'alphabet') {
+        state['hover'] = c['which'];
+        cursor = 'pointer';
+      } else {
+        state['hover'] = 'none';
+        cursor = 'default';
+      }
+      draw();
+    }
+    function click(e) {
+e.preventDefault();
+      var r = canvas.getBoundingClientRect();
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
+      mouse['x'] = mouse['x']*500/canvas.offsetWidth;
+      mouse['y'] = mouse['y']*350/canvas.offsetHeight;
+
+      var c = what_is_under_mouse()
+      if (c['where'] == 'alphabet') {
+        state['letters'].push(c['which']);
+      }
+      draw();
+    }
+  }
+  function isScrolledIntoView(el) {
+    var elemTop = el.getBoundingClientRect().top;
+    var elemBottom = el.getBoundingClientRect().bottom;
+
+    var isVisible = ((elemTop >= 0) && (elemTop <= window.innerHeight)) || ((elemBottom >= 0) && (elemBottom <= window.innerHeight)) || ((elemTop < 0) && (elemBottom > window.innerHeight));
+    return isVisible;
+  }
+  document.body.onload = function() {
+    var canvas = new writing();
+    canvas.play();
+  }
+  </script>
+ </body>
+</html>

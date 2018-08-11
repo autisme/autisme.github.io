@@ -1,0 +1,16 @@
+{% if include.color %}
+<li class="{{ include.color }}{% if include.border %} border{% endif %}">
+{% elsif include.border %}
+<li class="border">
+{% else %}
+<li>
+{% endif %}
+ <a href="{{ include.url }}">
+{% if include.img %}
+  <amp-img layout="intrinsic" width="427" height="300" alt="" src="{{ include.img }}"></amp-img>
+{% endif %}
+  <span></span>
+  <span>{{ include.title }}</span>
+ </a>
+</li>
+

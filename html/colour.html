@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+ <head>
+  <meta charset="utf-8" />
+  <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
+  <style type="text/css">#game_colour { width: 100%; height: 100%; }</style>
+ </head>
+ <body>
+  <canvas id="game_colour" width="700" height="300"></canvas>
+  <script type="text/javascript">
+  function colour() {
+    var canvas = document.getElementById('game_colour');
+    var ctx = canvas.getContext('2d');
+    ctx.scale(1, 1);
+
+    var nb = [4, 5];
+    var step = 75;
+    var colors = [{'t': 'Orange', 'h': '#e18335'}, {'t': 'Bleu', 'h': '#478aa2'}, {'t': 'Vert', 'h': '#5e8831'}, {'t': 'Rouge', 'h': '#ff0000'}, {'t': 'Noir', 'h': '#000000'}, {'t': 'Rose', 'h': '#ff6282'}, {'t': 'Jaune', 'h': '#d0ba32'}, {'t': 'Violet', 'h': '#733ab7' }, {'t': 'Blanc', 'h': '#441151'}, {'t': 'Gris', 'h': '#9c9687'}, {'t': 'Bleu', 'h': '#2d93ad'}, {'t': 'Jaune', 'h': '#dfd25a'}, {'t': 'Rose', 'h': '#ca61c3'}, {'t': 'Rouge', 'h': '#ef233c'}, {'t': 'Violet', 'h': '#631a86' }, {'t': 'Orange', 'h': '#e4572e'}, {'t': 'Vert', 'h': '#b9cb83'}]
+    var drawn = false;
+    var status = {'status': 'pause', 'interval': undefined};
+
+    this.play = function() {
+      if ( 'play' == status['status'])
+        return;
+      if ( false == drawn )
+        draw();
+      status['status'] = 'play';
+    }
+    this.pause = function() {
+      if ( 'pause' == status['status'])
+        return;
+      status['status'] = 'pause';
+    }
+    this.canvas = function() {
+      return canvas;
+    }
+
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      var y = 0;
+      for (var i = 0; i < nb[0] ; i++) {
+        for (var j = 0; j < nb[1] ; j++) {
+          var color_t = Math.floor((Math.random() * colors.length));
+          var color_h = Math.floor((Math.random() * colors.length));
+          ctx.font = "30px Arial";
+          ctx.textAlign = "center";
+          ctx.fillStyle = colors[color_h]['h'];
+          ctx.fillText(colors[color_t]['t'], ((j+1)*canvas.width/nb[1]) - ((canvas.width/nb[1])/2), y+45);
+        }
+        y += step;
+      }
+      drawn = true;
+    }
+  }
+  function isScrolledIntoView(el) {
+    var elemTop = el.getBoundingClientRect().top;
+    var elemBottom = el.getBoundingClientRect().bottom;
+
+    var isVisible = ((elemTop >= 0) && (elemTop <= window.innerHeight)) || ((elemBottom >= 0) && (elemBottom <= window.innerHeight)) || ((elemTop < 0) && (elemBottom > window.innerHeight));
+    return isVisible;
+  }
+  function isScrolledIntoView(el) {
+    var elemTop = el.getBoundingClientRect().top;
+    var elemBottom = el.getBoundingClientRect().bottom;
+
+    var isVisible = ((elemTop >= 0) && (elemTop <= window.innerHeight)) || ((elemBottom >= 0) && (elemBottom <= window.innerHeight)) || ((elemTop < 0) && (elemBottom > window.innerHeight));
+    return isVisible;
+  }
+  document.body.onload = function() {
+    var canvas = new colour();
+    canvas.play();
+  }
+  </script>
+ </body>
+</html>
+

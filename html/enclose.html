@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+ <head>
+  <meta charset="utf-8" />
+  <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
+  <style type="text/css">#game_enclose { width: 100%; height: 100%; }</style>
+ </head>
+ <body>
+  <canvas id="game_enclose" width="1400" height="1400"></canvas>
+  <script type="text/javascript">
+  function shuffle(a) {
+   var j, x, i;
+   for (i = a.length - 1; i > 0; i--) {
+    j = Math.floor(Math.random() * (i + 1));
+    x = a[i];
+    a[i] = a[j];
+    a[j] = x;
+   }
+   return a;
+  }
+  function choose(choices) {
+   var index = Math.floor(Math.random() * choices.length);
+   return choices[index];
+  }
+
+  function enclose() {
+   var self = this;
+   var canvas = document.getElementById('game_enclose');
+   var ctx = canvas.getContext('2d');
+   ctx.scale(1, 1);
+
+   var current_path = {};
+   var paths = [];
+   var drawing = false;
+   var moving = false;
+   var mouse = {'x': 0, 'y': 0};
+
+   var mobile_device = false;
+   var colours = [
+     {'stroke': 'rgb(0, 110, 191)', 'fill': 'rgb(214, 237, 252)'},
+     {'stroke': 'rgb(0, 134, 127)', 'fill': 'rgb(213,247,244)'},
+     {'stroke': 'rgb(221,74,44)', 'fill': 'rgb(255,215,210)'},
+     {'stroke': 'rgb(93,35,125)', 'fill': 'rgb(241,230,252)'},
+     {'stroke': 'rgb(196,0,100)', 'fill': 'rgb(254,222,237)'},
+     {'stroke': 'rgb(252,191,10)', 'fill': 'rgb(252, 225, 147)'},
+   ];
+   shuffle(colours);
+
+   var refresh = 10;
+   var status = {'status': 'pause', 'interval': undefined};
+   this.play = function() {
+    if ( 'play' == status['status'])
+     return;
+
+    canvas.onmousemove = function(e) { mobile_device = false; mousemove(e);}
+    canvas.onmousedown = function(e) { mobile_device = false; mousedown(e); }
+    canvas.onmouseup = function(e) { mobile_device = false; mouseup(e); }
+    canvas.ontouchmove = function(e) { mobile_device = true; mousemove(e); }
+    canvas.ontouchstart = function(e) { mobile_device = true; mousedown(e); }
+    canvas.ontouchend = function(e) { mobile_device = true; mouseup(e); }
+
+    status['interval'] = setInterval(function() {
+     draw();
+    }, refresh);
+    status['status'] = 'play';
+   }
+   this.pause = function() {
+    if ( 'pause' == status['status'])
+     return;
+    canvas.onmousemove = function(e) {}
+    canvas.onmousedown = function(e) {}
+    canvas.onmouseup = function(e) {}
+    canvas.ontouchmove = function(e) {}
+    canvas.ontouchstart = function(e) {}
+    canvas.ontouchend = function(e) {}
+    clearInterval(status['interval']);
+    status['status'] = 'pause';
+   }
+   this.canvas = function() {
+     return canvas;
+   }
+
+   function get_mouse(e) {
+     var r = canvas.getBoundingClientRect();
+     if ( false == mobile_device ) {
+      mouse['x']=parseInt(e.clientX) - r.left;
+      mouse['y']=parseInt(e.clientY) - r.top;
+     } else {
+      e.preventDefault();
+      mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+      mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+     }
+     mouse['x'] = mouse['x']*1400/canvas.offsetWidth;
+     mouse['y'] = mouse['y']*1400/canvas.offsetHeight;
+   }
+
+   function mousemove(e) {
+    if(drawing == false)
+     return;
+    get_mouse(e);
+    moving = true;
+    current_path['points'].push({'x': mouse['x'], 'y': mouse['y']});
+   }
+   function mousedown(e) {
+    get_mouse(e);   
+    var c;
+    if ( mouse['x'] <= 700 && mouse['y'] <= 700) {
+     c = 0;
+    } else if ( mouse['x'] <= 700 && mouse['y'] > 700) {
+     c = 2;
+    } else if ( mouse['x'] > 700 && mouse['y'] <= 700) {
+     c = 1;
+    } else if ( mouse['x'] > 700 && mouse['y'] > 700) {
+     c = 3;
+    }
+  
+    current_path = {'zone': c, 'points': [{'x': mouse['x'], 'y': mouse['y']}]};
+    drawing = true;
+   }
+   function mouseup(e) {
+    if(drawing == false)
+     return;
+    get_mouse(e);
+    current_path['points'].push({'x': mouse['x'], 'y': mouse['y']});
+    paths.push(current_path);
+    current_path = {};
+    drawing = false;
+    moving = false;
+   }
+
+
+   function rotate(x,y, xc, yc, angle) {
+     /* translate */
+     x = x - xc;
+     y = y - yc;
+     var xp =  (y*Math.sin(angle)) + (x*Math.cos(angle));
+     var yp =  (y*Math.cos(angle)) - (x*Math.sin(angle));
+     xp = xp + xc;
+     yp = yp + yc;
+     return {'x': xp, 'y': yp};
+   }
+
+   function star(x, y, radius, angle) {
+    var alpha = (2 * Math.PI) / 10; 
+    for(var i = 11; i != 0; i--) {
+     var r = radius*(i % 2 + 1)/2;
+     var omega = alpha * i;
+     var p = rotate((r * Math.sin(omega)) + x, (r * Math.cos(omega)) + y, x, y, angle);
+     ctx.lineTo(p['x'], p['y']);
+    }
+   }
+
+   function square(x,y, radius, angle) {
+    var p = rotate(x-radius, y-radius, x, y, angle);
+    ctx.moveTo(p['x'], p['y']);
+    p = rotate(x+radius, y-radius, x, y, angle);
+    ctx.lineTo(p['x'], p['y']);
+    p = rotate(x+radius, y+radius, x, y, angle);
+    ctx.lineTo(p['x'], p['y']);
+    p = rotate(x-radius, y+radius, x, y, angle);
+    ctx.lineTo(p['x'], p['y']);
+    p = rotate(x-radius, y-radius, x, y, angle);
+    ctx.lineTo(p['x'], p['y']);
+    p = rotate(x+radius, y-radius, x, y, angle);
+    ctx.lineTo(p['x'], p['y']);
+   }
+   function circle(x,y, radius) {
+    ctx.arc(x, y, radius, 0, Math.PI * 2, true);
+   }
+
+
+   function triangle(x, y, radius, angle) {
+    var p = rotate(x, y-radius, x, y, angle);
+    ctx.moveTo(p['x'], p['y']);
+    p = rotate(x+radius, y+radius, x, y, angle);
+    ctx.lineTo(p['x'], p['y']);
+    p = rotate(x-radius, y+radius, x, y, angle);
+    ctx.lineTo(p['x'], p['y']);
+    p = rotate(x, y-radius, x, y, angle);
+    ctx.lineTo(p['x'], p['y']);
+    p = rotate(x+radius, y+radius, x, y, angle);
+    ctx.lineTo(p['x'], p['y']);
+   }
+
+   function path(points) {
+    ctx.moveTo(points[0]['x'], points[0]['y']);
+    for(var i = 1; i < points.length;i++) {
+     ctx.lineTo(points[i]['x'], points[i]['y']);
+    }
+   }
+   function move_reset() {
+    return {"dx": 0, "dy": 0, "radius": 250, "angle": 0}
+   }
+
+   function translate_movement(state, step, margin) {
+    var movements = ['toleft', 'toright', 'totop', 'tobottom']
+    if(state['movement'] == 'undefined')
+     state['movement'] = choose(movements);
+
+    if(state['movement'] == 'toleft')
+     state['dx']-=step;
+    else if(state['movement'] == 'toright')
+     state['dx']+=step;
+    else if(state['movement'] == 'totop')
+     state['dy']-=step;
+    else if(state['movement'] == 'tobottom')
+     state['dy']+=step;
+
+    if(state['dx'] < -margin) {
+     state['dx']=-margin;
+     state['movement'] = 'toright';
+    }
+    if(state['dx'] > margin) {
+     state['dx']=margin;
+     state['movement'] = 'toleft';
+    }
+    if(state['dy'] < -margin) {
+     state['dy']=-margin;
+     state['movement'] = 'tobottom';
+    }
+    if(state['dy'] > margin) {
+     state['dy']=margin;
+     state['movement'] = 'totop';
+    }
+
+    if((state['movement'] == 'toleft' || state['movement'] == 'toright') && state['dx'] > -step && state['dx'] < step) {
+     state['dx'] = 0;
+     state['movement'] = choose(movements);
+    }
+    else if((state['movement'] == 'totop' || state['movement'] == 'tobottom') && state['dy'] > -step && state['dy'] < step) {
+     state['dy'] = 0;
+     state['movement'] = choose(movements);
+    }
+    return state;
+   }
+   function resize_movement(state, step, origin, margin) {
+    var movements = ['togrow', 'toshrink']
+
+    if(state['movement'] == 'undefined')
+     state['movement'] = choose(movements);
+
+    if(state['movement'] == 'togrow')
+     state['radius']+=step;
+    else if(state['movement'] == 'toshrink')
+     state['radius']-=step;
+
+    if(state['radius'] > origin+margin) {
+     state['movement'] = 'toshrink';
+    }
+    if(state['radius'] < origin-margin) {
+     state['movement'] = 'togrow';
+    }
+    return state;
+   }
+   function rotate_movement(state, step, margin) {
+    var movements = ['clockwise', 'counterclockwise']
+
+    if(state['movement'] == 'undefined')
+     state['movement'] = choose(movements);
+
+    if(state['movement'] == 'clockwise')
+     state['angle']-=step;
+    else if(state['movement'] == 'counterclockwise')
+     state['angle']+=step;
+
+    if(state['angle'] > margin) {
+     state['movement'] = 'clockwise';
+    }
+    if(state['angle'] < -margin) {
+     state['movement'] = 'counterclockwise';
+    }
+    return state;    
+   }
+
+   function move_triangle(zone) {
+    var step = 3;
+    var margin = 50;
+    if(moving == false) {
+     move_triangle.s = {'dx': 0, 'dy': 0, 'movement': 'undefined'};
+     return move_reset();
+    }
+    if(current_path['zone'] != zone)
+     return move_reset();
+    move_triangle.s = translate_movement(move_triangle.s, step, margin);
+    return {'dx': move_triangle.s['dx'], 'dy': move_triangle.s['dy'], 'radius': 250, 'angle': 0}
+   }
+   function move_circle(zone) {
+    var step = 3;
+    var margin = 50;
+    if(moving == false) {
+     move_circle.s = {'radius': move_reset()['radius'], 'movement': 'undefined'};
+     return move_reset();
+    }
+    if(current_path['zone'] != zone)
+     return move_reset();
+    move_circle.s = resize_movement(move_circle.s, step, move_reset()['radius'], margin);
+    return {'dx': 0, 'dy': 0, 'radius': move_circle.s['radius'], 'angle': 0}
+   }
+   function move_square(zone) {
+    var step = Math.PI/100;
+    var margin = 1;
+    if(moving == false) {
+     move_square.s = {'angle': 0, 'movement': 'undefined'};
+     return move_reset();
+    }
+    if(current_path['zone'] != zone)
+     return move_reset();
+    move_square.s = rotate_movement(move_square.s, step, margin);
+    return {'dx': 0, 'dy': 0, 'radius': move_reset()['radius'], 'angle': move_square.s['angle']}
+   }
+   function move_star(zone) {
+    if(moving == false) {
+     move_star.s = [
+      {'angle': 0, 'movement': 'undefined'},
+      {'radius': move_reset()['radius'], 'movement': 'undefined'},
+      {'dx': 0, 'dy': 0, 'movement': 'undefined'}
+     ];
+     return move_reset();
+    }
+    if(current_path['zone'] != zone)
+     return move_reset();
+    var movements = ['rotate', 'resize', 'move'];
+    var m = choose(movements);
+
+    if(m=='rotate') {
+     var step_r = Math.PI/100;
+     var margin_r = 1;
+     var p = rotate_movement(move_star.s[0], step_r, margin_r);
+     move_star.s[0]['angle'] = p['angle'];
+     move_star.s[0]['movement'] = p['movement'];
+    }
+    else if(m=='resize') {
+     var step = 3;
+     var margin = 50;
+     var p = resize_movement(move_star.s[1], step, move_reset()['radius'], margin);
+     move_star.s[1]['radius'] = p['radius'];
+     move_star.s[1]['movement'] = p['movement'];
+    }
+    else if(m=='move') {
+     var step = 3;
+     var margin = 50;
+     var p = translate_movement(move_star.s[2], step, margin);
+     move_star.s[2]['dx'] = p['dx'];
+     move_star.s[2]['dy'] = p['dy'];
+     move_star.s[2]['movement'] = p['movement'];
+    }
+    return {'dx': move_star.s[2]['dx'], 'dy': move_star.s[2]['dy'], 'radius': move_star.s[1]['radius'], 'angle': move_star.s[0]['angle']};
+   }
+
+
+   function draw() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    /* background */
+    ctx.beginPath();
+    ctx.fillStyle = "#ccc";
+    ctx.rect(0, 0, canvas.width, canvas.height);
+    ctx.fill();
+
+    ctx.lineWidth="15"; 
+
+    var radius; var angle; var dx; var dy;
+    p = move_reset(); radius = p['radius']; dx = p['dx']; dy = p['dy']; angle = p['angle'];
+
+
+    p = move_triangle(0); radius = p['radius']; dx = p['dx']; dy = p['dy']; angle = p['angle'];
+    /* triangle */
+    ctx.beginPath();
+    triangle(350+dx, 350+dy, radius, angle);
+    ctx.strokeStyle = colours[0]['stroke']; ctx.fillStyle = colours[0]['fill']; ctx.stroke(); ctx.fill();
+ 
+    p = move_circle(1); radius = p['radius']; dx = p['dx']; dy = p['dy']; angle = p['angle'];
+    /* circle */
+    ctx.beginPath();
+    circle(1050+dx, 350+dy, radius);
+    ctx.strokeStyle = colours[1]['stroke']; ctx.fillStyle = colours[1]['fill']; ctx.stroke(); ctx.fill();
+
+    p = move_square(2); radius = p['radius']; dx = p['dx']; dy = p['dy']; angle = p['angle'];
+    /* square */
+    ctx.beginPath();
+    square(350+dx, 1050+dy, radius, angle);
+    ctx.strokeStyle = colours[2]['stroke']; ctx.fillStyle = colours[2]['fill']; ctx.stroke(); ctx.fill();
+
+    p = move_star(3); radius = p['radius']; dx = p['dx']; dy = p['dy']; angle = p['angle'];
+    /* star */
+    ctx.beginPath();
+    star(1050+dx, 1050+dy, radius, angle);
+    ctx.strokeStyle = colours[3]['stroke']; ctx.fillStyle = colours[3]['fill']; ctx.stroke(); ctx.fill();
+
+    /* paths */
+    for(var i = 0; i < paths.length; i++) {
+     ctx.beginPath();
+     path(paths[i]['points']);
+     ctx.lineWidth="25"; 
+     ctx.strokeStyle = colours[paths[i]['zone']]['stroke']; ctx.stroke();
+    }
+    if(drawing == true) {
+     ctx.beginPath();
+     path(current_path['points']);
+     ctx.lineWidth="25"; 
+     ctx.strokeStyle = colours[current_path['zone']]['stroke']; ctx.stroke();
+    }
+
+   }
+
+  }
+
+  document.body.onload = function() {
+    var canvas = new enclose();
+    canvas.play();
+  }
+  </script>
+ </body>
+</html>

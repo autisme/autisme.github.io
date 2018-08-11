@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+ <head>
+  <meta charset="utf-8" />
+  <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
+  <style type="text/css">#mythbusters_game { width: 100%; height: 100%; }</style>  
+ </head>
+ <body>
+  <canvas id="mythbusters_game" width="700" height="800"></canvas>
+  <style type="text/css">@import url('https://fonts.googleapis.com/css?family=Handlee');</style>
+  <script type="text/javascript">
+  function shuffle(a) {
+   var j, x, i;
+   for (i = a.length - 1; i > 0; i--) {
+    j = Math.floor(Math.random() * (i + 1));
+    x = a[i];
+    a[i] = a[j];
+    a[j] = x;
+   }
+   return a;
+  }
+
+  var canvas = document.getElementById('mythbusters_game');
+  var ctx = canvas.getContext('2d');
+  ctx.scale(1, 1);
+
+  var mobile_device = false;
+  var background = new Image();
+  background.src = '/html/assets/mythes/background.png'
+  start_height = 120;
+  incr_height = 50;
+
+  var colors = {
+    'left': '#93c31e',
+    'right': '#ff0000',
+    'default': 'white',
+    'none': 'white',
+  }
+
+  var validated = 'none';
+  var questions = [
+   {'q': "Les personnes autistes sont des génies", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Le quotient intellectuel dépend des difficultés rencontrées", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Le bonheur est lié aux difficultés rencontrées", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Vous ne pouvez pas communiquer avec les personnes non verbales", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "L'autisme est la faute des parents", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Les personnes autistes ont toutes des intérêts différents", 'c': 'none', 'p': 'none', 'a': true},
+   {'q': "Les personnes autistes ne veulent pas d'amis", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Les personnes autistes ont souvent des opinions tranchées", 'c': 'none', 'p': 'none', 'a': true},
+   {'q': "L'autisme affecte souvent les sens (vue, ouïe, odorat, toucher, goût)", 'c': 'none', 'p': 'none', 'a': true},
+   {'q': "Les personnes autistes n'ont pas de sens de l'humour", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Les personnes autistes sont souvent dangereuses", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Les personnes autistes ne ressentent pas la douleur", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "L'autisme n'affecte que les garçons", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "L'autisme peut être un avantage dans l'entreprise", 'c': 'none', 'p': 'none', 'a': true},
+   {'q': "L'autisme disparaît à l'âge adulte", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Les vaccins causent l'autisme", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "L'autisme est un handicap invisible", 'c': 'none', 'p': 'none', 'a': true},
+
+   {'q': "Je dois parler plus fort lorsque je m\'adresse à une personne autiste", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Plus de 50 % des personnes autistes ont été harcelées à l\'école", 'c': 'none', 'p': 'none', 'a': true},
+   {'q': "La recherche montre que les personnes autistes préfèrent la solitude", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "L\'autisme est un handicap mental", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Les personnes autistes ont du mal à trouver et garder un emploi", 'c': 'none', 'p': 'none', 'a': true},
+   {'q': "Toutes les personnes autistes ont des capacités", 'c': 'none', 'p': 'none', 'a': true},
+   {'q': "L\'autisme affecte une personne sur 1000", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "L\'autisme affecte plus d\'une personne sur 100", 'c': 'none', 'p': 'none', 'a': true},
+   {'q': "Les personnes autistes ne peuvent pas passer le permis de conduire", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Je dois faire attention à mon comportement face à une personne autiste", 'c': 'none', 'p': 'none', 'a': true},
+   {'q': "Les personnes autistes peuvent avoir d\'autres handicaps", 'c': 'none', 'p': 'none', 'a': true},
+  ]
+  shuffle(questions);
+  questions = questions.slice(0, 12);
+
+  document.body.onload = function() {
+    canvas.onmousemove = function(e) {
+     mobile_device = false;
+     move(e)
+    }
+    canvas.onclick = function(e) {
+     mobile_device = false;
+     click(e)
+    }
+
+    canvas.ontouchmove = function(e) {
+     mobile_device = true;
+     move(e)
+    }
+    canvas.ontouchstart = function(e) {
+     mobile_device = true;
+     click(e)
+    }
+
+    draw();
+  }
+
+  function click(e) {
+e.preventDefault();
+      var mouse_x;
+      var mouse_y;
+      var r = canvas.getBoundingClientRect();
+      if ( false == mobile_device ) {
+       mouse_x=parseInt(e.clientX) - r.left;
+       mouse_y=parseInt(e.clientY) - r.top;
+      } else {
+       mouse_x=parseInt(e.touches[0].clientX) - r.left;
+       mouse_y=parseInt(e.touches[0].clientY) - r.top;
+      }
+      mouse_x = mouse_x*700/canvas.offsetWidth;
+      mouse_y = mouse_y*800/canvas.offsetHeight;
+
+    if ('validated' == validated) {
+      return;
+    }
+
+    var height = start_height;
+    for (var i = 0; i < questions.length ; i++ ) {
+      ctx.rect(0,height-25,350,40);
+      ctx.stroke();
+      ctx.rect(350,height-25,350,40);
+      ctx.stroke();
+      if (mouse_x >= 0 && mouse_x < 350 && mouse_y >= height-25 && mouse_y < height-25+40) {
+        questions[i]['c'] = 'left';
+        break;
+      } else if (mouse_x >= 350 && mouse_x < 700 && mouse_y >= height-25 && mouse_y < height-25+40) {
+        questions[i]['c'] = 'right';
+        break;
+      } 
+      height += incr_height
+    }
+    if (mouse_x >= (canvas.width/2)-(200/2) && mouse_x < (canvas.width/2)+(200/2) && mouse_y >= (canvas.height)-(30)-(25) && mouse_y < (canvas.height)-(30)+25) {
+      validated = 'validated';
+    }
+    draw();
+  }
+
+  function move(e) {
+e.preventDefault();
+      var mouse_x;
+      var mouse_y;
+      var r = canvas.getBoundingClientRect();
+      if ( false == mobile_device ) {
+       mouse_x=parseInt(e.clientX) - r.left;
+       mouse_y=parseInt(e.clientY) - r.top;
+      } else {
+       mouse_x=parseInt(e.touches[0].clientX) - r.left;
+       mouse_y=parseInt(e.touches[0].clientY) - r.top;
+      }
+      mouse_x = mouse_x*700/canvas.offsetWidth;
+      mouse_y = mouse_y*800/canvas.offsetHeight;
+
+    if ('validated' == validated) {
+      return;
+    }
+
+    var height = start_height;
+    for (var i = 0; i < questions.length ; i++ ) {
+      ctx.rect(0,height-25,350,40);
+      ctx.stroke();
+      ctx.rect(350,height-25,350,40);
+      ctx.stroke();
+      if (mouse_x >= 0 && mouse_x < 350 && mouse_y >= height-25 && mouse_y < height-25+40) {
+        questions[i]['p'] = 'left';
+      } else if (mouse_x >= 350 && mouse_x < 700 && mouse_y >= height-25 && mouse_y < height-25+40) {
+        questions[i]['p'] = 'right';
+      } else {
+        questions[i]['p'] = 'none';
+      }
+
+      height += incr_height
+    }
+    if (mouse_x >= (canvas.width/2)-(200/2) && mouse_x < (canvas.width/2)+(200/2) && mouse_y >= (canvas.height)-(30)-(25) && mouse_y < (canvas.height)-(30)+25) {
+      validated = 'prevalidate';
+    } else {
+      validated = 'none';
+    }
+    draw();
+  }
+
+
+  function draw() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.drawImage(background, 0, 0, 700, 1000);
+
+    /* draw question */
+    var height = start_height;
+    var cursor = 'default';
+    for (var i = 0; i < questions.length ; i++ ) {
+
+      ctx.font = "23px Handlee";
+      ctx.fillStyle = colors[questions[i]['c']];
+      ctx.textAlign = "center";
+      if ('left' == questions[i]['c']) {
+        ctx.fillText(questions[i]['q'], (canvas.width/2)-25, height); 
+      } else if ('right' == questions[i]['c']) {
+        ctx.fillText(questions[i]['q'], (canvas.width/2)+25, height); 
+      } else {
+        ctx.fillText(questions[i]['q'], canvas.width/2, height); 
+      }
+
+      if ('left' != questions[i]['c'] && 'validated' != validated) {
+        ctx.font = "50px Handlee";
+        ctx.fillStyle = "#93c31e";
+        ctx.textAlign = "left";
+        if ('left' == questions[i]['p']) {
+          ctx.fillText("<", canvas.width/40, height+10); 
+          cursor = 'pointer';
+        } else {
+          ctx.fillText("<", canvas.width/30, height+10); 
+        }
+      }
+  
+      if ('right' != questions[i]['c'] && 'validated' != validated) {
+        ctx.font = "50px Handlee";
+        ctx.fillStyle = "#ff0000";
+        ctx.textAlign = "right";
+        if ('right' == questions[i]['p']) {
+          ctx.fillText(">", 39*canvas.width/40, height+10); 
+          cursor = 'pointer';
+        } else {
+          ctx.fillText(">", 29*canvas.width/30, height+10); 
+        }
+      }
+      height += incr_height;
+    }
+    if ('prevalidate' == validated) {
+      cursor = 'pointer';
+    }
+    if ('validated' == validated) {
+      var height = start_height;
+      for (var i = 0; i < questions.length ; i++ ) {
+        if ((true == questions[i]['a'] && 'left' != questions[i]['c']) ||
+            (false == questions[i]['a'] && 'right' != questions[i]['c'])) {
+          ctx.beginPath();
+          ctx.lineWidth=5;
+          ctx.strokeStyle = '#ff0000';
+          if (0 == (Math.floor(Math.random() * 10) + 1 )%2) {
+            ctx.moveTo(50, height-3);
+            ctx.lineTo(650, height-15);
+          } else {
+            ctx.moveTo(50, height-15);
+            ctx.lineTo(650, height-3);
+          }
+          ctx.stroke();
+        }
+        height += incr_height;
+      } 
+    } else {
+      ctx.font = "30px sans-serif";
+      ctx.textAlign = "center";
+      ctx.fillStyle = 'white';
+      ctx.fillRect((canvas.width/2)-(200/2),(canvas.height)-(60),200,50);
+      ctx.fillStyle = 'rgb(78, 151, 178)';
+      ctx.fillText("Corriger", canvas.width/2, canvas.height-25); 
+    }
+
+    canvas.style.cursor = cursor;
+  }
+  </script>
+ </body>
+</html>

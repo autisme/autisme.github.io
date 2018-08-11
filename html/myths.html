@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+ <head>
+  <meta charset="utf-8" />
+  <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
+  <meta name="viewport" content="width=700, user-scalable=yes" />
+ </head>
+ <body>
+  <canvas id="mythbusters_game" width="700" height="1000"></canvas>
+  <style type="text/css">@import url('https://fonts.googleapis.com/css?family=Handlee');</style>
+  <script type="text/javascript">
+  var canvas = document.getElementById('mythbusters_game');
+  var ctx = canvas.getContext('2d');
+
+  var background = new Image();
+  background.src = '/html/assets/mythes/background_en.png'
+  start_height = 120;
+  incr_height = 50;
+
+  var colors = {
+    'left': '#93c31e',
+    'right': '#ff0000',
+    'default': 'white',
+    'none': 'white',
+  }
+
+  var validated = 'none';
+  var questions = [
+   {'q': "Autistic people are all geniuses", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Autism is an intellectual disability", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Well-being is linked to difficulties the person faces", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "You cannot communicate with non verbal people", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Autism is due to bad parenting", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Autistic people have all different interests", 'c': 'none', 'p': 'none', 'a': true},
+   {'q': "Autistic people do not want to have friends", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Autistic people often have a black and white thinking", 'c': 'none', 'p': 'none', 'a': true},
+   {'q': "Autism not only affects communication but also sensory processing", 'c': 'none', 'p': 'none', 'a': true},
+   {'q': "Autistic people have no sense of humour", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Autistic people are often aggressive", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Autistic people don't feel the pain", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Autism only affects boys", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Autistic people have valuable skills for companies", 'c': 'none', 'p': 'none', 'a': true},
+   {'q': "Only children are affected by autism", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "Autism may be caused by vaccines", 'c': 'none', 'p': 'none', 'a': false},
+   {'q': "You can't say a person is affected just by looking at them", 'c': 'none', 'p': 'none', 'a': true},
+  ]
+
+  document.body.onload = function() {
+    canvas.onmousemove = function(e) {
+     move(e)
+    }
+    canvas.onclick = function(e) {
+     click(e)
+    }
+    draw();
+  }
+
+  function click(e) {
+    var r = canvas.getBoundingClientRect();
+    var mouse_x=parseInt(e.clientX) - r.left;
+    var mouse_y=parseInt(e.clientY) - r.top;
+
+    if ('validated' == validated) {
+      return;
+    }
+
+    var height = start_height;
+    for (var i = 0; i < questions.length ; i++ ) {
+      ctx.rect(0,height-25,350,40);
+      ctx.stroke();
+      ctx.rect(350,height-25,350,40);
+      ctx.stroke();
+      if (mouse_x >= 0 && mouse_x < 350 && mouse_y >= height-25 && mouse_y < height-25+40) {
+        questions[i]['c'] = 'left';
+        break;
+      } else if (mouse_x >= 350 && mouse_x < 700 && mouse_y >= height-25 && mouse_y < height-25+40) {
+        questions[i]['c'] = 'right';
+        break;
+      } 
+      height += incr_height
+    }
+    if (mouse_x >= (canvas.width/2)-(200/2) && mouse_x < (canvas.width/2)+(200/2) && mouse_y >= (canvas.height)-(30)-(25) && mouse_y < (canvas.height)-(30)+25) {
+      validated = 'validated';
+    }
+    draw();
+  }
+
+  function move(e) {
+    var r = canvas.getBoundingClientRect();
+    var mouse_x=parseInt(e.clientX) - r.left;
+    var mouse_y=parseInt(e.clientY) - r.top;
+
+    if ('validated' == validated) {
+      return;
+    }
+
+    var height = start_height;
+    for (var i = 0; i < questions.length ; i++ ) {
+      ctx.rect(0,height-25,350,40);
+      ctx.stroke();
+      ctx.rect(350,height-25,350,40);
+      ctx.stroke();
+      if (mouse_x >= 0 && mouse_x < 350 && mouse_y >= height-25 && mouse_y < height-25+40) {
+        questions[i]['p'] = 'left';
+      } else if (mouse_x >= 350 && mouse_x < 700 && mouse_y >= height-25 && mouse_y < height-25+40) {
+        questions[i]['p'] = 'right';
+      } else {
+        questions[i]['p'] = 'none';
+      }
+
+      height += incr_height
+    }
+    if (mouse_x >= (canvas.width/2)-(200/2) && mouse_x < (canvas.width/2)+(200/2) && mouse_y >= (canvas.height)-(30)-(25) && mouse_y < (canvas.height)-(30)+25) {
+      validated = 'prevalidate';
+    } else {
+      validated = 'none';
+    }
+    draw();
+  }
+
+
+  function draw() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.drawImage(background, 0, 0, 700, 1000);
+
+    /* draw question */
+    var height = start_height;
+    var cursor = 'default';
+    for (var i = 0; i < questions.length ; i++ ) {
+
+      ctx.font = "23px Handlee";
+      ctx.fillStyle = colors[questions[i]['c']];
+      ctx.textAlign = "center";
+      if ('left' == questions[i]['c']) {
+        ctx.fillText(questions[i]['q'], (canvas.width/2)-25, height); 
+      } else if ('right' == questions[i]['c']) {
+        ctx.fillText(questions[i]['q'], (canvas.width/2)+25, height); 
+      } else {
+        ctx.fillText(questions[i]['q'], canvas.width/2, height); 
+      }
+
+      if ('left' != questions[i]['c'] && 'validated' != validated) {
+        ctx.font = "50px Handlee";
+        ctx.fillStyle = "#93c31e";
+        ctx.textAlign = "left";
+        if ('left' == questions[i]['p']) {
+          ctx.fillText("<", canvas.width/40, height+10); 
+          cursor = 'pointer';
+        } else {
+          ctx.fillText("<", canvas.width/30, height+10); 
+        }
+      }
+  
+      if ('right' != questions[i]['c'] && 'validated' != validated) {
+        ctx.font = "50px Handlee";
+        ctx.fillStyle = "#ff0000";
+        ctx.textAlign = "right";
+        if ('right' == questions[i]['p']) {
+          ctx.fillText(">", 39*canvas.width/40, height+10); 
+          cursor = 'pointer';
+        } else {
+          ctx.fillText(">", 29*canvas.width/30, height+10); 
+        }
+      }
+      height += incr_height;
+    }
+    if ('prevalidate' == validated) {
+      cursor = 'pointer';
+    }
+    if ('validated' == validated) {
+      var height = start_height;
+      for (var i = 0; i < questions.length ; i++ ) {
+        if ((true == questions[i]['a'] && 'left' != questions[i]['c']) ||
+            (false == questions[i]['a'] && 'right' != questions[i]['c'])) {
+          ctx.beginPath();
+          ctx.lineWidth=5;
+          ctx.strokeStyle = '#ff0000';
+          if (0 == (Math.floor(Math.random() * 10) + 1 )%2) {
+            ctx.moveTo(50, height-3);
+            ctx.lineTo(650, height-15);
+          } else {
+            ctx.moveTo(50, height-15);
+            ctx.lineTo(650, height-3);
+          }
+          ctx.stroke();
+        }
+        height += incr_height;
+      } 
+    } else {
+      ctx.font = "30px sans-serif";
+      ctx.textAlign = "center";
+      ctx.fillStyle = 'white';
+      ctx.fillRect((canvas.width/2)-(200/2),(canvas.height)-(60),200,50);
+      ctx.fillStyle = 'rgb(78, 151, 178)';
+      ctx.fillText("Correct", canvas.width/2, canvas.height-25); 
+    }
+
+    canvas.style.cursor = cursor;
+  }
+  </script>
+ </body>
+</html>

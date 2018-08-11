@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+ <head>
+  <meta charset="utf-8" />
+  <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
+  <style type="text/css">#game_pecs { width: 100%; height: 100%; }</style>
+ </head>
+ <body>
+  <canvas id="game_pecs" width="700" height="400"></canvas>
+  <script type="text/javascript">
+  function pecs() {
+    var canvas = document.getElementById('game_pecs');
+    var ctx = canvas.getContext('2d');
+    ctx.scale(1, 1);
+    var mouse = {'x': undefined, 'y': undefined};
+    var cursor = 'default';
+    var nb_words = 6;
+    var nb_catalog = 10;
+    var refresh = 1000;
+    var clicked = false;
+    var mobile_device = false;
+    var state = {'dragged': 'none', 'hover': 'none', 'sentence': []};
+    var catalog = [
+      {'word': 'je', 'img': function(){var i = new Image(); i.src='assets/pecs/je.png'; return i;}(), 'selected': false },
+      {'word': 'tu', 'img': function(){var i = new Image(); i.src='assets/pecs/tu.png'; return i;}(), 'selected': false },
+      {'word': 'qui', 'img': function(){var i = new Image(); i.src='assets/pecs/qui.png'; return i;}(), 'selected': false },
+
+      {'word': 'un', 'img': function(){var i = new Image(); i.src='assets/pecs/un.png'; return i;}(), 'selected': false },
+      {'word': 'bonbon', 'img': function(){var i = new Image(); i.src='assets/pecs/bonbon.png'; return i;}(), 'selected': false },
+
+      {'word': 'parc', 'img': function(){var i = new Image(); i.src='assets/pecs/parc.png'; return i;}(), 'selected': false },
+
+      {'word': 'aller', 'img': function(){var i = new Image(); i.src='assets/pecs/aller.png'; return i;}(), 'selected': false },
+      {'word': 'manger', 'img': function(){var i = new Image(); i.src='assets/pecs/manger.png'; return i;}(), 'selected': false },
+      {'word': 'coucher', 'img': function(){var i = new Image(); i.src='assets/pecs/coucher.png'; return i;}(), 'selected': false },
+      {'word': 'aimer', 'img': function(){var i = new Image(); i.src='assets/pecs/aimer.png'; return i;}(), 'selected': false },
+      {'word': 'lire', 'img': function(){var i = new Image(); i.src='assets/pecs/lire.png'; return i;}(), 'selected': false },
+      {'word': 'venir', 'img': function(){var i = new Image(); i.src='assets/pecs/venir.png'; return i;}(), 'selected': false },
+      {'word': 'voir', 'img': function(){var i = new Image(); i.src='assets/pecs/voir.png'; return i;}(), 'selected': false },
+      {'word': 'ecouter', 'img': function(){var i = new Image(); i.src='assets/pecs/ecouter.png'; return i;}(), 'selected': false },
+      {'word': 'promener_le_chien', 'img': function(){var i = new Image(); i.src='assets/pecs/promener_le_chien.png'; return i;}(), 'selected': false },
+
+
+      {'word': 'dans', 'img': function(){var i = new Image(); i.src='assets/pecs/dans.png'; return i;}(), 'selected': false },
+      {'word': 'quand', 'img': function(){var i = new Image(); i.src='assets/pecs/quand.png'; return i;}(), 'selected': false },
+      {'word': 'demain', 'img': function(){var i = new Image(); i.src='assets/pecs/demain.png'; return i;}(), 'selected': false },
+
+      {'word': 'question', 'img': function(){var i = new Image(); i.src='assets/pecs/question.png'; return i;}(), 'selected': false },
+    ];
+    var sentences = [
+      {'sentence': 'Je veux manger un bonbon.', 'pictos': ['manger', 'bonbon']},
+      {'sentence': 'Je veux aller au parc.', 'pictos': ['aller', 'parc']},
+      {'sentence': 'Je t\'aime!', 'pictos': ['je', 'aimer']},
+      {'sentence': 'J\'aime lire.', 'pictos': ['aimer', 'lire']},
+      {'sentence': 'Peux-tu me lire une histoire ?', 'pictos': ['tu', 'lire', 'question']},
+      {'sentence': 'Je promène le chien dans le parc.', 'pictos': ['promener_le_chien', 'dans', 'parc']},
+      {'sentence': 'À quelle heure mange-t-on ?', 'pictos': ['quand', 'manger', 'question']},
+      {'sentence': 'Va-t-on au parc demain ?', 'pictos': ['aller', 'parc', 'demain', 'question']},
+      {'sentence': 'Je veux partir.', 'pictos': ['je', 'aller']},
+      {'sentence': 'Qui viens demain ?', 'pictos': ['qui', 'venir', 'demain', 'question']},
+      {'sentence': 'Viens-tu ?', 'pictos': ['tu', 'venir', 'question']},
+      {'sentence': 'Quand viens-tu ?', 'pictos': ['quand', 'venir', 'tu', 'question']},
+      {'sentence': 'Qui viens au parc avec moi ?', 'pictos': ['qui', 'aller', 'parc', 'je', 'question']},
+      {'sentence': 'Je vais au lit.', 'pictos': ['je', 'coucher']},
+      {'sentence': 'Je t\'ai vu au parc.', 'pictos': ['je', 'voir', 'tu', 'parc']},
+      {'sentence': 'Je t\'écoute quand tu parles.', 'pictos': ['je', 'ecouter', 'tu']},
+      {'sentence': 'J\'entends quelque chose.', 'pictos': ['je', 'ecouter']},
+      {'sentence': 'Quand mange-t-on ?', 'pictos': ['quand', 'manger', 'questions']},
+      {'sentence': 'Je veux lire dans le parc.', 'pictos': ['je', 'lire', 'dans', 'parc']},
+    ];
+    var sentence = Math.floor((Math.random() * sentences.length));
+    for (var i = 0; i < sentences[sentence]['pictos'].length ; i++) {
+      state['sentence'].push(undefined);
+    }
+
+    var status = {'status': 'pause', 'interval': undefined};
+    this.play = function() {
+      if ( 'play' == status['status'])
+        return;
+
+      canvas.onmousemove = function(e) { mobile_device = false; move(e); };
+      canvas.onmousedown = function(e) { mobile_device = false; mousedown(e); };
+      canvas.onmouseup = function(e) { mobile_device = false; mouseup(e); };
+
+      canvas.ontouchmove = function(e) { mobile_device = true; move(e); };
+      canvas.ontouchstart = function(e) { mobile_device = true; mousedown(e); };
+      canvas.ontouchend = function(e) { mobile_device = true; mouseup(e); };
+
+      status['interval'] = setInterval(function() {
+        draw();
+      }, refresh);
+      
+      status['status'] = 'play';
+    }
+    this.pause = function() {
+      if ( 'pause' == status['status'])
+        return;
+      clearInterval(status['interval']);
+      canvas.onmousemove = function(e) {}
+      canvas.onmousedown = function(e) {}
+      canvas.onmouseup = function(e) {}
+
+      canvas.ontouchmove = function(e) {}
+      canvas.ontouchstart = function(e) {}
+      canvas.ontouchend = function(e) {}
+      status['status'] = 'pause';
+    }
+    this.canvas = function() {
+      return canvas;
+    }
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+      ctx.font = "30px Arial";
+      ctx.textAlign = "center";
+      ctx.fillStyle = "#111"
+      ctx.fillText(sentences[sentence]['sentence'], canvas.width/2, 50);
+
+      /* draw sentence */
+      for (var i = 0; i < sentences[sentence]['pictos'].length ; i++) {
+        if ( sentences[sentence]['pictos'].length == nb_words) {
+          var x = (i*canvas.width/nb_words) +5;
+        } else {
+          var x =  (i+1)*((canvas.width)/(sentences[sentence]['pictos'].length+1)) - ((canvas.width/nb_words)/2)
+        }
+        if ( undefined == state['sentence'][i]) {
+          ctx.beginPath();
+          ctx.lineWidth="1";
+          ctx.strokeStyle="#000000";
+        } else if (sentences[sentence]['pictos'][i] == catalog[state['sentence'][i]]['word']) {
+          ctx.beginPath();
+          ctx.lineWidth="5";
+          ctx.strokeStyle="#75aa3d";
+        } else {
+          ctx.beginPath();
+          ctx.lineWidth="5";
+          ctx.strokeStyle="#9e2127";
+        }
+        ctx.rect(x, 70, (canvas.width/nb_words)-10, (canvas.width/nb_words)-10);
+        ctx.stroke();
+        if (undefined != state['sentence'][i]) {
+          ctx.drawImage(catalog[state['sentence'][i]]['img'], x, 70, (canvas.width/nb_words)-10, (canvas.width/nb_words)-10);
+        }
+      }
+
+
+      /* draw catalog */
+      var y = 0;
+      var j = 0;
+      for (var i = 0 ; i < catalog.length; i++) {
+        if ((i%nb_catalog) == 0) {
+          y += (canvas.width/nb_catalog);
+          j = 0;
+        }
+        ctx.beginPath();
+        if (i == state['hover'] && false == catalog[i]['selected']) {
+          ctx.strokeStyle="#4e97b2";
+          ctx.lineWidth="3";
+        } else {
+          ctx.strokeStyle="#000000";
+          ctx.lineWidth="1";
+        }
+        ctx.rect( (j*canvas.width/nb_catalog)+5, 70+((canvas.width/nb_catalog)-10)+30+y, (canvas.width/nb_catalog)-10, (canvas.width/nb_catalog)-10);
+        ctx.stroke();
+        ctx.drawImage(catalog[i]['img'], (j*canvas.width/nb_catalog)+5, 70+((canvas.width/nb_catalog)-10)+30+y,  (canvas.width/nb_catalog)-10, (canvas.width/nb_catalog)-10);
+        if (true == catalog[i]['selected']) {
+          ctx.fillStyle = "rgba(255, 255, 255, 0.7)";
+          ctx.fillRect((j*canvas.width/nb_catalog)+5, 70+((canvas.width/nb_catalog)-10)+30+y,  (canvas.width/nb_catalog)-10, (canvas.width/nb_catalog)-10);
+        }
+        j += 1;
+      }
+
+      /* if something dragged, draw the content dragged under the mouse */
+      if ('none' != state['dragged']) {
+        ctx.drawImage(catalog[state['dragged']]['img'], mouse['x'] - (((canvas.width/nb_catalog)-10)/2), mouse['y'] - (((canvas.width/nb_catalog)-10)/2), (canvas.width/nb_catalog)-10, (canvas.width/nb_catalog)-10);
+      }
+      canvas.style.cursor = cursor;
+
+    }
+
+    function what_is_under_mouse() {
+      if ( mouse['y'] >= 70 && mouse['y'] <= 70+((canvas.width/nb_words)-10) ) {
+        for (var i = 0; i < sentences[sentence]['pictos'].length ; i++) {
+          if ( sentences[sentence]['pictos'].length == nb_words) {
+            var x = (i*canvas.width/nb_words) +5;
+          } else {
+            var x =  (i+1)*((canvas.width)/(sentences[sentence]['pictos'].length+1)) - ((canvas.width/nb_words)/2)
+          }
+          if (mouse['x'] >= x && mouse['x'] <= x+((canvas.width/nb_words)-10)) {
+            return {'where': 'sentence', 'which': i};
+          }
+        }
+        return {'where': 'nowhere'};
+      } else {
+        var y = 0;
+        var j = 0;
+        for (var i = 0 ; i < catalog.length; i++) {
+          if ((i%nb_catalog) == 0) {
+            y += (canvas.width/nb_catalog);
+            j = 0;
+          }
+          ctx.drawImage(catalog[i]['img'], (j*canvas.width/nb_catalog)+5, 70+((canvas.width/nb_catalog)-10)+30+y,  (canvas.width/nb_catalog)-10, (canvas.width/nb_catalog)-10);
+          if ( (mouse['x'] >= (j*canvas.width/nb_catalog)+5) && (mouse['x'] <= ((j*canvas.width/nb_catalog)+5)+((canvas.width/nb_catalog)-10)) && (mouse['y'] >= 70+((canvas.width/nb_catalog)-10)+30+y) && (mouse['y'] <= (70+((canvas.width/nb_catalog)-10)+30+y) + ((canvas.width/nb_catalog)-10)) ) {
+            return {'where': 'catalog', 'which': i};
+          }
+          j += 1;
+        }
+        return {'where': 'nowhere'};
+      }
+    }
+
+    function mousedown(e) {
+e.preventDefault();
+      var r = canvas.getBoundingClientRect();
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
+      mouse['x'] = mouse['x']*700/canvas.offsetWidth;
+      mouse['y'] = mouse['y']*400/canvas.offsetHeight;
+
+      clicked = true;
+
+      var c = what_is_under_mouse()
+      if ('catalog' == c['where'] && false == catalog[c['which']]['selected'] ) {
+        cursor = 'move';
+        state['dragged'] = c['which'];
+        catalog[c['which']]['selected'] = true;
+      } else if ('sentence' == c['where'] && undefined != state['sentence'][c['which']]) {
+        cursor = 'move';
+        state['dragged'] = state['sentence'][c['which']];
+        clicked = {'sentence': c['which'], 'picto':  state['sentence'][c['which']]};
+        state['sentence'][c['which']] = undefined;
+      }
+    }
+    function mouseup(e) {
+      var c = what_is_under_mouse()
+      if ('sentence' == c['where']) {
+        if ( clicked['sentence'] == c['which']) {
+          catalog[clicked['picto']]['selected'] = false;
+          state['sentence'][c['which']] = undefined;
+          draw();
+        } else {
+          if ('none' != state['dragged']) {
+            if ( undefined != state['sentence'][c['which']] ) {
+              catalog[state['sentence'][c['which']]]['selected'] = false;
+            }
+            state['sentence'][c['which']] = state['dragged'];
+          }
+        }
+      } else {
+        if ( 'none' != state['dragged']) {
+          catalog[state['dragged']]['selected'] = false;
+        }
+      }
+      state['dragged'] = 'none';
+      if ((c['where'] == 'catalog') || (c['where'] == 'sentence' && undefined != state['sentence'][c['which']])) {
+        cursor = 'pointer';
+      } else {
+        cursor = 'default';
+      }
+      clicked = false;
+      draw();
+    }
+
+    function move(e) {
+      var r = canvas.getBoundingClientRect();
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
+      mouse['x'] = mouse['x']*700/canvas.offsetWidth;
+      mouse['y'] = mouse['y']*400/canvas.offsetHeight;
+      var c = what_is_under_mouse()
+      if ('none' != state['dragged']) {
+        cursor = 'move';
+      } else {
+        if ((c['where'] == 'catalog') || (c['where'] == 'sentence' && undefined != state['sentence'][c['which']])) {
+          cursor = 'pointer';
+          if (c['where'] == 'catalog') {
+            state['hover'] = c['which'];
+          } else {
+            state['hover'] = 'none';
+          }
+        } else {
+          cursor = 'default';
+          state['hover'] = 'none';
+        }
+      }
+
+      draw();
+    }
+  }
+  function isScrolledIntoView(el) {
+    var elemTop = el.getBoundingClientRect().top;
+    var elemBottom = el.getBoundingClientRect().bottom;
+
+    var isVisible = ((elemTop >= 0) && (elemTop <= window.innerHeight)) || ((elemBottom >= 0) && (elemBottom <= window.innerHeight)) || ((elemTop < 0) && (elemBottom > window.innerHeight));
+    return isVisible;
+  }
+  document.body.onload = function() {
+    var canvas = new pecs();
+    canvas.play();
+  }
+  </script>
+ </body>
+</html>

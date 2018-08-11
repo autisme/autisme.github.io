@@ -1,0 +1,70 @@
+<div class="blog">
+  <h1 class="page-heading">
+{% if page.permalink == "/blog/" %}
+Blog
+{% else %}
+ {% if page.category %}
+  <a href="/blog">Blog</a> / {{page.category}}
+ {% else %}
+  {% if page.paginate.year %}
+   <a href="/blog">Blog</a> / {{page.paginate.year}}
+  {% else %}
+   Blog
+  {% endif %}
+ {% endif %}
+{% endif %}</h1>
+  <ul class="post-list">
+    {% if page.paginate.year %}
+      {% assign year = page.paginate.year %}
+    {% else %}
+      {% assign year = nil %}
+    {% endif %}
+    {% if page.paginate.offset %}
+      {% assign offset = page.paginate.offset %}
+    {% else %}
+      {% assign offset = 0 %}
+    {% endif %}
+    {% if page.paginate.limit %}
+      {% assign limit = page.paginate.limit %}
+    {% else %}
+      {% assign limit = site.posts.length %}
+    {% endif %}
+    {% if page.paginate.truncatewords %}
+      {% assign tr = page.paginate.truncatewords %}
+    {% else %}
+      {% assign tr = 50 %}
+    {% endif %}
+    {% assign num_post = offset %}
+    {% for post in site.posts offset:offset limit:limit %}
+    {% assign post_year = post.date | date: "%Y" %}
+    {% if year == nil or post_year == year  %}
+    {% assign page_category = page.category | slugify %}
+    {% assign post_categories = "" | split: "" %}
+    {% for category in post.categories %}
+      {% assign category1 = category | slugify %}
+      {% assign post_categories = post_categories | push: category1 %}
+    {% endfor %}
+    {% if page.category == nil or post_categories contains page_category %}
+      <li id="post-{{num_post}}" class="post">        
+        <span class="post-meta">{% if post.author %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span> • {% endif %}<time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{% include date.html date=post.date %}</time></span>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+        <h2>
+          {{ post.title | escape }}
+        </h2>
+	<div class="post-">
+		{% if post.oembed_image %}
+		<amp-img class="post-thumb" width="250" height="125" src="{{ post.oembed_image | relative_url }}" /></amp-img>
+		{% endif %}
+		<div class="post-excerpt">
+	        {{ post.content | strip_html | truncatewords: tr }}
+		<p class="next-reading">Lire la suite</p>
+		</div>
+	</div>
+        </a>
+      </li>
+    {% endif %}
+    {% endif %}
+    {% assign num_post = num_post | plus: 1 %}
+    {% endfor %}
+  </ul>
+</div>

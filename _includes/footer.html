@@ -1,0 +1,30 @@
+<footer class="site-footer">
+ <div class="wrapper">
+  <div class="footer-col-wrapper">
+   <div class="footer-col footer-col-1">
+    <ul>
+     <li><a href="/a-propos">À propos</a></li>
+     <li><a href="/contact">Contactez-nous</a></li>
+     <li><a href="/contribuez">Contribuez</a></li>
+    </ul>
+   </div>
+   <div class="footer-col footer-col-2">
+   </div>
+   <div class="footer-col footer-col-3">
+    <p>© {{ site.time | date: '%Y' }} autisme.github.io</p>
+    <ul class="social-media-list">
+     {% if site.facebook.username %}
+     <li>
+      {% include icon-facebook.html id=site.facebook.id username=site.facebook.username %}
+     </li>
+     {% endif %}
+     {% if site.twitter_username %}
+     <li>
+      {% include icon-twitter.html username=site.twitter_username %}
+     </li>
+     {% endif %}
+    </ul>
+   </div>
+  </div>
+ </div>
+</footer>

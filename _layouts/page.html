@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    {% if page.banner_image != false %}
+     {% if page.banner_image %} 
+      <amp-img class="center"  width="640" height="228" layout="intrinsic" src="{{ page.banner_image }}" alt="{{ page.title }}"></amp-img>
+     {% elsif page.oembed_image %} 
+      <amp-img class="center"  width="324" height="228" layout="intrinsic" src="{{ page.oembed_image }}" alt="{{ page.title }}"></amp-img>
+     {% endif %}
+    {% endif %}
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+
+  {% include translated.html %}
+
+  {% if page.courtesis %}
+   <footer>
+   {% include courtesis.html %}
+   </footer>
+  {% endif %}
+
+</article>

@@ -1,0 +1,22 @@
+<head>
+ <meta charset="utf-8" />
+ <title>{% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+ <meta name="description" content="{{ page.content | markdownify | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+{% if site.google_verify %} <meta name="google-site-verification" content="{{ site.google_verify }}" />{% endif %}
+{% if site.bing_verify %} <meta name="msvalidate.01" content="{{ site.bing_verify }}" />{% endif %}
+ <meta property="og:locale" content="fr_FR" />
+ <meta property="og:type" content="article" />
+ <meta property="og:title" content="{{ page.title }}" />
+ <meta property="og:description" content="{{ page.description | normalize_whitespace | truncate: 160 }}" />
+ <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
+ <meta property="og:site_name" content="{{ site.domain }}" />
+ <meta name="twitter:card" content="summary" />
+ <meta name="twitter:site" content="@{{ page.twitter_username }}" />
+ <meta name="twitter:creator" content="@{{ page.twitter_username }}" />
+ <meta name="twitter:title" content="{{ page.title }}" />
+ <meta name="twitter:description" content="{{ page.description | normalize_whitespace | truncate: 160 }}" />
+ <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
+ <meta name="twitter:image" content="{{ page.oembed_image }}" />
+ <meta name="og:image" content="{{ page.oembed_image }}" />
+ <meta http-equiv="refresh" content="1; url={{ page.redirect_url }}" />
+</head>

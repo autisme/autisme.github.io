@@ -1,0 +1,39 @@
+<amp-geo layout="nodisplay">
+  <script type="application/json">
+    {
+      "ISOCountryGroups": {
+        "eu": ["al", "ad", "am", "at", "by", "be", "ba", "bg", "ch", "cy", "cz", "de", "dk", "ee", "es", "fo", "fi", "fr", "gb", "ge", "gi", "gr", "hu", "hr", "ie", "is", "it", "lt", "lu", "lv", "mc", "mk", "mt", "no", "nl", "po", "pt", "ro", "ru", "se", "si", "sk", "sm", "tr", "ua", "uk", "va"]
+      }
+    }
+  </script>
+</amp-geo>
+<amp-consent layout="nodisplay" id="cookie-consent">
+  <script type="application/json">
+  {
+    "consents": {
+      "cookie-consent": {
+        "promptIfUnknownForGeoGroup": "eu",
+        "promptIfUnknown": true,
+        "promptUI": "cookie-consent-ui"
+      }
+    },
+    "policy": {
+      "default": {
+        "waitFor": {
+          "cookie-consent": []
+        },
+        "timeout": {
+          "seconds": 5,
+          "fallbackAction": "dismiss"
+        }
+      }
+    }
+  }
+  </script>
+<div id="cookie-consent-ui">
+ Ce site web utilise des cookies afin d’améliorer votre expérience de navigation. 
+ <button on="tap:cookie-consent.accept" role="button">J'accepte</button>
+ <button on="tap:cookie-consent.reject" role="button">Je refuse</button>
+ <a href="/politique-sur-les-cookies">Politique sur les cookies</a>
+</div>
+</amp-consent>

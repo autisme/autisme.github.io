@@ -1,0 +1,46 @@
+title: Pour l'inclusion des personnes autistes
+long_title: Pour l'inclusion, la compréhension, l'acceptation et la réussite des personnes sur le spectre de l'autisme
+email: 
+lang: fr
+description: > # this means to ignore newlines until "baseurl:"
+  Faire comprendre ce qu'est l'autisme au grand public et construire une société inclusive.
+baseurl: ""
+url: "https://autisme.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+twitter_username: BastienBConfais
+github_username:  autisme
+facebook:
+  username: Bastien Confais
+  id: 100011387942681
+author: Bastien
+email: autisme@confais.org
+
+google_verify: mpUcls0ghJHiock1KTv2d00nVpzQI82SZGDo1nsaziU
+google_analytics: UA-99588632-1
+bing_verify: 10AC9E0EFAD518AB76B218E4121A15B5
+permalink: /:title
+
+amp_img_cache_url: https://autisme-github-io.cdn.ampproject.org/i/autisme.github.io
+resources_repository: https://github.com/autisme/twitter-campaign/raw/master
+#amp_img_cache_url: http://localhost:4000
+
+# Build setting
+sass:
+  style: compressed
+markdown: kramdown
+
+#theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+ <head>
+  <meta charset="utf-8" />
+  <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
+  <style type="text/css">#fig_neon { width: 100%; height: 100%; }</style>
+ </head>
+ <body>
+  <canvas id="fig_neon" width="700" height="451"></canvas>
+  <script type="text/javascript">
+  function neon() {
+    var canvas = document.getElementById('fig_neon');
+    var ctx = canvas.getContext('2d');
+    ctx.scale(1, 1);
+    var refresh = 100;
+    var status = {'status': 'pause', 'interval': undefined};
+    var images = {
+      'on': function(){var i = new Image(); i.src='assets/neon/on.jpg'; return i;}(),
+      'off': function(){var i = new Image(); i.src='assets/neon/off.jpg'; return i;}()
+    }
+    var lightning = 5000;
+    var flicker = 5;
+    this.play = function() {
+      if ( 'play' == status['status'])
+        return;
+      status['interval'] = setInterval(function() {
+        draw();
+      }, refresh);
+      
+      status['status'] = 'play';
+    }
+    this.pause = function() {
+      if ( 'pause' == status['status'])
+        return;
+      clearInterval(status['interval']);
+      status['status'] = 'pause';
+    }
+    this.canvas = function() {
+      return canvas;
+    }
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      lightning -= refresh;
+      if (lightning < 0) {
+        ctx.drawImage(images['off'], 0, 0);
+        flicker -= 1;
+        if (flicker < 0) {
+          /* pause */
+          flicker = Math.random() * (4 - 2) + 2;
+          lightning = Math.random() * (5000 - 2000) + 2000;
+        } else {
+          lightning = Math.random() * (2*refresh - (refresh)) + (refresh);
+        }
+      } else {
+        ctx.drawImage(images['on'], 0, 0);
+      }
+    }
+  }
+  function isScrolledIntoView(el) {
+    var elemTop = el.getBoundingClientRect().top;
+    var elemBottom = el.getBoundingClientRect().bottom;
+
+    var isVisible = ((elemTop >= 0) && (elemTop <= window.innerHeight)) || ((elemBottom >= 0) && (elemBottom <= window.innerHeight)) || ((elemTop < 0) && (elemBottom > window.innerHeight));
+    return isVisible;
+  }
+  document.body.onload = function() {
+    var canvas = new neon();
+    canvas.play();
+  }
+  </script>
+ </body>
+</html>

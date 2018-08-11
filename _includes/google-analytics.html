@@ -1,0 +1,26 @@
+<amp-analytics type="googleanalytics">
+ <script type="application/json">
+ {
+  "vars": {
+    "account": "{{ site.google_analytics }}"
+  },
+  "triggers": {
+    "trackPageview": {
+      "on": "visible",
+      "request": "pageview"
+    },
+    "outboundLinks": {
+      "on": "click",
+      "selector": "a",
+      "request": "event",
+      "vars": {
+        "eventCategory": "outbound",
+        "eventAction": "click",
+        "eventLabel": "${outboundLink}"
+      }
+    }
+  }
+ }
+</script>
+</amp-analytics>
+

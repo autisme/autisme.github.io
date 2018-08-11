@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+ <head>
+  <meta charset="utf-8" />
+  <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
+  <style type="text/css">
+body {
+ font-size: 1em;
+ font-family: sans-serif;
+}
+input {
+ padding: 10px;
+ font-size: 1.2em;
+ margin: 0 auto 30px auto;
+ display: block;
+ width: 75%;
+ border-radius: 5px;
+}
+#qa {
+ height: 1000px;
+ overflow-y: scroll;
+}
+.qa {
+ margin-top: 20px;
+ margin-bottom: 20px;
+}
+.question {
+ display: block;
+ color: #5f6f7e;
+}
+.question:hover {
+ text-decoration: underline;
+ cursor: pointer;
+}
+.question::before {
+ content: "+";
+ color: #fff;
+ font-size: 1.2em;
+ background-color: #5f6f7e;
+ text-align: center;
+ display: inline-block;
+ margin: 0 10px 0 10px;
+ width: 1.4em;
+ height: 1.4em;
+ line-height: 1.4em;
+ border-radius: 50%;
+}
+.question.shown::before {
+ content: "-";
+}
+.answer {
+ display: none;
+ padding: 20px;
+ margin-left: 1.5em;
+}
+.answer.shown {
+ display: block;
+}
+p,ul,dl {
+ margin: 7px 0 7px 0;
+}
+dt {
+ float: left;
+ padding-right: 10px;
+ font-weight: bold;
+}
+dd {
+ margin: 5px 0 5px 0;
+}
+  </style>
+ </head>
+ <body>
+  <input type="text" id="question" list="dl" placeholder="Votre question…" />
+  <datalist id="dl">
+  </datalist>
+  <div id="qa">
+  </div>
+  <script type="text/javascript" src="/html/lib/fuse.min.js"></script>
+  <script type="text/javascript">
+   var qa = [
+    {
+     'q': 'Pourquoi aller dans les magasins est difficile pour les personnes autistes ?',
+     'a': '<p>Aller dans une boutique, un magasin ou un supermarché n\'est pas facile pour les personnes autistes. Souvent les magasins sont bruyants, imprévisibles, remplis de monde et communiquer avec les vendeurs ou caissiers est souvent nécessaire.</p><p>Pour les personnes autistes, il est plus facile d\'aller dans un magasin aux heures où il y a moins de monde lorsque la sortie est préparée en avance.</p>'
+    },
+    {
+     'q': 'Pourquoi utiliser les transports en commun est difficile pour certaines personnes autistes ?',
+     'a': '<p>Utiliser les transports en commun est quelque chose que tout le monde trouve stressant de temps à autre. Vous devez respecter les horaires, attendre dans un endroit rempli de monde et enfin trouver un siège ou rester debout dans un train/bus bondé. Cela rend les transports en commun particulièrement difficiles à utiliser pour les personnes autistes.</p><p>Quelques difficultés souvent rencontrées&nbsp;:</p><ul><li>Les lumières vives peuvent être difficiles à supporter&nbsp;;</li><li>Une personne autiste peut également ne pas supporter une odeur qu\'elle n\'aime pas. Cela peut se produire lorsque des personnes mettent beaucoup de parfum ou emportent leur déjeuner dans le bus&nbsp;;</li><li>Beaucoup de personnes autistes n\'aiment pas la foule. Pensez aux différents bruits dans les transports. Il y a les sonneries des portes, le système de ventilation ou encore l\'avertisseur sonore. Dans les taxis, la radio ou un chauffeur très bavard&nbsp;;</li><li>Il est très courant que les personnes autistes aient besoin d\'un espace personnel important. IL peut être vraiment stressant lorsque des gens s\'approchent trop, particulièrement lorsqu\'il y a beaucoup de monde dans les transports.</li></ul><p>Nous pouvons ajouter à cette liste, l\'anxiété pour ne pas être à l\'heure, les difficultés de communication et d\'organisation. Tout cela rend les transports en commun vraiment difficiles à prendre pour les personnes concernées.</p>'
+    },
+    {
+     'q': 'Est-il plus difficile d\'être impliqué dans une activité si vous êtes concerné par l\'autisme ?',
+     'a': '<p>Tous les jeunes sont impliqués dans des activités sportives ou des associations à un moment donné. Toutefois pour les personnes autistes il est plus difficile d\'être inclus dans ces activités. Beaucoup de personnes autistes ont une mauvaise coordination,  compliquant la pratique sportive. De plus, les difficultés sociales font que s\'intégrer dans un groupe est une tâche épuisante plutôt que plaisante. Si une personne autiste est dans votre groupe ou  association, réfléchissez à comment vous pouvez inclure tout le monde. Soyez attentif au langage que vous utilisez en sport. Ne traitez pas les gens «&nbsp;d\'handicapé&nbsp;» ou autre insulte du même acabit. Les personnes autistes peuvent se sentir visées et ne pouvoir participer. Faites également attention au fait que les personnes autistes peuvent avoir besoin de plus de temps pour réaliser certaines taches.</p>'
+    },
+    {
+     'q': 'Pourquoi certaines personnes autistes parlent tout le temps du même sujet ?',
+     'a': '<p>Les personnes autistes peuvent parler beaucoup sur un sujet si celui-ci les intéresse. Ce n\'est pas pour rien que les obsessions et les intérêts spéciaux vont souvent de pair avec l\'autisme. Toutefois, une personne peut être passionnée pour un sujet et ne pas s\'intéresser du tout à d\'autres sujets. S\'intéresser à quelque chose est souvent bien. Cela peut guider la personne dans le choix du métier que la personne pourrait exercer. Cependant, si l\'intérêt demande trop de temps, cela peut limiter le temps alloué à d\'autres activités comme se faire des amis. Cela peut également être une source de distraction au travail ou à l\'école.</p>'
+    },
+    {
+     'q': 'Pourquoi les personnes autistes sont-elles souvent de bons amis ?',
+     'a': '<p>Avoir un ami qui est autiste peut être bien pour plusieurs raisons. Un aspect de l\'autisme est la manière très concrète dont la personne pense. Soit un fait est vrai soit il ne l\'est pas. Par conséquent, l\'honnêteté et la loyauté sont souvent des traits de caractères fréquents chez les personnes autistes. Même si l\'amitié est longue à se développer, une personne autiste restera un ami fidèle. Une personne autiste peut également avoir un sens du détail ou une connaissance exceptionnelle sur un certain sujet. Cela peut être un bon moyen de développer l\'amitié. Vous pouvez débattre ensemble ou travailler sur un projet autour de ce sujet.</p>'
+    },
+    {
+     'q': 'Pourquoi certaines personnes autistes vont vers les autres et socialisent certaines fois tandis qu\'à d\'autres moments elles ne le font pas ?',
+     'a': '</p>Beaucoup de gens croient au fait que les personnes autistes ne veulent pas socialiser ou être avec les autres (en d\'autres termes, qu\'elles veulent être «&nbsp;dans leur bulle&nbsp;»). Beaucoup de personnes autistes veulent socialiser, c\'est juste qu\'il y a trop de «&nbsp;règles&nbsp;» à respecter. Cela peut générer de l\'anxiété d\'apprendre et d\'appliquer toutes ces règles. Pensez au moment où vous avez rencontré de nouveaux amis ou rejoint une association. Cela vous a demandé du temps avant de vous sentir à l\'aise.Pour les personnes autistes, il y a également des difficultés qui peuvent être&nbsp;:</p><ul><li>L\'environnement sensoriel&nbsp;;</li><li>Avoir déjà essayé de socialiser dans une situation similaire et avoir l\'impression d\'avoir échoué&nbsp;;</li><li>La mauvaise compréhension dans la conversation&nbsp;;</li><li>La peur de faire un commentaire inapproprié sans s\'en rendre compte.</li></ul>'
+    },
+    {
+     'q': 'Que faire si quelqu\'un me dit qu\'il est autiste ?',
+     'a': '<p>Si quelqu\'un vous annonce qu\'il est autiste, cela lui a probablement demandé beaucoup de courage et c\'est certainement une décision qu\'il n\'a pas pris à la légère. La personne vous l\'a certainement dit afin que vous puissiez mieux la comprendre. La personne est la même que celle que vous avez toujours connu mais maintenant vous pouvez comprendre pourquoi elle agit de telle ou telle façon. La personne autiste peut également se sentir plus détendue avec vous puisqu\'elle n\'a plus à cacher ses difficultés.</p><p>Si quelqu\'un vous dit qu\'il est autiste, laissez la parler et écoutez ce qu\'elle a à dire. Si vous êtes à l\'aise, vous pouvez poser des questions. Essayez de ne pas dire «&nbsp;je suis désolé&nbsp;», «&nbsp;tu sembles normal&nbsp;» ou encore «&nbsp;mais tu ne sembles pas autiste&nbsp;». Rappelez-vous que chaque personne autiste est différente. Ne comparez pas aux autres personnes autistes que vous connaissez.</p>'
+    },
+    {
+     'q': 'Que puis-je faire afin que les personnes autistes socialisent plus facilement ?',
+     'a': '<p>Vous pouvez rendre la socialisation plus facile en rendant l\'environnement plus agréable et encourageant. Si vous invitez quelqu\'un à vous rejoindre pour une soirée ou un visite quelque part, n\'abandonnez pas si la personne autiste refuse la première invitation. Laissez la porte ouverte. Invitez là à chaque fois. Après plusieurs refus, la personne sera peut-être assez en confiance pour vous rejoindre.</p><p>Organisez une activité en lien avec les intérêts de la personne autiste mais que vous appréciez également. Demandez quels sont ses intérêts. Le cinéma et les magasins peuvent être difficiles d\'un point de vue du bruit mais demandez à la personne autiste si elle veut quand même y aller.</p>'
+    },
+    {
+     'q': 'Quelles sont les choses à faire ou à ne pas faire pour socialiser avec une personne autiste ?',
+     'a': '<p>Quand vous communiquez avec une personne autiste, soyez vous-même. Rappelez-vous qu\'elle est avant tout une personne, et aime communiquer et avoir des choses à dire. </p><p>Faites attention aux difficultés de communication que la personne peut avoir.</p><p>Soyez patient et compréhensif. La personne peut avoir besoin de temps pour communiquer, prenez le temps d\'écouter ce qu\'elle a à dire.</p><p>Ne vous énervez pas si la personne vous demande de donner plus de précisions sur ce que vous voulez dire. Gardez à l\'esprit que la compréhension du langage verbal et non verbal peut être difficile pour les personnes autistes.</p><p>Ne vous offensez pas de la façon dont la personne communique avec vous. La personne peut sembler rude, froide, mais ne vous bloquez pas par son style de communication.</p><p>Ce n\'est pas grave si la personne ne vous regarde pas dans les yeux pendant toute la conversation. Il y a d\'autres aspects de la communication qui sont plus importants que de regarder dans les yeux.</p><p>Quand nous parlons, nous avons tendance à toucher le bras de la personne ou son dos. Faites attention, chez les personnes autistes, cela peut générer de l\'anxiété.</p><p>De même, le bruit peut être un problème. Essayez de ne pas crier.</p><p>Garder à l\'esprit que la personne peut être anxieuse lorsqu\'elle vous parle. Beaucoup de personnes autistes ont déjà été rejetées. La personne peut donc ne pas se sentir en confiance.</p><p>Rassurer la personne en vous montrant attentif et en écoutant avec intérêt ce qu\'elle dit.</p><p>Essayez de trouver le sens de l\'humour de la personne. C\'est un mythe que de croire que les personnes autistes n\'en n\'ont pas. Essayez de trouver celui de la personne avant d\'utiliser le vôtre.</p><p>La règle d\'or - Toujours réfléchir à deux fois avant de parler - et toujours vérifier que la personne a compris ce que vous avez dit.</p>'
+    },
+    {
+     'q': 'Les personnes autistes veulent-elles rester seules ?',
+     'a': '<p>À l\'adolescence, tout le monde passe de plus en plus de son temps libre avec ses amis plutôt qu\'avec sa famille. Toutefois, pour les personnes autistes, cela peut être stressant. Après avoir passé plusieurs années à essayer de comprendre le langage corporel et les règles sociales, tout change subitement. Pensez au temps que vous passez avec vos amis. C\'est la première chose que vous faites en arrivant à l\'école, au collège, au lycée ou à l\'université. C\'est aussi ce que vous faites sur le temps du midi ou à la fin de la journée. Ce sont des moments où il y a beaucoup de discussions, beaucoup de gens qui bougent autour. Tout ceci peut générer de la surcharge sensorielle pour les personnes autistes. Le temps où tout le monde socialise et se détend peut être le moment qui génère le plus de stress. Cela peut faire que les personnes autistes se retire de la foule et ont besoin d\'être seules un moment pour se reposer.</p><p>Souvenez-vous que les personnes autistes veulent être incluses, même si parfois elles ont besoin d\'un peu de temps seules.</p>'
+    },
+    {
+     'q': 'Pourquoi certaines personnes autistes ne comprennent-elles pas les expressions faciales et le langage corporel ?',
+     'a': '<p>La recherche a montré que seulement 7&nbsp;% de nos émotions  sont communiquées par les mots. Cela signifie que 93&nbsp;% est communiqué par le langage non verbal. Environ 55&nbsp;% de la communication passe par les expressions du visage, les gestes et 38&nbsp;% de la communication passe par le ton de la voix (Mehrabian, 1987). Pas étonnant qu\'il soit difficile de comprendre ce que nous disons&nbsp;!</p><p>Avec 3&nbsp;000 expressions du visage, il est difficile de savoir quelle émotion une personne ressent sans connaître le contexte. Suis-je en train de pleurer parce que j\'ai gagné une course, ou suis-je en train de pleurer parce que je suis triste&nbsp;?</p><p>Les personnes autistes souvent ne regardent pas le visage de leur interlocuteur, et quand elles le font, il peut être difficile de savoir quelle émotion est exprimée par telle ou telle expression. Si la personne me sourit, est-elle sincère ou sarcastique&nbsp;?</p><p>La prochaine fois que vous parlez à quelqu\'un, pensez à tous les gestes que vous faites et imaginez comment il peut être difficile pour une personne autiste d\'en comprendre la signification.</p>'
+    },
+    {
+     'q': 'Pourquoi certaines personnes autistes répondent-elles aux questions par un seul mot ?',
+     'a':'<p>Depuis le plus jeune âge, vous apprenez à prendre part aux conversations. Nous prenons cela pour acquis et nous n\'y pensons même plus. Vous n\'avez pas besoin que l\'on vous rappelle de faire un commentaire quand quelqu\'un raconte une histoire, ou vous n\'avez pas besoin de réfléchir pour aller parler de la météo avec un étranger. Vous savez comment vous y prendre pour converser. Vous connaissez la tonalité de votre voix qui est appropriée à chaque situation. Maintenant imaginez que vous devez réfléchir à cela à chaque fois que vous souhaitez parler à quelqu\'un.</p><p>Certaines personnes autistes ne parlent pas du tout, ou peuvent répondre aux questions par un seul mot. Certaines comprennent ce que vous dites mais préfèrent répondre en utilisant un autre moyen de communication comme les images ou la langue des signes. Certaines personnes autistes ont d\'excellentes compétences au niveau du langage mais peuvent trouver difficile de discuter dans des situations qu\'elles ne connaissent pas. La prochaine fois que quelqu\'un vous répond avec un seul mot, vous comprendrez toutes les difficultés que cette personne peut rencontrer pour discuter.</p>'
+    },
+    {
+     'q': 'Pourquoi certaines personnes autistes n\'initient-elles jamais de conversation ?',
+     'a': '<p>La socialisation et la connaissance des règles sociales est difficile pour certaines personnes autistes. Quand vous démarrez une conversation, vous devez réfléchir à qui vous vous adressez. Vous adressez-vous à votre patron, à un collègue ou à un ami&nbsp;?</p><p>Il est souvent enseigné aux personnes autistes comment avoir une conversation mais cela est enseigné avec des règles rigides. Par conséquent, le démarrage des discussions est souvent difficile. Cela peut également demander beaucoup de pratique et de patience pour y arriver. Faites attention avec votre langage de permettre à tout le monde de participer à vos conversations. Également, choisissez des sujets qui impliquent tout le monde.</p>'
+    },
+    {
+     'q': 'Pourquoi certaines personnes autistes trouvent-elles difficile de parler de banalités ?', 
+     'a': '<p>Les conversations informelles sont une partie importante de la socialisation. Quand vous rencontrez un ami, vous lui demandez comment il va, ce qu\'il a fait de son week-end. Si vous parlez à un étranger, vous parlez de la météo. Les personnes autistes peuvent trouver ces règles difficiles.</p><p>Quand vous parlez à une personne autiste, vous pouvez essayer de&nbsp;:</p><ul><li>Lui poser des questions sur ce qui l\'intéresse&nbsp;;</li><li>Inclure tout le monde dans vos conversations, particulièrement sur les temps de pause et du repas&nbsp;;</li><li>Les conversations informelles ont souvent lieu sur les temps de pause et du repas. Essayez de fournir d\'autres opportunités dans la journée pour que la personne autiste puisse s\'impliquer dans vos conversations.</li></ul>'
+    },
+    {
+     'q': 'Pourquoi les personnes autistes ont du mal à se faire des amis ?',
+     'a': '<p>Beaucoup de personnes autistes sont harcelées ou humiliées à un moment dans leur vie. Certains aspects de l\'autisme rendent la personne vulnérable à cela, comme par exemple, le fait de ne pas comprendre si une personne est un réel ami ou non. Les personnes autistes veulent se faire des amis mais souvent se désengagent car connaître toutes les règles sociales devient trop compliqué. Quand vous vous impliquez dans un groupe ou un club sportif et que tout le monde connaît les règles sociales sauf vous, vous vous concentrez alors plus sur l\'activité du groupe plutôt que sur l\'aspect humain et les relations entre personnes.</p><p>Se faire des amis est également plus difficile lorsque l\'environnement est difficile à supporter (bruit, odeur, …).  Il peut également y avoir la peur de ne pas être compris dans la conversation. Bien que cela arrive à tout le monde par moment, imaginez comment cela peut être stressant lorsque cela arrive à chaque fois que vous rencontrez une nouvelle personne.</p><p>La peur de faire un commentaire déplacé ou inapproprié sans s\'en rendre compte peut être grande. Pensez au nombre de fois où vous utilisez le sarcasme. Cela peut générer beaucoup de stress et d\'anxiété si la personne essaye de l\'utiliser tous les jours mais ne comprend pas les «&nbsp;règles&nbsp;» qui vont avec.</p>'
+    },
+    {
+     'q': 'Comment puis-je aider un collègue autiste ?',
+     'a': '<p>C\'est une décision très personnelle si la personne vous a annoncé sont autisme. Par conséquent vous pouvez l\'aider de beaucoup de  façons. Cela profitera également à l\'équipe dans laquelle vous travaillez. Vous pouvez aider le reste de l\'équipe à comprendre la personne et à être plus sensibilisée à l\'autisme. Vous pouvez aider la personne autiste à écrire un document pour le reste de l\'équipe qui explique les difficultés qu\'elle rencontre sur le lieu de travail.</p><p>Vous pouvez également prendre l\'initiative de modifier votre langage. Soyez clair et concis et utilisez moins de langage abstrait. Cela génèrera moins de confusion pour tout le monde. Au lieu de dire «&nbsp;Nous pourrions parler de ça plus tard&nbsp;», vous pouvez dire «&nbsp;Nous discuterons du projet demain matin&nbsp;». Cela laisse moins de place pour la confusion et l\'incompréhension avec le reste de l\'équipe.</p><p>Sur le lieu de travail, il y a souvent des règles non dites. Cela peut aller de l\'endroit où sont rangées les tasses à café jusqu\'aux heures de pause. Ces règles ne sont pas évidentes pour les personnes autistes. Vous pouvez essayer de les expliquer simplement et clairement.</p>'
+    },
+    {
+     'q': 'Est-il plus difficile de travailler pour une personne autiste ?',
+     'a': '<p>Généralement, les personnes autistes ne trouvent pas le travail plus compliqué que n\'importe qui d\'autre, du moment qu\'elles sont qualifiées pour le faire. Ce sont les difficultés liées à l\'autisme qui peuvent rendre le travail difficile. Les personnes autistes ont à gérer l\'environnement de travail, comme la communication, les interactions sociales et l\'imagination.</p><p>De même, comme l\'autisme est invisible, cela peut générer des incompréhensions avec les collègues. Si les personnes ne sont pas sensibilisées, la personne autiste peut passer pour rude ou froide. Les collègues peuvent également la trouver offensive et ne pas l\'inclure.</p>'
+    },
+    {
+     'q': 'Les personnes autistes sont-elles stressées au travail ?',
+     'a': '<p>Comme tout le monde, le travail peut être stressant. Toutefois, pour beaucoup de personnes autistes, l\'aspect social peut générer de l\'anxiété. Comprendre le langage corporel ou savoir comment converser avec les collègues mais également savoir quel ton de voix employer peut être difficile. De même, savoir si un problème doit être discuté avec le supérieur hiérarchique ou un collègue peut générer de l\'anxiété.</p><p>En tant que collègue, soyez conscients de cela et gardez un œil sur la personne autiste afin de voir si elle devient anxieuse. Peut-être savez-vous qu\'un ordinateur ne fonctionne pas où qu\'il y a des retards dans les transports en commun cette semaine. Vous pouvez en informer la personne autiste afin de ne pas créer d\'imprévu et de ne pas générer d\'anxiété supplémentaire. Tout le soutien que vous fournirez tend à créer un meilleur environnement de travail.</p>'
+    },
+    {
+     'q': 'Les personnes autistes travaillent-elles différemment ?',
+     'a': '<p>Les personnes autistes trouvent les entretiens d\'embauche difficiles à cause des interactions sociales attendues. L\'employeur peut permettre à la personne de lui montrer ses compétences plutôt que de discuter dans un entretien d\'embauche classique.</p><p>Certaines personnes autistes ne travaillent pas différemment des personnes non autistes. Elles sont conscientes des stratégies qui les aide tout au long de la journée, comme prendre des pauses régulières ou éviter les odeurs insupportables.</p><p>Certaines personnes travaillent bien avec un coach qui fait le contact entre elle et le reste de l\'entreprise.</p>'
+    },
+    {
+     'q': 'Pourquoi un employeur embaucherait-il une personne autiste ?',
+     'a': '<p>Les personnes autistes voient le monde et pensent différemment. Cela leur permet de trouver des solutions originales aux problèmes. Bien que les personnes autistes font face à beaucoup de difficultés, elles fournissent également de précieuses compétences dans l\'entreprise.</p><p>Les personnes autistes peuvent souvent se concentrer longtemps, peuvent avoir des compétences en mathématiques, en technologie, en musique, etc. Elles peuvent également voir des détails et être capable d\'identifier des erreurs. Les personnes autistes ont souvent une excellente mémoire à long-terme. En ayant une façon de penser très tranchée, l\'honnêteté et la loyauté font souvent parties de leurs qualités. Toutes ces compétences sont souvent recherchées dans les entreprises.</p>'
+    },
+    {
+     'q': 'Quelles sont les choses à faire et à ne pas faire pour interagir avec un collègue autiste ?',
+     'a': '<p>Vous pouvez simplifier la vie de la personne autiste en étant un exemple à suivre pour les autres employés. Souvenez-vous que tout le monde est différent, et que si vous avez rencontré une personne autiste, vous avez rencontré une personne autiste. Pour créer un environnement de travail convenable vous pouvez&nbsp;:</p><ul><li>Faire en sorte que les autres membres du personnel comprenne et soit mieux sensibilisés à l\'autisme.</li><li>Créer un environnement qui permette à la personne autiste d\'être elle-même sans se préoccuper de ce que l\'on dit d\'elle.</li><li>Éviter les commentaires comme «&nbsp;tu sembles normal&nbsp;». Souvenez-vous que l\'autisme est invisible et que les personnes concernées ont différents talents, compétences et difficultés. Ce n\'est pas parce que vous ne voyez pas les difficultés que la personne n\'en n\'a pas.</li><li>Éviter de demander «&nbsp;peux-tu arrêter d\'agiter des mains, ou macher un chewing-gum&nbsp;». Souvenez-vous que souvent les personnes autistes sont hyper ou hypo sensibles.</li><li>Certains bruits, certaines textures, certaines odeurs ou simplement certains éclairages sont difficiles à supporter.</li><li>Une façon que les personnes autistes ont pour mieux supporter l\'environnement est de s\'auto-stimuler. Cela peut aller d\'agiter les mains à courir sur la pointe des pieds.</li></ul>'
+    },
+    {
+     'q': 'Postuler un emploi est-il plus difficile pour les personnes autistes ?',
+     'a': '<p>Postuler un emploi est difficile pour tout le monde. Avez-vous bien noté vos talents, vos qualités et vos capacités dans votre lettre de motivation&nbsp;? Le processus de recrutement tout entier peut être vraiment intimidant pour une personne autiste. Les descriptions d\'emplois peuvent mentionner des compétences qui ne sont pas directement utiles au travail comme «&nbsp;bonnes compétences relationnelles pour travailler en équipe&nbsp;». Cela peut empêcher certaines personnes de postuler même si elles ont les compétences pour faire le travail demandé.</p>'
+    },
+    {
+     'q': 'Les personnes autistes ont-elles les mêmes droits dans l\'entreprise ?',
+     'a': '<p>Oui, les personnes autistes ont les mêmes droits que n\'importe quel employé. Elles peuvent avoir droit à de la formation, aux jours de congés, etc.</p><p>Contrairement à d\'autres pays, la France, ne reconnaît cependant pas le droit pour les employés à un «&nbsp;aménagement raisonnable&nbsp;». Toutefois cela est contraire à la CDPH (Convention relative aux droits des personnes handicapées) de l\'ONU que la France a signée.</p>'
+    },
+    {
+     'q': 'Les personnes autistes peuvent-elles être aidées en entreprise ?',
+     'a': '<p>Oui, les aides dépendent des difficultés de la personne et de la nature du travail. Cela peut passer par un collègue qui agit comme un mentor. Cela peut être aussi une sensibilisation à l\'autisme dans l\'entreprise. La personne peut également avoir un coach qui fait le lien entre elle et l\'entreprise.</p>'
+    },
+    {
+     'q': 'Puis-je demander à quelqu\'un s\'il/elle est autiste ?',
+     'a': '<p>Vous pouvez penser qu\'un collègue est affecté par l\'autisme. Cependant en tant que collègue, la personne vous le dira si elle se sent prête et qu\'elle pense que cela soit bien que vous soyez informé.</p><p>Poser cette question à quelqu\'un peut générer de l\'anxiété et du stress.  Si vous connaissez la personne suffisamment, elle vous le dira en temps voulu.</p>'
+    },
+    {
+     'q': 'Comment puis-je savoir si je travaille avec une personne autiste ?',
+     'a': '<p>À moins qu\'un employé ait annoncé qu\'il soit autiste, vous ne pouvez pas savoir. Cela est très bien comme ça. Cela est du ressort de l\'employé concerné de l\'annoncer ou non. La personne a pu le dire ou non à l\'employeur. Si la personne vous dit qu\'elle est autiste, souvenez-vous qu\'elle reste d\'abord une personne. Ne la voyez pas simplement comme un ou une «&nbsp;handicapée&nbsp;». La personne peut se sentir incomprise et espère être mieux acceptée si les personnes de l\'entreprise comprennent pourquoi elle agit d\'une certaine façon. En annonçant leur autisme, l\'employeur peut mettre en place des bonnes pratiques qui limitent les difficultés dans l\'entreprise.</p><p>Soyez ouverts à vos collègues et respecter leur décision d\'annoncer leur autisme ou non.</p>'
+    },
+    {
+     'q': 'Dans quels domaines travaillent les personnes autistes ?',
+     'a': '<p>Beaucoup de personnes autistes ont du mal à trouver ou à garder un emploi. Certains sont sous-employés en regard des diplômes qu\'ils possèdent.</p><p>Les personnes autistes peuvent travailler dans de nombreux domaines, que ce soit dans le milieu ordinaire ou le milieu protégé. Quelques entreprises recherchent maintenant à employer des personnes autistes pour leurs compétences, notamment dans le domaine de l\'informatique. Les personnes autistes peuvent être très rigoureuses et avoir une meilleure vision des détails plus rapidement, ce qui en fait d\'excellents testeurs de logiciels. Toutefois, de nombreux autres domaines peuvent bénéficier des compétences des personnes autistes.</p>'
+    },
+    {
+     'q': 'Combien y a-t-il de personnes autistes en France ?',
+     'a': '<p>La France ne possède pas de registre des personnes autistes. Cela signifie que nous ne savons pas combien de personnes autistes vivent en France. De même, la question de l\'autisme n\'est pas abordée lors des recensements de population.</p><p>En conséquence, il n\'est pas possible de donner un chiffre précis. Cependant, il est généralement estimé qu\'une personne sur 100 est affectée, soit 700&nbsp;000 personnes autistes en France.</p><p>Vous avez donc forcément rencontré  une personne autiste, que ce soit dans votre famille, à l\'école, au travail ou chez vos amis.</p>'
+    },
+    {
+     'q': 'Les personnes autistes ont-elles souvent d\'autres handicaps ?',
+     'a': '<p>Pas nécessairement mais cela est possible.</p><p>Certaines personnes autistes ont une déficience intellectuelle. D\'autres ont un handicap comme la dyslexie, la dyspraxie ou un trouble du déficit de l\'attention avec ou sans hyperactivité. Les personnes autistes peuvent également avoir de l\'épilepsie ou des problèmes des intestins.</p><p>Il y a beaucoup de recherche dans ce domaine mais d\'un point de vue pratique, cela signifie que chaque personne autiste est vraiment unique. L\'autisme affecte chaque personne de façon différente. De même, chaque personne autiste peut avoir d\'autres handicaps. Chaque personne autiste a également une personnalité, des forces, des talents et des difficultés qui lui sont propre. C\'est pourquoi il est important de ne pas faire de stéréotypes et de savoir pour chaque personne autiste que vous connaissez ses besoins.</p>'
+    },
+    {
+     'q': 'Pourquoi certaines personnes autistes ne supportent-elles pas certains environnements ?',
+     'a': '<p>Les personnes autistes ont les même sens que tout le monde. Toutefois, la façon dont ceux-ci se développent ou fonctionnent peut-être un peu différente. Les personnes autistes peuvent être hyper ou hypo sensibles à leur environnement à certains moments. Cela peut être certains bruits, certaines textures, certaines odeurs ou certains éléments visuels peuvent être très difficiles à supporter. Tandis que d\'autres stimuli doivent être plus forts pour qu\'ils soient pris en compte.</p><p>Cela signifie également que les personnes autistes trouvent certains stimuli relaxants et reposants tandis que d\'autres sont insupportables.</p><p>Vous pouvez penser que «&nbsp;nous avons tous des choses que nous n\'aimons pas ou ne supportons pas&nbsp;». Cependant ce n\'est pas juste que la personne n\'aime pas le stimulus ou peut quand même faire un effort pour le supporter. Ce type de stimuli fait que la personne ne peut pas se concentrer sur autre chose. C\'est comme si vous deviez supporter le bruit de la craie qui crisse sur le tableau mais à la différence que vous êtes le seul qui peut entendre ce bruit.</p><p>Enfin, cela signifie que  les personnes autistes ont du mal à supporter certains environnements, comme les couloirs remplis de monde, les restaurants ou les magasins.</p><p>Soyez SENSibles.</p>'
+    },
+    {
+     'q': 'Pourquoi certaines personnes autistes aiment quand les choses ne changent pas ?',
+     'a': '<p>Les personnes autistes ont des difficultés pour prédire les situations sociales. En d\'autres mots, savoir comment se comporter, prédire comment les autres vont se comporter, prédire ce qu\'il va se passer est stressant. </p><p>De plus, beaucoup de personnes autistes ont du mal à comprendre les différences subtiles dans les situations sociales (par exemple pleurer parce qu\'une personne est contente ou pleurer parce qu\'elle est triste). Cela génère beaucoup de stress et d\'anxiété au quotidien et beaucoup de personnes autistes essaient donc de limiter la part d\'inconnu dans les situations sociales. Pour cela, avoir une routine fixe une bonne méthode largement appliquée.</p><p>Garder les choses constantes signifie moins d\'imprévisibilité et donc moins de stress et d\'anxiété. Un changement inattendu dans la routine ou dans ce qui est prévu peut générer beaucoup de stress, non seulement parce que ce qui est prévu est modifié mais aussi parce que la personne ne sait plus à quoi s\'attendre par la suite.</p>'
+    },
+    {
+     'q': 'Pourquoi certaines personnes autistes sont-elles si anxieuses ?',
+     'a': '<p>Quand vous êtes dans une situation qui n\'est pas familière ou que vous ne savez pas ce qu\'il va se passer, vous pouvez devenir anxieux. Les personnes autistes vivent l\'inconnu, des moments qui ne sont ni familiers ni confortables au quotidien. Cela signifie que les activités du quotidien peuvent générer de l\'anxiété.</p><p>Cela peut être réduit en donnant à la personne le plus d\'éléments lui permettant de savoir ce qu\'il va se passer, de la rassurer et en fournissant un lieu calme où la personne peut aller pour se détendre.</p>'
+    },
+    {
+     'q': 'Pourquoi certaines personnes autistes ne parlent-elles pas ?',
+     'a': '<p>Certaines personnes autistes sont décrites comme «&nbsp;non verbales&nbsp;» bien que «&nbsp;ne parlant pas&nbsp;» serait une meilleure description. Nous ne savons pas encore pourquoi certaines personnes ne parlent pas.</p><p>Certaines personnes parlent mais ont des difficultés à former des phrases ou à utiliser le langage d\'une manière fonctionnelle. D\'autres ne parlent pas et écrivent ce qu\'elles souhaitent dire. Elles peuvent également utiliser la langue des signes ou une méthode de communication par images. Certaines personnes qui ne parlent pas développent le langage plus tard. De même, certaines personnes peuvent devenir non verbales lorsqu\'elles vivent une surcharge sensorielle ou une situation stressante.</p><p>Une personne qui ne parle pas n\'est pas une personne qui n\'a rien à dire. Beaucoup de personnes autistes utilisent des moyens alternatifs de communication comme PECS ou la langue des signes pour communiquer tandis que d\'autres ont leur propre manière de s\'exprimer.</p>'
+    },
+    {
+     'q': 'Pourquoi certaines personnes autistes font des mouvements répétitifs comme agiter les bras ou courir sans cesse dans les couloirs ?',
+     'a': '<p>Beaucoup de personnes autistes font des mouvements répétitifs. Cela est de l\'auto-stimulation. Cela consiste à répéter une action physique ou verbale afin que la personne autiste puisse se réguler. Il y a beaucoup de recherche sur les causes de ces comportements et les gens ont différentes idées sur ce qu\'est de l\'auto-stimulation et sur pourquoi les personnes autistes en font.</p><p>Considérez l\'analogie suivante&nbsp;: Quand un ordinateur exécute plusieurs programmes en même temps, il peut ralentir, se bloquer et vous pouvez entendre le ventilateur accélérer pour le refroidir. Imaginez que le ventilateur aide l\'ordinateur à revenir dans un état normal.</p><p>C\'est la même chose pour les personnes autistes qui doivent traiter beaucoup d\'informations constamment. Décoder les interactions sociales, supporter l\'environnement etc. Le cerveau surcharge et comme conséquence la personne fait des mouvements involontaires. Ces mouvements sont différents pour chaque personne. Certaines agitent les bras, d\'autres poussent un cri, d\'autres encore courent sur la pointe des pieds.</p><p>Le mouvement répétitif aide la personne aide la personne à gérer la surcharge et à se concentrer. Bien que certaines personnes aient besoin d\'aide pour gérer ces comportements, notamment si ceux-ci empêchent de réaliser les activités du quotidien, d\'autres les décrive comme essentiels pour se réguler au quotidien.</p><p>Quand vous voyez une personne faire de tels comportements, éviter d\'y faire attention. La personne fait juste ce qu\'elle a besoin de faire.</p>'
+    },
+    {
+     'q': 'Peut-on réussir sa vie lorsque nous sommes autiste ?',
+     'a': '<p><strong>Absolument&nbsp;!</strong></p><p>Avec les aides adéquates, il est possible d\'avoir une vie réussie. La réussite est quelque chose de différent pour chacun d\'entre nous mais il s\'agit principalement d\'atteindre son potentiel et d\'être heureux.</p><p>Pour certaines personnes, la réussite est d\'avoir un travail qui leur plaît ou de devenir célèbre. Pour d\'autres cela consiste à dépasser les difficultés liées à l\'autisme. La réussite varie  selon les aspirations et les capacités de chaque personne.</p><p>Mais vraiment, la chose la plus importante à se souvenir est que vous pouvez toujours réaliser vos rêves.</p>'
+    },
+    {
+     'q': 'Y a-t-il des mythes à propos de l\'autisme ?',
+     'a': '<p>Oui&nbsp;! Quand la société ne comprend pas quelque chose, les mythes et contre-vérités remplissent le vide.</p><p>Certains mythes à propos de l\'autisme sont dépassés ou ne sont pas valides scientifiquement. D\'autres viennent de la mauvaise compréhension ou de la culture populaire.</p><p>Bien sûr, certains mythes proviennent de ceux qui essaient de se faire de l\'argent en vendant des «&nbsp;thérapies&nbsp;» ou des «&nbsp;aides&nbsp;» pour les personnes autistes bien qu\'ils n\'aient pas de qualification ni de base scientifique pour le faire.</p><p>Il est important de comprendre ce qui est vrai et ce qu\'il ne l\'est pas à propos de l\'autisme. N\'hésitez pas à <a href="/mythes-et-prejuges" target="_parent">consulter notre liste de mythes et de préjugés</a>.</p>'
+    },
+    {
+     'q': 'Qu\'est-ce que cela signifie pour moi d\'être autiste ?',
+     'a': '<p>Cela signifie que vous pensez différemment et que votre cerveau se développe différemment des autres gens.</p><p>Être autiste et seulement une partie de qui vous êtes. La façon dont vous pensez change tout mais vous avez quand même une personnalité, des compétences, des forces qui vont au-delà de votre handicap.</p><p>L\'autisme présente des difficultés dans beaucoup de domaines du quotidien, des interactions sociales à la façon dont vous communiquez avec les autres à la façon dont vous faites face à l\'environnement sensoriel. L\'autisme peut également vous apporter des compétences dans les domaines auxquels vous vous intéressez, une capacité à voir ce que d\'autres ne voient pas et un sens de l\'honnêteté et de la loyauté.</p><p>La vie en étant autiste signifie que vous aurez besoin d\'aide dans certains domaines mais cela ne signifie pas que vous ne pouvez pas atteindre votre plein potentiel ou que vous ne pouvez pas contribuez à la société et vivre une vie heureuse&nbsp;!</p>'
+    },
+    {
+     'q': 'Y a-t-il différents types d\'autisme ?',
+     'a': '<p>Quand nous parlons de l\'autisme, vous pouvez entendre différents mots se réfèrent à ce handicap. Syndrome d\'Asperger, autisme de haut niveau, autisme classique, autisme de Kanner n\'en sont que des exemples.</p><p>Ces mots essaient de regrouper les personnes en fonction de leur difficultés. Par exemple le syndrome d\'Asperger par exemple regroupe les personnes qui n\'ont pas de retard de langage et qui ont une intelligence moyenne ou supérieure. Ces dernières années cependant il a été reconnu que peu importe combien de mots vous avez, chaque personne autiste est unique et a ses propres difficultés. Une personne de «&nbsp;haut-niveau&nbsp;» peut avoir de grandes difficultés dans la vie quotidienne et une personne qui a un «&nbsp;autisme classique&nbsp;» peut trouver quelque chose de difficile mais peut avoir des domaines dans lesquels elle se débrouille très bien.</p><p>Pour cette raison, beaucoup de gens utilisent simplement le mot «&nbsp;autisme&nbsp;» qui recouvre tout le monde appartenant au spectre autistique.</p><p>Au lieu de rester bloquer avec le vocabulaire, souvenez-vous que lorsque vous avez rencontré une personne autiste, vous avez avant tout rencontré une personne&nbsp;!</p>'
+    },
+    {
+     'q': 'Qu\'est-ce que l\'autisme ?',
+     'a': '<p>Wow&nbsp;! C\'est une très grande question  et personne n\'a de réponse simple. L\'autisme est un handicap sur lequel les chercheurs continuent de découvrir des choses. Le dictionnaire Larousse décrit cela comme un «&nbsp;trouble du développement neurologique caractérisé par une altération des interactions sociales, de la communication et du comportement.&nbsp;» Cela est très vague et ne nous aide pas à comprendre de façon concrète comme cela impacte la vie des personnes concernées. Voici quelques points pour vous éclairer.</p><dl><dt>Causes</dt><dd>Nous ne savons pas encore exactement ce qui cause l\'autisme. Il existe plusieurs théories et beaucoup de recherche reste à faire. Nous savons que la génétique joue un rôle. Nous savons que l\'autisme est présent dès la naissance bien que le diagnostic n\'inteviennent que plus tard. Vous ne pouvez pas devenir autisme dans votre vie et l\'autisme ne peux pas non plus disparaître. L\'autisme fait partie de la personne.</dd><dt>Type de handicap</dt><dd>L\'autisme est un trouble du développement qui le place dans la même famille que les handicaps comme la dyslexie, la dyspraxie ou les troubles de l\'attention. Les personnes autistes peuvent avoir d\'autres handicaps comme une déficience intellectuelle mais cela varie pour chaque personne.</dd><dt>Prévalence</dt><dd>L\'autisme affecte environ 1 personne sur 100 dans le monde. C\'est un handicap qui concerne à la fois les garçons et les filles. Actuellement il est estimé que pour chaque fille diagnostiquée, il y a 4 garçons qui le sont mais les recherches montrent que l\'autisme est sous-diagnostiqué chez les filles et qu\'il pourrait y avoir autant de filles autistes que de garçons.</dd><dt>Difficultés rencontrées</dt><dd>Les personnes autistes rencontrent des difficultés dans de nombreux domaines. La communication sociale et les interactions sont souvent difficiles. Souvent le traitement sensoriel peut poser des problèmes. Souvent les personnes utilisent des routines et des comportements répétitifs pour y faire face.</dd><dt>Forces</dt><dd>Comme tout le monde, les personnes autistes ont des forces et des difficultés au-delà de leur diagnostic. Les personnes autistes ont des capacités qui viennent en conséquence de l\'autisme comme par exemple, la capacité de se concentrer intensément sur un sujet, ou une attention pour les détails, voire un sens de la créativité. L\'honnêteté et la loyauté sont également des capacités partagées par beaucoup de personnes autistes.</dd><dt>Diagnostic</dt><dd>L\'autisme est diagnostiqué différemment de beaucoup de handicaps. Il n\'est pas détecté avant la naissance et n\'est pas diagnostiqué par un examen médical. En tant que développement différent, l\'autisme devient évident lorsque l\'enfant grandit ou bien il peut être diagnostiqué encore plus tard dans la vie. Le diagnostic consiste à observer la personne dans différentes situations. Des tests sont également réalisés par des psychologues. Il est possible d\'avoir quelques traits autistiques sans pour autant être une personne autiste. L\'autisme n\'est diagnostiqué que lorsque le handicap est suffisamment important et que la personne a des difficultés dans la vie quotidienne.</dd><dt>Signes visibles</dt><dd>L\'autisme est invisible. Les personnes autistes ne sont pas différentes visuellement des autres personnes, bien que certains comportements comme l\'auto-stimulation peuvent rendre l\'autisme apparent.</dd><dl><p>Nous aimons expliquer l\'autisme comme si vous deviez vivre dans une culture que vous ne connaissez pas.</p><p>Si vous imaginez que vous êtes subitement placé dans une gare en Chine - où l\'environnement est très chargé sensoriellement et qu\'il y a plein de monde, où vous ne pouvez pas communiquer avec les autres gens car vous ne comprenez pas leur langue. Vous devez simplement regarder comment font les autres et essayer de faire pareil. Imaginez l\'anxiété et le stress que vous pourriez avoir. Cela vous donne un aperçu de ce que c\'est que de vivre avec ce handicap. La grande différence est qu\'une personne autiste vit cela tous les jours, lorsqu\'elle va au supermarché, voir des amis ou qu\'elle utilise les transports en commun.</p>'
+    },
+    {
+     'q': 'La plupart des gens savent-ils ce qu\'est l\'autisme ?',
+     'a': '<p>Ces dernières années nous avons vu une plus grande sensibilisation du public. L\'autisme est un mot que tout le monde a entendu à un moment donné ou à un autre. Beaucoup connaissent une personne autiste et beaucoup d\'autres connaissent un personnage de fiction avec ce handicap.</p><p>Cela est positif est une première étape vers l\'inclusion. Cependant le plus grand problème est que beaucoup de gens ne comprennent pas totalement ce qu\'est l\'autisme. En d\'autres mots, tout le monde a entendu parler de l\'autisme mais beaucoup de gens ne savent pas expliquer ce que c\'est et comment cela impacte la vie des personnes concernées.</p><p>Certaines personnes ont une image très claire de l\'autisme dans leur tête mais ne réalisent pas que deux personnes autistes ne sont pas les mêmes et que l\'autisme affecte chaque personne différemment.</p><p>Bien sûr, cela rend les choses difficiles pour les personnes autistes puisqu\'elles peuvent recontrer des barrières lorsque les gens ne sont pas sensibilisés et ne comprennent pas ce qu\'elles vivent. La meilleure façon de changer cela est de raconter votre histoire, votre parcours et d\'encourager le grand public  à en apprendre davantage, afin que les gens réalisent qu\'il est important qu\'ils comprennent l\'autisme et qu\'ils n\'aient pas peur de poster des questions.</p>'
+    },
+    {
+     'q': 'Comment puis-je rendre les associations de ma région plus accessibles aux personnes autistes ?',
+     'a': '<p>La vraie inclusion signifie que que toutes les personnes peuvent participer dans la société. Cela signifie qu\'il est important que tout le monde comprenne ce qu\'est l\'autisme. Pas uniquement les professionnels.</p><p>Cela inclut les associations et les clubs sportifs. Pour beaucoup de gens, faire partie d\'une organisation locale est une grande source de fierté, des opportunités sociales et de plaisir. Beaucoup d\'organisations sont gérées par des gens géniaux qui serait très heureux de faire quelques changements pour accueillir les personnes autistes.</p><p>Des exemples de tels changements pourraient être&nbsp;:</p><ul><li>Fournir des instructions visuelles&nbsp;;</li><li>S\'assurer que tout le monde dans l\'association ou l\'organisation comprend l\'autisme&nbsp;;</li><li>S\'assurer qu\'il y ait un endroit calme dans les locaux où les personnes peuvent aller lorsqu\'elles ne peuvent plus faire face à la surcharge sensorielle&nbsp;;</li><li>Pourquoi ne pas demander au personnel d\'en apprendre plus sur l\'autisme ? Nous avons <a target="_parent" href="/construire-une-societe-inclusive/assocations-et-clubs-sportifs">écrit une petite liste des aménagements qui peuvent être mis en place</a>.</ul>'
+    },
+    {
+     'q': 'Comment puis-je rendre les entreprises de ma région plus accessibles aux personnes autistes ?',
+     'a': '<p>Les entreprises par définition, veulent le plus de clients possibles et veulent se démarquer de leurs concurrents. Pour ces deux raisons, il est tout à fait logique de vouloir être le plus accessible possible aux personnes autistes car les personnes autistes et leurs familles représentent de nombreux clients potentiels. De petits changements peuvent faire une réelle différence dans la vie des personnes autistes. Ces dernières années nous avons vu, notamment à l\'étranger beaucoup d\'exemple de cela comme des cinémas qui baissent le son à certaines séances et où les personnes peuvent apporter leur propre nourriture, des magasins qui organisent une heure pour les personnes autistes en arrêtant la musique, en ne faisant pas d\'annonce au haut-parleur et où le personnel ne se déplace pas avec les palettes de marchandises. Ces petits changements n\'aident pas seulement les personnes autistes mais beaucoup d\'autres personnes.</p><p>Rappelez-vous que le client est roi&nbsp;! N\'ayez pas peur de poser des questions à vos clients ou aux associations de personnes autistes  dans votre région.</p><p>Vous pouvez également <a target="_parent" href="/construire-une-societe-inclusive/#ce-que-vous-pouvez-faire-en-tant-quentreprise--organisation">consulter nos guides</a> qui listent quelques aménagements que vous pouvez mettre en place. Enfin, pour toute question, n\'hésitez pas à <a href="/a-propos#nous-contacter" target="_parent">nous contacter</a>.</p>'
+    },
+    {
+     'q': 'Je suis autiste, comment puis-je m\'adapter aux autres ?',
+     'a': '<p>C\'est une question que l\'on se pose tout le temps mais qu\'est-ce que cela signifie&nbsp;? Tout le monde est différent donc comment peut-on s\'adapter pour tout le monde&nbsp;?</p><p>Bien que les personnes autistes sont difficilement acceptées par leurs pairs, cela ne signifie pas que vous devez changer qui vous êtes pour «&nbsp;correspondre&nbsp;» à ce que le monde autour de vous appelle la «&nbsp;normalité&nbsp;». Si vous n\'êtes accepté dans un groupe, c\'est probablement que le problème vient du groupe, pas de vous. Il est mieux de trouver un groupe dans lequel vous pouvez être inclus et participer en étant vous-même.</p><p>La principale chose à retenir est que vous devez faire de votre mieux pour être respectueux et courtois. Vous devez également montrer un intérêt dans ce qui intéresse les autres personnes du groupe et essayez de coopérer avec tout le monde.</p>'
+    },
+    {
+     'q': 'Où puis-je rencontrer d\'autres personnes autistes ?',
+     'a': '<p>Certaines personnes autistes aiment partager leur expérience avec d\'autres personnes autistes. Cela ne signifie pas que vous ne pouvez socialiser avec des personnes qui ne sont pas autistes mais rencontrer des personnes autistes peut vous aider pour cela. Beaucoup d\'associations proposent des groupes pour les adolescents ou les jeunes adultes autistes. Contactez les associations de votre région et posez leur la question. À notre connaissance, très peu de choses existes pour les adultes.</p>'
+    },
+    {
+     'q': 'Pourquoi socialiser est-il parfois si difficile ?',
+     'a': '<p>Nous trouvons tous la socialisation difficile parfois. Cela peut être parce que nous sommes fatigués ou bien que nous ne sommes pas à l\'aise dans un environnement donné, comme par exemple une boîte de nuit bruyante.</p><p>La chose essentielle qui rend la socialisation plus facile pour vous est de vous autoriser à partir lorsque l\'environnement n\'est pas adapté. Vous pouvez également essayer de socialiser dans des endroits plus calmes.</p>'
+    },
+    {
+     'q': 'Que faire si quelque chose se passe mal lorsque je suis avec des amis ?',
+     'a': '<p>Se poser la question de «&nbsp;que faire si&nbsp;…&nbsp;?&nbsp;» est quelque chose qui fait peur. Si vous êtes quelqu\'un d\'anxieux, une grande barrière pour se faire des amis est de se poser cette question.</p><p>Cette question peut vous occuper l\'esprit et vous pourriez avoir beaucoup de mal à apprécier le moment présent. Vous pouvez avoir besoin d\'une aide d\'un professionnel pour apprendre à gérer cela.</p><p>Vous ne pouvez pas tout prévoir ce qui peut arriver et la plupart du temps, rien de mal ne se passera.</p><p>Cependant, il peut être une bonne idée de partager ces questions avec quelqu\'un dont vous avez confiance. De cette façon, vous pouvez prévoir ce que vous devez faire dans de telles situations.</p>'
+    },
+    {
+     'q': 'Quelles sont les causes de l\'autisme ?',
+     'a': '<p><strong>Personne ne le sait</strong></p><p>Il n\'y a pas de consensus sur qui fait qu\'une personne développe l\'autisme ou non. La recherche est en cours mais la génétique joue un rôle important&nbsp;: les familles concernées sont plus succeptibles d\'avoir un nouveau né autiste. Il est possible qu\'il y ait plusieurs causes, à la fois génétiques et environnementales.</p><p>Il a été largement prouvé que les vaccins ne causent pas l\'autisme. Il en est de même pour le lien supposé entre le fait de passer trop de temps devant les écrans et l\'autisme.</p>'
+    },
+    {
+     'q': 'Quelle est la prévalence de l\'autisme ?',
+     'a': '<p>L\'autisme n\'est pas quelque chose de rare.</p><p>Bien qu\'en France nous n\'ayons pas de statistiques officielles, il est estimé qu\'une personne sur 100 aujourd\'hui soit affectée par l\'autisme. Dans les écoles, ce chiffre pourrait atteindre 1 personne pour 65 élèves. Pour mettre cela en perspectives, cela représente 1250 dans le stade de France qui peut accueillir 81 338 personnes un jour de match.</p><p>Avec une personne sur 65 concernée, nous connaissons tous statistiquement une personne autiste, que ce soit dans notre famille, à l\'école ou au travail.</p>'
+    },
+    {
+     'q': 'Quand dois-je annoncer à mon enfant qu\'il est autiste ?',
+     'a': '<p>Il n\'y a pas de règle qui dit quand vous devez annoncer à votre enfant qu\'il est autiste. Personne n\'est mieux placer que vous, en tant que parent pour savoir comment élever votre enfant.</p><p>La question du «&nbsp;quand&nbsp;» ne doit pas seulement se voir en fonction de l\'âge de l\'enfant mais également de son ressenti, de la prise de conscience de sa différence.</p><p>Une meilleure compréhension de l\'autisme ses dernières années a fait que les enfants sont diagnostiqués de plus en plus jeune. Certaines familles annoncent le diagnostique à leur enfant dès le plus jeune âge, dès que celui-ci entre en maternelle, puisqu\'au contact des autres enfants, ils deviendront très vite conscients de leur différence et se poseront de nombreuses questions. D\'autres préfèrent attendre que leur enfant soit plus à même de traiter cette information.</p><p>Parler avec l\'enseignant de votre enfant ou avec le psychologue est une bonne façon de déterminer quel moment sera le mieux. Tout le monde ressent les choses différement et ne traitera pas la nouvelle de la même façon.</p>'
+    },
+    {
+     'q': 'Quelle est la différence entre « autisme » et « autiste » ?',
+     'a': '<p>«&nbsp;Autisme&nbsp;» est un nom commun. Il s\'agit du nom désignant le spectre de l\'autisme dans son ensemble.<br>«&nbsp;Autistie&nbsp;» est un adjectif utilisé pour qualifier les comportements et les traits liés à l\'autisme comme le traitement sensoriel ou l\'auto stimulation. C\'est également un mot utilisé par les personnes concernées pour s\'identifier.</p><p>Nous avons pour politique de placer l\'identité en premier, c\'est à dire de désigner les personnes affectées par l\'autisme par «&nbsp;personnes autistes&nbsp;», plutôt que par «&nbsp;personnes avec autisme&nbsp;».</p><p>Beaucoup de personnes autistes voient l\'autisme comme un élément positif faisant partie de leur identité plutôt que comme un handicap exclusivement. D\'autres trouvent que l\'expresionn «&nbsp;avec autisme&nbsp;»  les fait passer pour un cas clinique, même si cela est dit avec de bonnes intentions.</p><p>Demander à chaque personne autiste comment se référer à leur handicap est quelque chose d\'important à faire.</p>'
+    }
+   ];
+
+
+
+
+
+   var fuse;
+   var input = document.getElementById('question');   
+   var datalist = document.getElementById('dl');
+   var qa_list = document.getElementById('qa');
+   var unfolded = [];
+   function isInt(value) {
+    return !isNaN(value) && 
+     parseInt(Number(value)) == value && 
+     !isNaN(parseInt(value, 10));
+   }
+   function toggle(id) {
+    var qa_element = document.getElementById('q'+(id+1));
+    var qa_element_question = qa_element.childNodes[0];
+    var qa_element_answer = qa_element.childNodes[1];
+
+    if(-1 == unfolded.indexOf(id)) {
+     qa_element_question.setAttribute('class', 'question shown');
+     qa_element_answer.setAttribute('class', 'answer shown');
+     unfolded.push(id);
+    } else {
+     qa_element_question.setAttribute('class', 'question');
+     qa_element_answer.setAttribute('class', 'answer');
+     unfolded.splice(unfolded.indexOf(id), 1);
+    }
+   }
+   function add_question(q) {
+    var qa_element = document.createElement('div');
+    var qa_element_question = document.createElement('span');
+    var qa_element_answer = document.createElement('span');
+ 
+    qa_element.setAttribute('id', 'q' + (q['id']+1));
+    qa_element.setAttribute('class', 'qa');
+
+    qa_element_question.innerHTML = q['q'];
+    if(-1 == unfolded.indexOf(q['id'])) {
+     qa_element_question.setAttribute('class', 'question');
+    } else {
+     qa_element_question.setAttribute('class', 'question shown');
+    }
+    qa_element_question.setAttribute('onClick', 'toggle('+q['id']+');');
+
+    qa_element_answer.innerHTML = q['a'];
+    if(-1 == unfolded.indexOf(q['id'])) {
+     qa_element_answer.setAttribute('class', 'answer');
+    } else {
+     qa_element_answer.setAttribute('class', 'answer shown');
+    }
+
+    qa_element.appendChild(qa_element_question);
+    qa_element.appendChild(qa_element_answer);
+    qa_list.appendChild(qa_element);
+   }
+   function validate() {
+//    console.log(input.value);
+    /* erase the div */
+    while (qa_list.hasChildNodes()) {
+     qa_list.removeChild(qa_list.lastChild);
+    }
+
+    if ( 0 != input.value.length) {
+     var current_qa = fuse.search(input.value);
+     for (var i = 0; i < current_qa.length; i++) {
+      add_question(current_qa[i]['item']);
+      if (current_qa[i]['score'] == 0) {
+       break;
+      }
+     }
+    } else {
+     for (var i = 0; i < qa.length; i++) {
+      add_question(qa[i]);
+     }
+    }
+   }
+   function prepare() {
+    /* add an id to each question */
+    for (var i = 0; i < qa.length; i++) {
+     qa[i]['id'] = i;
+    }
+    /* open from url */
+    var hash = window.location.hash.substr(1).split(',');
+    for (var i = 0; i < hash.length; i++) {
+     if (!isInt(hash[i])) {
+      continue;
+     }
+     var s = parseInt(hash[i]);
+     if (s < 0 || s >= qa.length) {
+       continue;
+     }
+     if (-1 != unfolded.indexOf(s)) {
+       continue;
+     }
+     unfolded.push(s);
+    }
+    if (unfolded.length == 1) {
+      input.value = qa[unfolded[0]]['q'];
+    }
+
+    /* prepare fuse */
+    var fuse_options = {
+     shouldSort: true,
+     threshold: 0.3,
+     includeScore: true,
+     location: 0,
+     distance: 200,
+     maxPatternLength: 32,
+     minMatchCharLength: 1,
+     keys: [
+      "q",
+     ]
+    };
+    fuse = new Fuse(qa, fuse_options); 
+
+    /* display all questions */
+    for (var i = 0; i < qa.length; i++) {
+
+     /* add them in datalist */
+     var option = document.createElement('option');
+     option.setAttribute('value', qa[i]['q']);
+     datalist.appendChild(option);
+
+     /* display them */
+     add_question(qa[i]);
+    }
+
+    /* filter in case of one question was asked */
+    if (unfolded.length == 1 || input.value.length > 0) {
+      validate();
+    }
+
+   }
+   document.body.onload = function() {
+    prepare();
+    input.oninput = validate;
+    input.onpropertychange = validate;
+   }
+  </script>
+ </body>
+</html>

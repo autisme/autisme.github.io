@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+ <head>
+  <meta charset="utf-8" />
+  <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
+  <style type="text/css">#game_waldo { width: 100%; height: 100%; }</style>
+ </head>
+ <body>
+  <canvas id="game_waldo" width="700" height="500"></canvas>
+  <script type="text/javascript">
+  function waldo() {
+    var self = this;
+    waldos = [
+     {'src': 'assets/waldo/background1.jpg', 'waldo': {'x': 514.5, 'y': 170}},
+     {'src': 'assets/waldo/background2.jpg', 'waldo': {'x': 512.5, 'y': 116}},
+     {'src': 'assets/waldo/background3.jpg', 'waldo': {'x': 348.5, 'y': 103}},
+     {'src': 'assets/waldo/background4.jpg', 'waldo': {'x': 484.5, 'y': 181}},
+     {'src': 'assets/waldo/background5.jpg', 'waldo': {'x': 300.5, 'y': 138}}
+    ]
+    var waldo = waldos[Math.floor((Math.random() * waldos.length))];
+    var canvas = document.getElementById('game_waldo');
+    var ctx = canvas.getContext('2d');
+    ctx.scale(1, 1);
+
+    var mobile_device = false;
+    var background = new Image();
+    background.src = waldo['src'];
+    var zoom = 6;
+    var targetbox = 10;
+    var start = false;
+    var win = false;
+    var chronos;
+    var chronos_fixed;
+    var refresh = 10;
+    var mouse = {'x': undefined, 'y': undefined};
+
+    var status = {'status': 'pause', 'interval': undefined};
+
+    this.play = function() {
+      if ( 'play' == status['status'])
+        return;
+      canvas.onmousemove = function(e){ mobile_device = false; move(e); };
+      canvas.onclick = function(e){ mobile_device = false; click(e); };
+
+      canvas.ontouchmove = function(e){ mobile_device = true; move(e); };
+      canvas.ontouchstart = function(e){ mobile_device = true; click(e); };
+      canvas.ontouchend = function(e){ mobile_device = true; click(e); };
+
+      status['interval'] = setInterval(function() {
+        chronos += refresh;
+        draw();
+      }, refresh);
+      status['status'] = 'play';
+    }
+    this.pause = function() {
+      if ( 'pause' == status['status'])
+        return;
+      canvas.onmousemove = function(e) {}
+      canvas.onclick = function(e) {}
+      canvas.ontouchmove = function(e) {}
+      canvas.ontouchstart = function(e) {}
+      canvas.ontouchend = function(e) {}
+      clearInterval(status['interval']);
+      status['status'] = 'pause';
+    }
+    this.canvas = function() {
+      return canvas;
+    }
+
+
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.drawImage(background, 0, 0, 700, 500);
+      if (true == win) {
+        ctx.fillStyle = "rgba(255, 255, 255, 0.7)";
+        ctx.beginPath();
+        ctx.rect(0, 0, 700, 500);
+        ctx.fill();
+
+        ctx.beginPath();
+        ctx.fillStyle = "#111";
+        ctx.rect((700/2)-100, (500/2)-40, 200, 60);
+        ctx.stroke();
+        ctx.textAlign = "center";
+        ctx.font = "25px Arial";
+        ctx.fillText("Recommencer",700/2,500/2);
+        ctx.font = "20px Arial";
+        ctx.fillText("Bravo",700/2,(500/2)-100);
+        ctx.fillText("(" + (chronos_fixed/1000).toFixed(2) + " secondes)",700/2,(500/2)-75);
+        return;
+      }
+
+      if (false == start) {
+        ctx.beginPath();
+        ctx.fillStyle = "rgba(255, 255, 255, 0.7)";
+        ctx.rect(0, 0, 700, 500);
+        ctx.fill();
+
+        ctx.beginPath();
+        ctx.fillStyle = "#111";
+        ctx.rect((700/2)-100, (500/2)-40, 200, 60);
+        ctx.stroke();
+        ctx.textAlign = "center";
+        ctx.font = "30px Arial";
+        ctx.fillText("Commencer",700/2,500/2);
+        return;
+      }
+
+      if (undefined == mouse['x'] || undefined == mouse['y']) {
+        return;
+      }
+      ctx.drawImage(background, (mouse['x']*background.width/700) - ((700/zoom)/2), (mouse['y']*background.height/500) - ((500/zoom)/2), 700/zoom, 500/zoom, mouse['x'] - 75, mouse['y'] - 75, 150, 150);
+
+      ctx.fillStyle = "#111";
+      ctx.textAlign = "center";
+      ctx.font = "30px Arial";
+      ctx.fillText(""+(chronos/1000).toFixed(2),50, 40);
+
+
+    }
+    function move(e) {
+e.preventDefault();
+      var r = canvas.getBoundingClientRect();
+      if ( false == mobile_device ) {
+       mouse['x']=parseInt(e.clientX) - r.left;
+       mouse['y']=parseInt(e.clientY) - r.top;
+      } else {
+       mouse['x']=parseInt(e.touches[0].clientX) - r.left;
+       mouse['y']=parseInt(e.touches[0].clientY) - r.top;
+      }
+      mouse['x'] = mouse['x']*700/canvas.offsetWidth;
+      mouse['y'] = mouse['y']*500/canvas.offsetHeight;
+
+      if (false == start || true == win) {
+        if ((mouse['x'] > (700/2)-100) && (mouse['y'] > (500/2)-40) && (mouse['x'] < (700/2)+100) && (mouse['y'] < (500/2)+20)) {
+          canvas.style.cursor = 'pointer';
+        } else {
+          canvas.style.cursor = 'default';
+        }
+        return;
+      }
+      canvas.style.cursor = 'pointer';
+      draw();
+    }
+
+    function click(e) {
+      var r = canvas.getBoundingClientRect();
+      var x;
+      var y;
+      if ( false == mobile_device ) {
+       x=parseInt(e.clientX) - r.left;
+       y=parseInt(e.clientY) - r.top;
+      } else {
+       x=parseInt(e.touches[0].clientX) - r.left;
+       y=parseInt(e.touches[0].clientY) - r.top;
+      }
+      x = x*700/canvas.offsetWidth;
+      y = y*500/canvas.offsetHeight;
+
+
+      if (false == start || true == win) {
+        if ((mouse['x'] > (700/2)-100) && (mouse['y'] > (500/2)-40) && (mouse['x'] < (700/2)+100) && (mouse['y'] < (500/2)+20)) {
+          if ( true == win ) {
+            waldo = waldos[Math.floor((Math.random() * waldos.length))];
+            background.src = waldo['src'];
+          } else {
+          }
+          start = true;
+          win = false;
+          chronos = 0.0;
+          draw();
+        }
+        return;
+      }
+      if ((x > waldo['waldo']['x']-targetbox) && (x < waldo['waldo']['x']+targetbox) && (y > waldo['waldo']['y']-targetbox) && (y < waldo['waldo']['y']+targetbox)) {
+         win = true;
+         chronos_fixed = chronos;
+         draw();
+
+      }
+      console.log('x:' + x + ' y:' + y);
+    }
+  }
+  function isScrolledIntoView(el) {
+    var elemTop = el.getBoundingClientRect().top;
+    var elemBottom = el.getBoundingClientRect().bottom;
+
+    var isVisible = ((elemTop >= 0) && (elemTop <= window.innerHeight)) || ((elemBottom >= 0) && (elemBottom <= window.innerHeight)) || ((elemTop < 0) && (elemBottom > window.innerHeight));
+    return isVisible;
+  }
+  document.body.onload = function() {
+    var canvas = new waldo();
+    canvas.play();
+  }
+  </script>
+ </body>
+</html>
