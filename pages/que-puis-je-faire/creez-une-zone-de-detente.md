@@ -29,19 +29,19 @@ Les espaces sensoriels peuvent facilement être mis en place lorsque nous avons 
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Mouvements</h4>
+  <h4 class="n"><span></span>Mouvements</h4>
   <div>
 <p>Au lieu d’installer des balançoires, vous pouvez mettre à disposition des balles d’exercices, un rocking chair ou un petit trampoline  pour stimuler la motricité.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Éclairage</h4>
+  <h4 class="n"><span></span>Éclairage</h4>
   <div>
 <p>Vous n’avez pas besoin d’équipements de haute technologie. Vous pouvez simplement ajouter une lumière relaxante en utilisant des lumières des guirlandes, des bougies à piles, des bâtons lumineux ou des lampes à lave. L’éclairage est quelque chose de très puissant. Il influence de façon subtile notre humeur. Par exemple, les lampes fluorescentes qui émettent une couleur froide peuvent nous mettre mal à l’aise. Un éclairage chaud et doux peut nous détendre. N’ayez pas peur de créer une ambiance relaxante et confortable.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Toucher</h4>
+  <h4 class="n"><span></span>Toucher</h4>
   <div>
 <p>Il est particulièrement important pour les jeunes enfants d’utiliser cet espace. Une option rentable serait d’y mettre le plus de coussins, de couvertures et de peluches que possible. Les personnes hypersensibles pourront utiliser ces objets sans le risque de stimulation excessive, tandis que les personnes hyposensibles seront aussi capables d’en profiter.</p>
   </div>

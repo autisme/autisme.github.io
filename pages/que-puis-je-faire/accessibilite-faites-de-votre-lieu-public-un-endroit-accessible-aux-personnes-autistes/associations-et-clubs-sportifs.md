@@ -67,7 +67,7 @@ Une personne autiste est un atout pour les associations à cause de leur façon 
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Communication</h4>
+  <h4 class="n"><span></span>Communication</h4>
   <div>
 <amp-img class="left" width="250" height="166" src="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/community-150124_960_720.png" alt="community-150124_960_720.png"></amp-img>
 <p>Beaucoup de personnes autistes trouvent la communication difficile et le monde du commerce est rempli de communication avec les clients.
@@ -85,7 +85,7 @@ Vous pouvez leur faciliter la vie en utilisant des phrases claires et précises.
   </div>
  </section>
  <section>
-  <h4><span></span>Compétences sociales</h4>
+  <h4 class="n"><span></span>Compétences sociales</h4>
   <div>
 <p>Les activités impliquent une grande parte d'interactions et de socialisation. Pour les personnes autistes cela peut être à la fois difficile et générer de l'anxiété.</p>
 
@@ -97,7 +97,7 @@ Pour cette raison, les associations peuvent jouer un rôle important dans la soc
   </div>
  </section>
  <section>
-  <h4><span></span>Traitement sensoriel</h4>
+  <h4 class="n"><span></span>Traitement sensoriel</h4>
   <div>
 <amp-img class="left" width="250" height="166" src="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/170422.jpg" alt="170422" ></amp-img>
 <p>Beaucoup de personnes autistes ont du mal avec l'intégration sensorielle, ce qui signifie que leur sens sont à certains moments sous ou sur stimulés.
@@ -111,28 +111,28 @@ Dans un atelier d'art, certaines colles peuvent avoir une odeur forte.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Coordination</h4>
+  <h4 class="n"><span></span>Coordination</h4>
   <div>
 <p>Beaucoup de personnes autistes ont du mal à coordonner leurs mouvements et cela rend la pratique du sport difficile.
 Cependant le sport est aussi un bon moyen pour apprendre.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Concentration</h4>
+  <h4 class="n"><span></span>Concentration</h4>
   <div>
 <p>Les personnes autistes ont souvent de courtes périodes d'attention.
 Il est souvent difficile de maintenir son attention durant une longue période de jeu ou d'une activité.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Placement dans l'espace</h4>
+  <h4 class="n"><span></span>Placement dans l'espace</h4>
   <div>
 <p>Les personnes autistes peuvent ne pas savoir se placer dans l'espace, sont plus susceptibles d'avoir des accidents ou peuvent trouver qu'il est difficile de se situer sur de grands espaces.
 Cela peut poser des difficultés dans la pratique d'un sport.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Imagination</h4>
+  <h4 class="n"><span></span>Imagination</h4>
   <div>
 <p>Les personnes autistes ont souvent une pensée binaire.
 Cela peut être difficile parfois d'imaginer un concept comme par exemple une stratégie de jeu ou un produit fini.</p>
@@ -141,7 +141,7 @@ Cela peut être difficile parfois d'imaginer un concept comme par exemple une st
   </div>
  </section>
  <section>
-  <h4><span></span>Auto-stimulation</h4>
+  <h4 class="n"><span></span>Auto-stimulation</h4>
   <div>
 <p>
 L'auto-stimulation ou «&nbsp;stimming&nbsp;» désigne des actions répétitives comme le fait
@@ -156,21 +156,21 @@ La plus grande détresse dans ces situations est la réaction des gens qui ne co
   </div>
  </section>
  <section>
-  <h4><span></span>Hyperactivité</h4>
+  <h4 class="n"><span></span>Hyperactivité</h4>
   <div>
 <p>Les personnes autistes sont parfois hyperactives et les clubs peuvent parfois ne pas fournir suffisamment d'espace ou peuvent trouver difficile d'aider un joueur qui ne peut pas rester concentré.
 Si des stratégies ne  sont pas mises en place, cela tend généralement à ce que la personne ne puisse pas rester dans le club.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Comportements</h4>
+  <h4 class="n"><span></span>Comportements</h4>
   <div>
 <p>Quand une personne autiste devient stressée ou anxieuse et ne peut pas le communiquer, cela peut générer un comportement difficile.
 Il est important que les associations comprennent les raisons derrières ces comportements et comment les éviter.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Anxiété</h4>
+  <h4 class="n"><span></span>Anxiété</h4>
   <div>
 <p>Les personnes autistes sont souvent très anxieuses pour les raisons évoquées plus haut.
 Quand une personne sort de sa zone de confort comme sa maison pour venir dans un magasin, elle peut être anxieuse pour toutes les choses qui peuvent mal se passer ou arriver.</p>
@@ -192,7 +192,7 @@ Les personnes autistes représentent une part non négligeable de votre clientè
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Créer une politique d'inclusion</h4>
+  <h4 class="n"><span></span>Créer une politique d'inclusion</h4>
   <div>
 <ul>
  <li>Est-ce que votre association a une politique d'inclusion&nbsp;?</li>
@@ -203,7 +203,7 @@ Les personnes autistes représentent une part non négligeable de votre clientè
   </div>
  </section>
  <section>
-  <h4><span></span>Préparer, préparer, préparer</h4>
+  <h4 class="n"><span></span>Préparer, préparer, préparer</h4>
   <div>
 <p>Avant le début de l'année, collectez des informations sur les aides que les personnes ont besoin.
 Connaître quelles sont leurs difficultés peut être utile.</p>
@@ -214,35 +214,35 @@ Assurez-vous que tout le monde comprenne le handicap afin de pouvoir résoudre l
   </div>
  </section>
  <section>
-  <h4><span></span>Fournir des aides visuelles</h4>
+  <h4 class="n"><span></span>Fournir des aides visuelles</h4>
   <div>
 <p>Fournissez sur votre site web des images ou une visite à 360° de votre association.
 Cela permet aux personnes de se préparer avant leur première visite.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Sensibiliser au sein de l'association</h4>
+  <h4 class="n"><span></span>Sensibiliser au sein de l'association</h4>
   <div>
 <p>La non compréhension du handicap fait partie des problèmes auxquels les personnes autistes font face.
 Faites une campagne de sensibilisation au sein de l'association et ayez une tolérance zéro contre le harcèlement ou l'isolement.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Former</h4>
+  <h4 class="n"><span></span>Former</h4>
   <div>
 <p>Il est important que les personnes comprennent les besoins des membres autistes.
 Pourquoi ne pas tenir une journée de formation pour éduquer les personnes à propos des problèmes auxquels les personnes autistes font face et comment les résoudre dans le contexte d'une association&nbsp;?</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Fournir un environnement «&nbsp;sensory friendly&nbsp;»</h4>
+  <h4 class="n"><span></span>Fournir un environnement «&nbsp;sensory friendly&nbsp;»</h4>
   <div>
 <p>Quels sont les défis sensoriels auxquels font face les personnes autistes dans votre association&nbsp;?
 Pouvez-vous considérer des adaptations pour vos activités&nbsp;?</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Rencontrer les associations</h4>
+  <h4 class="n"><span></span>Rencontrer les associations</h4>
   <div>
 <p>
 De la même façon que toutes les associations sont différentes, toutes les personnes autistes sont différentes.

@@ -26,7 +26,7 @@ L'aide existe et il est essentiel que vous sachiez où la trouver et que votre u
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Inscription</h4>
+  <h4 class="n"><span></span>Inscription</h4>
   <div><p>Premièrement, vous devez faire part le plus tôt possible de vos besoins à votre université.
 N'oubliez pas de préciser votre situation sur le formulaire d'orientation <a href="https://www.parcoursup.fr/">Parcoursup</a>. S'il n'y a pas de case dédiée,
 précisez-le dans les champs en texte libre comme par exemple «&nbsp;Éléments liés à ma scolarité&nbsp;».</p>
@@ -40,7 +40,7 @@ De même, les résultats sur Parcoursup arrivant tard dans l'année, laisserait 
 </div>
  </section>
  <section>
-  <h4><span></span>Prendre rendez-vous avec le service handicap</h4>
+  <h4 class="n"><span></span>Prendre rendez-vous avec le service handicap</h4>
   <div>
 <p>Le service handicap de l'Université est le service qui évalue vos besoins et vous accorde les aménagements de façon officielle, notamment pour les examens. Ce service est souvent rattaché au service de médecine préventive des université.</p>
 <p>Une fois votre inscription finalisée, prenez rendez-vous le plus tôt possible avec ce service. Demandez les aménagements que vous souhaitez mais n'oubliez pas de justifier pourquoi vous en avez besoin.</p>
@@ -48,7 +48,7 @@ De même, les résultats sur Parcoursup arrivant tard dans l'année, laisserait 
   </div>
  </section>
  <section>
-  <h4><span></span>De quels aménagements pouvez-vous bénéficier&nbsp;?</h4>
+  <h4 class="n"><span></span>De quels aménagements pouvez-vous bénéficier&nbsp;?</h4>
   <div>
 <p>Il est essentiel que vous et votre famille sachiez ce que l'université peut mettre en placce pour vous. Quels tpes d'aménagements sont disponibles. Par exemple&nbsp;:</p>
 
@@ -75,7 +75,7 @@ Plus d'informations sont disponibles sur le site <a href="http://www.handi-u.fr/
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section>
-  <h4><span></span>Grand Est</h4>
+  <h4 class="n"><span></span>Grand Est</h4>
   <div>
 <ul>
  <li><a data-vars-outbound-link="http://handicap.univ-lorraine.fr/page-daccueil-handi-univ-lorraine" href="http://handicap.univ-lorraine.fr/page-daccueil-handi-univ-lorraine">Université de Lorraine</a></li>
@@ -87,7 +87,7 @@ Plus d'informations sont disponibles sur le site <a href="http://www.handi-u.fr/
   </div>
  </section>
  <section>
-  <h4><span></span>Nouvelle Aquitaine</h4>
+  <h4 class="n"><span></span>Nouvelle Aquitaine</h4>
   <div>
 <ul>
  <li><a data-vars-outbound-link="https://www.u-bordeaux.fr/Universite/Universite-ethique/Handicap/Accompagnement-des-etudiants" href="https://www.u-bordeaux.fr/Universite/Universite-ethique/Handicap/Accompagnement-des-etudiants">Université de Bordeaux</a></li>
@@ -101,7 +101,7 @@ Plus d'informations sont disponibles sur le site <a href="http://www.handi-u.fr/
   </div>
  </section>
  <section>
-  <h4><span></span>Auvergne-Rhône-Alpes</h4>
+  <h4 class="n"><span></span>Auvergne-Rhône-Alpes</h4>
   <div>
 <ul>
  <li><a data-vars-outbound-link="https://handicap.clermont-universite.fr/-Manger-ruse-" href="https://handicap.clermont-universite.fr/-Manger-ruse-">Université Clermont Auvergne</a></li>
@@ -115,7 +115,7 @@ Plus d'informations sont disponibles sur le site <a href="http://www.handi-u.fr/
   </div>
  </section>
  <section>
-  <h4><span></span>Bourgogne-Franche-Comté</h4>
+  <h4 class="n"><span></span>Bourgogne-Franche-Comté</h4>
   <div>
 <ul>
  <li><a data-vars-outbound-link="http://www.univ-fcomte.fr/pages/fr/menu1/vie-etudiante/besoin-d-aide-/besoin-d-aide---etudes-et-handicap-67.html" href="http://www.univ-fcomte.fr/pages/fr/menu1/vie-etudiante/besoin-d-aide-/besoin-d-aide---etudes-et-handicap-67.html">Université de Franche-Comté</a></li>
@@ -125,7 +125,7 @@ Plus d'informations sont disponibles sur le site <a href="http://www.handi-u.fr/
   </div>
  </section>
  <section>
-  <h4><span></span>Bretagne</h4>
+  <h4 class="n"><span></span>Bretagne</h4>
   <div>
 <ul>
  <li><a data-vars-outbound-link="https://www.univ-brest.fr/centredesante/menu/Nos_prestations/Handicap_et_amenagements" href="https://www.univ-brest.fr/centredesante/menu/Nos_prestations/Handicap_et_amenagements">Université de Bretagne Occidentale</a></li>
@@ -137,7 +137,7 @@ Plus d'informations sont disponibles sur le site <a href="http://www.handi-u.fr/
   </div>
  </section>
  <section>
-  <h4><span></span>Centre-Val de Loire</h4>
+  <h4 class="n"><span></span>Centre-Val de Loire</h4>
   <div>
 <ul>
  <li><a data-vars-outbound-link="https://www.univ-orleans.fr/handicap" href="https://www.univ-orleans.fr/handicap">Université d'Orléans</a></li>
@@ -146,7 +146,7 @@ Plus d'informations sont disponibles sur le site <a href="http://www.handi-u.fr/
   </div>
  </section>
  <section>
-  <h4><span></span>Corse</h4>
+  <h4 class="n"><span></span>Corse</h4>
   <div>
 <ul>
  <li><a data-vars-outbound-link="https://studia.universita.corsica/article.php?id_art=289&id_rub=135" href="https://studia.universita.corsica/article.php?id_art=289&id_rub=135">Université Pascal Paoli</a></li>
@@ -154,7 +154,7 @@ Plus d'informations sont disponibles sur le site <a href="http://www.handi-u.fr/
   </div>
  </section>
  <section>
-  <h4><span></span>Hauts-de-France</h4>
+  <h4 class="n"><span></span>Hauts-de-France</h4>
   <div>
 <ul>
  <li><a data-vars-outbound-link="https://www.u-picardie.fr/l-universite/handicap/etudiants/" href="https://www.u-picardie.fr/l-universite/handicap/etudiants/">Université de Picardie Jules Verne</a></li>
@@ -168,7 +168,7 @@ Plus d'informations sont disponibles sur le site <a href="http://www.handi-u.fr/
   </div>
  </section>
  <section>
-  <h4><span></span>Île-de-France</h4>
+  <h4 class="n"><span></span>Île-de-France</h4>
   <div>
 <ul>
  <li><a data-vars-outbound-link="https://www.univ-paris8.fr/Le-service-Accueil-handicap" href="https://www.univ-paris8.fr/Le-service-Accueil-handicap">Université Vincennes-Saint-Denis</a></li>
@@ -192,7 +192,7 @@ Plus d'informations sont disponibles sur le site <a href="http://www.handi-u.fr/
   </div>
  </section>
  <section>
-  <h4><span></span>Occitanie</h4>
+  <h4 class="n"><span></span>Occitanie</h4>
   <div>
 <ul>
  <li><a data-vars-outbound-link="https://www.umontpellier.fr/campus/handicap" href="https://www.umontpellier.fr/campus/handicap">Université Montpellier</a></li>
@@ -207,7 +207,7 @@ Plus d'informations sont disponibles sur le site <a href="http://www.handi-u.fr/
   </div>
  </section>
  <section>
-  <h4><span></span>Normandie</h4>
+  <h4 class="n"><span></span>Normandie</h4>
   <div>
 <ul>
  <li><a data-vars-outbound-link="http://vie-etudiante.unicaen.fr/sante-handicap/handicap/relais-handicap-sante-183488.kjsp" href="http://vie-etudiante.unicaen.fr/sante-handicap/handicap/relais-handicap-sante-183488.kjsp">Université de Caen Normandie</a></li>
@@ -217,7 +217,7 @@ Plus d'informations sont disponibles sur le site <a href="http://www.handi-u.fr/
   </div>
  </section>
  <section>
-  <h4><span></span>Pays de la Loire</h4>
+  <h4 class="n"><span></span>Pays de la Loire</h4>
   <div>
 <ul>
  <li><a data-vars-outbound-link="http://www.univ-angers.fr/fr/vie-a-l-universite/handi-3a.html" href="http://www.univ-angers.fr/fr/vie-a-l-universite/handi-3a.html">Université d'Angers</a></li>
@@ -227,7 +227,7 @@ Plus d'informations sont disponibles sur le site <a href="http://www.handi-u.fr/
   </div>
  </section>
  <section>
-  <h4><span></span>Provence-Alpes-Côte d'Azur</h4>
+  <h4 class="n"><span></span>Provence-Alpes-Côte d'Azur</h4>
   <div>
 <ul>
  <li><a data-vars-outbound-link="https://mission-handicap.univ-amu.fr/" href="https://mission-handicap.univ-amu.fr/">Aix-Marseille Université</a></li>
@@ -238,7 +238,7 @@ Plus d'informations sont disponibles sur le site <a href="http://www.handi-u.fr/
   </div>
  </section>
  <section>
-  <h4><span></span>Régions d'outre-mer</h4>
+  <h4 class="n"><span></span>Régions d'outre-mer</h4>
   <div>
 <ul>
  <li><a data-vars-outbound-link="http://www.univ-ag.fr/choisir-luniversite-des-antilles/etudiants-handicap" href="http://www.univ-ag.fr/choisir-luniversite-des-antilles/etudiants-handicap">Université des Antilles</a></li>

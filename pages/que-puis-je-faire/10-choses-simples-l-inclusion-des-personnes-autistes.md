@@ -23,7 +23,7 @@ autistes et leur permettre de participer comme tout le monde dans la société.
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>1. Soyez clair, facile à comprendre et patient</h4>
+  <h4 class="n"><span></span>1. Soyez clair, facile à comprendre et patient</h4>
   <div>
 <p>Beaucoup de personnes autistes trouvent la communication difficile. Cela peut prendre différentes formes. Certaines personnes sont non verbales tandis que d’autres peuvent avoir du mal à organiser leurs idées et avoir besoin de temps pour cela. Il peut être difficile pour ces personnes de savoir et comprendre ce qu’elles ressentent.
 Beaucoup de personnes autistes ont une compréhension littérale du langage, ce qui signifie que l’humour, le sarcasme ou autres figures de styles peuvent être déroutantes.</p>
@@ -35,7 +35,7 @@ Laissez suffisamment de temps à la personne pour vous répondre, ne posez pas d
   </div>
  </section>
  <section>
-  <h4><span></span>2. Allez à la rencontre des personnes autistes</h4>
+  <h4 class="n"><span></span>2. Allez à la rencontre des personnes autistes</h4>
   <div>
 <p>Nous avons souvent l’impression que les personnes autistes vivent leur vie et ne souhaitent pas socialiser.
 Bien que cela soit le cas pour certaines personnes, d’autres aimeraient bien mais ne savent pas comment s’y prendre.
@@ -50,7 +50,7 @@ Cela ne signifie pas qu’elle ne voudra jamais socialiser.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>3. Soyez sensible</h4>
+  <h4 class="n"><span></span>3. Soyez sensible</h4>
   <div>
 <p>Les personnes autistes traitent l’environnement différemment.
 Certaines personnes autistes sont hyposensibles et ont besoin d’importants stimuli. D’autres sont très sensibles et l’environnement peut les submerger.</p>
@@ -62,7 +62,7 @@ Ce n’est pas seulement un bruit que vous n’aimez pas, c’est un bruit que v
   </div>
  </section>
  <section>
-  <h4><span></span>4. Soyez rassurants</h4>
+  <h4 class="n"><span></span>4. Soyez rassurants</h4>
   <div>
 <p>Les personnes autistes ont des difficultés avec le changement, les situations nouvelles et inattendues.
 Les personnes autistes ont des difficultés à prédire ce qui va arriver dans telle ou telle situation, ce qui génère beaucoup de stress et d'anxiété.
@@ -70,7 +70,7 @@ Vous pouvez rendre leur vie plus facile en les prévenant à l’avance des chan
   </div>
  </section>
  <section>
-  <h4><span></span>5. Adaptez-vous</h4>
+  <h4 class="n"><span></span>5. Adaptez-vous</h4>
   <div>
 <p>On attend toujours des personnes autistes de s’adapter au monde autour
 d'elles, ce qui est drôle parce que l’autisme lui-même rend les changements
@@ -79,7 +79,7 @@ Essayez de faire votre partie du chemin pour vous adapter à la personne autiste
   </div>
  </section>
  <section>
-  <h4><span></span>6. Ne jugez pas si rapidement</h4>
+  <h4 class="n"><span></span>6. Ne jugez pas si rapidement</h4>
   <div>
 <p>Avez-vous déjà vu une mère dans un supermarché avec un enfant qui criait et pleurait&nbsp;? Avez-vous déjà vu une personne «&nbsp;étrange&nbsp;»
 ou «&nbsp;bizarre&nbsp;» dans votre classe&nbsp;?
@@ -87,7 +87,7 @@ Les personnes autistes sont souvent victimes de tels jugements car l’autisme p
   </div>
  </section>
  <section>
-  <h4><span></span>7. Les personnes autistes sont avant tout des personnes</h4>
+  <h4 class="n"><span></span>7. Les personnes autistes sont avant tout des personnes</h4>
   <div>
 <p>Deux personnes autistes seront très différentes l’une de l’autre, tout comme deux personnes non autistes seront très différentes. L’autisme est juste une partie de ce qui défini une personne.</p>
 
@@ -95,7 +95,7 @@ Les personnes autistes sont souvent victimes de tels jugements car l’autisme p
   </div>
  </section>
  <section>
-  <h4><span></span>8. Surveillez votre langage</h4>
+  <h4 class="n"><span></span>8. Surveillez votre langage</h4>
   <div>
 <p>On utilise constamment des mots comme «&nbsp;retardé&nbsp;» ou «&nbsp;l’autiste&nbsp;» ou autre mot de vocabulaire. Ces mots sont très offensants
 pour les personnes handicapées, y 
@@ -105,7 +105,7 @@ compris les personnes autistes. Cela implique que le handicap est quelque chose 
   </div>
  </section>
  <section>
-  <h4><span></span>9. Soyez un allié</h4>
+  <h4 class="n"><span></span>9. Soyez un allié</h4>
   <div>
 <p>Maintenant que vous connaissez quelques étapes pour inclure les personnes autistes, vous pouvez soutenir les personnes autistes et défendre leurs droits dans vos conversations avec d’autres personnes, que ce soit à l’école, au travail ou dans la société.
 
@@ -113,7 +113,7 @@ Les personnes autistes représentent 1&nbsp;% de la population et nous avons bes
   </div>
  </section>
  <section>
-  <h4><span></span>10. N’hésitez poser des questions et à demander</h4>
+  <h4 class="n"><span></span>10. N’hésitez poser des questions et à demander</h4>
   <div>
 <p>Beaucoup de problèmes que les personnes autistes rencontrent dans la société vient du fait que les gens n’osent pas demander. Ils n’osent pas demander ce qu’ils doivent faire, comment agir dans telle situation. N’oubliez pas que demander c’est aussi apprendre.</p>
   </div>

@@ -26,7 +26,7 @@ appel.
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Centres de Ressources sur l'Autisme (CRA)</h4>
+  <h4 class="n"><span></span>Centres de Ressources sur l'Autisme (CRA)</h4>
   <div>
 <p>Les centres de ressources autisme ont été crées pour conseiller les familles dans leurs démarches mais aussi pour fournir
 des explications et de la documentation sur l'autisme en général.</p>
@@ -34,14 +34,14 @@ des explications et de la documentation sur l'autisme en général.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Assistantes sociales</h4>
+  <h4 class="n"><span></span>Assistantes sociales</h4>
   <div>
 <p>Les assistantes permettent de connaître les aides dont vous pouvez bénéficier mais elles peuvent également vous aider à les mettre en place, en effectuant certaines
 démarches pour vous.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Médecin généraliste / Pédiatre</h4>
+  <h4 class="n"><span></span>Médecin généraliste / Pédiatre</h4>
   <div>
 <p>Votre médecin généraliste n'est pas un spécialiste de l'autisme. Toutefois, il peut vous aiguiller vers les médecins spécialisés.
 En fonction des difficultés que vous ou votre enfant 
@@ -49,7 +49,7 @@ rencontre. N'hésitez pas à lui demander des noms et à partager son carnet d'a
   </div>
  </section>
  <section>
-  <h4><span></span>Psychiatre</h4>
+  <h4 class="n"><span></span>Psychiatre</h4>
   <div>
 <p>Les psychiatres sont les personnes habilitées à poser un diagnostique.
 Généralement, ces derniers n'effectuent pas les « observations » qui sont déléguées à un psychologue mais ils interprètent les résultats de ces observations
@@ -60,7 +60,7 @@ prescrire des médicaments si cela est nécessaire.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Psychologue</h4>
+  <h4 class="n"><span></span>Psychologue</h4>
   <div>
 <p>Les psychologues peuvent réaliser des observations, pour déterminer les difficultés que la personne autiste rencontre au quotidien.</p>
 <p>Ils peuvent également fournir une aide concrète, en organisant des sessions expliquant comment
@@ -69,14 +69,14 @@ Beaucoup de domaines dans lesquels les personnes autistes ont souvent besoin de 
   </div>
  </section>
  <section>
-  <h4><span></span>ORL</h4>
+  <h4 class="n"><span></span>ORL</h4>
   <div>
 <p>Les personnes autistes ont souvent des hyper et hypo sensibilités, notamment avec les sons. Prévoir un rendez-vous chez l'ORL est vraiment recommandé, surtout pour les jeunes
 enfants qui ont des difficultés avec le développement du langage.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Ergothérapeute</h4>
+  <h4 class="n"><span></span>Ergothérapeute</h4>
   <div>
 <p>Beaucoup de personnes autistes ont des difficultés avec la motricité, que ce soit des difficultés pour coordonner les mouvements, faire du vélo, jouer au ballon (motricité globale) ou
 pour écrire (motricité fine).
@@ -85,7 +85,7 @@ L'ergothérapie est également bénéfique pour améliorer l'attention, et pour 
   </div>
  </section>
  <section>
-  <h4><span></span>Diététicien</h4>
+  <h4 class="n"><span></span>Diététicien</h4>
   <div>
 <p>Les personnes autistes ont souvent de mauvaises habitudes alimentaires. Manger toujours les mêmes aliments est
 une caractéristique que beaucoup de personnes autistes partage.
@@ -93,7 +93,7 @@ Un diététicien pourra aider à varier les repas, à manger de façon saine et 
   </div>
  </section>
  <section>
-  <h4><span></span>Référent de l'éducation nationale</h4>
+  <h4 class="n"><span></span>Référent de l'éducation nationale</h4>
   <div>
 <p>La personne référente de l'éducation nationale est responsable de la mise en place d'aménagements au sein de l'école.
 Il joue également un rôle de conseil et de médiateur entre l'école et les parents.</p>
@@ -104,7 +104,7 @@ Ce document contient la liste des aménagements à mettre en place à l'école.<
   </div>
  </section>
  <section>
-  <h4><span></span>Assistant de vie scolaire</h4>
+  <h4 class="n"><span></span>Assistant de vie scolaire</h4>
   <div>
 <p>L'assistant de vie scolaire est la personne qui accompagne votre enfant à l'école. Il peut donc vous prévenir lorsque quelque chose se passe mal ou que votre enfant rencontre une difficulté. De la même manière,
 vous pouvez le prévenir lorsque quelque chose s'est mal passé à la maison, il pourra prévenir les enseignants qui pourraient ne pas comprendre le comportement de votre enfant ce jour-là.</p>

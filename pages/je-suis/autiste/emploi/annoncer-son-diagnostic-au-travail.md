@@ -23,7 +23,7 @@ Il peut être difficile de peser le pour et le contre, comprendre les avantages 
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Dois-je l'annoncer ou pas&nbsp;?</h4>
+  <h4 class="n"><span></span>Dois-je l'annoncer ou pas&nbsp;?</h4>
   <div>
 <p>Il y a plusieurs raisons qui peuvent vous décider à informer vos collègues ou votre employeur que vous êtes autistes. Pa exemple&nbsp;:</p>
 <ul>
@@ -41,14 +41,14 @@ Il peut être difficile de peser le pour et le contre, comprendre les avantages 
   </div>
  </section>
  <section>
-  <h4><span></span>Accéder aux aides</h4>
+  <h4 class="n"><span></span>Accéder aux aides</h4>
   <div>
 <p>Si vous êtes franc sur le fait que vous êtes affecté par l'autisme, il est beaucoup plus facile d'expliquer aux autres vos besoins et vos difficultés.
 Vous pouvez parfois être surpris comment les gens sont prêts à vous aider simplement en leur disant ce que vous trouvez difficile.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Se sentir plus confiant</h4>
+  <h4 class="n"><span></span>Se sentir plus confiant</h4>
   <div>
 <p>Certaines personnes autistes ont tellement peur de la réaction de leurs collègues qu'elles préfèrent se cacher derrière un masque et prétendre qu'elles ne sont pas la personne qu'elle sont réellement.
 Cela n'est pas bon pour votre santé mentale, pour votre bien être, mais aussi pour vos relations avec les autres.
@@ -56,7 +56,7 @@ Cela n'est pas bon pour votre santé mentale, pour votre bien être, mais aussi 
   </div>
  </section>
  <section>
-  <h4><span></span>Se sentir mieux compris</h4>
+  <h4 class="n"><span></span>Se sentir mieux compris</h4>
   <div>
 <p>L'autisme est un handicap invisible et les personnes concernées se sentent souvent frustrées
 que personne ne comprennent comment elles agissent.
@@ -65,7 +65,7 @@ Dire aux gens que vous êtes autiste peut vous aider à être mieux compris.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Aider les autres</h4>
+  <h4 class="n"><span></span>Aider les autres</h4>
   <div>
 En parlant ouvertement de votre handicap, vous pouvez devenir un exemple pour les autres personnes autistes autour de vous. Cela peut, à leur tour, les
 inciter à annoncer leur diagnostic. Cela peut également faire de l'utisme un sujet discuté régulièrement 

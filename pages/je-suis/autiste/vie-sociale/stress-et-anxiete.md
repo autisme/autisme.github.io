@@ -31,7 +31,7 @@ Le stress et l'anxiété peuvent être difficiles à limiter mais nous devons es
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>En parler</h4>
+  <h4 class="n"><span></span>En parler</h4>
   <div>
 <p>Les personnes autistes sont des gens rationnels et quand quelque chose les contrarie, ils peuvent focaliser sur cette chose.
 C'est pourquoi il peut être important d'en parler à quelqu'un auquel vous faites confiance, qui vous comprend, comme un parent ou un ami.
@@ -39,14 +39,14 @@ Souvent en parlant, on se rend compte que la situation n'est pas aussi deséspé
   </div>
  </section>
  <section>
-  <h4><span></span>Prendre le temps</h4>
+  <h4 class="n"><span></span>Prendre le temps</h4>
   <div>
 <p>Si cela est approprié et que vous êtes vraiment stressé, il peut être utile d'arrêter ce que vous faites et de marcher un peu ou juste aller prendre un café. Cela peut vous permettre de vous reposer et de revenir avec un esprit plus clair.
 L'exercice physique peut être aussi bénéfique.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Planifier</h4>
+  <h4 class="n"><span></span>Planifier</h4>
   <div>
 <p>Se préparer à comment réagir en cas d'imprévus.
 Par exemple, au lieu de simplement paniquer dans une situation sociale, vous savez que vous devez y faire face et vous vous êtes préparé à comment y faire face.
@@ -54,14 +54,14 @@ Quelqu'un qui vous comprend peut vous aider pour cela.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Se relaxer</h4>
+  <h4 class="n"><span></span>Se relaxer</h4>
   <div>
 <p>La relaxation peut être une bonne idée pour faire descendre le niveau de stress.
 Cela peut passer par la méditation, le yoga ou juste lire un livre ou passer un peu de temps au calme.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Prendre du recul</h4>
+  <h4 class="n"><span></span>Prendre du recul</h4>
   <div>
 <p>Les personnes autistes aiment la stabilité et n'importe quel petit changement peut
 vraiment avoir de grandes conséquences, mais vraiment de temps en temps,
@@ -70,7 +70,7 @@ il y a toujours quelque chose de positif pour l'avenir.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Ne pas perdre son calme</h4>
+  <h4 class="n"><span></span>Ne pas perdre son calme</h4>
   <div>
 <p>Facile à dire mais plus difficile à faire, que vous soyez affecté par l'autisme ou non.
 Tout le monde peut être énervé à un moment donné.

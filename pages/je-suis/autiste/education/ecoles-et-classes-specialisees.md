@@ -26,7 +26,7 @@ tout en recevant de l'aide dans les domaines où ils ont des difficultés.
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Accéder aux écoles et classes adaptées</h4>
+  <h4 class="n"><span></span>Accéder aux écoles et classes adaptées</h4>
   <div>
    <p>D'après la loi du 11 février 2005, le droit à l'éducation pour tous les enfants, quel que soit leur handicap, est un droit fondamental. Chaque école a vocation à accueillir tous les enfants, quels que soient leurs besoins. Par conséquent, 
 une école ne peut pas refuser votre enfant au motif qu'il soit autiste.</p>
@@ -40,7 +40,7 @@ sera l'occasion de discuter des aménagements mis en place, de vérifier s'ils f
   </div>
  </section>
  <section>
-  <h4><span></span>Comment savoir ce dont j'ai besoin&nbsp;?</h4>
+  <h4 class="n"><span></span>Comment savoir ce dont j'ai besoin&nbsp;?</h4>
   <div>
    <p>Nous devons tout d'abord que le choix du milieu de scolarisation vous revient. Ce n'est pas toujours évident car certaines <abbr title="Maisons Départementales pour les Personnes Handicapées">MDPH</abbr> orientent certains enfants sans leur demander, ni à eux, ni à leur famille.</p>
    <p>Choisir où scolariser on enfant est quelque chose de difficile. L'autisme n'affecte pas toutes les personnes de la même façon. Toutes les personnes autistes n'ont pas les mêmes besoins.</p>
@@ -54,7 +54,7 @@ est capable de suivre des cours sans déranger toute la classe.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Écoles spécialisées</h4>
+  <h4 class="n"><span></span>Écoles spécialisées</h4>
   <div>
    <p>Les écoles spécialisées accueillent généralement les personnes autistes avec de nombreuses difficultés, pour qui la scolarisation dans une école ordinaire ne peut être envisagée.</p>
    <h5>Instituts Médicaux Éducatifs (IME)</h5>
@@ -74,7 +74,7 @@ Ils ont souvent été au départ des fondations caritatives, généralement à l
   </div>
  </section>
  <section>
-  <h4><span></span>Classes spécialisées</h4>
+  <h4 class="n"><span></span>Classes spécialisées</h4>
   <div>
    <h5>Classe pour l'Inclusion Scolaire (CLIS) / Unités Localisées pour l'Inclusion Scolaire (ULIS)</h5>
 <p>Une CLIS (Classe pour l'Inclusion Scolaire) est une classe spécialisée au sein d'une école primaire ordinaire. Au sein d'un collège ou d'un lycée, ces classes sont dénommées ULIS (Unité Localisée pour l'Inclusion Scolaire, anciennement UPI).</p>

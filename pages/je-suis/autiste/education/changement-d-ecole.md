@@ -32,14 +32,14 @@ Nous explorons dans cette section, ce que vous pouvez faire, en tant qu'élève 
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Communiquez vos besoins</h4>
+  <h4 class="n"><span></span>Communiquez vos besoins</h4>
   <div>
    <p>Avant la rentrée scolaire, faites la liste de tout ce que les enseignants doivent savoir sur vous et vos besoins. Utilisez un journal ou préparez une petite liste détaillant pour chaque enseignant
 les défis que vous ou votre enfant rencontrez, que ce soit en général ou sur un sujet particulier. Cela vaut aussi la peine de lister les stratégies qui ont fonctionné dans le passé et qui vous ont aidé.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Informez-vous sur l'école</h4>
+  <h4 class="n"><span></span>Informez-vous sur l'école</h4>
   <div>
 <p>Lorsque vous choisissez une école, essayez d'obtenir le plus de renseignements possibles. Découvrez sa culture et sa politique pour les élèves en situation de handicap.
 Demandez à visiter l'école une ou plusieurs fois si cela est nécessaire. Vous pourrez ainsi repérer comment les bâtiments sont organisés. Rencontrez les personnes importantes de l'école qui seront la pour vous accompagner, comme le conseiller principal d'éducation, le directeur,
@@ -48,7 +48,7 @@ ce qu'ils pensent de cette école et comment leur enfant a vécu sa première re
   </div>
  </section>
  <section>
-  <h4><span></span>Impliquez votre famille</h4>
+  <h4 class="n"><span></span>Impliquez votre famille</h4>
   <div>
 <p>Assurez-vous que tout le monde à la maison est prêt à vous aider pour vous organiser ou pour faire vos devoirs, afin de rendre la transition plus douce. Informez réulièrement les membres de votre 
 famille des choses que vous faites à l'école et dites-leurs si vous rencontrez des problèmes, qu'ils soient importants ou non.
@@ -58,21 +58,21 @@ leur préciser quelles aides vous conviennent le mieux dans telle ou telle situa
   </div>
  </section>
  <section>
-  <h4><span></span>Gérez votre stress et votre anxiété</h4>
+  <h4 class="n"><span></span>Gérez votre stress et votre anxiété</h4>
   <div>
    <p>Écrivez ou exprimez vos préoccupations à un membre de votre famille ou à un amis. Vous pouvez également répondre à la question «&nbsp;Que faire si ...&nbsp;?&nbsp;» afin de prévoir un plan à suivre au cas où les choses tournent mal.
 Il est également conseillé d'informer un enseignant de confiance ou votre auxiliaire de vie scolaire. Ils pourront vous aider le moment venu si le pire se réalise.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Organisez vos déplacements jusqu'à l'école</h4>
+  <h4 class="n"><span></span>Organisez vos déplacements jusqu'à l'école</h4>
   <div>
    <p>Si utilisez les transports en commun est difficile, vous pouvez peut être bénéficier d'un transport particulier. Prendre les transports en commun peut être une des plus grandes difficultés pour les personnes autistes dans leur vie quotidienne.
 De nombreuses Maisons Départementales pour les Personnes Handicapées peuvent vous financer vos trajets dans des mini bus particuliers ou par taxi.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Faites un stock de fournitures</h4>
+  <h4 class="n"><span></span>Faites un stock de fournitures</h4>
   <div>
    <p>En entrant au collège, vous aurez besoin de plus de fournitures scolaires, particulièrement pour le dessin, la musique, les mathématiques ou la technologie. Se souvenir quand apporter telle ou telle affaire
 peut être difficile pendant votre première année au collège et cela est parfaitement normal. Nous oubllions tous à un moment donné quelque chose.</p>
@@ -82,7 +82,7 @@ peut être difficile pendant votre première année au collège et cela est parf
   </div>
  </section>
  <section>
-  <h4><span></span>Utilisez des scénarios sociaux (Social Story™) et des aides visuelles</h4>
+  <h4 class="n"><span></span>Utilisez des scénarios sociaux (Social Story™) et des aides visuelles</h4>
   <div>
    <p>Demandez à votre famille de vous aider à construire des scénarios sociaux (Social Story™) pour les situations qui vous inquiètent. Les personnes
 autistes aiment se préparer le plus possible pour affronter les situations inconnues. Un scénario social vous expliquera à quoi vous attendre et vous aidera à réduire votre stress et votre anxiété.
@@ -100,7 +100,7 @@ Cela fonctionne bien pour décider quand vous devez acheter vos fournitures ou p
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Aménagez votre environnement de travail</h4>
+  <h4 class="n"><span></span>Aménagez votre environnement de travail</h4>
   <div>
    <p>Trouvez un lieu au calme pour travailler chez vous et allez-y le plus vite possible. Réfléchissez au début de l'année avec votre famille et les enseignants dans quelles conditions vous travaillez le mieux. Les bibliothèques des écoles fournissent un lieu calme
 ainsi qu'un grand nombre de livres qui peuvent être très utiles pour les études. Utilisez ces ressources à votre avantage.</p>
@@ -109,7 +109,7 @@ Demandez également aux enseignants si vous pouvez bénéficier d'une certaine t
   </div>
  </section>
  <section>
-  <h4><span></span>Pensez au «&nbsp;buddy system&nbsp;» ou à la formation d'un binôme</h4>
+  <h4 class="n"><span></span>Pensez au «&nbsp;buddy system&nbsp;» ou à la formation d'un binôme</h4>
   <div>
    <p>Demandez à votre école s'ils peuvent mettre en place un mécanisme de binôme, par exemple avec une personne de votre classe ou d'un niveau supérieur. Votre partenaire devra être choisi avec soin et devra avoir si possible
 un esprit ouvert et une attitude bienveillante. Dans l'idéal il devra également comprendre les difficultés auxquelles vous faites face dans l'école.</p>
@@ -119,7 +119,7 @@ un esprit ouvert et une attitude bienveillante. Dans l'idéal il devra égalemen
   </div>
  </section>
  <section>
-  <h4><span></span>Structurez vos journées</h4>
+  <h4 class="n"><span></span>Structurez vos journées</h4>
   <div>
 <p>Les personnes autistes sont le plus à l'aise dans un environnement structuré. Les collèges et lycées ont recours à des emplois du temps stricts, où l'heure et la salle de chaque cours est défini de façon très claire dès le début de l'année, ce qui est une bonne
 chose pour structurer les journées.</p>
@@ -130,7 +130,7 @@ chose pour structurer les journées.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Cherchez des occasions pour socialiser</h4>
+  <h4 class="n"><span></span>Cherchez des occasions pour socialiser</h4>
   <div>
    <p>Y a-t-il des clubs dans votre école qui peuvent vous intéresser&nbsp;? Rejoindre un groupe de personnes qui partagent la même passion que vous est une bonne opportunité pour se faire des amis pour la vie. Beaucoup d'écoles organisent des groupes d'activités après les
 heures de cours, que ce soit pour faire de la dance, du théâtre, de la musique, du sport, travailler les langues ou de l'aide aux devoirs.</p>

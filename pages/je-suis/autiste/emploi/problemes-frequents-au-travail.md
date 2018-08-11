@@ -22,7 +22,7 @@ translated:
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Entretiens d'embauche</h4>
+  <h4 class="n"><span></span>Entretiens d'embauche</h4>
   <div>
 <p>Peut d'entre nous peuvent dire qu'ils n'ont jamais été stressés lors d'un entretien d'embache. Cela est parfaitement naturel d'être anxieux lorsque nous nous préparons à parler
 de nous à une personne que nous ne connaissons pas.</p>
@@ -41,7 +41,7 @@ Cela ne fonctionnera pas et créera des interrogations. Soyez authentiques, poli
   </div>
  </section>
  <section>
-  <h4><span></span>Aspect social</h4>
+  <h4 class="n"><span></span>Aspect social</h4>
   <div>
 <p>La socialisation fait partie de toutes les entreprises. Que vous travaillez dans un petit magasin ou dans un breau, la plupart des métiers requièrent d'interagir avec d'autres personnes à un moment donné, que ce soit un client ou un collègue.</p>
 <p>Ces situation posent un certain nombre de difficultés pour les personnes autistes. Ces dernières travaillent souvent mieux lorsqu'elles sont seules ou avec un groupe réduit d'individus en qui elles peuvent avoir confiance.
@@ -60,7 +60,7 @@ Essayez d'aller aux événements organisés de temps en temps - vous pourriez ap
   </div>
  </section>
  <section>
-  <h4><span></span>Structure et organisation</h4>
+  <h4 class="n"><span></span>Structure et organisation</h4>
   <div>
 <p>Beaucoup de personnes autistes aiment faire les choses par eux mêmes en suivant leur
 propre routine
@@ -76,7 +76,7 @@ responsables qui pourront adapter le travail et la vitesse de travail à la mani
   </div>
  </section>
  <section>
-  <h4><span></span>Environnement</h4>
+  <h4 class="n"><span></span>Environnement</h4>
   <div>
 <p>
 Les personnes autistes ne peuvent travailler que dans un environnement satisfaisant.
@@ -89,7 +89,7 @@ la direction. Demandez la possibilité de travailler dans un environnement diff�
   </div>
  </section>
  <section>
-  <h4><span></span>Management</h4>
+  <h4 class="n"><span></span>Management</h4>
   <div>
 <p>Les personnes autistes peuvent avoir des difficultés pour suivre des instructions
 vagues
@@ -104,7 +104,7 @@ demander d'être plus clair, pourquoi ne pas demander à un collègue de vous ex
   </div>
  </section>
  <section>
-  <h4><span></span>Nos points forts</h4>
+  <h4 class="n"><span></span>Nos points forts</h4>
   <div>
 <p>Ci-dessus,
 nous avons établi une liste non exhaustive de préoccupations et de problèmes potentiels

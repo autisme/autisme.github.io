@@ -42,7 +42,7 @@ votre activité plus attractive pour les personnes autistes (autism friendly).
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Communication</h4>
+  <h4 class="n"><span></span>Communication</h4>
   <div>
 <p>Les personnes autistes ont souvent de grandes difficultés de communication.
 Il y a ceux qui ont un langage exceptionnel au point de paraître brutal et ceux avec très peu de compétences dans le langage.
@@ -58,7 +58,7 @@ Un langage clair est souvent plus facile à comprendre.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Traitement sensoriel</h4>
+  <h4 class="n"><span></span>Traitement sensoriel</h4>
   <div>
 <p>Les personnes autistes ont des difficultés à traiter l'environnement sensoriel. Cela signifie que leur sens sont sur ou sous stimulés.</p>
 
@@ -88,7 +88,7 @@ augmenter le niveau de stress et d'anxiété.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Auto-stimulation</h4>
+  <h4 class="n"><span></span>Auto-stimulation</h4>
   <div>
 <p>L'auto-stimulation ou «&nbsp;stimming&nbsp;» désigne des actions répétitives comme le fait
 de se balancer. Quand nous devenons anxieux, nous faisons tous des choses comme
@@ -103,7 +103,7 @@ La plus grande détresse dans ces situations est la réaction des gens qui ne co
   </div>
  </section>
  <section>
-  <h4><span></span>Organisation</h4>
+  <h4 class="n"><span></span>Organisation</h4>
   <div>
 <p>Les personnes autistes trouvent souvent difficile d'organiser les rendez-vous et de ne pas les oublier.
 Cela est particulièrement embêtant lorsque vous fixez un rendez-vous longtemps en avance.
@@ -111,7 +111,7 @@ L'utilisation de rappels visuels peut être un bon outil pour tous les patients,
   </div>
  </section>
  <section>
-  <h4><span></span>Collecte de renseignements</h4>
+  <h4 class="n"><span></span>Collecte de renseignements</h4>
   <div>
 <p>Comme les enfants assistent à l'examen clinique avec leurs parents, ces derniers
 peuvent vous fournir les informations que vous devez
@@ -134,7 +134,7 @@ Vous pouvez faire beaucoup de choses pour rendre la vie des personnes autistes e
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Faciliter la communication avec les patients</h4>
+  <h4 class="n"><span></span>Faciliter la communication avec les patients</h4>
   <div>
 <p>Il existe pleins d'applications permettant la communication à l'aide d'images. Cela peut valoir la peine d'investir dans ceux possédant le
 vocabulaire requis en médecine comme les mots liés à la douleur, les parties du corps
@@ -147,7 +147,7 @@ Gardez à l'esprit que la personne autiste peut avoir du mal avec le contact vis
   </div>
  </section>
  <section>
-  <h4><span></span>Rendre les lieux «&nbsp;autism friendly&nbsp;»</h4>
+  <h4 class="n"><span></span>Rendre les lieux «&nbsp;autism friendly&nbsp;»</h4>
   <div>
 <p>Avez-vous une télévision ou une radio dans votre salle d'attente. Le volume peut être réduit au minimum si nécessaire.
 Les sonneries de téléphone peuvent aussi être réduites.
@@ -156,7 +156,7 @@ Si une lumière forte est nécessaire, prévenez le patient en avance et allumez
   </div>
  </section>
  <section>
-  <h4><span></span>Fournir une «&nbsp;social story&nbsp;» sur votre site web</h4>
+  <h4 class="n"><span></span>Fournir une «&nbsp;social story&nbsp;» sur votre site web</h4>
   <div>
 <p>Une «&nbsp;social story&nbsp;» peut être un outil utile pour se préparer avant de venir dans votre cabinet.
 Une visite virtuelle et une gallerie de photo du personnel peuvent également permettre 
@@ -164,20 +164,20 @@ Une visite virtuelle et une gallerie de photo du personnel peuvent également pe
   </div>
  </section>
  <section>
-  <h4><span></span>Impliquer les parents</h4>
+  <h4 class="n"><span></span>Impliquer les parents</h4>
   <div>
 <p>Les parents d'un enfant autiste sont souvent les experts quand il s'agit de connaître leur enfant.
 Écoutez ce qu'ils ont à vous dire et acceptez les conseils qu'ils peuvent vous donner.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Former le personnel</h4>
+  <h4 class="n"><span></span>Former le personnel</h4>
   <div>
 <p>Il n'y a pas de meilleur moyen que de former le personnel à travailler avec des patients autistes afin d'éviter la plupart des problèmes qui pourraient survenir.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Être une source d'informations fiable</h4>
+  <h4 class="n"><span></span>Être une source d'informations fiable</h4>
   <div>
 <p>Beaucoup de parents et de personnes autistes requièrent de l'aide provenant d'autres professionnels de santé.
 Les contraintes de temps et les faibles capacités d'organisation font que les personnes autistes ont du mal à contacter ces derniers.
@@ -185,7 +185,7 @@ Ayez une liste de professionnels de différentes spécialités afin de diriger v
   </div>
  </section>
  <section>
-  <h4><span></span>Être un centre de sensibilisation</h4>
+  <h4 class="n"><span></span>Être un centre de sensibilisation</h4>
   <div>
 <p>Les familles se sont souvent senties isolées.
 Cela est dû au manque de sensibilisation du grand public qui amène les personnes à regarder les comportements bizarres de leur enfant ou le manque de compréhension de leurs besoins.</p>
@@ -194,7 +194,7 @@ Cela est dû au manque de sensibilisation du grand public qui amène les personn
   </div>
  </section>
  <section>
-  <h4><span></span>Rencontrer les associations</h4>
+  <h4 class="n"><span></span>Rencontrer les associations</h4>
   <div>
 <p>Il n'y a pas deux cabinets identiques et personne d'autre que les familles des personnes autistes
 ne peut vous dire quels sont les problèmes d'accessibilités rencontrés.</p>

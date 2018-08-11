@@ -32,7 +32,7 @@ Nous vous donnons des conseils pour limiter ces difficultés, ce qui est à la f
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Entretien d'embauche</h4>
+  <h4 class="n"><span></span>Entretien d'embauche</h4>
   <div>
 <p>Beaucoup de personnes autistes trouvent les entretiens d'embauche extrêmement difficiles. Du fait de leur handicap, la communication et la socialisation est un réel défi pour ces personnes. Venir à un entretien pendant lequel $
 poser des questions sur votre parcours, va examiner vos gestes et votre façon de répondre est une épreuve souvent insurmontable.
@@ -47,7 +47,7 @@ Enfin, assurez-vous que la personne ait bien compris ce que vous attendez d'elle
   </div>
  </section>
  <section>
-  <h4><span></span>Compréhension et communication</h4>
+  <h4 class="n"><span></span>Compréhension et communication</h4>
   <div>
 <p>Les personnes autistes ont besoin de certains aménagements pour effectuer le meilleur travail possible pour votre entreprise.
 Il est important que vous compreniez les besoins de vos employés
@@ -56,14 +56,14 @@ Prenez le temps de trouver quelles sont les barrières auquelles vos employés f
   </div>
  </section>
  <section>
-  <h4><span></span>Environnement de travail</h4>
+  <h4 class="n"><span></span>Environnement de travail</h4>
   <div>
 <p>Les personnes autistes ont des difficultés avec le traitement sensoriel. Les pièces remplies de monde ou bruyantes ou les espaces de travail remplis de distractions ne sont souvent pas adaptés.
 Essayez de fournir un lieu calme et sans distractions afin que vos employés puissent se concentrer sur leur travail sans avoir à supporter les stimulations de l'environnement.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Management</h4>
+  <h4 class="n"><span></span>Management</h4>
   <div>
 <p>Les personnes autistes ont besoin d'instructions directes, claires et faciles à comprendre. Les instructions vagues et complexes sont difficiles à suivre.
 Écrivez une liste d'instructions plutôt que de longues instructions verbales. Comme les personnes autistes ont également du mal à construire des relations et à aller vers leurs collègues,
@@ -71,7 +71,7 @@ affectez une personne auprès de qui la personne autiste pourra reporter les pro
   </div>
  </section>
  <section>
-  <h4><span></span>Socialisation</h4>
+  <h4 class="n"><span></span>Socialisation</h4>
   <div>
 <p>Les personnes autistes trouvent que la socialisation est un aspect difficile des journées au travail.
 Donnez leur l'espace pour se concentrer sur leur travail et assurez-vous que les autres employés soient informés des besoins et des difficultés rencontrées par les personnes autistes.
@@ -79,7 +79,7 @@ Faites un effort pour inclure les personnes autistes aux événements sociaux si
   </div>
  </section>
  <section>
-  <h4><span></span>Restez attentifs</h4>
+  <h4 class="n"><span></span>Restez attentifs</h4>
   <div>
 <p>Les personnes autistes ont souvent des problèmes d'anxiété et peuvent parfois être préoccupés par certaines choses ou peuvent rencontrer de nouvelles difficultés dans certaines situations.
 Assurez-vous de vérifier régulièrement quels sont les problèmes de vos employés et trouvez des solutions le plus tôt possible.
@@ -87,7 +87,7 @@ Des employés stressés ou angoissés ne fournissent pas un bon travail. Le stre
   </div>
  </section>
  <section>
-  <h4><span></span>Soyez le plus inclusif possible</h4>
+  <h4 class="n"><span></span>Soyez le plus inclusif possible</h4>
   <div>
 <p>Parmi les éléments que nous avons listés précédemment, beaucoup sont bénéfiques non seulement pour les personnes autistes mais aussi pour celles qui ne le sont pas.
 Assurez-vous de l'équilibre entre faire des adaptations et devenir trop paternel.

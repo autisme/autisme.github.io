@@ -23,7 +23,7 @@ Ci-dessous, vous trouverez des informations et des conseils pour trouver un trav
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Soyez honnêtes avec vous-mêmes</h4>
+  <h4 class="n"><span></span>Soyez honnêtes avec vous-mêmes</h4>
   <div>
 <p>Trouver un travail se fait uniquement en fonction de vous et de vos besoin. Vous devez trouver un emploi dans lequel vous serez à la fois productif mais aussi heureux.
 Lorsque vous commencez votre recherche d'emploi, il est important d'être honnête avec vos forces, vos compétences et vos limites.
@@ -36,7 +36,7 @@ Cela signifie qu'il y a des postes qui conviendront parfaitement à certaines pe
   </div>
  </section>
  <section>
-  <h4><span></span>Comment sais-je ce que je veux faire&nbsp;?</h4>
+  <h4 class="n"><span></span>Comment sais-je ce que je veux faire&nbsp;?</h4>
   <div>
 <p>Chaque années, de nouveaux métiers sont crées. Il y a des carrières aujourd'hui qui n'existaient pas il y a 5 ou 10 ans.
 La quantité de choix peut être impressionnante, particulièrement si vous venez juste de finir votre scolarité et commencez votre première recherche d'emploi.</p>

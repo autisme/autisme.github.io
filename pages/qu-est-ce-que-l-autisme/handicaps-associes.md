@@ -34,7 +34,7 @@ Ci-dessous, une brève introduction à ces handicaps. Des associations dédiés 
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Dyslexie, Dyspraxie, Troubles du Déficit de l'Attention / Hyperactivité (TDAH)</h4>
+  <h4 class="n"><span></span>Dyslexie, Dyspraxie, Troubles du Déficit de l'Attention / Hyperactivité (TDAH)</h4>
   <div>
 <p>Il y a beaucoup de personnes autistes qui ont d'autres handicaps de développement
 comme la dyslexie, la dyspraxie, ou les troubles de l'attention avec ou sans hyperactivité.
@@ -60,7 +60,7 @@ C'est une affection neurologique qui commence dans l'enfance et qui peut affecte
   </div>
  </section>
  <section>
-  <h4><span></span>Épilepsie</h4>
+  <h4 class="n"><span></span>Épilepsie</h4>
   <div>
 <p>Le mot épilepsie est dérivé d'un mot grec signifiant «&nbsp;action de saisir, de mettre la main sur quelque chose, attaque, interception, arrêt soudain&nbsp;».
 Avoir de l'épilepsie est avoir des crises récurrentes. N'importe qui peut avoir des crises, si le cerveau est exposé à un stimuli neuronal trop fort.
@@ -71,7 +71,7 @@ Il y aurait 500 000 personnes épileptiques en France.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Déficience intellectuelle</h4>
+  <h4 class="n"><span></span>Déficience intellectuelle</h4>
   <div>
 <p>Entre 30 et 40&nbsp;% des personnes autistes ont également une déficience intellectuelle.
 Il est important que les besoins de ces personnes soient satisfaits pour leur permettre d'atteindre leur plein potentiel.

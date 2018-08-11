@@ -28,7 +28,7 @@ Nous allons essayer d'être le plus clair possible sur cette page.
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Qu'est-ce que le Syndrome d'Asperger&nbsp;?</h4>
+  <h4 class="n"><span></span>Qu'est-ce que le Syndrome d'Asperger&nbsp;?</h4>
   <div>
 <p>Le Syndrome d'Asperger est un type ou un profil sur le spectre de l'autisme.
 En d'autre mots, les personnes Aspergers sont des personnes autistes qui se situent dans un endroit particulier du spectre.
@@ -53,7 +53,7 @@ autres personnes n'ont pas identifié le fait que la personne est affectée par 
   </div>
  </section>
  <section>
-  <h4><span></span>Quelle est la différence entre «&nbsp;Autisme de haut niveau&nbsp;» et «&nbsp;Syndrome d'Asperger&nbsp;»&nbsp;?</h4>
+  <h4 class="n"><span></span>Quelle est la différence entre «&nbsp;Autisme de haut niveau&nbsp;» et «&nbsp;Syndrome d'Asperger&nbsp;»&nbsp;?</h4>
   <div>
 <p>C'est ici que les choses commencent à être confuses&nbsp;!
 À cause de la grande diversité du spectre autistique, au fil des années, différents mots ont été utilisés pour créer des catégories et regrouper les personnes vivant des expériences similaires..
@@ -71,7 +71,7 @@ les enfants avec un Syndrome d'Asperger et un autisme de haut niveau ont les mê
   </div>
  </section>
  <section>
-  <h4><span></span>Est-ce que le Syndrome d'Asperger est un diagnostic qui a été supprimé&nbsp;?</h4>
+  <h4 class="n"><span></span>Est-ce que le Syndrome d'Asperger est un diagnostic qui a été supprimé&nbsp;?</h4>
   <div>
 <La réponse à cette question est liée à la question précédente.
 Le manuel de diagnostic le plus fréquemment utilisé est le DSM (Diagnostic Statistical Manual of Mental Disorders), écrit par une association américaine de psychiatrie
@@ -87,7 +87,7 @@ rentrent plus dans les nouveaux critères.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Informations importantes</h4>
+  <h4 class="n"><span></span>Informations importantes</h4>
   <div>
 <ol>
 <li>Il est important de noter que le DSM n'est pas le seul manuel de diagnostic. La CIM (Classification Internationale des Maladies) est maintenue par l'Organisation Mondiale de la Santé et la onzième édition, sortie

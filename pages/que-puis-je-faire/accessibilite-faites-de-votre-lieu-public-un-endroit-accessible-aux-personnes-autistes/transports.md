@@ -51,7 +51,7 @@ Les personnes autistes représentent environ 1 client sur 100.
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Traitement sensoriel</h4>
+  <h4 class="n"><span></span>Traitement sensoriel</h4>
   <div>
 
 <amp-img class="left" width="200" height="133" src="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/ID-1005839.jpg" alt="ID-1005839.jpg"></amp-img>
@@ -87,7 +87,7 @@ Cela peut être très stressant d'être trop proche des autres gens.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Communication</h4>
+  <h4 class="n"><span></span>Communication</h4>
   <div>
 <p>Les personnes autistes ont souvent de grandes difficultés de communication.
 Il y a ceux qui ont un langage exceptionnel au point de paraître brutal et ceux avec très peu de compétences dans le langage.
@@ -104,14 +104,14 @@ Un langage clair est souvent plus facile à comprendre.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Organisation</h4>
+  <h4 class="n"><span></span>Organisation</h4>
   <div>
 <p>Les personnes autistes ont souvent des problèmes d'organisation.
 Garder un ticket, arriver à l'heure à la gare/station/arrêt peut être difficile.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Routine</h4>
+  <h4 class="n"><span></span>Routine</h4>
   <div>
 <p>Pour certaines personnes autistes qui sont très anxieuses, la routine est importante pour limiter le stress et pour savoir ce qu'il va se passer ensuite.
 En fait, certaines personnes sont très rigides avec les horaires et les habitudes afin de garantir une stabilité de jour en jour.
@@ -120,7 +120,7 @@ Un train ou un bus en retard, une route fermée peuvent générer beaucoup de st
   </div>
  </section>
  <section>
-  <h4><span></span>Anxiété</h4>
+  <h4 class="n"><span></span>Anxiété</h4>
   <div>
 <amp-img class="left" width="200" height="133" src="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/ID-100262514.jpg" alt="ID-100262514"></amp-img>
 
@@ -131,7 +131,7 @@ Cela profitera à la fois aux personnes autistes et au personnel.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Auto-stimulation</h4>
+  <h4 class="n"><span></span>Auto-stimulation</h4>
   <div>
 <p>L'auto-stimulation ou «&nbsp;stimming&nbsp;» désigne des actions répétitives comme le fait
 de se balancer. Quand nous devenons anxieux, nous faisons tous des choses comme
@@ -161,20 +161,20 @@ Les personnes autistes représentent une part non négligeable de votre clientè
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Former le personnel</h4>
+  <h4 class="n"><span></span>Former le personnel</h4>
   <div>
 <p>Il est essentiel que le personnel comprenne ce handicap et soit capables d'identifier les sources de stress et de difficultés pour les personne autistes.
 Parce que l'autisme est un «&nbsp;handicap invisible&nbsp;», les personnes affectées peuvent être vues comme des clients difficiles.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Fournir une zone d'attente</h4>
+  <h4 class="n"><span></span>Fournir une zone d'attente</h4>
   <div>
 <p>Vous pouvez fournir une zone d'attente spécifique pour les personnes autistes, afin qu'elles puissent attendre dans le calme avant d'embarquer pour leur voyage.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Fournir des aides visuelles</h4>
+  <h4 class="n"><span></span>Fournir des aides visuelles</h4>
   <div>
 <p>Une bonne façon pour les personnes autistes à quelque chose de nouveau est d'utiliser des aides visuelles.
 Les personnes autistes peuvent savoir à quoi s'attendre en arrivant&nbsp;:</p>
@@ -188,7 +188,7 @@ Les personnes autistes peuvent savoir à quoi s'attendre en arrivant&nbsp;:</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Des instructions et des horaires faciles à comprendre</h4>
+  <h4 class="n"><span></span>Des instructions et des horaires faciles à comprendre</h4>
   <div>
 <p>Comme mentionné précédemment, les personnes autistes traitent l'information différemment.
 Souvent un langage clair, facile à comprendre ou des instructions visuelles sont plus faciles à comprendre.</p>
@@ -197,7 +197,7 @@ Souvent un langage clair, facile à comprendre ou des instructions visuelles son
   </div>
  </section>
  <section>
-  <h4><span></span>Fournir des aides sensorielles</h4>
+  <h4 class="n"><span></span>Fournir des aides sensorielles</h4>
   <div>
 <p>L'environnement sensoriel est quelque chose de difficile pour la plupart des personnes autistes et il n'est pas toujours facile pour vous de trouver des adaptations.
 Cependant, vous pouvez par  exemple fournir une heure calme dans la semaine&nbsp;?
@@ -205,7 +205,7 @@ Pouvez-vous autoriser les personnes autistes de visiter avant d'utiliser vos ser
   </div>
  </section>
  <section>
-  <h4><span></span>Informer des changements</h4>
+  <h4 class="n"><span></span>Informer des changements</h4>
   <div>
 <amp-img class="left" width="200" height="133" src="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/ID-10019322.jpg" alt="ID-10019322.jpg"></amp-img>
 
@@ -217,7 +217,7 @@ Cela peut être plus facile si elles ont du temps pour s'y préparer.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Rencontrer les associations</h4>
+  <h4 class="n"><span></span>Rencontrer les associations</h4>
   <div>
 <p>Il n'y a pas deux services de transports identiques et personne d'autre que les familles des personnes autistes
 ne peut vous dire quels sont les problèmes d'accessibilités rencontrés.
@@ -225,7 +225,7 @@ ne peut vous dire quels sont les problèmes d'accessibilités rencontrés.
   </div>
  </section>
  <section>
-  <h4><span></span>Sensibiliser le grand public</h4>
+  <h4 class="n"><span></span>Sensibiliser le grand public</h4>
   <div>
 <p>Les personnes autistes sont souvent affectées par les autres clients. Quand ces derniers ne comprennent pas l'autisme, ils peuvent faire des remarques désobligeants et des comportements peut serviables s'ensuivent.
 Quand ils le comprennent, les comportements plus respectueux deviennent la norme.</p>

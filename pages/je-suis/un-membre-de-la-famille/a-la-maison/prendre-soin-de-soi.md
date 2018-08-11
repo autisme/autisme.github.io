@@ -38,7 +38,7 @@ Voici quelques conseils&nbsp;:
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Prenez du temps pour vous</h4>
+  <h4 class="n"><span></span>Prenez du temps pour vous</h4>
   <div>
 <p>Personne ne peut s'occuper de quelqu'un 24 heures sur 24, 7 jours sur 7 et 365 jours par an.
 Vous devez organiser dans votre emploi du temps un peu de temps pour vous-même, que ce soit des pauses régulières pour le café ou bien pour rencontrer des amis ou encore partir en week-end.
@@ -48,7 +48,7 @@ Bien que cela soit facile à dire, c'est bien plus difficile à faire.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Ne vous jugez pas et ne laissez pas les autres vous juger</h4>
+  <h4 class="n"><span></span>Ne vous jugez pas et ne laissez pas les autres vous juger</h4>
   <div>
 <p>
 Les parents et les autres membres de la famille des personnes autistes
@@ -68,7 +68,7 @@ Ne laissez pas les autres vous juger de l'extérieur.
   </div>
  </section>
  <section>
-  <h4><span></span>Cherchez de l'aide</h4>
+  <h4 class="n"><span></span>Cherchez de l'aide</h4>
   <div>
 <p>
 Les nuits blanches, un niveau de stress élevé

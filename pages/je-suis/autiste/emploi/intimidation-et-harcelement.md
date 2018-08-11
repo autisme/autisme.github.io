@@ -41,19 +41,19 @@ Il est aussi important de se rappeler que le harcèlement peut être direct ou i
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Parler à quelqu’un</h4>
+  <h4 class="n"><span></span>Parler à quelqu’un</h4>
   <div>
 <p>Si vous pensez que vous êtes harcelé au travail, parlez-en à quelqu’un en qui vous avez confiance. Cette personne peut être un membre de votre famille, un ami, un collègue ou votre employeur par exemple. Il est difficile pour n’importe quelle personne harcelée de s’exprimer, mais cela aide beaucoup à long terme.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Rassembler des preuves</h4>
+  <h4 class="n"><span></span>Rassembler des preuves</h4>
   <div>
 <p>Votre employeur saura plus facilement comment vous aider si vous lui donnez des exemples concrets de harcèlement que vous subissez. Assurez vous de vous souvenir de la date, de l’heure, de ce qui a été fait ou dit et par qui. Précisez aussi si quelqu’un d’autre était présent, et ce que vous avez ressenti.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Savoir ce qu'il est possible de faire</h4>
+  <h4 class="n"><span></span>Savoir ce qu'il est possible de faire</h4>
   <div>
 <p>Avant d’entreprendre quoi que ce soit, il est bon de connaître toutes les options que vous avez et d’élaborer un plan. Il y a beaucoup de groupes de soutien disponibles dont vous pouvez profiter. Ceux-ci sont listés en bas de cette page. Ces organisations offrent des conseils sur les options qui vous sont disponibles et sur les étapes que vous pouvez faire.</p>
 <p>S’il y a une procédure de plainte au travail, renseignez vous sur son fonctionnement et utilisez-la.</p>

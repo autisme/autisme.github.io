@@ -32,7 +32,7 @@ Quelques conseils pour conduire des entretiens d’embauche “autism-friendly�
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Eliminer les imprévus</h4>
+  <h4 class="n"><span></span>Eliminer les imprévus</h4>
   <div>
 L’inconnu est une source majeure d’anxiété pour les personnes autistes.
 
@@ -46,7 +46,7 @@ L’inconnu est une source majeure d’anxiété pour les personnes autistes.
   </div>
  </section>
  <section>
-  <h4><span></span>Utiliser une communication claire et concise</h4>
+  <h4 class="n"><span></span>Utiliser une communication claire et concise</h4>
   <div>
 <p>Les personnes autistes sont connues pour être directes et honnêtes dans leurs réponses. Il est important de se souvenir que ce n’est pas parce qu’elles ignorent ou ne comprennent pas l’empathy. Les personnes autistes pensent de façon littérale et cela se ressent lorsqu’elles interagissent avec d’autres gens. Elles peuvent avoir du mal à comprendre les termes vagues, les généralisations et le sarcasme.</p>
 
@@ -55,7 +55,7 @@ L’inconnu est une source majeure d’anxiété pour les personnes autistes.
   </div>
  </section>
  <section>
-  <h4><span></span>Ne pas accorder trop d'importance au langage non verbal et au ton de la voix</h4>
+  <h4 class="n"><span></span>Ne pas accorder trop d'importance au langage non verbal et au ton de la voix</h4>
   <div>
 <p>Les difficultés d’imagination sociale et de considération du contexte peuvent compliquer comment une personne autiste lit le comportement d’une autre personne. Un entretien d’embauche est un processus sérieux et cela se ressent dans leur humeur et l’état d’esprit de la plupart des gens qui y participent. Les normes sociales les plus simples ne sont pas toujours suivies par les personnes autistes.</p>
 
@@ -65,7 +65,7 @@ L’inconnu est une source majeure d’anxiété pour les personnes autistes.
   </div>
  </section>
  <section>
-  <h4><span></span>Faire attention à l’environnement sensoriel</h4>
+  <h4 class="n"><span></span>Faire attention à l’environnement sensoriel</h4>
   <div>
 <p>Un entretien peut générer beaucoup de surcharge sensorielle pour les personnes autistes. Une personne peut avoir mis un après-rasage très parfumé, l’éclairage peut être très fort ou quelqu’un peut tapoter sans cesse ses doigts sur la table pendant qu’il pose des questions.</p>
 

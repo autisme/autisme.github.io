@@ -20,7 +20,7 @@ translated:
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Qu'est-ce que l'autisme&nbsp;?</h4>
+  <h4 class="n"><span></span>Qu'est-ce que l'autisme&nbsp;?</h4>
   <div>
    <p>L'autisme est un handicap neurologique du développement, présent des la naissance et qui génère des difficultés de communication, de relation avec les autres, de compréhension des concepts abstraits et de traitement sensoriel.
 L'autisme est un spectre ce qui signifie que chaque personne autiste a des difficultés et des besoins différents. </p>
@@ -29,7 +29,7 @@ Cela signifie que beaucoup de personnes autistes ne reçoivent pas les aides et 
   </div>
  </section>
  <section>
-  <h4><span></span>Comment l'autisme est-il diagnostiqué&nbsp;? Comment puis-je obtenir une évaluation&nbsp;?</h4>
+  <h4 class="n"><span></span>Comment l'autisme est-il diagnostiqué&nbsp;? Comment puis-je obtenir une évaluation&nbsp;?</h4>
   <div>
 <p>L'autisme est généralement diagnostiqué au début de l'enfance, autour de deux ou trois ans, lorsque les signes comme les retards de développement commencent à apparaître.</p>
 
@@ -38,13 +38,13 @@ au sein des Centres de Ressources pour l'Autisme (CRA). Les délais d'attente pe
   </div>
  </section>
  <section>
-  <h4><span></span>L'autisme est-il un handicap mental&nbsp;?</h4>
+  <h4 class="n"><span></span>L'autisme est-il un handicap mental&nbsp;?</h4>
   <div>
 <p>Non. Un handicap mental est clairement défini par une altération des capacités à raisonner. Une personne autiste peut cependant être diagnostiquée avec une déficience intellectuelle, en plus de son autisme.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Quelle est la différence entre «&nbsp;autiste&nbsp;» et «&nbsp;avec autisme&nbsp;»&nbsp;?</h4>
+  <h4 class="n"><span></span>Quelle est la différence entre «&nbsp;autiste&nbsp;» et «&nbsp;avec autisme&nbsp;»&nbsp;?</h4>
   <div>
 <p>«&nbsp;Autisme&nbsp;» est un nom commun. Il s'agit du nom désignant le spectre de l'autisme dans son ensemble.</p>
 <p>«&nbsp;Autistie&nbsp;» est un adjectif utilisé pour qualifier les comportements et les traits liés à l'autisme comme le traitement sensoriel ou l'auto stimulation. C'est également un mot utilisé par les personnes concernées pour s'identifier.</p>
@@ -52,13 +52,13 @@ au sein des Centres de Ressources pour l'Autisme (CRA). Les délais d'attente pe
   </div>
  </section>
  <section>
-  <h4><span></span>Quelles sont les personnes habituellement diagnostiquées&nbsp;?</h4>
+  <h4 class="n"><span></span>Quelles sont les personnes habituellement diagnostiquées&nbsp;?</h4>
   <div>
    <p>Tout le monde peut être né autiste. Ce n'est pas un handicap qui affecte plus spécifiquement une partie de la population qu'une autre.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Pourquoi y a-t-il plus de garçons que de filles diagnostiquées&nbsp;?</h4>
+  <h4 class="n"><span></span>Pourquoi y a-t-il plus de garçons que de filles diagnostiquées&nbsp;?</h4>
   <div>
    <p>Les symptômes se présentent différents chez les filles et les femmes que chez les garçons et les hommes.  Il est vrai que statistiquement, plus d'hommes sont diagnostiqués que de femmes, mais il n'y a pas de consensus chez les experts pour expliquer ela.
 Plusieurs théories existent parmi lesquelles&nbsp;:</p>
@@ -69,14 +69,14 @@ Plusieurs théories existent parmi lesquelles&nbsp;:</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Quelles sont les causes de l'autisme&nbsp;?</h4>
+  <h4 class="n"><span></span>Quelles sont les causes de l'autisme&nbsp;?</h4>
   <div>
 <p>Personne ne le sait encore. Il n'y a pas de consensus parmi les scientifiques et les causes exactes sont en cours d'investigation. Il est toutefois suggéré que des raisons environnementales et génétiques sont des raisons qui font qu'une personne
 naît autiste.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Les vaccins sont-ils responsables de l'autisme&nbsp;?</h4>
+  <h4 class="n"><span></span>Les vaccins sont-ils responsables de l'autisme&nbsp;?</h4>
   <div>
 <p>Il a été largement prouvé que les vaccins ne déclenchent pas de l'autisme dans le cerveau des jeunes enfants. 
 Beaucoup d'études ont recherché un lien entre les vaccins et l'autisme et toutes ont conclu que cela est un mythe. Il n'y a pas de fondement scientifique sur le fait que les vaccins seraient responsables de l'autisme.</p>

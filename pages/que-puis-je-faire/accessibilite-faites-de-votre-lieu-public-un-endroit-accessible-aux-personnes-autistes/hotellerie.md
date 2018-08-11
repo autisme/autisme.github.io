@@ -57,7 +57,7 @@ Ne paniquez pas, en apprenant quelques éléments sur l'autisme, vous pourrez fa
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Préparation et planification</h4>
+  <h4 class="n"><span></span>Préparation et planification</h4>
   <div>
 <p>Quand une personne autiste voyage, seule ou avec sa famille, c'est souvent une source de stress.
 Le voyage casse la routine et la routine est quelque chose de très important pour les personnes autistes.
@@ -68,7 +68,7 @@ Il pourrait également être très utile d'avoir la liste de ce qui est fourni d
   </div>
  </section>
  <section>
-  <h4><span></span>Communication</h4>
+  <h4 class="n"><span></span>Communication</h4>
   <div>
 <p>Les problèmes de communications auxquels les personnes autistes font face sont divers et variés.
 Certaines personnes sont non-verbales. Cela leur rend la vie difficile pour parler au personnel.
@@ -104,7 +104,7 @@ Ne les stressez pas car les capacités de communication peuvent radicalement dim
   </div>
  </section>
  <section>
-  <h4><span></span>Traitement sensoriel</h4>
+  <h4 class="n"><span></span>Traitement sensoriel</h4>
   <div>
 <p>Les hôtels peuvent être des environnements difficiles sur le plan sensoriel.
 Beaucoup de personnes autistes ont du mal avec l'intégration sensorielle, ce qui signifie que leur sens sont à certains moments sous ou sur stimulés.
@@ -114,14 +114,14 @@ Certaines textures peuvent être également difficiles à supporter pour certain
   </div>
  </section>
  <section>
-  <h4><span></span>Organisation</h4>
+  <h4 class="n"><span></span>Organisation</h4>
   <div>
 <p>Les personnes autistes peuvent avoir également des difficultés d'organisation, particulièrement lorsqu'elles sont anxieuses. Les personnes autistes peuvent avoir du mal à
 se souvenir d'apporter toutes les affaires nécessaires pendant leur séjour.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Voyage</h4>
+  <h4 class="n"><span></span>Voyage</h4>
   <div>
 <amp-img class="left" width="200" height="133" src="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/ID-1005839.jpg" alt="ID-1005839"></amp-img>
 
@@ -133,7 +133,7 @@ De la même façon quand quelqu'un part de l'hôtel, le stress fait qu'il peut a
   </div>
  </section>
  <section>
-  <h4><span></span>Routine</h4>
+  <h4 class="n"><span></span>Routine</h4>
   <div>
 <p>Pour une personne autiste, sortir de la routine peut être une source de stress.
 Par conséquent, partir en voyage peut être très difficile.
@@ -141,7 +141,7 @@ Les hôtels peuvent participer à cela, par exemple l'annulation d'une réunion 
   </div>
  </section>
  <section>
-  <h4><span></span>Anxiété</h4>
+  <h4 class="n"><span></span>Anxiété</h4>
   <div>
 <p>L'anxiété peut surgir quand les choses ne sont pas claires ou qu'une situation inattendue se produit.
 Plus une personne est anxieuse, plus il est difficile d'apprécier son séjour.
@@ -149,7 +149,7 @@ C'est pourquoi  il est crucial d'avoir une communication claire et de faire des 
   </div>
  </section>
  <section>
-  <h4><span></span>Comportement</h4>
+  <h4 class="n"><span></span>Comportement</h4>
   <div>
 <p>Certains fois, les personnes autistes peuvent avoir un mauvais comportement. Ce n'est pas être un client difficile mais plutôt la
 conséquence d'être incapable de communiquer une frustration ou l'impossibilité de supporter l'environnement.
@@ -158,7 +158,7 @@ quelle mesure vous pouvez aider.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Familles</h4>
+  <h4 class="n"><span></span>Familles</h4>
   <div>
 <p>Beaucoup de familles affectées pas l'autisme ne prennent pas le temps qu'ils méritent.
 Souvent parce qu'elles sont conscientes des difficultés de leur enfant et ont peur que les autres personnes les jugent.
@@ -180,7 +180,7 @@ Les personnes autistes représentent une part non négligeable de votre clientè
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Fournir des photos de votre hôtel</h4>
+  <h4 class="n"><span></span>Fournir des photos de votre hôtel</h4>
   <div>
 <p>Prenez des photos qui peuvent être téléchargées en ligne, de sorte que les clients autistes puis préparer leur venue.
 Vous pouvez également inclure sur votre site web une visite à 360°.</p>
@@ -190,7 +190,7 @@ Cela aidera les personnes autistes et leur famille à préparer leur venue.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Demander les besoins des personnes</h4>
+  <h4 class="n"><span></span>Demander les besoins des personnes</h4>
   <div>
 <amp-img class="right" width="200" height="200" src="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/ID-100258870.jpg" alt="ID-100258870"></amp-img>
 
@@ -203,13 +203,13 @@ Vous pourrez ainsi résoudre les problèmes avant le voyage.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Mettre à disposition un lieu calme («&nbsp;sensory friendly&nbsp;»)</h4>
+  <h4 class="n"><span></span>Mettre à disposition un lieu calme («&nbsp;sensory friendly&nbsp;»)</h4>
   <div>
 <p>Vous pouvez mettre à disposition un espace plus calme afin que les personnes qui ne supportent pas le bruit, les odeurs etc puissent se ressourcer.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Rencontrer les associations</h4>
+  <h4 class="n"><span></span>Rencontrer les associations</h4>
   <div>
 <p>Il n'y a pas deux hôtels identiques et personne d'autre que les familles des personnes autistes
 ne peut vous dire quels sont les problèmes d'accessibilités rencontrés.

@@ -45,7 +45,7 @@ Voici quelques conseils utiles qui peuvent vous aider à dépasser l'anxiété e
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>N'essayez pas d'être quelqu'un que vous n'êtes pas</h4>
+  <h4 class="n"><span></span>N'essayez pas d'être quelqu'un que vous n'êtes pas</h4>
   <div>
 <p>Lorsque nous nous sentons vraiment différent
 ou seuls et que nous voulons vraiment être aimé et accepté, il est très
@@ -63,7 +63,7 @@ S'ils ne vous plaisent pas pour ce que vous êtes, oubliez-les&nbsp;!</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Soyez impliqué dans les associations et les organismes</h4>
+  <h4 class="n"><span></span>Soyez impliqué dans les associations et les organismes</h4>
   <div>
 <p>Si vous trouvez que socialiser dans un endroit non structuré est difficile, pourquoi ne vous
 impliquez-vous pas dans un club ou une association&nbsp;?
@@ -72,7 +72,7 @@ Cela peut être plus facile pour démarrer une conversation et briser la glace.<
   </div>
  </section>
  <section>
-  <h4><span></span>N'ayez pas peur de franchir le pas</h4>
+  <h4 class="n"><span></span>N'ayez pas peur de franchir le pas</h4>
   <div>
 <p>
 Si vous êtes invité quelque part. Cela peut être très effrayant. Vous pouvez être anxieux à propos
@@ -83,7 +83,7 @@ vous pourriez vous amuser plus que vous ne le pensez.
   </div>
  </section>
  <section>
-  <h4><span></span>Soyez discipliné dans vos compétences en communication</h4>
+  <h4 class="n"><span></span>Soyez discipliné dans vos compétences en communication</h4>
   <div>
 <p>Assurez-vous de montrer de l'intérêt pour ce que les autres personnes racontent
 et de ne pas parler uniquement de vos propres intérêts.
@@ -96,7 +96,7 @@ activités qui pourraient vous intéresser.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Soyez vigilants sur ce que vous dites</h4>
+  <h4 class="n"><span></span>Soyez vigilants sur ce que vous dites</h4>
   <div>
 <p>Lorsque vous discutez avec d'autres personnes, essayez de ne rien dire qui pourrait être considéré comme inapproprié.
 Ne posez pas de questions sur des détails très personnels.
@@ -105,7 +105,7 @@ Enfin ne soyez pas ennuyé si quelqu'un dit quelque chose de faux. Certaines per
   </div>
  </section>
  <section>
-  <h4><span></span>Comprenez les différents niveaux d'amitié</h4>
+  <h4 class="n"><span></span>Comprenez les différents niveaux d'amitié</h4>
   <div>
 <p>L'amitié est un processus progressif et vous pouvez avoir différents types d'amis.
 Par exemple, un ami que vous voyez une fois par semaine, un ami que vous ne voyez qu'à certains événements et un ami que vous connaissez très bien et que vous voyez tous les jours.
@@ -117,7 +117,7 @@ Ne vous attendez pas à devenir le meilleur ami de tout le monde et ne dérangez
   </div>
  </section>
  <section>
-  <h4><span></span>Ne paniquez pas</h4>
+  <h4 class="n"><span></span>Ne paniquez pas</h4>
   <div>
 <p>Les conseils ci-dessus sont des exemples de ce qui pourrait être utile
 à garder à l'esprit.</p>

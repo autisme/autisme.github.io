@@ -31,7 +31,7 @@ Voici quelques suggestions pour faire en sorte d'avoir une meilleure vie au trav
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Votre vie ne se résume pas qu'au travail</h4>
+  <h4 class="n"><span></span>Votre vie ne se résume pas qu'au travail</h4>
   <div>
 
 <p>Le perfectionnisme est quelque chose de courant chez les personnes autistes. Cela peut être une source de stress. Se donner des objectifs irréalistes, ne pas prendre le temps de faire des pauses ou voir le travail
@@ -42,7 +42,7 @@ et trouver des stratégies qui satisfont tout le monde.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Faites des retours à votre employeur</h4>
+  <h4 class="n"><span></span>Faites des retours à votre employeur</h4>
   <div>
 <p>Il est facile de se concentrer sur le travail et d'oublier de parler à votre employeur des difficultés que vous rencontrez. Les difficultés n'arrivent pas toutes à un instant donné.
 Les difficultés arrivent au fur et à mesure que le temps passe, au fur et à mesure que les projets avancent, que le personnel change…
@@ -52,7 +52,7 @@ leur employés qui trouvent certaines choses difficiles qui peuvent impacter leu
   </div>
  </section>
  <section>
-  <h4><span></span>Parlez à quelqu'un </h4>
+  <h4 class="n"><span></span>Parlez à quelqu'un </h4>
   <div>
 <p>Une discussion amicale avec quelqu'un de confiance peut être bon si les choses nous dépassent.
 Cette personne peut être un ami, un membre de la famille ou même un collègue de travail. Un point de vue extérieur sur la situation peut permettre d'y voir plus clair.
@@ -61,7 +61,7 @@ Selon votre lieu de travail, ce service peut être disponible au sein de votre e
   </div>
  </section>
  <section>
-  <h4><span></span>Essayez de séparer le stress du travail et le stress de la maison</h4>
+  <h4 class="n"><span></span>Essayez de séparer le stress du travail et le stress de la maison</h4>
   <div>
 <p>Les employeurs s'attendent à ce que vos problèmes personnels n'impactent pas votre performance et votre comportement au travail.
 Si vous avez passé une mauvaise journée à la maison, essayez de faire en sorte que cela n'impacte pas votre performance au travail et vice-versa.</p>

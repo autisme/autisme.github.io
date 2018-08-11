@@ -62,7 +62,7 @@ peuvent avoir un impact positif sur la qualité de vie d'une grande partie de vo
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Traitement sensoriel</h4>
+  <h4 class="n"><span></span>Traitement sensoriel</h4>
   <div>
 <p>Par leur nature, les magasins sont souvent des lieux fortement fréquentés&nbsp;! Pas seulement par la quantité de personnes mais aussi par les nombreuses choses qui s'y passent.</p>
 
@@ -100,7 +100,7 @@ En conséquences, elles peuvent être très ou très peu sensibles à certains s
   </div>
  </section>
  <section>
-  <h4><span></span>Changements</h4>
+  <h4 class="n"><span></span>Changements</h4>
   <div>
 <p>Déplacer les articles dans votre magasin, changer la disposition des rayons est important
 pour maximiser vos ventes.
@@ -113,7 +113,7 @@ Quand quelque chose est déplacé dans le magasin ou que le plan du magasin chan
   </div>
  </section>
  <section>
-  <h4><span></span>Communication</h4>
+  <h4 class="n"><span></span>Communication</h4>
   <div>
 <p>Beaucoup de personnes autistes trouvent la communication difficile et le monde du commerce est rempli de communication avec les clients.
 Les problèmes de communications auxquels les personnes autistes font face sont divers et variés.</p>
@@ -139,7 +139,7 @@ Cela peut générer du stress et de l'anxiété si la personne est mise sous pre
   </div>
  </section>
  <section>
-  <h4><span></span>Organisation</h4>
+  <h4 class="n"><span></span>Organisation</h4>
   <div>
 <p>Souvent les personnes autistes trouvent l'organisation difficile.
 Pour cette raison, il peut être difficile d'être organisé pendant le shopping, par exemple, se souvenir ce dont elles ont besoin,
@@ -148,7 +148,7 @@ Cela peut générer du stress et de l'anxiété, particulièrement lorsque quelq
   </div>
  </section>
  <section>
-  <h4><span></span>Auto-stimulation</h4>
+  <h4 class="n"><span></span>Auto-stimulation</h4>
   <div>
 <p>L'auto-stimulation ou «&nbsp;stimming&nbsp;» désigne des actions répétitives comme le fait
 de se balancer. Quand nous devenons anxieux, nous faisons tous des choses comme 
@@ -163,7 +163,7 @@ La plus grande détresse dans ces situations est la réaction des gens qui ne co
   </div>
  </section>
  <section>
-  <h4><span></span>Anxiété</h4>
+  <h4 class="n"><span></span>Anxiété</h4>
   <div>
 <amp-img class="left" width="200" height="133" src="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/ID-100246951.jpg" alt="ID-100246951"></amp-img>
 
@@ -174,7 +174,7 @@ Quand une personne sort de sa zone de confort comme sa maison pour venir dans un
   </div>
  </section>
  <section>
-  <h4><span></span>Attitude du grand public</h4>
+  <h4 class="n"><span></span>Attitude du grand public</h4>
   <div>
 <p>Comme l'autisme est un handicap «&nbsp;invisible&nbsp;», beaucoup de parents décrivent 
 comment ils sont vus comme «&nbsp;non capable d'élever leur enfant&nbsp;» par les autres clients quand leur enfant
@@ -199,7 +199,7 @@ Les personnes autistes représentent une part non négligeable de votre clientè
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Mettre à disposition un lieu calme («&nbsp;sensory friendly&nbsp;»)</h4>
+  <h4 class="n"><span></span>Mettre à disposition un lieu calme («&nbsp;sensory friendly&nbsp;»)</h4>
   <div>
 <p>Mettre à disposition un petit espace de votre centre commercial de sorte que les familles aient quelque part où aller lorsqu'une personne autiste
 se sent mal.</p>
@@ -208,14 +208,14 @@ se sent mal.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Mettre en place une heure / une demi-journée «&nbsp;sensory friendly&nbsp;»</h4>
+  <h4 class="n"><span></span>Mettre en place une heure / une demi-journée «&nbsp;sensory friendly&nbsp;»</h4>
   <div>
 <p>Vous pouvez mettre en place une heure par jour ou une demi-journée par semaine pendant laquelle  vous ne faites pas d'annonce avec les haut-parleurs, où vous ne mettez pas la musique d'ambiance.
 Le shopping sera plus confortable pour les clients autistes et leur famille.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Fournir des aides visuelles / des scénarios sur votre site web</h4>
+  <h4 class="n"><span></span>Fournir des aides visuelles / des scénarios sur votre site web</h4>
   <div>
 <p>Se préparer pour aller dans un magasin est particulièrement difficile pour les personnes autistes.
 À quoi le magasin ressemble&nbsp;? Comment sont agencés les rayons&nbsp;? Où dois-je chercher ce que je veux&nbsp;? Est-ce que tout ira bien&nbsp;?</p>
@@ -224,7 +224,7 @@ Le shopping sera plus confortable pour les clients autistes et leur famille.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Mettre en place des priorités à la caisse</h4>
+  <h4 class="n"><span></span>Mettre en place des priorités à la caisse</h4>
   <div>
 <amp-img class="left" width="200" height="133" src="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/ID-100212137.jpg" alt="ID-100212137" ></amp-img>
 
@@ -233,7 +233,7 @@ Il est possible de mettre en place des caisses prioritaires pour les personnes a
   </div>
  </section>
  <section>
-  <h4><span></span>Prévenir des changements dans le magasin</h4>
+  <h4 class="n"><span></span>Prévenir des changements dans le magasin</h4>
   <div>
 <amp-img class="left" width="200" height="133" src="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/ID-100264598.jpg" alt="ID-100264598"></amp-img>
 <pLes changements génèrent beaucoup de stress.
@@ -243,14 +243,14 @@ Expliquer quels sont les changements que vous faites peut grandement aider les p
   </div>
  </section>
  <section>
-  <h4><span></span>Prévenir quand un produit est disponible</h4>
+  <h4 class="n"><span></span>Prévenir quand un produit est disponible</h4>
   <div>
 <pLes personnes autistes veulent souvent acheter des produits très précis et  ont besoin de savoir si le produit est disponible dans votre magasin.</p>
 <p>Vous pouvez prévenir vos clients lorsqu'un produit qu'ils recherchent est arrivé.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Former votre personnel</h4>
+  <h4 class="n"><span></span>Former votre personnel</h4>
   <div>
 <p>Il n'y a pas de meilleur moyen qu'une formation
 pour apprendre à interagir avec les personnes autistes et à adapter l'environnement pour elles.</p>
@@ -260,7 +260,7 @@ clients de demander de l'aide plus facilement.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Rencontrer les associations</h4>
+  <h4 class="n"><span></span>Rencontrer les associations</h4>
   <div>
 <p>De la même façon que tous les magasins sont différents, toutes les personnes autistes sont différentes.
 Une première étape est d'identifier les adaptations que vous pouvez faire pour les personnes autistes.</p>
@@ -269,7 +269,7 @@ Une première étape est d'identifier les adaptations que vous pouvez faire pour
   </div>
  </section>
  <section>
-  <h4><span></span>Sensibiliser le grand public</h4>
+  <h4 class="n"><span></span>Sensibiliser le grand public</h4>
   <div>
 <p>Nous avons mentionné précédemment que les familles des personnes autistes sont souvent isolées.
 Cela est dû à un manque de connaissance de l'autisme par le grand public.</p>

@@ -51,7 +51,7 @@ Comprendre l'autisme et les difficultés que cela génère pour les individus pe
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Traitement sensoriel</h4>
+  <h4 class="n"><span></span>Traitement sensoriel</h4>
   <div>
 <p>Les personnes autistes peuvent avoir des sens hyper ou sous activés.
 Les bruits forts ou soudains, les odeurs fortes, les textures étranges, le toucher ou certains goûts peuvent générer beaucoup d'anxiété.
@@ -59,7 +59,7 @@ Cela peut rendre la tâche des secouristes qui essaient d'examiner un patient.</
   </div>
  </section>
  <section>
-  <h4><span></span>Changements</h4>
+  <h4 class="n"><span></span>Changements</h4>
   <div>
 <p>Beaucoup de personnes autistes trouvent le changement dans leur routine ou un changement soudain vraiment difficile à gérer.
 Par exemple, si elles sont en voiture pour se rendre dans un lieu donné et que la voiture a un accident, leur préoccupation pourrait être plus focalisée sur le fait que le planning
@@ -69,7 +69,7 @@ De même, être transporté en ambulance ou être déplacé d'un lieu à un autr
   </div>
  </section>
  <section>
-  <h4><span></span>Communication</h4>
+  <h4 class="n"><span></span>Communication</h4>
   <div>
 <p>Les personnes autistes ont des compétences très variées sur le plan de la communication.
 Certaines personnes ont un langage fluide mais leur communication peut sembler brutale ou « auto-centrée ».
@@ -81,7 +81,7 @@ D'autres ont un langage limité mais peuvent écouter et comprendre tout ce qui 
   </div>
  </section>
  <section>
-  <h4><span></span>Auto-stimulation</h4>
+  <h4 class="n"><span></span>Auto-stimulation</h4>
   <div>
 <p>L'auto-stimulation ou «&nbsp;stimming&nbsp;» désigne des actions répétitives comme le fait
 de se balancer. Quand nous devenons anxieux, nous faisons tous des choses comme
@@ -95,7 +95,7 @@ La plus grande détresse dans ces situations est la réaction des gens qui ne co
   </div>
  </section>
  <section>
-  <h4><span></span>Anxiété</h4>
+  <h4 class="n"><span></span>Anxiété</h4>
   <div>
 <p>Les situations d'urgence peuvent générer de l'anxiété pour tout le monde, mais pour les personnes autistes sont souvent en permanence dans un tel état.
 Gérer la vie quotidienne est souvent une source d'anxiété en soi.

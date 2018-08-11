@@ -33,7 +33,7 @@ En devenant sensibilisé aux difficultés de cette population et en faisant de p
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Communication</h4>
+  <h4 class="n"><span></span>Communication</h4>
   <div>
 <p>Beaucoup de personnes autistes trouvent la communication difficile et le monde du commerce est rempli de communication avec les clients.
 Les problèmes de communications auxquels les personnes autistes font face sont divers et variés.</p>
@@ -51,7 +51,7 @@ Vous pouvez leur faciliter la vie en utilisant des phrases claires et précises.
   </div>
  </section>
  <section>
-  <h4><span></span>Traitement sensoriel</h4>
+  <h4 class="n"><span></span>Traitement sensoriel</h4>
   <div>
 <p>Beaucoup de personnes autistes ont du mal avec l'intégration sensorielle, ce qui signifie que leur sens sont à certains moments sous ou sur stimulés.
 Beaucoup de personnes trouvent que les endroits avec du monde sont très bruyants, certaines ont des odeurs qu'elles ne supportent pas tandis que d'autres ont des odeurs qu'elles adorent.</p>
@@ -61,7 +61,7 @@ S'il y a une large foule de personnes qui parlent, cela peut être difficile pou
   </div>
  </section>
  <section>
-  <h4><span></span>Compétences sociales</h4>
+  <h4 class="n"><span></span>Compétences sociales</h4>
   <div>
 <p>Les restaurants et les bars sont des environnements très sociaux. Les personnes autistes ont un manque de compétences sociales ce qui pose une réelle difficulté dans un restaurant.
 Un client autiste peut être très anxieux de devoir faire la conversation ou d'interagir avec d'autres personnes.
@@ -71,7 +71,7 @@ Certaines personnes seront très distantes du fait de leur inconfort.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Choix</h4>
+  <h4 class="n"><span></span>Choix</h4>
   <div>
 <p>Les clients autistes peuvent avoir des difficultés à faire des choix, notamment pour choisir la nourriture ou la boisson qu'ils veulent commander.
 Cela est d'autant plus vrai si vous proposez un large choix ou si la personne ne peut pas visualiser/s'imaginer à quoi ressemble les différents plats.</p>
@@ -80,7 +80,7 @@ Cela est d'autant plus vrai si vous proposez un large choix ou si la personne ne
   </div>
  </section>
  <section>
-  <h4><span></span>Routine</h4>
+  <h4 class="n"><span></span>Routine</h4>
   <div>
 <amp-img class="left" width="250" height="166" src="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/ID-100262514.jpg" alt="ID-100262514"></amp-img>
 <p>La routine est très importante pour beaucoup de personnes autistes. Les changements peuvent impacter la capacité des personnes à venir dans le restaurant.
@@ -92,7 +92,7 @@ Cela peut limiter la capacité de la personne à apprécier les plats et l'envir
   </div>
  </section>
  <section>
-  <h4><span></span>Anxiété</h4>
+  <h4 class="n"><span></span>Anxiété</h4>
   <div>
 <p>Quand les choses ne sont pas claires ou qu'une situation imprévue se produit, les personnes autistes peuvent devenir très anxieuses.
 Plus une personne est anxieuse, plus il est difficile pour elle d'apprécier le moment présent.
@@ -101,7 +101,7 @@ Cela profitera à la fois aux personnes autistes et au personnel.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Comportement</h4>
+  <h4 class="n"><span></span>Comportement</h4>
   <div>
 <p>Certains fois, les personnes autistes peuvent avoir un mauvais comportement. Ce n'est pas être un client difficile mais plutôt la
 conséquence d'être incapable de communiquer une frustration ou l'impossibilité de supporter l'environnement.
@@ -110,7 +110,7 @@ quelle mesure vous pouvez aider.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Familles</h4>
+  <h4 class="n"><span></span>Familles</h4>
   <div>
 <p>Beaucoup de familles affectées par l'autisme ne prennent pas le plaisir d'une après-midi au restaurant, souvent parce qu'elles sont conscientes des difficultés de leur enfant et ont peur que les autres personnes les juge.
 Ils ne se sentiront pas à l'aise.</p>
@@ -133,7 +133,7 @@ Les personnes autistes représentent une part non négligeable de votre clientè
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Former votre personnel</h4>
+  <h4 class="n"><span></span>Former votre personnel</h4>
   <div>
 <p>Une première étape pour devenir plus «&nbsp;Autism friendly&nbsp;» est de faire en sorte que votre personnel comprenne ce handicap.
 Comme ce handicap est invisible, cela peut être particulièrement difficile d'identifier et d'aider les personnes concernées.
@@ -141,7 +141,7 @@ Le personnel peut avoir besoin d'une grande expertise dans l'autisme mais de pet
   </div>
  </section>
  <section>
-  <h4><span></span>Fournir des aides visuelles</h4>
+  <h4 class="n"><span></span>Fournir des aides visuelles</h4>
   <div>
 <amp-img class="left" width="250" height="166" src="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/ID-100207637.jpg" alt="ID-100207637"></amp-img>
 <p>Fournissez sur votre site web des images ou une visite à 360° de vos locaux, de votre parking, de la vaisselle etc
@@ -151,7 +151,7 @@ Cela peut grandement aider les personnes autistes et leur famille à préparer l
   </div>
  </section>
  <section>
-  <h4><span></span>Fournir des tables «&nbsp;Autism friendly&nbsp;»</h4>
+  <h4 class="n"><span></span>Fournir des tables «&nbsp;Autism friendly&nbsp;»</h4>
   <div>
 <p>Pour certaines familles, il y a beaucoup de barrières pour apprécier un repas au restaurant.
 Elles ne prendront simplement pas le temps de se reposer.
@@ -160,7 +160,7 @@ Vous pouvez prendre des réservations, demander les besoins des familles de sort
   </div>
  </section>
  <section>
-  <h4><span></span>Mettre à disposition un lieu calme («&nbsp;sensory friendly&nbsp;»)</h4>
+  <h4 class="n"><span></span>Mettre à disposition un lieu calme («&nbsp;sensory friendly&nbsp;»)</h4>
   <div>
 <p>Vous pouvez fournir une «&nbsp;zone calme&nbsp;»&nbsp;? Cela peut être une petite partie ou une petite pièce à l'abri du bruit et des gens.
 C'est un petit geste qui peut être très utile pour les personnes autistes et leur famille et qui peuvent être en détresse de temps à autre.
@@ -169,7 +169,7 @@ Cela est spécialement utile si vous avez par exemple de la musique qui est jou�
   </div>
  </section>
  <section>
-  <h4><span></span>Demander aux personnes quels sont leurs besoins</h4>
+  <h4 class="n"><span></span>Demander aux personnes quels sont leurs besoins</h4>
   <div>
 <p>Souvent, des petites choses génèrent beaucoup de désagrément. Par exemple des ballons peuvent faire peur s'ils explosent en faisant du bruit.
 De plus, certaines personnes autistes peuvent avoir un régime alimentaire très strict, par exemple en ne mangeant que très peu d'aliments.
@@ -180,7 +180,7 @@ Vous pourrez ainsi résoudre les problèmes en avance tout en réduisant le stre
   </div>
  </section>
  <section>
-  <h4><span></span>Informer des changements</h4>
+  <h4 class="n"><span></span>Informer des changements</h4>
   <div>
 <p>Des petits changements peuvent générer une grande détresse chez les personnes autistes.
 Cela peut être des petites choses comme une nouvelle décoration ou un changement dans le menu.
@@ -193,7 +193,7 @@ Les personnes autistes pourraient laisser leur adresse e-mail afin que vous puis
   </div>
  </section>
  <section>
-  <h4><span></span>Rencontrer les associations</h4>
+  <h4 class="n"><span></span>Rencontrer les associations</h4>
   <div>
 <p>Il n'y a pas deux restaurants identiques.
 Rencontrez les associations œuvrant dans le domaine de l'autisme pour leur demander conseil sur les adaptations que vous pouvez faire.</p>

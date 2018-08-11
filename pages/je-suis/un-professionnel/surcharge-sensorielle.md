@@ -23,7 +23,7 @@ confrontés à une telle situation.
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Qu'est-ce que c'est&nbsp;?</h4>
+  <h4 class="n"><span></span>Qu'est-ce que c'est&nbsp;?</h4>
   <div>
 <p>Les «&nbsp;crise&nbsp;» ou «&nbsp;effondrements autistiques&nbsp;»
 appelées en anglais «&nbsp;metldown&nbsp;» sont caractérisées par une perte de contrôle
@@ -37,7 +37,7 @@ la situation mais la personne n'a pas le choix, elle ne décide pas.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Comment cela survient-il&nbsp;?</h4>
+  <h4 class="n"><span></span>Comment cela survient-il&nbsp;?</h4>
   <div>
 <p>Les crises sont dues à un stress intense qui peut venir
 d'un événement comme un contrôle à préparer, un changement de routine, etc.
@@ -55,7 +55,7 @@ est trop forte et qu'il n'y a pas de moyen simple pour y échapper.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Comment reconnaître qu'une crise se prépare et comment l'éviter&nbsp;?</h4>
+  <h4 class="n"><span></span>Comment reconnaître qu'une crise se prépare et comment l'éviter&nbsp;?</h4>
   <div>
 <p>Comme dit précédemment, les crises ont pour origine un stress intense.
 Les signes qu'une crise peut survenir sont donc les mêmes que ceux du stress comme par exemple une agitation, des difficultés de concentration, des tics comme jouer avec ses cheveux ou
@@ -76,7 +76,7 @@ Même si cela n'est pas fait poliment, il est toujours préférable de partir sa
   </div>
  </section>
  <section>
-  <h4><span></span>Faire face à une crise</h4>
+  <h4 class="n"><span></span>Faire face à une crise</h4>
   <div>
 <p>Parfois, la crise ne peut pas être évitée, soit parce que nous n'avons pas repéré les signes avant-coureurs, soit parce que le stress est monté de façon trop brusque.
 Les crises sont souvent très impressionnantes à voir. Si vous assistez à l'une d'elles, la meilleure chose à faire est de laisser à la personne la place dont elle a besoin afin qu'elle
@@ -91,7 +91,7 @@ Encouragez la personne à respirer lentement et profondément pour diminuer le s
   </div>
  </section>
  <section>
-  <h4><span></span>Comment prévenir leur apparition&nbsp;?</h4>
+  <h4 class="n"><span></span>Comment prévenir leur apparition&nbsp;?</h4>
   <div>
 <p>Une fois la crise totalement terminée, il est temps que la personne reprenne ses esprits. Installez-vous quelque part et parlez avec la personne pendant quelque minutes.
 Vous pouvez parler de ce que la personne aime, de son intérêt spécifique. L'objectif est que la personne puisse «&nbsp;passer à autre chose&nbsp;» et ne focalise pas son esprit sur tout

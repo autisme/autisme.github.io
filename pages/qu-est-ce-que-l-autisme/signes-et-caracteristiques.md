@@ -28,7 +28,7 @@ Il est important de noter que si vous ou une autre personne avez quelques-unes d
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Compétences sociales</h4>
+  <h4 class="n"><span></span>Compétences sociales</h4>
   <div>
 <ol>
  <li>Difficulté avec le contact occulaire, à regarder dans les yeux</li>
@@ -44,7 +44,7 @@ apprises par cœur qui sont adaptés à certaines situations sociales</li>
   </div>
  </section>
  <section>
-  <h4><span></span>Communication</h4>
+  <h4 class="n"><span></span>Communication</h4>
   <div>
 <ol>
  <li>Peuvent avoir un retard de langage, un vocabulaire limité, peuvent être non verbal ou au contraire, peuvent parler correctement avec un large vocabulaire</li>
@@ -59,7 +59,7 @@ apprises par cœur qui sont adaptés à certaines situations sociales</li>
   </div>
  </section>
  <section>
-  <h4><span></span>Comportements</h4>
+  <h4 class="n"><span></span>Comportements</h4>
   <div>
 <ol>
  <li>Nécessite d'avoir une routine dans la vie quotidienne. Peut être en détresse lorsque la routine n'est pas suivie</li>
@@ -74,7 +74,7 @@ apprises par cœur qui sont adaptés à certaines situations sociales</li>
   </div>
  </section>
  <section>
-  <h4><span></span>Traitement sensoriel</h4>
+  <h4 class="n"><span></span>Traitement sensoriel</h4>
   <div>
 <ol>
  <li>Difficulté ou impossibilité à supporter certains sons, certaines odeurs ou textures. De la même manière, peut être attiré par certains sons ou odeurs. Peut manger seulement quelques aliments spécifiques.</li>

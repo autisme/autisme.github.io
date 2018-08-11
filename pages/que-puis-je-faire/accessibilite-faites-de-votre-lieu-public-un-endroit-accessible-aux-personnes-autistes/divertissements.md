@@ -33,7 +33,7 @@ C'est plutôt l'environnement qui est difficile. Cependant avec quelques changem
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Communication</h4>
+  <h4 class="n"><span></span>Communication</h4>
   <div>
 <amp-img class="left" width="400" height="266" src="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/ID-100442933.jpg" alt="ID-100442933"></amp-img>
 
@@ -56,7 +56,7 @@ Vous pouvez leur faciliter la vie en utilisant des informations claires.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Traitement sensoriel</h4>
+  <h4 class="n"><span></span>Traitement sensoriel</h4>
   <div>
 <p>Les lieux de divertissements peuvent des endroits très chargés
 d'un point de vue sensoriel avec beaucoup de monde, de bruits, d'odeurs, de lumières.</p>
@@ -68,7 +68,7 @@ Au contraire, d'autres les apprécient.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Compétences sociales</h4>
+  <h4 class="n"><span></span>Compétences sociales</h4>
   <div>
 <p>Les lieux de divertissements sont des lieux de socialisation.
 Les personnes autistes ont souvent un manque de compétences sociales.
@@ -80,7 +80,7 @@ Cela aboutit à de l'anxiété et du stress et finalement à de l'isolement.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Routine</h4>
+  <h4 class="n"><span></span>Routine</h4>
   <div>
 <amp-img class="left" width="250" height="250" src="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/ID-100246951.jpg" alt="ID-100246951.jpg"></amp-img>
 <p>La routine est très importante pour beaucoup de gens.
@@ -93,7 +93,7 @@ En aidant les familles à se préparer pour une visite et en prévenant les pers
   </div>
  </section>
  <section>
-  <h4><span></span>Anxiété</h4>
+  <h4 class="n"><span></span>Anxiété</h4>
   <div>
 <p>Quand les choses ne sont pas assez claires ou qu'une situation non prévue se produit, une personne autiste peut devenir anxieuse.</p>
 
@@ -101,7 +101,7 @@ En aidant les familles à se préparer pour une visite et en prévenant les pers
   </div>
  </section>
  <section>
-  <h4><span></span>Concentration / Hyperactivité</h4>
+  <h4 class="n"><span></span>Concentration / Hyperactivité</h4>
   <div>
 <p>Les personnes autistes peuvent avoir du mal à rester concentrées sur une tâche pendant une longue période de temps ou même simplement de rester assis.
 Cela rend difficile le fait d'aller au cinéma ou au théâtre.</p>
@@ -110,7 +110,7 @@ Cela rend difficile le fait d'aller au cinéma ou au théâtre.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Comportements</h4>
+  <h4 class="n"><span></span>Comportements</h4>
   <div>
 <p>Certaines fois, les personnes autistes peuvent avoir un mauvais comportement. Ce n'est pas être un client difficile mais plutôt la
 conséquence d'être incapable de communiquer une frustration ou l'impossibilité de supporter l'environnement.
@@ -119,7 +119,7 @@ quelle mesure vous pouvez aider.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Familles</h4>
+  <h4 class="n"><span></span>Familles</h4>
   <div>
 <p>Beaucoup de familles affectées pas l'autisme ne prennent pas le temps qu'ils méritent.
 Souvent parce qu'elles sont conscientes des difficultés de leur enfant et ont peur que les autres personnes les jugent.
@@ -142,14 +142,14 @@ Les personnes autistes représentent une part non négligeable de votre clientè
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Former votre personnel</h4>
+  <h4 class="n"><span></span>Former votre personnel</h4>
   <div>
 <p>Une première étape est de s'assurer que votre personnel comprend ce handicap. Comme le handicap est invisible, il peut être difficile de reconnaître et d'aider les personnes qui en ont besoin.
 Vous pouvez penser que beaucoup d'expertise est requise pour aider ces personnes mais en fait, de petits changements peuvent faire une énorme différence.</p>
   </div>
  </section>
  <section>
-  <h4><span></span>Fournir des aides visuelles</h4>
+  <h4 class="n"><span></span>Fournir des aides visuelles</h4>
   <div>
 <amp-img class="left" width="250" height="166" src="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/ID-100207637.jpg" alt="ID-100207637"></amp-img>
 <p>Une bonne façon pour les personnes autistes à quelque chose de nouveau est d'utiliser des aides visuelles.
@@ -159,7 +159,7 @@ Fournir des images ou une visite à 360° est d'une grande aide pour les famille
   </div>
  </section>
  <section>
-  <h4><span></span>Mettre en place des séances ou des représentations «&nbsp;autism friendly&nbsp;»</h4>
+  <h4 class="n"><span></span>Mettre en place des séances ou des représentations «&nbsp;autism friendly&nbsp;»</h4>
   <div>
 <p>Une autre idée pour permettre aux personnes autistes et leur famille de venir
  profiter pleinement de l'événement est de fournir une séance, une représentation, adaptée aux personnes autistes.</p>
@@ -168,7 +168,7 @@ Fournir des images ou une visite à 360° est d'une grande aide pour les famille
   </div>
  </section>
  <section>
-  <h4><span></span>Mettre à disposition un lieu calme («&nbsp;sensory friendly&nbsp;»)</h4>
+  <h4 class="n"><span></span>Mettre à disposition un lieu calme («&nbsp;sensory friendly&nbsp;»)</h4>
   <div>
 <p>Vous pouvez fournir une «&nbsp;zone calme&nbsp;»&nbsp;? Cela peut être une petite partie ou une petite pièce à l'abri du bruit et des gens.
 C'est un petit geste qui peut être très utile pour les personnes autistes et leur famille et qui peuvent être en détresse de temps à autre.
@@ -176,7 +176,7 @@ Un lieu calme leur permet de partir de situations particulières, de déstresser
   </div>
  </section>
  <section>
-  <h4><span></span>Rencontrer les associations</h4>
+  <h4 class="n"><span></span>Rencontrer les associations</h4>
   <div>
 <p>Il n'y a pas deux événements identiques.
 Rencontrez les associations œuvrant dans le domaine de l'autisme pour leur demander conseil sur les adaptations que vous pouvez faire.</p>

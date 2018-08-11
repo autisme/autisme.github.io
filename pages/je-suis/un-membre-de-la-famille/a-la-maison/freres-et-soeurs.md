@@ -38,7 +38,7 @@ Voici quelques points utiles à garder à l'esprit&nbsp;:
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Aidez vos enfants à comprendre l'autisme</h4>
+  <h4 class="n"><span></span>Aidez vos enfants à comprendre l'autisme</h4>
   <div>
 <p>
 Expliquer à tous vos enfants ce qu'est l'autisme et comment
@@ -51,7 +51,7 @@ de manière simple.
   </div>
  </section>
  <section>
-  <h4><span></span>Ils peuvent aussi avoir besoin de soutien</h4>
+  <h4 class="n"><span></span>Ils peuvent aussi avoir besoin de soutien</h4>
   <div>
 <p>
 Il est compréhensible qu'un enfant ou un jeune homme puisse se sentir
@@ -66,7 +66,7 @@ que les autres enfants.
   </div>
  </section>
  <section>
-  <h4><span></span>Encourager les loisirs / la socialisation en dehors de la famille</h4>
+  <h4 class="n"><span></span>Encourager les loisirs / la socialisation en dehors de la famille</h4>
   <div>
 <p>Encouragez vos enfants à avoir des intérêts et des activités particuliers,
 cela leur donne du temps et leur permet de se concentrer sur leurs propres talents et leurs intérêts.
@@ -76,7 +76,7 @@ la famille. Cela leur permet de sortir de la la routine et des exigences que vot
   </div>
  </section>
  <section>
-  <h4><span></span>Prenez le temps pour eux</h4>
+  <h4 class="n"><span></span>Prenez le temps pour eux</h4>
   <div>
 <p>Cela est beaucoup plus facile à dire qu'à faire. Vous pourriez même vous sentir
 coupable car vous pourriez penser que vous délaissez votre enfant autiste, mais il s'agit de s'assurer que
@@ -84,7 +84,7 @@ chaque enfant passe du temps seul avec vous pour faire des choses qu'ils appréc
   </div>
  </section>
  <section>
-  <h4><span></span>Rappelez-leurs qu'avoir un frère ou un sœur autiste a aussi des avantages</h4>
+  <h4 class="n"><span></span>Rappelez-leurs qu'avoir un frère ou un sœur autiste a aussi des avantages</h4>
   <div>
 <p>Assurez-vous de valoriser vos enfants lorsqu'ils font quelque chose de
 gentil ou qu'ils tiennent compte des besoins de leur frère ou sœur autiste.
@@ -111,7 +111,7 @@ pour sa sécurité et vers qui vous pouvez vous tourner si vous avez besoin d’
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Toujours se préparer en cas d'urgence</h4>
+  <h4 class="n"><span></span>Toujours se préparer en cas d'urgence</h4>
   <div>
 <p>Cela n’implique pas de s’imaginer le pire scénario à chaque fois que vous sortez
 ensemble, mais cela doit simplement vous rappeler que vous devez toujours avoir un plan
@@ -136,7 +136,7 @@ renseigner les services d’urgence et la police en cas de besoin.</li>
   </div>
  </section>
  <section>
-  <h4><span></span>Préparez votre frère ou sœur autiste à demander de l’aide</h4>
+  <h4 class="n"><span></span>Préparez votre frère ou sœur autiste à demander de l’aide</h4>
   <div>
 <p>La communication est une des principales difficultés que rencontrent les personnes
 autistes. Se rendre dans des endroits très fortement peuplés et participer à des
@@ -162,7 +162,7 @@ coordonnées en cas de besoin.</li>
   </div>
  </section>
  <section>
-  <h4><span></span>Toujours planifier et prévoir un plan B</h4>
+  <h4 class="n"><span></span>Toujours planifier et prévoir un plan B</h4>
   <div>
 <p>Inclusion est le maître mot de toutes les familles qui veulent que les personnes
 autistes puissent participer aux activités et aux événements comme tout le monde. Bien

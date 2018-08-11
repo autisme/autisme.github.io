@@ -30,7 +30,7 @@ La grande différence entre les personnes autistes et non autistes est la quanti
 
 <amp-accordion animate expand-single-section disable-session-states>
  <section expanded>
-  <h4><span></span>Pourquoi l’auto-stimulation est-elle importante&nbsp;?</h4>
+  <h4 class="n"><span></span>Pourquoi l’auto-stimulation est-elle importante&nbsp;?</h4>
   <div>
 
 <p>Une personne autiste est capable de se réguler par le stimming.</p>
@@ -41,7 +41,7 @@ La grande différence entre les personnes autistes et non autistes est la quanti
   </div>
  </section>
  <section>
-  <h4><span></span>Quand les comportements d’auto-stimulation se produisent-ils&nbsp;?</h4>
+  <h4 class="n"><span></span>Quand les comportements d’auto-stimulation se produisent-ils&nbsp;?</h4>
   <div>
 <p>L’auto-stimulation est souvent décrite comme un mécanisme pour faire face aux surcharges sensorielles. Beaucoup de personnes qui ne sont pas autistes sont conscientes des moments où elles ont ce type de comportement et peuvent le contrôler. Cela n’est pas aussi simple pour une personne autiste. L’auto-stimulation est involontaire et il est bien plus difficile pour elle de contrôler son comportement.</p>
 
@@ -49,7 +49,7 @@ La grande différence entre les personnes autistes et non autistes est la quanti
   </div>
  </section>
  <section>
-  <h4><span></span>Que faire si le comportement est dangereux ou distrayant pour les autres&nbsp;?</h4>
+  <h4 class="n"><span></span>Que faire si le comportement est dangereux ou distrayant pour les autres&nbsp;?</h4>
   <div>
 <p>L’auto-stimulation n’est normalement pas dangereuse. Il est toutefois important de garder un œil sur les jeunes enfants qui découvrent de nouvelles façons de gérer leurs besoins sensoriels.</p>
 
@@ -59,7 +59,7 @@ La grande différence entre les personnes autistes et non autistes est la quanti
   </div>
  </section>
  <section>
-  <h4><span></span>Comment puis-je aider une personne ayant un comportement d’auto-stimulation&nbsp;?</h4>
+  <h4 class="n"><span></span>Comment puis-je aider une personne ayant un comportement d’auto-stimulation&nbsp;?</h4>
   <div>
 <p>Correctement interpréter ces comportements peut être très difficile pour les autres gens. Cela est encore plus difficile dans les lieux publics avec beaucoup de monde. Toutefois, il est facile de faire des suppositions quand la personne à côté de nous dans le train se met subitement à battre des mains ou à répéter sans cesse les mêmes phrases.</p>
 
