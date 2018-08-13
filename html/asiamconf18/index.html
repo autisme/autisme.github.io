@@ -100,10 +100,17 @@ div.footer > ul > li.twitter {
   <script src="lib/flipclock.min.js"></script>
   <script type="text/javascript">
    var asiamconf = new Date(2018, 9, 20, 08, 00, 00).getTime();
-   var clock = $('.clock').FlipClock((asiamconf - Date.now())/1000, {
-    clockFace: 'DailyCounter',
-    countdown: true
-   });
+   function l() {
+     var clock = $('.clock').FlipClock((asiamconf - Date.now())/1000, {
+      clockFace: 'DailyCounter',
+      countdown: true
+     });
+   }
+   window.onfocus = function() {
+    l();
+   };
+   l();
+   
   </script>
  </body>
 </html>
