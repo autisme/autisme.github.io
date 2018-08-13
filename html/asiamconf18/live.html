@@ -7,85 +7,7 @@
   <title>Countdown to AsIAm National Autism Conference 2018</title>
   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
   <style type="text/css">body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0;padding: 0;}</style>
-  <style type="text/css">
-body {
- font-family: 'Lato', sans-serif;
- margin-top: 125px;
- padding-top: 20px;
-}
-div.header {
- background-color: #ed3e75;
- color: #fff;
- padding: 40px 0 40px 45px;
- text-transform: uppercase;
- font-weight: bold;
- line-height: 40px;
- display: flex;
- border-bottom: 7px solid #c8c9cb;
- position: fixed;
- top: 0;
- left: 0;
- width: 100%;
-}
-div.header > span {
- font-size: 35px;
-}
-div.header > time {
- font-size: 20px;
- padding-left: 25px;
-}
-div.title, div.topic {
- margin: 30px 0 5px 45px;
- color: #328fd8;
- font-weight: bold;
- font-size: 25px;
- word-spacing: 0.2em;
-}
-div.title > span:nth-child(2) {
- text-transform: uppercase;
-}
-div.topic {
- margin: 0 0 15px 45px;
- color: #000;
- text-transform: uppercase;
-}
-div.clock-wrapper {
- text-align: center;
- margin: 40px auto 0 auto;
-}
-div.clock {
- display: inline-block;
- width: auto;
-}
-div.footer {
- margin: 30px 45px 5px 45px;
- display: flex;
- justify-content: space-between;
-}
-div.footer > ul {
- list-style-type: none;
- display: flex;
- justify-content: start;
- line-height: 15px;
- height: 15px;
-}
-div.footer > ul > li > a, div.footer > ul > li > a:visited {
- color: #000;
- text-decoration: none;
-}
-div.footer > ul > li {
- margin: 0px 20px 0 20px;
-}
-div.footer > ul > li.computer {
- list-style-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAMAAAAMCGV4AAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB3RJTUUH4gUUDB8JPV8QzwAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAADkUExURTQ0NDU1NTc3Nzk5OTs7O0BAQEVFRUdHR0xMTE1NTU5OTk9PT1BQUFJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW11dXV5eXl9fX2BgYGFhYWJiYmRkZGdnZ2lpaWxsbHl5eXt7e4CAgIWFhY6OjpTK5JiYmKWlpaampqenp6urq7Kyss3Nzc7Ozs/Pz9TU1NXV1dvb29zc3OLi4uTk5Obm5ujo6Onp6erq6uvr6+3t7e7u7u/v7/Dw8PLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vz8/P39/f7+/v///2Cb/EsAAAABYktHRCZaCJi1AAAArElEQVQI12XOaROBYBSG4dcSKtmVNfsIWcsSkkip5///H940xoz72zXnzJlDgCAKNPJvrBRFmaozdTzH9m2TtOVaV6pXO/FDOE/q+JTWqLWcB+xheUZRpz4LhgETD1z5cG7Hnp91N2FSH5ilrZ3Wu8uC2Tj0Xi8ria1Ks8H2YZFgUJREISeJfLYks0PiTrhCnuUrZS6f4jMjgmOAb/cb+YEb/Q//6SPw4FhH7wWWTjEEqfoQxQAAAABJRU5ErkJggg==');
-}
-div.footer > ul > li.email {
- list-style-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAMAAAAMCGV4AAABSlBMVEUBAAAEAgMHBQYIBgcKCAkMCgsNCwwODA0PDQ4QDg8RDxASEBEUEhMVExQWFBUXFRYYFhcZFxgaGBkbGRodGxweHB0fHR4gHh8iICEjISIkIiMmJCUnJSYoJicpJygqKCkrKSotKywuLC02NDU3NTY5Nzg7OTo+PD1APj9BP0BCQEFDQUJEQkNIRkdMSktNS0xPTU5RT1BUUlNWVFVYVldaWFliYGFmZGVqaGlvbW5xb3B1c3R2dHV3dXZ4dnd6eHl7eXp9e3yBf4CCgIGNi4yOjI2UyuSVk5SWlJWdm5ykoqOpp6iqqKmurK20srO1s7S2tLW4tre7ubq8uru+vL3GxMXJx8jKyMnNy8ze3N3i4OHj4eLp5+ju7O3v7e7x7/Dy8PH08vP18/T29PX49vf59/j6+Pn7+fr9+/z+/P3+/v7//f7//v////9AxJ1IAAAAAWJLR0RGF7r57QAAAMxJREFUCNdjyEUFDFk5GTlxOWmJOUCQkJPDkBWlZ6CvaWwmq6+to+EJ5AfxMApLMjDIMYpwM5hHA9WbSPMpKctJKIqLqvkA5UMDPXh5pdgVpRmM/IPTGbKC2b3C5ZhV2fi8w3SUQfJCDMaRLsy6Aa7yDBZAfgCHjICCe0SIuZiglFYOQ66fqJy0oIS6IpeICoshkO/Pz8rJzsTBLMgtyGIK5Mc62dg7O9rZWltZOvgC+TkogCE3JiMnMzUnKSc+JzklOxEmnwTE6fE5GQDuyDu7mATXHAAAAABJRU5ErkJggg==');
-}
-div.footer > ul > li.twitter {
- list-style-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAMAAAAMCGV4AAABFFBMVEUAAAABAQEFBQUJCQkNDQ0QEBARERESEhITExMUFBQVFRUXFxcZGRkaGhobGxscHBwdHR0eHh4fHx8gICAhISEiIiIjIyMkJCQlJSUmJiYnJycoKCgpKSkqKiorKyssLCwtLS0zMzM1NTU3NzdCQkJDQ0NGRkZHR0dISEhJSUlRUVFTU1NWVlZbW1tdXV1gYGBlZWVmZmZpaWl9fX1+fn5/f3+AgICTk5OUyuSampqfn5+srKyurq62tra4uLi6urrAwMDExMTKysrPz8/Y2NjZ2dnc3Nzg4ODh4eHi4uLo6Ojp6enr6+vu7u7v7+/x8fHz8/P09PT29vb39/f4+Pj5+fn6+vr7+/v8/Pz9/f3+/v7///+JpW4PAAAAAWJLR0Q4oAel1gAAALhJREFUCB0FwYc6QmEAANDfiDIqySpE9t589lakodLNPe//Hs4JgHaLqEMAiIEAdNUen340BK9XdL2XxzI7x8+Ct8RBjYuhdHpk/UVofZUHt44eNgsrpfFLUVDdy44uZVIziXTiVjuorKUWh4v5fHFx7pPQ9lBeXVjOTc4PbWsKDd8bYTpZmJ0q3iOgfpLPriRz5+oEH9f7xdTEQOmmo0+IK3dnh7unN1Wivr8AoNlDHMS/nW6PKAL/vno4p5L5H9cAAAAASUVORK5CYII=');
-}
-  </style>
+  <link rel="stylesheet" type="text/css" href="https://confais.org/asiamconf18/index.css">
  </head>
  <body onLoad="onload();">
   <div class="header"><span>Save the date</span><time datetime="2018-10-20 08:00">Saturday 20th October 2018</time></div>
@@ -128,22 +50,7 @@ div.footer > ul > li.twitter {
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
+  <div id="loading" class="lds-dual-ring"></div>
   <script src="https://confais.org/asiamconf18/index.js"></script>
-<!--
-  <script type="text/javascript">
-   var asiamconf = new Date(2018, 9, 20, 08, 00, 00).getTime();
-   function l() {
-     var clock = $('.clock').FlipClock((asiamconf - Date.now())/1000, {
-      clockFace: 'DailyCounter',
-      countdown: true
-     });
-   }
-   window.onfocus = function() {
-    l();
-   };
-   l();
-  </script>
--->
  </body>
 </html>
