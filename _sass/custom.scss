@@ -227,7 +227,6 @@ h4.n {
 /* List */
 ul.thumb > li, ul.contact > li {
  flex: 0 0 320px;
- min-width: 320px;
  display: block;
  padding: 0;
  margin: 5px 1px 5px 1px;
@@ -279,6 +278,7 @@ ul.thumb-max  {
 ul.thumb-max > li {
  flex: 0 0 calc(33.33% - 2px);
  font-variant: small-caps;
+ min-width: 350px;
 }
 
 ul.thumb > li.border {
@@ -438,6 +438,7 @@ ul.contact {
  height: 125px;
  object-fit: fill;
  margin-right: 20px;
+ text-align: center;
 }
 
 .post-list > li .post-excerpt {
