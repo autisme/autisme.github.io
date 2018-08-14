@@ -227,6 +227,7 @@ h4.n {
 /* List */
 ul.thumb > li, ul.contact > li {
  flex: 0 0 320px;
+ min-width: 320px;
  display: block;
  padding: 0;
  margin: 5px 1px 5px 1px;
