@@ -68,7 +68,8 @@ Essayez de fournir un lieu calme et sans distractions afin que vos employés pui
   <div>
 <p>Les personnes autistes ont besoin d'instructions directes, claires et faciles à comprendre. Les instructions vagues et complexes sont difficiles à suivre.
 Écrivez une liste d'instructions plutôt que de longues instructions verbales. Comme les personnes autistes ont également du mal à construire des relations et à aller vers leurs collègues,
-affectez une personne auprès de qui la personne autiste pourra reporter les problèmes lorsqu'elle ne comprend pas quelque chose et obtenir de l'aide.</p>
+affectez une personne auprès de qui la personne autiste pourra rapporter les problèmes 
+lorsqu'elle ne comprend pas quelque chose et obtenir de l'aide.</p>
   </div>
  </section>
  <section>
