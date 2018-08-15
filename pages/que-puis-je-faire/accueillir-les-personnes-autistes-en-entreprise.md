@@ -34,7 +34,8 @@ Nous vous donnons des conseils pour limiter ces difficultés, ce qui est à la f
  <section expanded>
   <h4 class="n"><span></span>Entretien d'embauche</h4>
   <div>
-<p>Beaucoup de personnes autistes trouvent les entretiens d'embauche extrêmement difficiles. Du fait de leur handicap, la communication et la socialisation est un réel défi pour ces personnes. Venir à un entretien pendant lequel $
+<p>Beaucoup de personnes autistes trouvent les entretiens d'embauche extrêmement difficiles. Du fait de leur handicap, la communication et la socialisation est un réel défi pour ces personnes. 
+Venir à un entretien pendant lequel le recruteur va vous 
 poser des questions sur votre parcours, va examiner vos gestes et votre façon de répondre est une épreuve souvent insurmontable.
 De plus, regarder les gens dans les yeux et maintenir le contact visuel est une difficulté supplémentaire chez beaucoup de personnes autistes.</p>
 
