@@ -17,16 +17,64 @@ L'autisme est très divers et plus nous recevrons d'articles, d'histoires, meill
 
 Quelques sujets sur lesquels vous pouvez contribuer&nbsp;:
 
-## Diagnostic
+<amp-accordion animate expand-single-section disable-session-states>
+ <section expanded>
+  <h4 class="n"><span></span>Diagnostic</h4>
+  <div>
+<p>Comment avez-vous reçu votre diagnostic ? Quelles sont les difficultés que vous avez rencontré pendant le processus et comment
+recevoir un diagnostic a-t-il changé votre vie ?</p>
+  </div>
+ </section>
+ <section>
+  <h4 class="n"><span></span>Sensibilisation / Associations</h4>
+  <div>
+<p>Connaissez-vous une association autour de vous qui sensibilise à l'autisme ?
+Êtes-vous impliqué dans une association ?</p>
+  </div>
+ </section>
+ <section>
+  <h4 class="n"><span></span>Éducation</h4>
+  <div>
+<p>Avez-vous eu le droit d'aller à l'école ?
+Avez-vous été scolarisé dans une classe spécialisée ou dans une classe ordinaire ?
+Quelles sont les aides que vous avez reçu et avez-vous des astuces à partager avec les
+autres personnes autistes pour que leur scolarité se déroule dans les meilleures conditions possibles ?</p>
+  </div>
+ </section>
+ <section>
+  <h4 class="n"><span></span>Emploi</h4>
+  <div>
+<p>Comment avez-vous trouvé votre voie ? Comment vos journées de travaillent se déroulent-elles ? Comment avez-vous informé votre patron et vos collègues ? Quels aménagements avez-vous besoin ? ou encore que pensez-vous d'un lieu de travail autism-friendly ?</p>
+  </div>
+ </section>
+ <section>
+  <h4 class="n"><span></span>Famille</h4>
+  <div>
+<p>Avez-vous fondé une famille ? Comment vivez-vous avec une personne autiste ? Y a-t-il d'autres membres de votre famille qui sont autistes ? Quelles sont vos stratégies pour rencontrer quelqu'un ou quels sont les conseils que vous pourrez donner à d'autres ?</p>
+  </div>
+ </section>
 
+ <section>
+  <h4 class="n"><span></span>Santé</h4>
+  <div>
+<p>Avez-vous des amis qui vous soutiennent ? Quelqu'un a qui parler ? Quelles aides recevez-vous ? Comment prenez-vous soin de votre santé mentale et de votre bien être ?</p>
+  </div>
+ </section>
 
-## Sensibilisation
-## Éducation
-## Emploi
-## Famille
-## Santé & bien être
-## Mode de vie
-## Professionnels
+ <section>
+  <h4 class="n"><span></span>Mode de vie</h4>
+  <div>
+<p>Avez-vous une routine qui vous aide à organiser vos journées ? Quels sont vos centres d'intérêts ? Avez-vous un film, lu un livre qui parle de l'autisme récemment ?</p>
+  </div>
+ </section>
+
+ <section>
+  <h4 class="n"><span></span>Professionnel</h4>
+  <div>
+<p>Travaillez-vous avec une personne autiste ? Comment l'aidez-vous ?</p>
+  </div>
+ </section>
+</amp-accordion>
 
 ## Questions fréquentes
 
