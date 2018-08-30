@@ -1,7 +1,7 @@
 ---
 layout: redirect
 header_link: false
-permalink: /guides-inclusion-scolaire
+permalink: /guides-inclusion-scolaire-old
 redirect_url: /que-puis-je-faire/guides-inclusion-scolaire
 domain: {{ site.url }}
 title: "Guides pour l'inclusion scolaire des personnes autistes"
