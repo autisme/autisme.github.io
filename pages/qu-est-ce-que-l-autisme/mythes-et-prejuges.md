@@ -179,8 +179,8 @@ Il nous appartient à tous d'apprendre à communiquer avec ces personnes&nbsp;!<
  <section>
   <h4 class="n"><span></span>D'autres mythes</h4>
   <div>
-<amp-carousel width="500" height="500" layout="responsive" type="slides">
- <amp-img src="{{ site.resources_repository }}/myths/autism_is_contagious/img-fr.png" width="500" height="500" layout="responsive" alt="L'autisme est contagieux"></amp-img>
+<amp-carousel width="500" height="500" layout="intrinsic" type="slides">
+ <amp-img src="{{ site.resources_repository }}/myths/autism_is_contagious/img-fr.png" layout="fill" alt="L'autisme est contagieux"></amp-img>
 </amp-carousel>
   </div>
  </section>
