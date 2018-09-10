@@ -178,9 +178,10 @@ Il nous appartient à tous d'apprendre à communiquer avec ces personnes&nbsp;!<
  </section>
  <section>
   <h4 class="n"><span></span>D'autres mythes</h4>
-  <div>
+  <div class="center">
 <amp-carousel width="500" height="500" layout="intrinsic" type="slides">
  <amp-img src="{{ site.resources_repository }}/myths/autism_is_contagious/img-fr.png" layout="fill" alt="L'autisme est contagieux"></amp-img>
+ <amp-img src="{{ site.resources_repository }}/myths/autism_vs_asperger/img-fr.png" layout="fill" alt="Il existe deux types de personnes autistes, les autistes sévères et les personnes ayant un syndrome d'Asperger léger"></amp-img>
 </amp-carousel>
   </div>
  </section>
