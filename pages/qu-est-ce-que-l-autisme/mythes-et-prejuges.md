@@ -9,6 +9,7 @@ courtesis:
 oembed_image: /assets/pages/qu-est-ce-que-l-autisme/mythes-et-prejuges/opengraph.jpg
 banner_image: /assets/pages/qu-est-ce-que-l-autisme/mythes-et-prejuges/banner.jpg
 modules:
+  - carousel
   - accordion
   - iframe
 breadcrumbs:
@@ -173,6 +174,14 @@ L'autisme impacte des personnes de tout âge, de toute religion, de tout milieu 
 Également, les personnes verbales peuvent ne pas savoir comment dire ce qu'elles souhaitent exprimer.
 Cela ne signifie pas que ces personnes ne peuvent pas communiquer - elles le font juste d'une autre manière.
 Il nous appartient à tous d'apprendre à communiquer avec ces personnes&nbsp;!</p>
+  </div>
+ </section>
+ <section>
+  <h4 class="n"><span></span>D'autres mythes</h4>
+  <div>
+<amp-carousel width="500" height="500" layout="responsive" type="slides">
+ <amp-img src="{{ site.resources_repository }}/myths/autism_is_contagious/img-fr.png" width="500" height="500" layout="responsive" alt="L'autisme est contagieux"></amp-img>
+</amp-carousel>
   </div>
  </section>
 </amp-accordion>
