@@ -22,7 +22,6 @@ permalink: /:title
 
 #resources_repository: https://github.com/autisme/twitter-campaign/raw/master
 resources_repository: https://rawgit.com/autisme/twitter-campaign/master
-#amp_img_cache_url: http://localhost:4000
 
 # Build setting
 sass:
