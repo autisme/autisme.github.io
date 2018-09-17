@@ -202,7 +202,17 @@ amp-carousel div.caption {
  font-size: smaller;
  max-height: 30%;
 }
-
+amp-carousel.white div.caption {
+ background-color: transparent;
+ color: #000;
+ font-size: inherit;
+ padding: 30px;
+}
+amp-carousel.white {
+ border: 1px solid #424242;
+ padding: 30px;
+ border-radius: 10px;
+}
 /* accordion */
 amp-accordion {
 }
