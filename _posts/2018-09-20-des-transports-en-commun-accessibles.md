@@ -7,7 +7,7 @@ categories:
 author: Bastien
 courtesis:
   image:
-    bank: freepik
+    bank: wikimedia
 oembed_image: /assets/posts/2018-09-20/opengraph.jpg
 banner_image: /assets/posts/2018-09-20/banner.jpg
 modules:
