@@ -9,6 +9,7 @@ courtesis:
 oembed_image: /assets/pages/qu-est-ce-que-l-autisme/mythes-et-prejuges/opengraph.jpg
 banner_image: /assets/pages/qu-est-ce-que-l-autisme/mythes-et-prejuges/banner.jpg
 modules:
+  - bind
   - carousel
   - accordion
   - iframe
@@ -19,6 +20,15 @@ translated:
   url: /about-autism/what-is-autism/mythbusters/
   advertised: false
 ---
+
+
+<amp-state id="selected">
+ <script type="application/json">
+  {
+   "slide": 0
+  }
+ </script>
+</amp-state>
 
 Quand nous parlons de l'autisme il est aussi important de savoir ce qui est vrai de ce qu'il ne l'est pas.
 Bien que la sensibilisation soit plus importante ces dernières années,
@@ -179,7 +189,10 @@ Il nous appartient à tous d'apprendre à communiquer avec ces personnes&nbsp;!<
  <section>
   <h4 class="n"><span></span>D'autres mythes</h4>
   <div class="center">
-<amp-carousel width="500" height="500" layout="intrinsic" type="slides">
+
+<p [text]="'This is a ' + selected.slide + '.'">This is a dog.</p>
+<p text="selected.slide">1</p>
+<amp-carousel width="500" height="500" layout="intrinsic" type="slides" on="slideChange:AMP.setState({selected: {slide: event.index}})">
  <amp-img src="{{ site.resources_repository }}/myths/autism_is_contagious/img-fr.png" layout="fill" alt="L'autisme est contagieux"></amp-img>
  <amp-img src="{{ site.resources_repository }}/myths/autism_vs_asperger/img-fr.png" layout="fill" alt="Il existe deux types de personnes autistes, les autistes sévères et les personnes ayant un syndrome d'Asperger léger"></amp-img>
  <amp-img src="{{ site.resources_repository }}/myths/autistic_people_are_all_the_same/img-fr.png" layout="fill" alt="Les personnes autistes ont toutes les mêmes difficultés"></amp-img>

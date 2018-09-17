@@ -20,7 +20,6 @@ google_analytics: UA-99588632-1
 bing_verify: 10AC9E0EFAD518AB76B218E4121A15B5
 permalink: /:title
 
-resources_repository_legacy: https://github.com/autisme/twitter-campaign/raw/master
 resources_repository: https://rawgit.com/autisme/twitter-campaign/master
 
 # Build setting
