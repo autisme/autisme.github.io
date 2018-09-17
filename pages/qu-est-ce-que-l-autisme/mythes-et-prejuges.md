@@ -9,7 +9,6 @@ courtesis:
 oembed_image: /assets/pages/qu-est-ce-que-l-autisme/mythes-et-prejuges/opengraph.jpg
 banner_image: /assets/pages/qu-est-ce-que-l-autisme/mythes-et-prejuges/banner.jpg
 modules:
-  - bind
   - carousel
   - accordion
   - iframe
@@ -22,13 +21,6 @@ translated:
 ---
 
 
-<amp-state id="selected">
- <script type="application/json">
-  {
-   "slide": 0
-  }
- </script>
-</amp-state>
 
 Quand nous parlons de l'autisme il est aussi important de savoir ce qui est vrai de ce qu'il ne l'est pas.
 Bien que la sensibilisation soit plus importante ces dernières années,
@@ -190,38 +182,124 @@ Il nous appartient à tous d'apprendre à communiquer avec ces personnes&nbsp;!<
   <h4 class="n"><span></span>D'autres mythes</h4>
   <div class="center">
 
-<p [text]="'This is a ' + selected.slide + '.'">This is a dog.</p>
-<p text="selected.slide">1</p>
-<amp-carousel width="500" height="500" layout="intrinsic" type="slides" on="slideChange:AMP.setState({selected: {slide: event.index}})">
- <amp-img src="{{ site.resources_repository }}/myths/autism_is_contagious/img-fr.png" layout="fill" alt="L'autisme est contagieux"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/autism_vs_asperger/img-fr.png" layout="fill" alt="Il existe deux types de personnes autistes, les autistes sévères et les personnes ayant un syndrome d'Asperger léger"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/autistic_people_are_all_the_same/img-fr.png" layout="fill" alt="Les personnes autistes ont toutes les mêmes difficultés"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/bad_parenting/img-fr.png" layout="fill" alt="L'autisme est dû à une mauvaise éducation"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/cure/img-fr.png" layout="fill" alt="Il est possible de guérir de l'autisme"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/does_not_look_anything/img-fr.png" layout="fill" alt="Les personnes autistes se distinguent facilement"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/equality/img-fr.png" layout="fill" alt="Mettre en place des aménagements pour les personnes autistes est contraire au principe d'égalité"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/expert/img-fr.png" layout="fill" alt="Connaître une personne autiste fait de vous un expert de l'autisme"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/family/img-fr.png" layout="fill" alt="Les personnes autistes ne peuvent pas trouver de partenaire et fonder de famille"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/hospital/img-fr.png" layout="fill" alt="Les enfants autistes ne devraient pas aller à l'école mais être hospitalisés"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/increase/img-fr.png" layout="fill" alt="Nous faisons face à une épidemie d'autisme"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/live_in_their_own_world/img-fr.png" layout="fill" alt="Les personnes autistes sont dans leur monde"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/look_in_the_eyes/img-fr.png" layout="fill" alt="Si une personne peut vous regarder dans les yeux, c'est qu'elle n'est pas autiste"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/maths/img-fr.png" layout="fill" alt="Les personnes autistes sont des génies en mathématiques"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/no_emotions/img-fr.png" layout="fill" alt="Les personnes autistes ne ressentent pas les émotions"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/no_sense_of_humour/img-fr.png" layout="fill" alt="Les personnes autistes n'ont pas de sens de l'humour"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/not_being_able_to_speak_equal_having_intellectual_disability/img-fr.png" layout="fill" alt="Les personnes non verbales ne comprennent pas ce que nous leur disons et ne pensent pas par elles-mêmes"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/only_boys/img-fr.png" layout="fill" alt="L'autisme n'affecte que les garçons"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/only_children/img-fr.png" layout="fill" alt="Les personnes autistes sont toutes des enfants"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/pain/img-fr.png" layout="fill" alt="Les personnes autistes ne ressentent pas la douleur"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/psychologist/img-fr.png" layout="fill" alt="L'autisme est un handicap mental ou psychologique"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/rude/img-fr.png" layout="fill" alt="Les personnes autistes sont simplement des personnes mal élevées ou malpolies"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/self-aware/img-fr.png" layout="fill" alt="Les personnes autistes ne sont pas conscientes de leur différence"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/tantrum/img-fr.png" layout="fill" alt="Les personnes autistes font souvent des caprices"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/vaccine/img-fr.png" layout="fill" alt="Les vaccins causent l'autisme"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/violence/img-fr.png" layout="fill" alt="Les personnes autistes sont violentes"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/visual_thinkers/img-fr.png" layout="fill" alt="Les personnes autistes ont toutes une pensée visuelle qui leur permet de se repérer facilement dans l'espace"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/want_to_be_alone/img-fr.png" layout="fill" alt="Les personnes autistes ne veulent pas d'amis"></amp-img>
- <amp-img src="{{ site.resources_repository }}/myths/we_dont_see_them/img-fr.png" layout="fill" alt="Nous ne rencontrons jamais de personnes autistes"></amp-img>
+
+<amp-carousel width="500" height="500" layout="intrinsic" type="slides">
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/want_to_be_alone/img-fr.png" layout="fill" alt="Les personnes autistes ne veulent pas d'amis"></amp-img>
+  <div class="caption">Mythe 1&nbsp;: Les personnes autistes ne veulent pas d'amis.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/only_children/img-fr.png" layout="fill" alt="Les personnes autistes sont toutes des enfants"></amp-img>
+  <div class="caption">Mythe 2&nbsp;: Les personnes autistes sont toutes des enfants.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/autism_is_contagious/img-fr.png" layout="fill" alt="L'autisme est contagieux"></amp-img>
+  <div class="caption">Mythe 3&nbsp;: L'autisme est contagieux.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/only_boys/img-fr.png" layout="fill" alt="L'autisme n'affecte que les garçons"></amp-img>
+  <div class="caption">Mythe 4&nbsp;: L'autisme n'affecte que les garçons.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/bad_parenting/img-fr.png" layout="fill" alt="L'autisme est dû à une mauvaise éducation"></amp-img>
+  <div class="caption">Mythe 5&nbsp;: L'autisme est dû à une mauvaise éducation.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/live_in_their_own_world/img-fr.png" layout="fill" alt="Les personnes autistes sont dans leur monde"></amp-img>
+  <div class="caption">Mythe 6&nbsp;: Les personnes autistes sont «&nbsp;dans leur monde&nbsp;».</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/no_emotions/img-fr.png" layout="fill" alt="Les personnes autistes ne ressentent pas les émotions"></amp-img>
+  <div class="caption">Mythe 7&nbsp;: Les personnes autistes ne ressentent pas les émotions.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/autistic_people_are_all_the_same/img-fr.png" layout="fill" alt="Les personnes autistes ont toutes les mêmes difficultés"></amp-img>
+  <div class="caption">Mythe 8&nbsp;: Les personnes autistes ont toutes les mêmes difficultés.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/look_in_the_eyes/img-fr.png" layout="fill" alt="Si une personne peut vous regarder dans les yeux, c'est qu'elle n'est pas autiste"></amp-img>
+  <div class="caption">Mythe 9&nbsp;: Si une personne peut vous regarder dans les yeux, c'est qu'elle n'est pas autiste.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/does_not_look_anything/img-fr.png" layout="fill" alt="Les personnes autistes se distinguent facilement"></amp-img>
+  <div class="caption">Mythe 10&nbsp;: Les personnes autistes se distinguent facilement.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/not_being_able_to_speak_equal_having_intellectual_disability/img-fr.png" layout="fill" alt="Les personnes non verbales ne comprennent pas ce que nous leur disons et ne pensent pas par elles-mêmes"></amp-img>
+  <div class="caption">Mythe 11&nbsp;: Les personnes non verbales ne comprennent pas ce que nous leur disons et ne pensent pas par elles-mêmes.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/cure/img-fr.png" layout="fill" alt="Il est possible de guérir de l'autisme"></amp-img>
+  <div class="caption">Mythe 12&nbsp;: Il est possible de guérir de l'autisme.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/tantrum/img-fr.png" layout="fill" alt="Les personnes autistes font souvent des caprices"></amp-img>
+  <div class="caption">Mythe 13&nbsp;: Les personnes autistes font souvent des caprices.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/pain/img-fr.png" layout="fill" alt="Les personnes autistes ne ressentent pas la douleur"></amp-img>
+  <div class="caption">Mythe 14&nbsp;: Les personnes autistes ne ressentent pas la douleur.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/we_dont_see_them/img-fr.png" layout="fill" alt="Nous ne rencontrons jamais de personnes autistes"></amp-img>
+  <div class="caption">Mythe 15&nbsp;: Nous ne rencontrons jamais de personnes autistes.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/visual_thinkers/img-fr.png" layout="fill" alt="Les personnes autistes ont toutes une pensée visuelle qui leur permet de se repérer facilement dans l'espace"></amp-img>
+  <div class="caption">Mythe 16&nbsp;: Les personnes autistes ont toutes une pensée visuelle qui leur permet de se repérer facilement dans l'espace.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/violence/img-fr.png" layout="fill" alt="Les personnes autistes sont violentes"></amp-img>
+  <div class="caption">Mythe 17&nbsp;: Les personnes autistes sont violentes.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/self-aware/img-fr.png" layout="fill" alt="Les personnes autistes ne sont pas conscientes de leur différence"></amp-img>
+  <div class="caption">Mythe 18&nbsp;: Les personnes autistes ne sont pas conscientes de leur différence.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/rude/img-fr.png" layout="fill" alt="Les personnes autistes sont simplement des personnes mal élevées ou malpolies"></amp-img>
+  <div class="caption">Mythe 19&nbsp;: Les personnes autistes sont simplement mal élevées ou malpolies.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/psychologist/img-fr.png" layout="fill" alt="L'autisme est un handicap mental ou psychologique"></amp-img>
+  <div class="caption">Mythe 20&nbsp;: L'autisme est un handicap mental ou psychologique.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/vaccine/img-fr.png" layout="fill" alt="Les vaccins causent l'autisme"></amp-img>
+  <div class="caption">Mythe 21&nbsp;: Les vaccins causent l'autisme.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/no_sense_of_humour/img-fr.png" layout="fill" alt="Les personnes autistes n'ont pas de sens de l'humour"></amp-img>
+  <div class="caption">Mythe 22&nbsp;: Les personnes autistes n'ont pas de sens de l'humour.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/maths/img-fr.png" layout="fill" alt="Les personnes autistes sont des génies en mathématiques"></amp-img>
+  <div class="caption">Mythe 23&nbsp;: Les personnes autistes sont des génies en mathématiques.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/hospital/img-fr.png" layout="fill" alt="Les enfants autistes ne devraient pas aller à l'école mais être hospitalisés"></amp-img>
+  <div class="caption">Mythe 24&nbsp;: Les enfants autistes ne devraient pas aller à l'école mais être hospitalisés.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/family/img-fr.png" layout="fill" alt="Les personnes autistes ne peuvent pas trouver de partenaire et fonder de famille"></amp-img>
+  <div class="caption">Mythe 25&nbsp;: Les personnes autistes ne peuvent pas trouver de partenaire et fonder de famille.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/expert/img-fr.png" layout="fill" alt="Connaître une personne autiste fait de vous un expert de l'autisme"></amp-img>
+  <div class="caption">Mythe 26&nbsp;: Connaître une personne autiste fait de vous un expert de l'autisme.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/equality/img-fr.png" layout="fill" alt="Mettre en place des aménagements pour les personnes autistes est contraire au principe d'égalité"></amp-img>
+  <div class="caption">Mythe 27&nbsp;: Mettre en place des aménagements pour les personnes autistes est contraire au principe d'égalité.</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/autism_vs_asperger/img-fr.png" layout="fill" alt="Il existe deux types de personnes autistes, les autistes sévères et les personnes ayant un syndrome d'Asperger léger"></amp-img>
+  <div class="caption">Mythe 28&nbsp;: Il existe deux types de personnes autistes, les autistes «&nbsp;sévères&nbsp;» et les personnes ayant un syndrome d'Asperger, un autisme «&nbsp;léger&nbsp;».</div>
+ </div>
+ <div class="slide">
+  <amp-img src="{{ site.resources_repository }}/myths/increase/img-fr.png" layout="fill" alt="Nous faisons face à une épidemie d'autisme"></amp-img>
+  <div class="caption">Mythe 29&nbsp;: Nous faisons face à une épidemie d'autisme.</div>
+ </div>
 </amp-carousel>
   </div>
  </section>
