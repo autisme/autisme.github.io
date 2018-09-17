@@ -45,7 +45,7 @@ est jouée lorsque le bus arrive à un arrêt.</li>
 et des heures de la journée&nbsp;:</strong> à Nantes, s'attendre que les bus soient 
 bondés aux heures de sorties d'école, entre 11h50 et 14h00 le midi.</li>
  <li><strong> 
-mettre à disposition des «&nbsp;Social story&nbsp;» pour acheter un ticket, monter dans le bus, 
+Mettre à disposition des «&nbsp;Social story&nbsp;» pour acheter un ticket, monter dans le bus, 
 etc&nbsp;:</strong> ce n'est pas encore à l'ordre du jour.</li>
 </ul>
   </div>
