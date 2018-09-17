@@ -19,7 +19,7 @@ barrières pour prendre les transports en commun, que ce soit le bus, le tramway
 encore le train.
 
 Nous avons eu la chance il y a quelques semaines d'être invité par la <i>Semitan</i>, 
-la société de transports en commun gérant les bus et les tramways de la ville de Nantes.
+l'entreprise de transports en commun gérant les bus et les tramways de la ville de Nantes.
 Nous avont été vraiment bien accueilli et avons pu leur expliquer non seulement en quoi 
 prendre le bus ou le tramway est une importante source de stress pour les 
 personnes autistes mais nous avons également pu leur faire une petite liste
@@ -106,6 +106,8 @@ le temps à la personne de trouver son ticket.</li>
  </section>
 </amp-accordion>
 
+
+<p>&nbsp;</p>
 Encore une fois, un grand merci pour leur accueil et leur volonté de devenir un 
 réseau de transport entièrement accessible.
 
