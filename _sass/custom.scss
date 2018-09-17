@@ -181,11 +181,21 @@ a.big span.subtitle {
 }
 
 /* carousel */
+/*
 amp-carousel div.caption {
  position: absolute;
  bottom: 0;
  left: 0;
  right: 0;
+ padding: 8px;
+ background: rgba(0,0,0,.6);
+ color: #ddd;
+ font-size: smaller;
+ max-height: 30%;
+}
+*/
+amp-carousel div.caption {
+ display: block;
  padding: 8px;
  background: rgba(0,0,0,.6);
  color: #ddd;
