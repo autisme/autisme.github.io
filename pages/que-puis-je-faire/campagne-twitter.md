@@ -15,8 +15,8 @@ breadcrumbs:
 ---
 
 
-Depuis le mois de juillet 2017, nous postons chaque lundi sur twitter, une image en lien avec l'autisme afin de sensibiliser le grand public. Ci-dessous, les différentes images 
-publiées jusqu'à présent.
+Depuis juillet 2017, nous postons chaque lundi, une image en lien avec l'autisme afin 
+de sensibiliser le grand public. Ci-dessous, les différentes images publiées jusqu'à présent.
 
 <div class="center">
 <amp-carousel width="600" height="700" layout="intrinsic" type="slides" class="white">
