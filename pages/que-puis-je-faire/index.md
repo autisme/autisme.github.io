@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Que puis-je-faire ?
+title: Que puis-je faire ?
 permalink: /que-puis-je-faire/
 header_link: 2
 courtesis:
