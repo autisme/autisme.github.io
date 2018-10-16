@@ -17,6 +17,6 @@
  <meta name="twitter:description" content="{{ page.description | normalize_whitespace | truncate: 160 }}" />
  <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
  <meta name="twitter:image" content="{{ page.oembed_image }}" />
- <meta name="og:image" content="{{ page.oembed_image }}" />
+ <meta property="og:image" content="{{ page.oembed_image }}" />
  <meta http-equiv="refresh" content="1; url={{ page.redirect_url }}" />
 </head>
