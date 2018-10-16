@@ -3,10 +3,8 @@ layout: redirect
 header_link: false
 permalink: /ao44
 redirect_url: /
-domain: "{{ site.url }}"
-title: "{{ site.title }}"
-description: "{{ site.description }}"
+domain: {{ site.url }}
 twitter_username: "BastienBConfais"
-oembed_image: "{{ site.url }}/assets/imgp3301.jpg"
+oembed_image: https://autisme.github.io/assets/imgp3301.jpg
 ---
 
