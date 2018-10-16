@@ -7,7 +7,6 @@ domain: {{ site.url }}
 title: {{ site.title }}
 description: {{ site.description }}
 twitter_username: "BastienBConfais"
-oembed_image: {{ site.url }}/assets/imgp3301.jpg
-
+oembed_image: "{{ site.url }}/assets/imgp3301.jpg"
 ---
 
