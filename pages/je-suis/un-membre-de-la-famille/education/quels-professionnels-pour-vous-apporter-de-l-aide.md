@@ -85,6 +85,19 @@ L'ergothérapie est également bénéfique pour améliorer l'attention, et pour 
   </div>
  </section>
  <section>
+  <h4 class="n"><span></span>Psychomotricien</h4>
+  <div>
+<p>Beaucoup d'enfants autistes prennent du retard dans leur développement moteur 
+lorsque la motricité de leurs pairs s'affine de plus en plus. Attraper une balle, faire 
+du vélo ou courir sont souvent difficile à acquérir pour les personnes autistes.
+</p>
+<p>
+Les psychomotriciens peuvent apporter une aide similaire aux ergothérapeutes mais en se 
+concentrant plus spéficiquement sur la motricité globale.
+</p>
+  </div>
+ </section>
+ <section>
   <h4 class="n"><span></span>Diététicien</h4>
   <div>
 <p>Les personnes autistes ont souvent de mauvaises habitudes alimentaires. Manger toujours les mêmes aliments est
