@@ -95,7 +95,6 @@ Un ergothérapeute pourra faire progresser la personnes dans ces domaines.
 L'ergothérapie est également bénéfique pour améliorer l'attention, et pour mieux gérer la vie quotidienne.</p>
 <p>L'ergothérapeute peut apporter un soutien similaire au psychomotricien mais en se concentrant plus sur les mouvements physiques et les aides techniques plutôt que 
 sur leur régulation.</p>
-<p>
   </div>
  </section>
  <section>
