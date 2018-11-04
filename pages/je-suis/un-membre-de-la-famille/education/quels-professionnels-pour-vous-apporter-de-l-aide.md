@@ -76,25 +76,26 @@ enfants qui ont des difficultés avec le développement du langage.</p>
   </div>
  </section>
  <section>
+  <h4 class="n"><span></span>Psychomotricien</h4>
+  <div>
+<p>Beaucoup d'enfants autistes prennent du retard dans leur développement moteur 
+lorsque la motricité de leurs pairs s'affine de plus en plus. Attraper une balle, faire 
+du vélo ou courir sont souvent des compétences difficiles à acquérir pour les personnes autistes.
+</p>
+<p>Les psychomotriciens peuvent aider les personnes autistes à développer leur autonomie. Cela passe par l'intégration sensorielle, des jeux permettant de développer
+la motricité fonctionnelle ainsi que la motricité utile pour interagir avec les autres.</p>
+  </div>
+ </section>
+ <section>
   <h4 class="n"><span></span>Ergothérapeute</h4>
   <div>
 <p>Beaucoup de personnes autistes ont des difficultés avec la motricité, que ce soit des difficultés pour coordonner les mouvements, faire du vélo, jouer au ballon (motricité globale) ou
 pour écrire (motricité fine).
 Un ergothérapeute pourra faire progresser la personnes dans ces domaines.
 L'ergothérapie est également bénéfique pour améliorer l'attention, et pour mieux gérer la vie quotidienne.</p>
-  </div>
- </section>
- <section>
-  <h4 class="n"><span></span>Psychomotricien</h4>
-  <div>
-<p>Beaucoup d'enfants autistes prennent du retard dans leur développement moteur 
-lorsque la motricité de leurs pairs s'affine de plus en plus. Attraper une balle, faire 
-du vélo ou courir sont souvent difficile à acquérir pour les personnes autistes.
-</p>
+<p>L'ergothérapeute peut apporter un soutien similaire au psychomotricien mais en se concentrant plus sur les mouvements physiques et les aides techniques plutôt que 
+sur leur régulation.</p>
 <p>
-Les psychomotriciens peuvent apporter une aide similaire aux ergothérapeutes mais en se 
-concentrant plus spéficiquement sur la motricité globale.
-</p>
   </div>
  </section>
  <section>
