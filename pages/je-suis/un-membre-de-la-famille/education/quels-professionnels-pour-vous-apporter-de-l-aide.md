@@ -78,12 +78,21 @@ enfants qui ont des difficultés avec le développement du langage.</p>
  <section>
   <h4 class="n"><span></span>Psychomotricien</h4>
   <div>
+
 <p>Beaucoup d'enfants autistes prennent du retard dans leur développement moteur 
-lorsque la motricité de leurs pairs s'affine de plus en plus. Attraper une balle, faire 
-du vélo ou courir sont souvent des compétences difficiles à acquérir pour les personnes autistes.
-</p>
-<p>Les psychomotriciens peuvent aider les personnes autistes à développer leur autonomie. Cela passe par l'intégration sensorielle, des jeux permettant de développer
-la motricité fonctionnelle ainsi que la motricité utile pour interagir avec les autres.</p>
+lorsque la motricité de leurs pairs s'affine de plus en plus.<br />Manipuler des petits objets, s'habiller ou encore s'organiser dans l'espace et le 
+temps ou gérer ses émotions sont des compétences difficiles à acquérir pour ces 
+personnes.</p>
+
+
+<p>Les psychomotriciens peuvent aider les personnes autistes à développer leur
+motricité à visée fonctionnelle&nbsp;: à coordonner leurs mouvements entre leurs yeux 
+et leurs mains, à réaliser des tâches motrices de la vie quotidienne mais également à 
+développer leur motricité à visée sociale comme la communication non verbale ou l'imitation de 
+l'autre.</p>
+
+<p>Enfin, la prise en charge des particularités sensorielles et la gestion 
+des émotions telles que le stress ou l'anxiété font également parties de leur domaine de compétences.</p>
   </div>
  </section>
  <section>
