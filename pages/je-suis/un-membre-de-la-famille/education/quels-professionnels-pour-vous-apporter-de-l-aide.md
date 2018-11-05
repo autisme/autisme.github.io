@@ -80,7 +80,7 @@ enfants qui ont des difficultés avec le développement du langage.</p>
   <div>
 
 <p>Beaucoup d'enfants autistes prennent du retard dans leur développement moteur 
-lorsque la motricité de leurs pairs s'affine de plus en plus.<br />Manipuler des petits objets, s'habiller ou encore s'organiser dans l'espace et le 
+lorsque la motricité de leurs pairs s'affine de plus en plus. Manipuler des petits objets, s'habiller ou encore s'organiser dans l'espace et le 
 temps ou gérer ses émotions sont des compétences difficiles à acquérir pour ces 
 personnes.</p>
 
