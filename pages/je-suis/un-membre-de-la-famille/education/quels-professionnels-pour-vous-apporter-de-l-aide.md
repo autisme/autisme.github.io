@@ -92,7 +92,7 @@ développer leur motricité à visée sociale comme la communication non verbale
 l'autre.</p>
 
 <p>Enfin, la prise en charge des particularités sensorielles et la gestion 
-des émotions telles que le stress ou l'anxiété font également parties de leur domaine de compétences.</p>
+des émotions telles que le stress ou l'anxiété font également partie de leur domaine de compétences.</p>
   </div>
  </section>
  <section>
