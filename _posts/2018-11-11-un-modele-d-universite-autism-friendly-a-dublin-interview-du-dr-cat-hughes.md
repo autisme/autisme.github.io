@@ -31,6 +31,7 @@ Je la remercie infiniment pour cela et vous laisse donc prendre connaissance du 
 
 ----
 
+<p>&nbsp;</p>
 
 ## Pouvez-vous me présenter ce projet d'université «&nbsp;autism-friendly&nbsp;» en quelques mots&nbsp;? Comment le projet a-t-il commencé&nbsp;?
 
