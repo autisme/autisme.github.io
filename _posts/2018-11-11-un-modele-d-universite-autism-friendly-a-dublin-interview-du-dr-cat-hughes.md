@@ -12,8 +12,8 @@ courtesis:
     bank: custom
     custom:
       - https://www.dcu.ie
-oembed_image: /assets/posts/2018-10-22/opengraph.jpg
-banner_image: /assets/posts/2018-10-22/banner.jpg
+oembed_image: /assets/posts/2018-11-11/opengraph.jpg
+banner_image: /assets/posts/2018-11-11/banner.jpg
 ---
 
 Depuis 2016, l'université de Dublin s'est engagée dans un programme de trois ans pour devenir une université complètement accessible aux personnes autistes.
