@@ -32,7 +32,7 @@ Je la remercie infiniment pour cela et vous laisse donc prendre connaissance du 
 ----
 
 
-# Pouvez-vous me présenter ce projet d'université «&nbsp;autism-friendly&nbsp;» en quelques mots&nbsp;? Comment le projet a-t-il commencé&nbsp;?
+## Pouvez-vous me présenter ce projet d'université «&nbsp;autism-friendly&nbsp;» en quelques mots&nbsp;? Comment le projet a-t-il commencé&nbsp;?
 
 L'université «&nbsp;autism-friendly&nbsp;» s'appuie sur 8 principes.
 Ces 8 principes peuvent être divisés grossièrement en 3 catégories&nbsp;: aider les personnes à faire la transition du lycée vers l'université,
@@ -43,20 +43,20 @@ Le projet a été démarré par <a href="https://asiam.ie">AsIAm</a> ainsi qu'un
 chercheuse, Mary Rose Sweeney qui a mené une grande étude sur comment aider les étudiants autistes.
 Voici le rapport de recherche : <a href="https://www.dcu.ie/sites/default/files/president/autsim_friendly_report_no_crops.pdf">https://www.dcu.ie/sites/default/files/president/autsim_friendly_report_no_crops.pdf</a>
 
-# Combien d'étudiants autistes l'université accueille-t-elle&nbsp;?
+## Combien d'étudiants autistes l'université accueille-t-elle&nbsp;?
 
 Cela est difficile à dire. Nous savons que 50 étudiants se font connaître auprès du service handicap de l'université chaque année, mais nous savons également que beaucoup ne dévoilent 
 pas leur handicap.
 Plusieurs étudiants dans cette situation sont venus me voir pour discuter du projet, ce qui est fantastique.
 
-# Quelles sont vos activités en tant que coordinatrice&nbsp;?
+## Quelles sont vos activités en tant que coordinatrice&nbsp;?
 
 Un petit peu de tout&nbsp;! Je rencontre les étudiants et leur famille pour savoir ce 
 dont ils ont besoin. J'aide à former le personnel. 
 Je prends des décisions pour modifier l'environnement - de la couleur de la peinture sur les murs à la création de lieux calmes. 
 Enfin, je siège à des groupes de pilotage pour aider l'université à prendre les décisions les plus inclusives possibles.
 
-# Quels sont les principaux aménagements qui ont été mis en place au sein de l'université&nbsp;?
+## Quels sont les principaux aménagements qui ont été mis en place au sein de l'université&nbsp;?
 
 Il y a beaucoup d'aménagements qui sont déjà, historiquement, mis en place pour les 
 étudiants comme du temps supplémentaire. Des salles d'examen individuelles, des salles avec les 
@@ -71,13 +71,13 @@ ils peuvent adapter leurs cours et les travaux qu'ils donnent à faire. Heureuse
 pour les personnes autistes, 
 car le personnel va naturellement s'adapter à ce public.
 
-# Quel est le processus pour déterminer quels sont les aménagements dont les étudiants ont besoin&nbsp;?
+## Quel est le processus pour déterminer quels sont les aménagements dont les étudiants ont besoin&nbsp;?
 
 Cela dépend des aménagements. Pour les choses en rapport avec les examens, les étudiants ont besoin d'un diagnostic et ont besoin de se faire connaître auprès du service handicap de 
 l'université. Pour les autres choses, comme accéder aux «&nbsp;Pods sensoriels&nbsp;», les étudiants n'ont pas besoin de diagnostic ou de se faire connaître. J'essaie de limiter au 
 maximum le stress vécu par les étudiants lorsqu'ils annoncent leur diagnostic.
 
-# En France, lorsque nous demandons des aménagements pour les personnes autistes, nous avons toujours des gens pour dire que si nous faisons quelque chose pour les personnes autistes, nous devons faire quelque chose pour les autres personnes handicapées - ce qui est normal. Le fait est que finalement, rien n'est fait pour personne. Rencontrez-vous également cet obstacle en Irlande&nbsp;?
+## En France, lorsque nous demandons des aménagements pour les personnes autistes, nous avons toujours des gens pour dire que si nous faisons quelque chose pour les personnes autistes, nous devons faire quelque chose pour les autres personnes handicapées - ce qui est normal. Le fait est que finalement, rien n'est fait pour personne. Rencontrez-vous également cet obstacle en Irlande&nbsp;?
 
 Oui nous avons également ce problème ici. Je pense
 qu'il y a des croisements entre ce qui est bénéfique aux personnes autistes et ce qui est bénéfique à la population en général.
@@ -89,7 +89,7 @@ universels pour être utiles à tout le monde.
 Je suis parfois frustrée de voir que le soutien apporté aux personnes autistes n'est pas suffisant.
 Je pense qu'avoir un membre du personnel autiste comme moi qui peut expliquer cela a réellement ouvert les yeux de certaines personnes.
 
-# Quels obstacles avez-vous rencontrés pour créer une université «&nbsp;autism-friendly&nbsp;»&nbsp;?
+## Quels obstacles avez-vous rencontrés pour créer une université «&nbsp;autism-friendly&nbsp;»&nbsp;?
 
 Pas beaucoup, pour être honnête.
 Il y a eu un grand enthousiasme pour le projet au sein de l'université et le personnel était vraiment désireux de s'impliquer et d'apprendre.
@@ -104,14 +104,14 @@ accueillante pour les personnes autistes. Beaucoup de préoccupations ont donc m
 Je ne peux même pas considérer cela comme une barrière parce que les inquiétudes concernaient les étudiants, ce qui est 
 quelque chose que nous partageons tous&nbsp;!
 
-# Quel est l'élément essentiel pour réussir à rendre une université «&nbsp;autism-friendly&nbsp;»&nbsp;?
+## Quel est l'élément essentiel pour réussir à rendre une université «&nbsp;autism-friendly&nbsp;»&nbsp;?
 
 Je pense que la chose la plus importante est l'écoute. Il est essentiel de prendre le temps pour apprendre à connaître les étudiants, et de ne pas leur imposer nos idées.
 Également, écouter le personnel nous dire ce qu'ils font pour les étudiants autistes et voir là où ils ont besoin d'un soutien supplémentaire. 
 Ces deux éléments prennent du temps, mais ils montrent la volonté et le niveau d'engagement que l'université est prête à donner aux étudiants.
 
 
-# Que faites-vous pour permettre aux étudiants de participer aux activités organisées en dehors des cours&nbsp;?
+## Que faites-vous pour permettre aux étudiants de participer aux activités organisées en dehors des cours&nbsp;?
 
 Les étudiants eux-mêmes sont géniaux pour prendre en compte leurs camarades autistes. J'ai rencontré des étudiants qui ont développé des bonnes pratiques et ont conçu des posters 
 listant des choses à faire pour rendre ces événements plus accessibles aux personnes autistes. Je pense que c'est merveilleux que les étudiants autistes aient 
@@ -123,7 +123,7 @@ cela.
 L'«&nbsp;occupational therapy&nbsp;» est un bon moyen pour aider les étudiants à trouver cet équilibre, et c'est quelque chose que nous fournissons aux étudiants qui se sont fait 
 connaître.
 
-# Avez-vous des relations avec les services qui gèrent les logements étudiants ou la cafétéria&nbsp;? Si oui, quels aménagements ont été mis en place&nbsp;?
+## Avez-vous des relations avec les services qui gèrent les logements étudiants ou la cafétéria&nbsp;? Si oui, quels aménagements ont été mis en place&nbsp;?
 
 «&nbsp;Gateway Student Accommodation&nbsp;» (ndlt: équivalent du CROUS en France) ont été très volontaires depuis le début pour savoir ce qu'ils pouvaient faire.
 Ils sont continuellement en train de s'assurer qu'ils font tout ce qu'ils peuvent faire pour les étudiants autistes.
@@ -131,7 +131,7 @@ Ils sont continuellement en train de s'assurer qu'ils font tout ce qu'ils peuven
 Pour la cafétéria, certaines sont plus calmes que d'autres et plus confortables. Notre grande cantine est encore difficile à supporter pour les étudiants autistes.
 Les étudiants nous demandent des espaces extérieurs protégés pour manger, c'est donc quelque chose que nous allons considérer pour la prochaine phase du projet.
 
-# Comment les étudiants sont-ils aidés pour trouver un stage ou un emploi&nbsp;?
+## Comment les étudiants sont-ils aidés pour trouver un stage ou un emploi&nbsp;?
 
 Nous avons un super service d'orientation qui a déjà été formé à l'inclusion des personnes autistes. Ils ont continué de se former tout au long du projet et 
 ont pris beaucoup d'initiatives pour mettre en place des espaces calmes lors des forums pour l'emploi, etc.
