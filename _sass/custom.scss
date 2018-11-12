@@ -12,9 +12,10 @@ article h2 {
  color: #89a02c;
 }
 
-article h2, article h3 {
+article h1, article h2, article h3 {
  margin-top: 40px;
 }
+
 article h5 {
  font-weight: bold;
  font-size: 1.1em;
@@ -26,6 +27,7 @@ h1, .post-title {
  font-weight: 200;
  font-style: normal;
 /* font-size: 35px; */
+ margin-top: 10px;
 }
 h1.page-heading {
  text-align: center;
