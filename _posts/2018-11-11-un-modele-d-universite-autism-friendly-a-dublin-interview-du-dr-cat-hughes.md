@@ -17,17 +17,23 @@ banner_image: /assets/posts/2018-11-11/banner.jpg
 ---
 
 Depuis 2016, l'université de Dublin s'est engagée dans un programme de trois ans pour devenir une université complètement accessible aux personnes autistes.
-En mars dernier, l'université a été désignée comme la première université «&nbsp;autism-friendly&nbsp;» par AsIAm (<a href="https://www.dcu.ie/news/news/2018/Mar/Dublin-City-University-designated-world%E2%80%99s-first-Autism-Friendly-University.shtml">https://www.dcu.ie/news/news/2018/Mar/Dublin-City-University-designated-world%E2%80%99s-first-Autism-Friendly-University.shtml</a>.
+En mars dernier, l'université a été désignée comme la première université «&nbsp;autism-friendly&nbsp;» par l'organisation Irlandaise «&nbsp;AsIAm&nbsp;»
+(<a href="https://www.dcu.ie/news/news/2018/Mar/Dublin-City-University-designated-world%E2%80%99s-first-Autism-Friendly-University.shtml">https://www.dcu.ie/news/news/2018/Mar/Dublin-City-University-designated-world%E2%80%99s-first-Autism-Friendly-University.shtml</a>).
 
-J'ai rencontré Dr Cat Hughes, la coordinatrice de ce projet en octobre dernier, lors de la conférence organisée par AsIAm.
-J'ai été ravi de pouvoir discuter et de pouvoir échanger avec elle pendant un long moment et je la remercie pour avoir répondu à mes questions.
+J'ai eu la chance de rencontrer le Dr Cat Hughes, la coordinatrice de ce projet, 
+d'avoir discuté et échangé avec elle pendant un long moment.
+Je la remercie infiniement pour m'avoir expliqué ce projet avec tant de détails et pour avoir 
+répondu à toutes mes questions.
 
-À l'heure où en France nous avons de plus en plus d'étudiants autistes qui obtiennent leur baccalauréat et accèdent à l'université,
-où nous commençons même à parler d'universités aspie-friendly, tout en réfléchissant à ce que nous pouvons mettre en place et comment nous y prendre,
-je pense que ce qui se fait à l'université de Dublin doit nous servir de modèle et être une source d'inspiration.
+Àujourd'hui en France, avec de plus en plus d'élèves autistes qui obtiennent 
+leur baccalauréat et accèdent aux études supérieures, nous commençons 
+nous aussi à nous interroger sur l'accessibilité de nos universités à ces étudiants.
+Dans un tel contexte, je pense que ce qui se fait à l'université de Dublin doit 
+nous inspirer et nous servir de modèle.
 
-J'ai donc demandé au Dr Cat Hughes si je pouvais traduire et publier les réponses à mes questions, chose qu'elle a immédiatement acceptée.
-Je la remercie infiniment pour cela et vous laisse donc prendre connaissance du projet.
+J'ai demandé au Dr Cat Hughes si je pouvais traduire et publier les réponses à mes 
+questions, chose qu'elle a immédiatement acceptée.
+Je vous laisse donc prendre connaissance du projet.
 
 ----
 
