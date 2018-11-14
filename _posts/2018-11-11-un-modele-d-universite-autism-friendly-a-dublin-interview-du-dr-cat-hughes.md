@@ -22,7 +22,7 @@ En mars dernier, l'université a été désignée comme la première université
 J'ai rencontré Dr Cat Hughes, la coordinatrice de ce projet en octobre dernier, lors de la conférence organisée par AsIAm.
 J'ai été ravi de pouvoir discuter et de pouvoir échanger avec elle pendant un long moment et je la remercie pour avoir répondu à mes questions.
 
-À l'heure où même en France nous avons de plus en plus d'étudiants autistes qui obtiennent leur baccalauréat et accèdent à l'université,
+À l'heure où en France nous avons de plus en plus d'étudiants autistes qui obtiennent leur baccalauréat et accèdent à l'université,
 où nous commençons même à parler d'universités aspie-friendly, tout en réfléchissant à ce que nous pouvons mettre en place et comment nous y prendre,
 je pense que ce qui se fait à l'université de Dublin doit nous servir de modèle et être une source d'inspiration.
 
