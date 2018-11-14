@@ -48,7 +48,7 @@ cursus universitaire terminé.
 
 Le projet a été démarré par <a href="https://asiam.ie">AsIAm</a> ainsi qu'une 
 chercheuse, Mary Rose Sweeney qui a mené une grande étude sur comment aider les étudiants autistes.
-Voici le rapport de recherche : <a href="https://www.dcu.ie/sites/default/files/president/autsim_friendly_report_no_crops.pdf">https://www.dcu.ie/sites/default/files/president/autsim_friendly_report_no_crops.pdf</a>
+Voici le rapport de recherche&nbsp;: <a href="https://www.dcu.ie/sites/default/files/president/autsim_friendly_report_no_crops.pdf">https://www.dcu.ie/sites/default/files/president/autsim_friendly_report_no_crops.pdf</a>.
 
 ## Combien d'étudiants autistes l'université accueille-t-elle&nbsp;?
 
