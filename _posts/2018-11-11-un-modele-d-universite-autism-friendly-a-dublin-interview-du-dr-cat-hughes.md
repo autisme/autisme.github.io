@@ -120,8 +120,10 @@ Ces deux éléments prennent du temps, mais ils montrent la volonté et le nivea
 
 ## Que faites-vous pour permettre aux étudiants de participer aux activités organisées en dehors des cours&nbsp;?
 
-Les étudiants eux-mêmes sont géniaux pour prendre en compte leurs camarades autistes. J'ai rencontré des étudiants qui ont développé des bonnes pratiques et ont conçu des posters 
-listant des choses à faire pour rendre ces événements plus accessibles aux personnes autistes. Je pense que c'est merveilleux que les étudiants autistes aient 
+Les étudiants eux-mêmes sont géniaux pour 
+tenir compte des besoins de leurs camarades autistes. J'ai rencontré des 
+étudiants qui ont mis en places des bonne pratiques. Par exemple, ils ont conçu 
+des posters listant des choses à faire pour rendre ces événements plus accessibles aux personnes autistes. Je pense que c'est merveilleux que les étudiants autistes aient 
 accès à un plus grand nombre d'événements et que nous leur montrions qu'ils sont les bienvenus.
 
 En même temps, je ne veux pas mettre les étudiants sous pression, pour qu'ils se sentent obligés de socialiser. Je pense que pour beaucoup d'entre nous, nous pouvons nous concentrer 
