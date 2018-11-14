@@ -17,8 +17,7 @@ banner_image: /assets/posts/2018-11-11/banner.jpg
 ---
 
 Depuis 2016, l'université de Dublin s'est engagée dans un programme de trois ans pour devenir une université complètement accessible aux personnes autistes.
-En mars dernier, l'université a été désignée comme la première université «&nbsp;autism-friendly&nbsp;» par l'organisation Irlandaise «&nbsp;AsIAm&nbsp;»
-(<a href="https://www.dcu.ie/news/news/2018/Mar/Dublin-City-University-designated-world%E2%80%99s-first-Autism-Friendly-University.shtml">https://www.dcu.ie/news/news/2018/Mar/Dublin-City-University-designated-world%E2%80%99s-first-Autism-Friendly-University.shtml</a>).
+En mars dernier, l'université a été désignée comme <a href="https://www.dcu.ie/news/news/2018/Mar/Dublin-City-University-designated-world%E2%80%99s-first-Autism-Friendly-University.shtml">la première université «&nbsp;autism-friendly&nbsp;» par l'organisation Irlandaise «&nbsp;AsIAm&nbsp;»</a>.
 
 J'ai eu la chance de rencontrer le Dr Cat Hughes, la coordinatrice de ce projet, 
 d'avoir discuté et échangé avec elle pendant un long moment.
