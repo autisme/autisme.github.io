@@ -25,7 +25,7 @@ d'avoir discuté et échangé avec elle pendant un long moment.
 Je la remercie infiniement pour m'avoir expliqué ce projet avec tant de détails et pour avoir 
 répondu à toutes mes questions.
 
-Àujourd'hui en France, avec de plus en plus d'élèves autistes qui obtiennent 
+Aujourd'hui en France, avec de plus en plus d'élèves autistes qui obtiennent 
 leur baccalauréat et accèdent aux études supérieures, nous commençons 
 nous aussi à nous interroger sur l'accessibilité de nos universités à ces étudiants.
 Dans un tel contexte, je pense que ce qui se fait à l'université de Dublin doit 
