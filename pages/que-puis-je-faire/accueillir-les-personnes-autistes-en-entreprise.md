@@ -15,7 +15,8 @@ breadcrumbs:
 ---
 
 
-Les personnes autistes sont souvent sans emploi ou bien ont un emploi qui ne correspond à leur niveau d'études ou leurs compétences.
+Les personnes autistes sont souvent sans emploi ou bien ont un emploi qui ne correspond 
+pas à leur niveau d'études ou leurs compétences.
 Cela bien souvent car elles pensent et agissent un peu différemment des autres personnes.
 
 Pourtant l'emploi des personnes autistes est un énorme atout pour n'importe quelle entreprise&nbsp;!
@@ -34,7 +35,9 @@ Nous vous donnons des conseils pour limiter ces difficultés, ce qui est à la f
  <section expanded>
   <h4 class="n"><span></span>Entretien d'embauche</h4>
   <div>
-<p>Beaucoup de personnes autistes trouvent les entretiens d'embauche extrêmement difficiles. Du fait de leur handicap, la communication et la socialisation est un réel défi pour ces personnes. 
+<p>Beaucoup de personnes autistes trouvent les entretiens d'embauche extrêmement 
+difficiles. Du fait de leur handicap, la communication et la socialisation sont un réel 
+défi pour ces personnes. 
 Venir à un entretien pendant lequel le recruteur va vous 
 poser des questions sur votre parcours, va examiner vos gestes et votre façon de répondre est une épreuve souvent insurmontable.
 De plus, regarder les gens dans les yeux et maintenir le contact visuel est une difficulté supplémentaire chez beaucoup de personnes autistes.</p>
@@ -51,15 +54,18 @@ Enfin, assurez-vous que la personne ait bien compris ce que vous attendez d'elle
   <h4 class="n"><span></span>Compréhension et communication</h4>
   <div>
 <p>Les personnes autistes ont besoin de certains aménagements pour effectuer le meilleur travail possible pour votre entreprise.
-Il est important que vous compreniez les besoins de vos employés
-Beaucoup de personnes autistes n'arrivent pas à garder un emploi simplement parce qu'ils n'ont pas eu le soutien dont ils avaient besoin ou qu'ils étaient incompris.
-Prenez le temps de trouver quelles sont les barrières auquelles vos employés font face pour travailler dans de bonnes conditions et puissent s'épanouir au travail.</p>
+Il est important que vous compreniez les besoins de vos employés.
+Beaucoup de personnes autistes n'arrivent pas à garder un emploi simplement parce 
+qu'elles n'ont pas eu le soutien dont elles avaient besoin ou qu'elles étaient incomprises.
+Prenez le temps de trouver quelles sont les barrières auxquelles vos employés font face 
+pour travailler dans de bonnes conditions et puissent s'épanouir au travail.</p>
   </div>
  </section>
  <section>
   <h4 class="n"><span></span>Environnement de travail</h4>
   <div>
-<p>Les personnes autistes ont des difficultés avec le traitement sensoriel. Les pièces remplies de monde ou bruyantes ou les espaces de travail remplis de distractions ne sont souvent pas adaptés.
+<p>Les personnes autistes ont des difficultés avec le traitement sensoriel. Les pièces 
+remplies de monde ou bruyantes ou les espaces de travail remplis d'éléments qui détournent l'attention, ne sont souvent pas adaptés.
 Essayez de fournir un lieu calme et sans distractions afin que vos employés puissent se concentrer sur leur travail sans avoir à supporter les stimulations de l'environnement.</p>
   </div>
  </section>
@@ -84,7 +90,8 @@ Faites un effort pour inclure les personnes autistes aux événements sociaux si
  <section>
   <h4 class="n"><span></span>Restez attentifs</h4>
   <div>
-<p>Les personnes autistes ont souvent des problèmes d'anxiété et peuvent parfois être préoccupés par certaines choses ou peuvent rencontrer de nouvelles difficultés dans certaines situations.
+<p>Les personnes autistes ont souvent des problèmes d'anxiété et peuvent parfois être 
+préoccupées par certaines choses ou peuvent rencontrer de nouvelles difficultés dans certaines situations.
 Assurez-vous de vérifier régulièrement quels sont les problèmes de vos employés et trouvez des solutions le plus tôt possible.
 Des employés stressés ou angoissés ne fournissent pas un bon travail. Le stress et l'anxiété peuvent même forcer certaines personnes autistes à quitter leur emploi temporairement ou définitivement.</p>
   </div>
