@@ -62,7 +62,7 @@ Ce n’est pas seulement un bruit que vous n’aimez pas, c’est un bruit que v
   </div>
  </section>
  <section>
-  <h4 class="n"><span></span>4. Soyez rassurants</h4>
+  <h4 class="n"><span></span>4. Soyez rassurant</h4>
   <div>
 <p>Les personnes autistes ont des difficultés avec le changement, les situations nouvelles et inattendues.
 Les personnes autistes ont des difficultés à prédire ce qui va arriver dans telle ou telle situation, ce qui génère beaucoup de stress et d'anxiété.
@@ -115,7 +115,9 @@ Les personnes autistes représentent 1&nbsp;% de la population et nous avons bes
  <section>
   <h4 class="n"><span></span>10. N’hésitez poser des questions et à demander</h4>
   <div>
-<p>Beaucoup de problèmes que les personnes autistes rencontrent dans la société vient du fait que les gens n’osent pas demander. Ils n’osent pas demander ce qu’ils doivent faire, comment agir dans telle situation. N’oubliez pas que demander c’est aussi apprendre.</p>
+<p>Beaucoup de problèmes que les personnes autistes rencontrent dans la société 
+viennent 
+du fait que les gens n’osent pas demander. Ils n’osent pas demander ce qu’ils doivent faire, comment agir dans telle situation. N’oubliez pas que demander c’est aussi apprendre.</p>
   </div>
  </section>
 </amp-accordion>
