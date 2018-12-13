@@ -15,10 +15,10 @@ modules:
 Je m'excuse de ne pas avoir eu le temps de publier de nouvelles ces deux derniers mois 
 mais je n'ai pas abandonné mes activités sur l'autisme pour autant.
 
-Tout d'abord je tiens à remercier l'association autisme 44 pour avoir financé l'impression de mes brochures et plaquettes. Grâce à eux, nous avons pu 
+Tout d'abord je tiens à remercier l'association autisme 44 pour avoir financé l'impression de mes brochures et plaquettes. Grâce à elle, nous avons pu 
 les distribuer en plus grandes quantités et ainsi toucher un public plus large.
 
-Tout d'abord, nous avons participé au salon de l'emploi organisé à Nantes
+Nous avons participé au salon de l'emploi organisé à Nantes
 dans le cadre de  la semaine de l'emploi des personnes handicapées.
 Nous avons pu distribuer des plaquettes et discuter avec les nombreux employeurs qui étaient présents.
 Beaucoup furent très intéressés, nous ont posé demandé de présenter en détails nos 
@@ -61,7 +61,7 @@ L'année prochaine, ce sont jusqu'à 80 personnes qui pourront se faire accompag
 Nous croyons réellement que ce projet est quelque chose qui va dans la bonne direction et nous espèrons que les résultats seront au rendez-vous et permettront de généraliser
 cet accompagnement à la France entière mais aussi de le pérénniser dans le temps.
 
-Au-delà de la présentation de ce projet, la conférence avait pour but de convaincre les employeurs de franchir le pas et d'embaucher les personnes autistes. D'arrêter de se focaliser 
+Au-delà de la présentation de ce projet, la conférence avait pour but de convaincre les employeurs de franchir le pas et d'embaucher les personnes autistes, d'arrêter de se focaliser 
 sur les déficits mais de voir ce que ces personnes peuvent apporter à leur entreprise.
 
 <div class="center">
