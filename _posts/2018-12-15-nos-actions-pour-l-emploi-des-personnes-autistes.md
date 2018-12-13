@@ -33,6 +33,14 @@ Cette conférence fut l'occasion pour Pôle-Emploi de présenter son projet pour
 
 Aujourd'hui moins d'un quart des personnes autistes ont un travail et beaucoup vivent ou ont vécu des ruptures de parcours.
 
+<div class="center">
+<amp-twitter width="604" height="183" data-tweetid="1072179117469155328">
+<blockquote placeholder>
+@BastienBConfais: Moins d'un quart des personnes autistes travaillent et beaucoup vivent des ruptures de parcours . @cco_nantes @poleemploi_PDL
+</blockquote></amp-twitter>
+</div>
+
+
 Pour faire face à cela, une expérimentation a débuté dans les régions d'Île de France, du Centre Val de Loire, de Nouvelle Aquitaine et des Pays de la Loire.
 Les conseillers sont, sur la base du volontariat, formés à l'autisme, afin d'accompagner au mieux ces personnes.
 Ils peuvent ainsi construire un projet professionnel avec la personne en tenant compte des contraintes particulières de cette dernière. Par 
