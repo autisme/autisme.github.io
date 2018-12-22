@@ -47,7 +47,7 @@ Il est également important de planifier les activités habituelles qui se déro
 ## 5. Ayez un lieu calme pour prendre une pause
 
 <div align="center">
-<amp-img class="center" width="460" height="300" src="/assets/posts/2018-12-22/5.jpg" alt="Faites une pause"></amp-img>
+<amp-img class="center" layout="responsive" width="460" height="300" src="/assets/posts/2018-12-22/5.jpg" alt="Faites une pause"></amp-img>
 </div>
 
 Avoir un endroit calme peut être particulièrement utile lorsque vous recevez de nombreux visiteurs dans la maison, lorsque tout est différent de la routine habituelle est que les 
@@ -59,7 +59,7 @@ Il peut également être utile de se mettre d'accord sur un mot ou un signal lor
 ## 6. Planifiez et préparez les cadeaux
 
 <div align="center">
-<amp-img class="center" width="460" height="312" src="/assets/posts/2018-12-22/6.jpg" alt="Préparez l'ouverture des cadeaux"></amp-img>
+<amp-img class="center" layout="responsive" width="460" height="312" src="/assets/posts/2018-12-22/6.jpg" alt="Préparez l'ouverture des cadeaux"></amp-img>
 </div>
 
 Certains enfants n'aiment pas quand leurs cadeaux sont emballés dans du papier. En effet, ils ne peuvent alors pas savoir ce que le paquet contient. Cet inconnu
@@ -76,7 +76,7 @@ Ci-dessous, quelques astuces qui peuvent vous être utiles&nbsp;:
 ## 7. Tous les repas sont des repas de Noël
 
 <div align="center">
-<amp-img class="center" width="460" height="300" src="/assets/posts/2018-12-22/7.jpg" alt="Repas de Noël"></amp-img>
+<amp-img class="center" layout="responsive" width="460" height="300" src="/assets/posts/2018-12-22/7.jpg" alt="Repas de Noël"></amp-img>
 </div>
 
 Ce qui est important pour le repas de Noël, c'est d'être avec sa famille et ses amis, et non ce que nous mangeons&nbsp;!
@@ -85,7 +85,7 @@ Essayez de cuisiner des aliments que la personne autiste aime.
 ## 8. Enlevez les décorations par étapes
 
 <div align="center">
-<amp-img class="center" width="460" height="300" src="/assets/posts/2018-12-22/8.jpg" alt="Décorations"></amp-img>
+<amp-img class="center" layout="responsive" width="460" height="300" src="/assets/posts/2018-12-22/8.jpg" alt="Décorations"></amp-img>
 </div>
 
 Si cela est nécessaire, un guide visuel pour enlever les décorations peut être bénéfique. Impliquez la personne autiste à vous aider à les enlever.
@@ -94,7 +94,7 @@ Des choses simples comme mettre les boîtes dans la pièce la veille du jour où
 ## 9. Faites vos propres traditions
 
 <div align="center">
-<amp-img class="center" width="460" height="300" src="/assets/posts/2018-12-22/9.jpg" alt="Sapin de Noël"></amp-img>
+<amp-img class="center" layout="responsive" width="460" height="300" src="/assets/posts/2018-12-22/9.jpg" alt="Sapin de Noël"></amp-img>
 </div>
 
 Passez un Noël qui vous corresponde à vous et votre famille.
