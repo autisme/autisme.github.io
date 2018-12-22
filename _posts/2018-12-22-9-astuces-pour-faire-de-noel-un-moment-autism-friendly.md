@@ -29,10 +29,10 @@ Utilisez un compte à rebours qui montre clairement combien de jours il reste av
 Cela peut prendre la forme d'un planning visuel, montrant les événements importants qui se déroulent dans la période de Noël, comme par exemple 
 la visite de la famille, la venue du Père Noël ou le moment de décorer le sapin.
 
-## 3. Demandez à la famille et aux amis de planifier leur visite à l'avance
+## 3. Demandez à la famille et aux amis de planifier leur visite
 
 <div align="center">
-<amp-img class="center" width="460" height="360" src="/assets/posts/2018-12-22/3.jpg" alt="Planifier les visites" ></amp-img>
+<amp-img class="center" layout="responsive" width="460" height="360" src="/assets/posts/2018-12-22/3.jpg" alt="Planifier les visites" ></amp-img>
 </div>
 
 Les fêtes sont l'occasion recevoir de nombreuses visites, de la part de sa famille ou de ses amis.
