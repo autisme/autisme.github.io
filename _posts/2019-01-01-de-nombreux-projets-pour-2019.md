@@ -37,17 +37,19 @@ personnes autistes.
 Je n'oublie pas non plus les échanges avec le rectorat de l'académie du Haut-Rhin, 
 avec le service handicap de l'université de Nantes, ainsi qu'avec les nombreuses personnes qui m'ont demandé des renseignements.
 
-J'espère qu'en 2019, nous pourrons continuer à échanger, que je pourrais continuer à
+J'espère qu'en 2019, nous pourrons continuer à échanger, que je pourrai continuer à
 vous conseiller sur ce que vous pouvez faire pour l'inclusion des personnes autistes.
 
-J'espère également que nos nombreux conseils se concrétiserons en actions.
+J'espère également que nos nombreux conseils se concrétiseront en actions.
 J'aimerais vraiment voir à Nantes ou ailleurs en France,  des magasins qui mettent en place des heures adaptées pour les personnes autistes, des restaurants dans lesquels le volume de 
 la  musique est réduit, sans compter sur les cinémas, les transports en commun, et bien sûr les écoles et les entreprises.
 Je ne voudrais pas que tout ce que nous avons fait en 2018, ne reste que des mots écrits sur une feuille de papier.
 
 Je souhaite aussi que les aménagements deviennent quelque chose de stable dans le temps.
 Bien souvent, ceux-ci ne sont mis en place que pendant une journée de sensibilisation ou pendant une phase d'expérimentation.
-Il me semble important, si nous voulons avancer que la mise en place d'aménagement, ceux-ci doivent devenir 
+<!--
+Il me semble important, si nous voulons avancer que la mise en place d'aménagements, ceux-ci doivent devenir 
+-->
 Je pense par exemple à ces galeries marchandes qui mettent en place une heure calme, une fois dans l'année, généralement en avril.
 Cela est très bien, notamment d'un point de vue symbolique mais ce n'est pas ce qui permet aux personnes autistes de prendre l'habitude de pouvoir faire leur courses dans des conditions 
 acceptables.
