@@ -8,7 +8,7 @@ author: Bastien
 courtesis:
   image:
     bank: freepik
-oembed_image: /assets/posts/2018-01-01/opengraph.jpg
+oembed_image: /assets/posts/2019-01-01/opengraph.jpg
 ---
 
 Nous sommes déjà en 2019 et nous avons vécu des choses formidables pendant l'année qui vient de s'écouler.
