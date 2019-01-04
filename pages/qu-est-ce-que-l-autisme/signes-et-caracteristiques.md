@@ -19,7 +19,7 @@ translated:
 ---
 
 
-Nous n'insisterons jamais sur le fait que chaque personne autiste est différent. Toutefois il y a des comportements, des symptômes, des caractéristiques que beaucoup de personnes autistes peuvent avoir.
+Nous n'insisterons jamais sur le fait que chaque personne autiste est différente. Toutefois il y a des comportements, des symptômes, des caractéristiques que beaucoup de personnes autistes peuvent avoir.
 Ci-dessous vous trouverez une liste de ce que peuvent vivre les personnes autistes.
 La liste est longue, met en évidence la diversité du spectre et peut même parfois sembler contradictoire.
 Il est important de noter que si vous ou une autre personne avez quelques-unes de ces caractéristiques, cela ne signifie pas que vous passerez le seuil clinique pour recevoir un diagnostic.
