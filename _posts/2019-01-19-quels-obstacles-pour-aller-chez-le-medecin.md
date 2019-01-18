@@ -51,6 +51,6 @@ Bastien.
 -->
 
 <p class="center">
- <amp-iframe width="600" height="20000" sandbox="allow-scripts allow-forms" src="https://docs.google.com/forms/d/e/1FAIpQLSc6KnsX2Tqj2QSzssG2Va8Iv-ypzvpQInBSQ-mc2ULxQ-aH0g/viewform?embedded=true"></amp-iframe>
+ <amp-iframe layout="fill" sandbox="allow-scripts allow-forms" src="https://docs.google.com/forms/d/e/1FAIpQLSc6KnsX2Tqj2QSzssG2Va8Iv-ypzvpQInBSQ-mc2ULxQ-aH0g/viewform?embedded=true"></amp-iframe>
 </p>
 
