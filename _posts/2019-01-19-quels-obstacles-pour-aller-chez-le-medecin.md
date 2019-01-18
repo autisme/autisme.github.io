@@ -25,13 +25,13 @@ La conséquence est que les personnes autistes décèdent en moyenne 16 ans plus
 les personnes non autistes.
 
 Afin d'améliorer l'accès aux soins pour les personnes autistes, 
-le Dr Doherty travaille actuellement avec <a href="http//asiam.ie">AsIAm</a> et le Dr 
-Stuart Neilson, dans le but de développer une formation à destination des médecins 
+le Dr Doherty travaille actuellement avec <a href="http//asiam.ie">AsIAm</a> dans le but de développer une formation à destination des médecins 
 généralistes.
 
 C'est dans ce contexte qu'elle vous sollicite pour répondre à un cours questionnaire à 
 propos de votre expérience chez le médecin.
-Que vous soyez une personne autiste ou non, ¢e questionnaire est ouvert à tous&nbsp;!
+<strong>Que vous soyez une personne autiste ou non, ce questionnaire est ouvert à tous&nbsp;!</strong>
+
 
 Un grand merci pour votre participation.
 Bastien.
@@ -51,6 +51,6 @@ Bastien.
 -->
 
 <p class="center">
- <amp-iframe width="600" height="2000" sandbox="allow-scripts" src="https://docs.google.com/forms/d/e/1FAIpQLSc6KnsX2Tqj2QSzssG2Va8Iv-ypzvpQInBSQ-mc2ULxQ-aH0g/viewform?embedded=true"></amp-iframe>
+ <amp-iframe width="600" height="2000" sandbox="allow-scripts allow-forms" src="https://docs.google.com/forms/d/e/1FAIpQLSc6KnsX2Tqj2QSzssG2Va8Iv-ypzvpQInBSQ-mc2ULxQ-aH0g/viewform?embedded=true"></amp-iframe>
 </p>
 
