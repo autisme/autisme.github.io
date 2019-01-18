@@ -33,6 +33,8 @@ C'est dans ce contexte qu'elle vous sollicite pour répondre à un cours questio
 propos de votre expérience chez le médecin.
 Que vous soyez une personne autiste ou non, ¢e questionnaire est ouvert à tous&nbsp;!
 
+Un grand merci pour votre participation.
+Bastien.
 
 <!--
 > Chers amis, la plupart d'entre vous connait mon intérêt pour l'autisme.
