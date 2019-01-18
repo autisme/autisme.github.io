@@ -25,7 +25,7 @@ La conséquence est que les personnes autistes décèdent en moyenne 16 ans plus
 les personnes non autistes.
 
 Afin d'améliorer l'accès aux soins pour les personnes autistes, 
-le Dr Doherty travaille actuellement avec <a href="http//asiam.ie">AsIAm</a> dans le but de développer une formation à destination des médecins 
+le Dr Doherty travaille actuellement avec <a href="http://asiam.ie">AsIAm.ie</a> dans le but de développer une formation à destination des médecins 
 généralistes.
 
 C'est dans ce contexte qu'elle vous sollicite pour répondre à un cours questionnaire à 
