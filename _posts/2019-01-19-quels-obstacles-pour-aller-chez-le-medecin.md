@@ -33,7 +33,7 @@ propos de votre expérience chez le médecin.
 <strong>Que vous soyez une personne autiste ou non, ce questionnaire est ouvert à tous&nbsp;!</strong>
 
 
-Un grand merci pour votre participation.
+Un grand merci pour votre participation.<br />
 Bastien.
 
 <!--
