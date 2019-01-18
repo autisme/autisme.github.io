@@ -50,8 +50,8 @@ Bastien.
 > personnes non autistes ? Ce sondage nous aidera à comprendre « pourquoi ».
 -->
 
-<div class="center relative">
- <amp-iframe layout="fill" sandbox="allow-scripts allow-forms" src="https://docs.google.com/forms/d/e/1FAIpQLSc6KnsX2Tqj2QSzssG2Va8Iv-ypzvpQInBSQ-mc2ULxQ-aH0g/viewform?embedded=true">
+<div class="center">
+ <amp-iframe layout="responsive" width="600" adaptiveHeight sandbox="allow-scripts allow-forms" src="https://docs.google.com/forms/d/e/1FAIpQLSc6KnsX2Tqj2QSzssG2Va8Iv-ypzvpQInBSQ-mc2ULxQ-aH0g/viewform?embedded=true">
   <amp-img placeholder src="/assets/undefined_.png" layout="fill">
   </amp-img>
  </amp-iframe>
