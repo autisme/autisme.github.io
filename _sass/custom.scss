@@ -101,6 +101,8 @@ a.translated > span.changex {
 }
 .relative {
  position: relative;
+ min-height: 100px;
+ overflow: hidden;
 }
 span.big {
  font-size: 2em;
