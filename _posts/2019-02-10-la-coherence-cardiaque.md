@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La cohérence cardiaque : un outil au service des personnes autsites"
+title:  "La cohérence cardiaque : un outil au service des personnes autistes"
 date:   2019-02-10 08:00:00 +0100
 categories:
   - Temoignage
@@ -51,6 +51,7 @@ Les bienfaits de la cohérence cardiaque sont nombreux :
     - Moduler la pression artérielle
     - Augmenter le sentiment de bien être
 
+<p>&nbsp;</p>
 
   - À long terme avec une pratique régulière, elle
     - Contribue à renforcer les défenses immunitaires
