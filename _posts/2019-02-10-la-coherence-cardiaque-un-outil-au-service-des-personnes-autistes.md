@@ -67,8 +67,8 @@ Une fois la méthode expliquée et apprise lors d’une séance accompagnée, la
 peut se faire en autonomie, chez soi, à son rythme et selon ses besoins.
 
 
-Si vous êtes intéressé par cette approche, vous pouvez contacter Mme Anne-Sophie Degrandcourt à l'adresse suivante : 
-<amp-iframe width="320" height="50" sandbox="allow-scripts" src="/html/email.as.degrandcourt.gmail.com.html"></amp-iframe> ou au 06 48 16 02 74
+Si vous êtes intéressé par cette approche, vous pouvez contacter Mme Anne-Sophie Degrandcourt au 06 48 16 02 74 ou à l'adresse suivante : 
+<amp-iframe width="320" height="50" sandbox="allow-scripts" src="/html/email.as.degrandcourt.gmail.com.html"></amp-iframe>
 
 
 
