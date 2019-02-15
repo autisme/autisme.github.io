@@ -17,7 +17,7 @@ banner_image: /assets/posts/2019-02-15/banner.jpg
 Mme Potinière nous a souvent aidé depuis le lancement de ce site, notamment pour rencontrer les différentes associations de la région nantaise œuvrant dans le domaine 
 de l'autisme, mais aussi pour rencontrer les employeurs et les organismes publics tels que Pôle-Emploi.
 Dans sa vie professionnelle, elle est assistante de formation et connaît quels sont les dispositifs d'accompagnement vers l'emploi
-dont peuvent bénéficier aux personnes autistes.
+dont peuvent bénéficier les personnes autistes.
 Il est vrai qu'il n'est pas toujours évident de se repérer parmi tout ce qui a été mis en place au fil des ans. Nous la remercions pour cette synthèse qui demande un réel travail.
 ---
 
