@@ -202,13 +202,14 @@ ne peut vous dire quels sont les problèmes d'accessibilités rencontrés.</p>
  </section>
 </amp-accordion>
 
+<div class="highlight">
 
+Pour terminer, vous trouverez ci-dessous un dépliant résumant les informations contenues sur cette page&nbsp;:
 
+<ul class="thumb center">
+ {% capture download_url %}{{ site.resources_repository }}/printout/asyoucan-health/display.pdf{% endcapture %}
+ {% include thumb.html url=download_url title="Comment accueillir les personnes autistes dans votre cabinet médical, infirmerie ou pharmacie&nbsp;? (PDF)" img="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/asyoucan.jpg" color="" %}
+</ul>
 
-
-
-
-
-
-
+</div>
 
