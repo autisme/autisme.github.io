@@ -5,6 +5,7 @@ date:   2019-04-01 08:00:00 +0100
 categories:
   - Opinion
   - Témoignage
+  - Université
 author: Bastien
 courtesis:
   image:
@@ -13,7 +14,7 @@ oembed_image: /assets/posts/2019-04-01/opengraph.jpg
 banner_image: /assets/posts/2019-04-01/banner.jpg
 ---
 
-Je m'excuse de ne pas avoir écrit ici plus souvent mais ces dernieres semaines ont été particulièrement remplies et j'ai été très heureux de pouvoir participer
+Je m'excuse de ne pas avoir écrit ici plus souvent mais ces dernières semaines ont été particulièrement remplies et j'ai été très heureux de pouvoir participer
 à de nombreux événements.
 
 En février, j'ai pu participer à une table ronde organisée par l'université d'Avignon sur l'accueil des étudiants en situation de handicap.
@@ -92,7 +93,7 @@ La mobilité internationale est quelque chose que nous oublions souvent, lorsque
 Pour ma part, je ne suis pas parti à l’étranger pendant mes études car à cette époque, je n’étais pas prêt.
 
 Toutefois, je pense que certaines personnes peuvent se dire que partir à l’étranger pendant leurs études n’est pas quelque chose pour elles et préférer ne pas partir plutôt que de demander des aménagements.
-Je pense qu’il est important que les universités n’hésitent pas à montrer ce qui existe, ce qu’elles peuvent mettre en place, de façon à éviter que les étudiants s’auto censurent à/pour demander des aménagements.
+Je pense qu’il est important que les universités n’hésitent pas à montrer ce qui existe, ce qu’elles peuvent mettre en place, de façon à éviter que les étudiants s’auto-censurent pour demander des aménagements.
 
 ## 5. Qu'est-ce qui existe dans la société et ce qu'est-ce qui peut être mis en place à l'université&nbsp;?
 
@@ -101,14 +102,14 @@ L’université pose de nombreux défis pour les personnes en situation de handi
 Il n’est pas question que les enseignants deviennent des spécialistes de chaque handicap mais qu’ils aient quelques connaissances et quelques clés pour inclure les personnes concernées, en d’autre mots, qu’ils sachent quoi faire et ne soient pas perdus face à ce public qu’ils sont amenés de plus en plus à côtoyer/rencontrer.
 
 Parmi les difficultés rencontrées par les personnes autistes, la transition du lycée vers l’université est un défi à part entière.
-Au-delà des études, c’est aussi le moment où les étudiants quittent la maison familiale pour vivre de façon autonome dans un logement étudiant. Ce changement est peut être le plus gros frein pour l’accès des études supérieures car beaucoup d’étudiants ne peuvent pas vivre de façon autonome après le baccalauréat. Personnellement, je n’aurais certainement pas fait d’études supérieures s’il n’y avait pas eu d’université dans la ville dans laquelle j’habite, afin que je puisse rentrer tous les soirs à la maison. Je pense que cela est un énorme frein pour l’accessibilité de nos universités.
+Au-delà des études, c’est aussi le moment où les étudiants quittent la maison familiale pour vivre de façon autonome dans un logement étudiant. Ce changement est peut-être le plus gros frein pour l’accès des études supérieures car beaucoup d’étudiants ne peuvent pas vivre de façon autonome après le baccalauréat. Personnellement, je n’aurais certainement pas fait d’études supérieures s’il n’y avait pas eu d’université dans la ville dans laquelle j’habite, afin que je puisse rentrer tous les soirs à la maison. Je pense que cela est un énorme frein pour l’accessibilité de nos universités.
 
 Également, l’organisation de la semaine est vraiment très différente. Par exemple au lycée, l’emploi du tout est tout le temps le même alors qu’à l’université, les matières et les salles changent constamment. Cela fait perdre beaucoup de repères. Il faut également apprendre à s’organiser dans les devoirs à rendre. L’université demande beaucoup plus de travail individuel qu’il n’y avait au lycée.
 
 La seconde difficulté rencontrée par les étudiants est de faire face à ce nouvel environnement. Les campus sont souvent très grands dans lesquels il peut être difficile pour les personnes autistes de se repérer. Circuler avec la foule, supporter le bruit à la cafétéria sont encore autant d’obstacles. Pour ma part, j’ai eu la chance de pouvoir visiter les campus plusieurs fois avant la rentrée des classes mais également, que ma maman m'emmène chaque matin jusqu’à la salle de cours et vienne le midi pour manger avec moi. 
 
 
-Il avait été également convenu qu’une enseignante me mette à disposition un bureau. Cela me fournissait non seulement un endroit calme pour travailler, mais également, cela me donnait un repère : si un imprévu se produisait dans la journée, où s’il y avait un moment de libre dans l’emploi du temps, je savais que j’avais un endroit dans lequel aller.
+Il avait été également convenu qu’une enseignante me mette à disposition un bureau. Cela me fournissait non seulement un endroit calme pour travailler, mais également, cela me donnait un repère&nbsp;: si un imprévu se produisait dans la journée, où s’il y avait un moment de libre dans l’emploi du temps, je savais que j’avais un endroit dans lequel aller.
 
 Ce bureau me permettait aussi de rédiger les examens au calme. Même lorsque les élèves ne parlent pas et travaillent au calme dans un amphithéâtre, il y a toujours des bruits de crayon, de feuilles qui peuvent être réellement difficiles à supporter dans ces moments de stress et qui peuvent m’empêcher de me concentrer.
 
@@ -149,7 +150,7 @@ L’université de Dublin a franchi le pas et a mis en place des actions dans 8 
 
 Aujourd’hui leur projet est bien avancé et ils sont sollicités partout dans le monde pour répliquer ce modèle. Par exemple, ils sont récemment allés présenter ce qu’ils font à la Vanderbilt University aux États-Unis.
 
-Toutefois, au-delà de ces actions, je pense que le principal facteur pour l’inclusion des personnes autistes ou plus généralement des personnes en situation de handicap est d’arriver à créer ce climat de bienveillance, où les enseignants ont la volonté d’accueillir ces personnes et de les emmener 
+Toutefois, au-delà de ces actions, je pense que le principal facteur pour l’inclusion des personnes autistes ou plus généralement des personnes en situation de handicap est d’arriver à créer ce climat de bienveillance, où les enseignants ont la volonté d’accueillir ces personnes et de les emmener vers la réussite.
 
 
 
