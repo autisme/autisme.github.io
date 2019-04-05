@@ -7,7 +7,6 @@ courtesis:
   image:
     bank: freepik
 oembed_image: /assets/pages/que-puis-je-faire/adoptez-le-bon-langage/opengraph.jpg
-banner_image: /assets/pages/que-puis-je-faire/adoptez-le-bon-langage/banner.jpg
 breadcrumbs:
   - /que-puis-je-faire/
 ---
