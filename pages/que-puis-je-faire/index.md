@@ -22,6 +22,7 @@ Ci-dessous, une liste des différents travaux et des actions que nous avons réa
 <ul class="thumb" id="Sensibilisation">
  {% include thumb.html url="/que-puis-je-faire/10-choses-simples-pour-l-inclusion-des-personnes-autistes" title="10 choses simples pour l'inclusion des personnes autistes" img="/assets/pages/que-puis-je-faire/10-choses-simples-l-inclusion-des-personnes-autistes/opengraph.jpg" %}
  {% include thumb.html url="/que-puis-je-faire/mettez-vous-dans-la-peau-d-une-personne-autiste" title="Expérience - Mettez-vous dans la peau d'une personne autiste" img="/assets/pages/que-puis-je-faire/mettez-vous-dans-la-peau-d-une-personne-autiste/opengraph.jpg" %}
+ {% include thumb.html url="/que-puis-je-faire/adoptez-le-bon-langage" title="Adoptez le bon langage" img="/assets/pages/que-puis-je-faire/adoptez-le-bon-langage/opengraph.jpg" %}
 </ul>
 
 ## Lieux publics / Environnement
