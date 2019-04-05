@@ -9,13 +9,16 @@ courtesis:
 oembed_image: /assets/pages/que-puis-je-faire/adoptez-le-bon-langage/opengraph.jpg
 breadcrumbs:
   - /que-puis-je-faire/
+translated:
+  website: asiam
+  url: /wp-content/uploads/2019/04/Autism-And-Language.pdf
 ---
 
 L’autisme est un sujet qui est abordé de plus en plus fréquemment et de plus en plus de
 personnes y ont été sensibilisés ces dernières années. Cependant, il existe encore des
 incertitudes dans la société à propos du langage à employer lorsque nous en parlons.
 
-Que vous soyez employeur, journaliste ou simple citoyen, le guide ci-dessous vous aidera à 
+Que vous soyez employeur, journaliste, créateur de contenu  ou simple citoyen, le guide ci-dessous vous aidera à 
 utiliser les mots justes pour que les personnes autistes se sentent respectées.
 
 
