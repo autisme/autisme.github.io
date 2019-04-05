@@ -23,6 +23,6 @@ utiliser les mots justes pour que les personnes autistes se sentent respectées.
 
 
 <ul class="thumb">
- {% capture download_url %}{{ site.resources_repository }}/autism-and-language/langauge.pdf{% endcapture %}
+ {% capture download_url %}{{ site.resources_repository }}/autism-and-language/language.pdf{% endcapture %}
  {% include thumb.html url=download_url title="Comment parler de l'autisme ? (PDF)" img="/assets/pages/que-puis-je-faire/adoptez-le-bon-langage/opengraph.jpg" color="green" %}
 </ul>
