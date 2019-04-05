@@ -12,7 +12,7 @@ breadcrumbs:
 ---
 
 L’autisme est un sujet qui est abordé de plus en plus fréquemment et de plus en plus de
-personnes y ont été sensibilisés ces dernières années. Cependant, existe encore des
+personnes y ont été sensibilisés ces dernières années. Cependant, il existe encore des
 incertitudes dans la société à propos du langage à employer lorsque nous en parlons.
 
 Que vous soyez employeur, journaliste ou simple citoyen, le guide ci-dessous vous aidera à 
