@@ -64,7 +64,7 @@ En ce mois d'avril, nous devons nous concentrer sur l'acceptation des personnes 
 
 ## Que pouvez-vous faire en ce mois d'Avril ?
 
-Il n'y a pas besoin d'utiliser une couleur spécifique, mais si vous le voulez vraiment, essayez la couleur <span class="bold gold">Or</span>&nbsp;!
+Il n'y a pas besoin d'utiliser une couleur spécifique, mais si vous le voulez vraiment, essayez la <span class="bold gold">couleur Or</span>&nbsp;!
 
 Les personnes autistes aiment souvent «&nbsp;Light It Up Gold&nbsp;» parce que le symbole chimique de l'Or est  «&nbsp;Au&nbsp;» (comme le début du mot «&nbsp;autisme&nbsp;») et qu'avril est la période de l'année
 où nous brillons.
