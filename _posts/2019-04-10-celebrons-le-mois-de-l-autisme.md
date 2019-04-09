@@ -26,7 +26,7 @@ Tout cela est très bien. Cependant, cela n'est pas forcément très utile pour 
 
 ## Couleur bleue
 
-Lorsque la couleur bleue a été associée pour la première fois à l'autisme, les personnes et les groupes qui l'ont utilisés pensaient que l'autisme était quelque chose
+Lorsque la couleur bleue a été associée pour la première fois à l'autisme, les personnes et les groupes qui l'ont utilisée pensaient que l'autisme était quelque chose
 de médical, comme une maladie qui devrait être guérie.
 
 «&nbsp;Light It Up Blue&nbsp;» avait pour but d'éclairer le chemin vers un remède pour l'autisme.
