@@ -10,7 +10,6 @@ domain: "canal-u.tv"
 title: "[COLLOQUE] HANDICAP(S) :REGARDS, PERCEPTIONS ET ACCESSIBILITÉ DANS LES ÉTUDES ET LA VIE UNIVERSITAIRE"
 description: "National Autism Conference is less than a week away, in the Grand Hotel, Malahide, Dublin, this Saturday. Attendees will receive an email with all the information they need to know on the day, and in addition during the week we’ll post updates about the Conference here on our website."
 oembed_image: "https://www.canal-u.tv/media/images/universite_d_avignon_et_des_pays_de_vaucluse/.colloque.handicap.s.regards.perceptions.et.accessibilite.dans.les.e.tudes.et.la.vie.universitaire._49797/vignette.jpg"
-https://asiam.ie/wp-content/uploads/2018/10/conference-speaker-stock.jpg"
 twitter_username: "canal_u"
 ---
 
