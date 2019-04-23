@@ -153,9 +153,5 @@ Aujourd’hui leur projet est bien avancé et ils sont sollicités partout dans 
 Toutefois, au-delà de ces actions, je pense que le principal facteur pour l’inclusion des personnes autistes ou plus généralement des personnes en situation de handicap est d’arriver à créer ce climat de bienveillance, où les enseignants ont la volonté d’accueillir ces personnes et de les emmener vers la réussite.
 
 
-
-
-
-
-
+Vous pouvez retrouver la vidéo de cet événement à l'addresse suivante&nbsp;: [https://www.canal-u.tv/video/universite_d_avignon_et_des_pays_de_vaucluse/colloque_handicap_s_regards_perceptions_et_accessibilite_dans_les_e_tudes_et_la_vie_universitaire_seance_matin.49797](https://www.canal-u.tv/video/universite_d_avignon_et_des_pays_de_vaucluse/colloque_handicap_s_regards_perceptions_et_accessibilite_dans_les_e_tudes_et_la_vie_universitaire_seance_matin.49797)
 
