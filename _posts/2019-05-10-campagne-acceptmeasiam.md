@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Campagne AcceptMeAsIAm"
+title:  "Campagne AcceptMeAsIAm pour faire comprendre l'autisme"
 date:   2019-05-10 08:00:00 +0100
 categories:
   - Inclusion
@@ -8,8 +8,8 @@ author: Bastien
 courtesis:
   image:
     bank: freepik
-oembed_image: /assets/posts/2019-04-10/opengraph.jpg
-banner_image: /assets/posts/2019-04-10/banner.jpg
+oembed_image: /assets/posts/2019-05-10/opengraph.jpg
+banner_image: /assets/posts/2019-05-10/banner.jpg
 modules:
   - fit-text
   - carousel
