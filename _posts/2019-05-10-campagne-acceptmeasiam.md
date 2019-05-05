@@ -126,7 +126,7 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
  <div class="slide">
   <amp-fit-text width="600" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 9 - Soyez attentif de l'environnement sensoriel dans les commerces. Rencontrez Eleanor.</strong></p>
-   <p>«&nbsp;Se rendre dans les commerces peut être un champ de mines sensoriel, avec des lumières vives, une musique forte, et une large foule, ce qui peut être rapidemment épuisant.
+   <p>«&nbsp;Se rendre dans les commerces peut être un champ de mines sensoriel, avec des lumières vives, une musique forte, et une large foule, ce qui peut être rapidement épuisant.
    Pour de multiples raisons, je ne veux pas utiliser le commerce en ligne&nbsp;: j'ai besoin de sentir les textures et d'essayer les vêtements avant de les acheter.</p>
    <p>Je trouve qu'il est difficile de s'avoir comment s'habiller pour une occasion particulière. Quelque chose que j'ai en commun avec d'autres personnes autistes
    est que je pense que le genre ne doit pas influer sur la façon dont nous nous s'habillons.</p>
@@ -161,6 +161,23 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
   </amp-fit-text>
   <amp-twitter width="600" height="850" data-tweetid="1116959222460235776"><blockquote placeholder>
    @AsIAmIreland: Day 11 - Using the telephone. Meet Fiona.
+   </blockquote></amp-twitter>
+ </div>
+
+ <div class="slide">
+  <amp-fit-text width="600" height="200" layout="responsive" max-font-size="17">
+   <p><strong>Jour 12 - Faire face à l'environnement. Rencontrez Riley.</strong></p>
+   <p>«&nbsp;Qu'est-ce qui est difficile&nbsp;?<br />
+   Riley trouve que le bruit est quelque chose d'insupportable et met souvent des bouchons d'oreille pour aider à le supporter.
+   Les musiques ou les annonces au micro peuveunt réellement le déranger. Il fait souvent des crises car il ne peut pas parler pour dire au gens ce qu'il n'aime pas
+   Il va très probablement se mettre par terre et couvrir ses yeux et ses oreilles pour bloquer les stimulis.</p>
+
+   <p>Qu'est-ce qui peut l'aider&nbsp;?<br />
+   Éteindre la musique ou mettre une musique douce aide vraiment Riley. Il ne sort pas son casque antibruit et son chien d'assistance l'aide beaucoup à faire face
+   à l'environnement sensoriel.&nbsp;»</p>
+  </amp-fit-text>
+  <amp-twitter width="600" height="850" data-tweetid="1116959222460235776"><blockquote placeholder>
+   @AsIAmIreland: Day 12 - Managing busy environments. Meet Riley.
    </blockquote></amp-twitter>
  </div>
 
