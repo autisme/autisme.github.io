@@ -599,6 +599,4 @@ de sensibiliser le grand public. Ci-dessous, les différentes images publiées j
 </div>
 
 
-<button on="tap:carousel.goToSlide(index=2)">
- <amp-img src="{{ site.resources_repository }}/monday-messages/02-noise/img.png" width="128" height="128" alt="p01"></amp-img>
-</button>
+<button on="tap:carousel.goToSlide(index=2)"><amp-img src="{{ site.resources_repository }}/monday-messages/02-noise/img.png" width="128" height="128" alt="p01"></amp-img></button>
