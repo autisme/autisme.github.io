@@ -123,5 +123,46 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    </blockquote></amp-twitter>
  </div>
 
+ <div class="slide">
+  <amp-fit-text width="600" height="200" layout="responsive" max-font-size="17">
+   <p><strong>Jour 9 - Soyez attentif de l'environnement sensoriel dans les commerces. Rencontrez Eleanor.</strong></p>
+   <p>«&nbsp;Se rendre dans les commerces peut être un champ de mines sensoriel, avec des lumières vives, une musique forte, et une large foule, ce qui peut être rapidemment épuisant.
+   Pour de multiples raisons, je ne veux pas utiliser le commerce en ligne&nbsp;: j'ai besoin de sentir les textures et d'essayer les vêtements avant de les acheter.</p>
+   <p>Je trouve qu'il est difficile de s'avoir comment s'habiller pour une occasion particulière. Quelque chose que j'ai en commun avec d'autres personnes autistes
+   est que je pense que le genre ne doit pas influer sur la façon dont nous nous s'habillons.</p>
+   <p>Quoi de plus important que de faire attention à l'environnement sensoriel pendant que nous choisissons et achetons nos vêtements!&nbsp;»</p>
+  </amp-fit-text>
+  <amp-twitter width="600" height="850" data-tweetid="1116254064927485954"><blockquote placeholder>
+   @AsIAmIreland: Day 9 - Be mindful of sensory processing when shopping. Meet Eleanor.
+   </blockquote></amp-twitter>
+ </div>
+
+ <div class="slide">
+  <amp-fit-text width="600" height="200" layout="responsive" max-font-size="17">
+   <p><strong>Jour 10 - Faire la queue. Rencontrez Grace.</strong></p>
+   <p>«&nbsp;Pour certaines personnes autistes, aller dans les grands magasins peut être épuisant. Avoir supporté la lumière vive, les bruits forts, signifie qu'au moment d'aller à la caisse
+   elle n'en peuvent plus. Devoir rester debout à attendre peut les pousser à faire une crise, et de quitter le magasin sans rien acheter.</p>
+   <p>La simple action de laisser une personne autiste passer devant la file d'attente peut faire une grande différence dans leur capacité à se rendre dans les lieux publics.
+   Cela est valable dans de nombreuses situations comme attendre pour voir un film, pour aller chez le coiffeur mais aussi pendant les déplacements.</p>
+   <p>Votre gentillesse améliore la qualité de vie de toute la famille d'une personne autiste car vous leur permettez d'avoir de profiter des mêmes activités que tout le monde.&nbsp;»</p>
+  </amp-fit-text>
+  <amp-twitter width="600" height="850" data-tweetid="1116596942752980992"><blockquote placeholder>
+   @AsIAmIreland: Day 10 - Queuing. Meet Grace.
+   </blockquote></amp-twitter>
+ </div>
+
+ <div class="slide">
+  <amp-fit-text width="600" height="200" layout="responsive" max-font-size="17">
+   <p><strong>Jour 11 - Utiliser le téléphone. Rencontrez Fiona.</strong></p>
+   <p>«&nbsp;Parler au téléphone peut être vraiment stressant, car j'ai parfois besoin de voir la personne à qui je parle pour la comprendre.
+   Si je connais la personne à qui je parle au bout du fil, cela rend les choses plus facile mais si c'est quelqu'un que je ne connais pas, cela peut me rendre très anxieuse.</p>
+   <p>Si je reçois un appel, j'ai besoin de connaître la raison exacte en avance pour m'y préparer. S'il s'agit de quelque chose qui peut être discuté par écrit, cela rend les choses plus simple
+   car cela me laisse le temps de traiter l'information.&nbsp;»</p>
+  </amp-fit-text>
+  <amp-twitter width="600" height="850" data-tweetid="1116959222460235776"><blockquote placeholder>
+   @AsIAmIreland: Day 11 - Using the telephone. Meet Fiona.
+   </blockquote></amp-twitter>
+ </div>
+
 </amp-carousel>
 </div>
