@@ -21,6 +21,204 @@ de sensibiliser le grand public. Ci-dessous, les différentes images publiées j
 <div class="center">
 <amp-carousel width="600" height="700" layout="intrinsic" type="slides" class="white">
  <div class="slide">
+  <div class="caption">95/ Lorsqu'une personne autiste fait une crise, ce n'est pas pour se faire remarquer. C'est qu'à force de stress, la personne perd totalement le contrôle d'elle-même. La laisser seule pour qu'elle puisse reprendre ses esprits est la meilleure chose à faire.</div>
+  <a href="" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/95-meltdown/img.png" layout="intrinsic" width="600" height="600" alt="95"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">94/ Avoir un traitement sensoriel différent est également la raison pour laquelle certaines personnes autistes peuvent ne pas respecter le code vestimentaire de l'entreprise et venir tous les jours habillés de la même façon.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1122757406532915203" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/94-clothes/img.png" layout="intrinsic" width="600" height="600" alt="94"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">93/ Les personnes autistes pensent différemment, mais cela ne s'arrête pas à l'école et au travail. Cela concerne tous les aspects de la vie.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1120220693482876929" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/93-easter/img.png" layout="intrinsic" width="600" height="600" alt="93"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">92/ Lorsqu'une personne reçoit de l'aide et réussit sur le plan scolaire ou professionnel, nous avons tendance à remettre en question l'aide reçue Pourtant nous devrions être heureux de voir que les aménagements mis en place fonctionnent correctement.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1117683979312934919" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/92-grades-is-not-support/img.png" layout="intrinsic" width="600" height="600" alt="92"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">91/ Il n'existe pas de méthode unique pour inclure les personnes autistes mais ces quelques étapes sont essentielles&nbsp;!</div>
+  <a href="https://twitter.com/BastienBConfais/status/1115147263603560448" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/91-controle-environment/img.png" layout="intrinsic" width="600" height="600" alt="91"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">90/ Il est important de savoir ce qu'est l'autisme et d'en avoir une vision positive si nous voulons rendre la société plus inclusive&nbsp;!</div>
+  <a href="https://twitter.com/BastienBConfais/status/1112610549026689025" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/90-empathy/img.png" layout="intrinsic" width="600" height="600" alt="90"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">89/ Nous nous faisons souvent une idée restreinte de ce qu'est l'accessibilité en la limitant aux handicaps visibles.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1110088931742285825" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/89-accessibility-is-not-just-wheelchair-ramp/img.png" layout="intrinsic" width="600" height="600" alt="89"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">88/ En tant que personne autiste diagnostiquée dans l'enfance, il est souvent difficile de remercier ses parents qui nous ont aidé et soutenu pendant tant d'années.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1107552215894388737" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/88-parents/img.png" layout="intrinsic" width="600" height="600" alt="88"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">87/ Avoir un travail permet non seulement aux personnes autistes de contribuer à la société mais cela leur donne également l'opportunité de développer les compétences sociales qui ne s'apprennent que difficilement en dehors du milieu professionnel.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1105015501179088898" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/87-social-skills-before-job/img.png" layout="intrinsic" width="600" height="600" alt="87"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">86/ Les besoins des personnes autistes changent avec le temps et il est important que les aménagements évoluent en conséquence&nbsp;!</div>
+  <a href="https://twitter.com/BastienBConfais/status/1102478787571257345" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/86-autism-friendly-is-a-process/img.png" layout="intrinsic" width="600" height="600" alt="86"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">85/ Encore trop de personnes n'osent pas demander des aménagements de peur d'être stigmatisées.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1099942071039918080" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/85-accomodations/img.png" layout="intrinsic" width="600" height="600" alt="85"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">84/ Permettre aux personnes autistes de se préparer à gérer une situation nouvelle est aussi important que de mettre en place des aménagements&nbsp;!</div>
+  <a href="https://twitter.com/BastienBConfais/status/1097405357675040770" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/84-streetview/img.png" layout="intrinsic" width="600" height="600" alt="84"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">83/ Rendre les clubs et les ateliers accessibles aux personnes autistes est essentiel ! Ce sont parfois les seule occasions qui permettent à ces personnes de sortir de chez elles.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1094868642762801152" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/83-association/img.png" layout="intrinsic" width="600" height="600" alt="83"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">82/ L'inclusion passe aussi par les mots que nous utilisons. Nous devons éviter les mots connotés qui font sentir aux personnes autistes qu'elles n'ont pas leur place dans la société.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1092331927145730048" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/82-language/img.png" layout="intrinsic" width="600" height="600" alt="82"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">81/ Se renseigner et poser ses questions permet d'acquérir des repères pour inclure les personnes autistes dans les meilleures conditions.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1089795210954055680" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/81-ask/img.png" layout="intrinsic" width="600" height="600" alt="81"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">80/ Un sourire peut permettre de montrer que nous sommes intéressés ou bien de montrer notre empathie. Cependant, nous devons toujours garder en tête que tout le monde ne maîtrise pas le langage non verbal. </div>
+  <a href="https://twitter.com/BastienBConfais/status/1087258496104652801" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/80-face-expression/img.png" layout="intrinsic" width="600" height="600" alt="80"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">79/ L'autisme est parfois invisible : vous ne savez alors pas que la personne à qui vous vous adressez est concernée. C'est pourquoi il est important de rester flexible, tolérant et de ne pas juger trop rapidement.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1084721781930246144" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/79-camouflaging/img.png" layout="intrinsic" width="600" height="600" alt="79"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">78/ Ranger le sapin et reprendre la routine crée beaucoup de changements en très peu de temps.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1082185067689058304" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/78-back-to-routine/img.png" layout="intrinsic" width="600" height="600" alt="78"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">77/ N'oubliez pas que vous pouvez toujours prendre de bonnes résolutions pour qu'en 2019 l'inclusion des personnes autistes devienne une réalité.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1079648351023357952" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/77-new-year/img.png" layout="intrinsic" width="600" height="600" alt="77"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">76/ Passer de bons moments en famille est quelque chose d'important pour tout le monde, y compris pour les personnes autistes.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1077111636706512898" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/76-christmas-meal/img.png" layout="intrinsic" width="600" height="600" alt="76"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">75/ Savoir comment les choses vont se passer, comment les événements vont se dérouler est très important pour les personnes autistes.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1074574920254963712" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/75-present/img.png" layout="intrinsic" width="600" height="600" alt="75"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">74/ Que ce soit au travail ou à la maison, assurez-vous que les personnes autistes vous comprennent. Nous avons tendance à être vague ou à dire le contraire de ce que nous pensons.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1072038205510172672" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/74-be-clear/img.png" layout="intrinsic" width="600" height="600" alt="74"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">73/ Être surpris par la sonnerie du téléphone, devoir interrompre son activité et ne pas avoir pu préparer son texte avant de décrocher font que beaucoup de personnes autistes préfèrent utiliser d'autres moyens de communication.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1069501492204396544" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/73-phone-predictability/img.png" layout="intrinsic" width="600" height="600" alt="73"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">72/ Coordonner ses mouvements pour faire du vélo, jouer au ballon ou pour écrire est souvent une difficulté négligée chez les personnes autistes.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1066964777019162626" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/72-coordination/img.png" layout="intrinsic" width="600" height="600" alt="72"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">71/ Comme tout le monde, les personnes autistes doivent choisir leur métier en fonction de leurs centres d'intérêt et de leurs compétences.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1064428061062545408" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/71-repetitive/img.png" layout="intrinsic" width="600" height="600" alt="71"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">70/ Avoir une routine aide à prévoir comment va se dérouler la journée. Cela ne signifie pas pour autant que tous les jours doivent se suivre et se ressembler.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1061891346741420032" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/70-routine/img.png" layout="intrinsic" width="600" height="600" alt="70"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">69/ Savoir se débrouiller seul dans les tâches du quotidien est un réel défi pour la plupart des personnes autistes - et n'a rien à voir avec un quelconque «&nbsp;niveau d'intelligence&nbsp;».</div>
+  <a href="https://twitter.com/BastienBConfais/status/1059354631170486272" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/69-living-independently/img.png" layout="intrinsic" width="600" height="600" alt="69"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">68/ L'inclusion ne s'arrête pas à la porte de l'école : beaucoup de personnes autistes restent à l'écart des fêtes comme Halloween mais aimeraient y participer&nbsp;!</div>
+  <a href="https://twitter.com/BastienBConfais/status/1056817916694409216" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/68-halloween/img.png" layout="intrinsic" width="600" height="600" alt="68"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">67/ Les personnes autistes s'expriment souvent par d'autres moyens de communication que par la parole.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1054266101985656832" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/67-pictograms/img.png" layout="intrinsic" width="600" height="600" alt="67"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">66/ Chaque personne autiste est unique et savoir comment accueillir et interagir avec chacune d'entre elles n'est pas expliqué dans les livres.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1051729388054736897" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/66-theory/img.png" layout="intrinsic" width="600" height="600" alt="66"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">65/ L'autisme ne doit pas être considéré comme une simple liste de déficits.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1049192670227259394" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/65-list-of-deficits/img.png" layout="intrinsic" width="600" height="600" alt="65"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">64/ Que ce soit à l'école ou au travail, les instructions courtes et précises sont plus faciles à suivre pour tout le monde notamment pour les personnes autistes.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1046655956418002945" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/64-ambiguous-instructions/img.png" layout="intrinsic" width="600" height="600" alt="64"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <div class="caption">63/ Bien souvent les parents n'ont aucune idée de ce qui se passe à l'école et inversement pour les enseignants. Téléphoner, écrire un mot dans le cahier ou discuter au début ou à la fin de la journée permet de comprendre les raisons de certains comportements.</div>
+  <a href="https://twitter.com/BastienBConfais/status/1044119240033402881" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/monday-messages/63-communication-parents-teachers/img.png" layout="intrinsic" width="600" height="600" alt="63"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
   <div class="caption">62/ Beaucoup d'élèves autistes sont épuisés en rentrant de l'école. Aller en cours leur demande beaucoup d'énergie non seulement pour se concentrer sur la leçon mais surtout pour supporter l'environnement sensoriel de la classe.</div>
   <a href="https://twitter.com/BastienBConfais/status/1041582525938851840" target="_blank">
    <amp-img src="{{ site.resources_repository }}/monday-messages/62-school-sensory/img.png" layout="intrinsic" width="600" height="600" alt="62"></amp-img>
