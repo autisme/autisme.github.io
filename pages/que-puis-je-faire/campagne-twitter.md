@@ -5,7 +5,7 @@ permalink: /que-puis-je-faire/campagne-twitter
 header_link: false
 courtesis:
   image:
-    bank: perso
+    bank: freepik
 oembed_image: /assets/pages/que-puis-je-faire/campagne-twitter/opengraph.jpg
 banner_image: /assets/pages/que-puis-je-faire/campagne-twitter/banner.jpg
 modules:
