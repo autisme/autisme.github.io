@@ -20,7 +20,7 @@ Depuis juillet 2017, nous postons chaque lundi, une image en lien avec l'autisme
 de sensibiliser le grand public. Ci-dessous, les différentes images publiées jusqu'à présent.
 
 <div class="center">
-<amp-carousel width="600" height="800" layout="responsive" type="slides" class="white" id="carousel" on="slideChange: carousel-selector.toggle(index=event.index, value=true), carousel-preview.goToSlide(index=event.index)">
+<amp-carousel width="600" height="700" layout="responsive" type="slides" class="white" id="carousel" on="slideChange: carousel-selector.toggle(index=event.index, value=true), carousel-preview.goToSlide(index=event.index)">
  <div class="slide">
   <div class="caption">95/ Lorsqu'une personne autiste fait une crise, ce n'est pas pour se faire remarquer. C'est qu'à force de stress, la personne perd totalement le contrôle d'elle-même. La laisser seule pour qu'elle puisse reprendre ses esprits est la meilleure chose à faire.</div>
   <a href="" target="_blank">
