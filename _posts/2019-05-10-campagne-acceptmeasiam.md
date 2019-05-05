@@ -21,7 +21,7 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
 
 
 <div class="center">
-<amp-carousel width="600" height="1000" layout="intrinsic" type="slides" class="white" id="carousel">
+<amp-carousel width="600" height="900" layout="intrinsic" type="slides" class="white" id="carousel">
  <div class="slide">
   <amp-fit-text width="600" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 1 - L'autisme est invisible. Rencontrez Liam.</strong></p>
@@ -33,7 +33,7 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    Et s'ils sont accompagnés par une femme, cela signifie de devoir utiliser les toilettes pour filles.
    Prenez le temps de comprendre cela car parfois nous ne pouvons pas attendre&nbsp;!</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="800" data-tweetid="1113414191283671041"><blockquote placeholder>
+  <amp-twitter width="600" height="700" data-tweetid="1113414191283671041"><blockquote placeholder>
    @AsIAmIreland: Day 1 - Autism is invisible. Meet Liam.
    </blockquote></amp-twitter>
  </div>
@@ -45,7 +45,7 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    <p>«&nbsp;Parfois, lorsque les personnes me parlent, j'ai besoin d'un peu de temps pour comprendre ce qu'ils me disent, même si j'entends parfaitement.
    Vous pouvez m'aider en étant direct et en me laissant le temps de répondre.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="800" data-tweetid="1113741232130461696"><blockquote placeholder>
+  <amp-twitter width="600" height="700" data-tweetid="1113741232130461696"><blockquote placeholder>
    @AsIAmIreland: Day 2 - Processing time. Meet Katelynn.
    </blockquote></amp-twitter>
  </div>
@@ -56,7 +56,7 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    <p>«&nbsp;Tout le monde devrait être inclus dans les jeux sportifs.
    Une façon d'y arriver est de se focaliser plus sur la possibilité donnée d'y participer plutôt que sur le sport en lui-même.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="800" data-tweetid="1114074206684295168"><blockquote placeholder>
+  <amp-twitter width="600" height="700" data-tweetid="1114074206684295168"><blockquote placeholder>
    @AsIAmIreland: Day 3 - Autism and sport. Meet Cormac.
    </blockquote></amp-twitter>
  </div>
