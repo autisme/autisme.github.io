@@ -67,7 +67,7 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    <p>«&nbsp;Devenir adulte est un réel défi.
    Ce qui me fait le plus peur de devnir adulte et de quitter l'école, c'est que j'aurai beaucoup moins de personnes autour de moi. Qui me calmera dans les moments difficiles&nbsp;?
    À l'école, j'avais une AVS et un enseignant qui ne seront plus avec moi l'année prochaine. J'espère que mes camarades de promotion à l'université pourront me soutenir et sauront que les
-   bons moments sont plus nombreux que les mauvais.&nbsp;»
+   bons moments sont plus nombreux que les mauvais.&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="800" data-tweetid="1114422508713803776"><blockquote placeholder>
    @AsIAmIreland: Day 4 - Devenir adulte. Meet Jeanette.
