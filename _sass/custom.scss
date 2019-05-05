@@ -206,7 +206,6 @@ amp-carousel div.caption {
  background: rgba(0,0,0,.6);
  color: #ddd;
  font-size: smaller;
- flex: 0 0 300px;
 }
 amp-carousel.white div.caption {
  background-color: transparent;
@@ -221,7 +220,7 @@ amp-carousel.white {
 }
 amp-carousel .slide a  {
  display: block;
- flex: 0 0 600px;
+ flex: 0 0 500px;
 }
 .carousel-preview {
  margin-top: 20px;
