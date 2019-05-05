@@ -206,7 +206,7 @@ amp-carousel div.caption {
  background: rgba(0,0,0,.6);
  color: #ddd;
  font-size: smaller;
- flex: 0 0 30%;
+ flex: 0 0 300px;
 }
 amp-carousel.white div.caption {
  background-color: transparent;
@@ -220,7 +220,7 @@ amp-carousel.white {
  border-radius: 10px;
 }
 amp-carousel amp-img {
- flex: 0 0 70%;
+ flex: 0 0 600px;
 }
 .carousel-preview {
  margin-top: 20px;
