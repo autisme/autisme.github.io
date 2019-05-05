@@ -3,7 +3,7 @@ layout: post
 title:  "Célébrons le mois de l'autisme !"
 date:   2019-04-10 08:00:00 +0100
 categories:
-  - Opinion
+  - Inclusion
 author: Bastien
 courtesis:
   image:
