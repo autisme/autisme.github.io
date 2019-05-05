@@ -246,6 +246,8 @@ ul.thumb > li, ul.contact > li {
 }
 ul.partner > li > a {
  display: block;
+ padding: 0;
+ margin: 5px 1px 5px 1px;
  opacity: 0.7;
 }
 ul.partner > li > a:hover {
@@ -370,7 +372,7 @@ ul.contact > li.email {
 
 
 /* lists */
-ul.thumb, ul.contact {
+ul.thumb, ul.contact, ul.partner {
  display: flex;
  list-style-type: none;
  flex-wrap: wrap;
