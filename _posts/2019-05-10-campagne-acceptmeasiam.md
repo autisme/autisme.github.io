@@ -116,7 +116,7 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    <p><strong>Jour 8 - Valorisez mes intérêts. Rencontrez Gáibhin.</strong></p>
    <p>«&nbsp;J'ai toujours adoré lire et écrire. Créer des choses et faire croire.
    Lorsque j'étais enfant, l'intensité de ces intérêts était gênant et je ne savais pas comment canaliser toute cette fascination en quelque chose de constructif.</p>
-   <p>J'ai eu la chance d'avoir les bonnes personnes autour de moi, qui m'ont aidé à diriger cette énergie pour que je puisse faire ce que je fais aujourd'hui.&nbsp;»
+   <p>J'ai eu la chance d'avoir les bonnes personnes autour de moi, qui m'ont aidé à diriger cette énergie pour que je puisse faire ce que je fais aujourd'hui.&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="850" data-tweetid="1115884773577297921"><blockquote placeholder>
    @AsIAmIreland: Day 8 - Valuing my interests. Meet Gáibhin.
