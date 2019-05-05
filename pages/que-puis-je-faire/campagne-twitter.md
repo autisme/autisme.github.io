@@ -596,8 +596,111 @@ de sensibiliser le grand public. Ci-dessous, les différentes images publiées j
   </a>
  </div>
 </amp-carousel>
+
+<amp-selector id="carousel-selector" on="select:carousel.goToSlide(index=event.targetOption)" layout="container">
+ <amp-carousel id="carousel-preview" class="carousel-preview" height="128" layout="fixed-height" type="carousel">
+  <amp-img option="0" src="{{ site.resources_repository }}/monday-messages/95-meltdown/img.png" width="128" height="128" alt="p95"></amp-img>
+  <amp-img option="1" src="{{ site.resources_repository }}/monday-messages/94-clothes/img.png" width="128" height="128" alt="p94"></amp-img>
+  <amp-img option="2" src="{{ site.resources_repository }}/monday-messages/93-easter/img.png" width="128" height="128" alt="p93"></amp-img>
+  <amp-img option="3" src="{{ site.resources_repository }}/monday-messages/92-grades-is-not-support/img.png" width="128" height="128" alt="p92"></amp-img>
+  <amp-img option="4" src="{{ site.resources_repository }}/monday-messages/91-controle-environment/img.png" width="128" height="128" alt="p91"></amp-img>
+  <amp-img option="5" src="{{ site.resources_repository }}/monday-messages/90-empathy/img.png" width="128" height="128" alt="p90"></amp-img>
+  <amp-img option="6" src="{{ site.resources_repository }}/monday-messages/89-accessibility-is-not-just-wheelchair-ramp/img.png" width="128" height="128" alt="p89"></amp-img>
+  <amp-img option="7" src="{{ site.resources_repository }}/monday-messages/88-parents/img.png" width="128" height="128" alt="p88"></amp-img>
+  <amp-img option="8" src="{{ site.resources_repository }}/monday-messages/87-social-skills-before-job/img.png" width="128" height="128" alt="p87"></amp-img>
+  <amp-img option="9" src="{{ site.resources_repository }}/monday-messages/86-autism-friendly-is-a-process/img.png" width="128" height="128" alt="p86"></amp-img>
+  <amp-img option="10" src="{{ site.resources_repository }}/monday-messages/85-accomodations/img.png" width="128" height="128" alt="p85"></amp-img>
+  <amp-img option="11" src="{{ site.resources_repository }}/monday-messages/84-streetview/img.png" width="128" height="128" alt="p84"></amp-img>
+  <amp-img option="12" src="{{ site.resources_repository }}/monday-messages/83-association/img.png" width="128" height="128" alt="p83"></amp-img>
+  <amp-img option="13" src="{{ site.resources_repository }}/monday-messages/82-language/img.png" width="128" height="128" alt="p82"></amp-img>
+  <amp-img option="14" src="{{ site.resources_repository }}/monday-messages/81-ask/img.png" width="128" height="128" alt="p81"></amp-img>
+  <amp-img option="15" src="{{ site.resources_repository }}/monday-messages/80-face-expression/img.png" width="128" height="128" alt="p80"></amp-img>
+  <amp-img option="16" src="{{ site.resources_repository }}/monday-messages/79-camouflaging/img.png" width="128" height="128" alt="p79"></amp-img>
+  <amp-img option="17" src="{{ site.resources_repository }}/monday-messages/78-back-to-routine/img.png" width="128" height="128" alt="p78"></amp-img>
+  <amp-img option="18" src="{{ site.resources_repository }}/monday-messages/77-new-year/img.png" width="128" height="128" alt="p77"></amp-img>
+  <amp-img option="19" src="{{ site.resources_repository }}/monday-messages/76-christmas-meal/img.png" width="128" height="128" alt="p76"></amp-img>
+  <amp-img option="20" src="{{ site.resources_repository }}/monday-messages/75-present/img.png" width="128" height="128" alt="p75"></amp-img>
+  <amp-img option="21" src="{{ site.resources_repository }}/monday-messages/74-be-clear/img.png" width="128" height="128" alt="p74"></amp-img>
+  <amp-img option="22" src="{{ site.resources_repository }}/monday-messages/73-phone-predictability/img.png" width="128" height="128" alt="p73"></amp-img>
+  <amp-img option="23" src="{{ site.resources_repository }}/monday-messages/72-coordination/img.png" width="128" height="128" alt="p72"></amp-img>
+  <amp-img option="24" src="{{ site.resources_repository }}/monday-messages/71-repetitive/img.png" width="128" height="128" alt="p71"></amp-img>
+  <amp-img option="25" src="{{ site.resources_repository }}/monday-messages/70-routine/img.png" width="128" height="128" alt="p70"></amp-img>
+  <amp-img option="26" src="{{ site.resources_repository }}/monday-messages/69-living-independently/img.png" width="128" height="128" alt="p69"></amp-img>
+  <amp-img option="27" src="{{ site.resources_repository }}/monday-messages/68-halloween/img.png" width="128" height="128" alt="p68"></amp-img>
+  <amp-img option="28" src="{{ site.resources_repository }}/monday-messages/67-pictograms/img.png" width="128" height="128" alt="p67"></amp-img>
+  <amp-img option="29" src="{{ site.resources_repository }}/monday-messages/66-theory/img.png" width="128" height="128" alt="p66"></amp-img>
+  <amp-img option="30" src="{{ site.resources_repository }}/monday-messages/65-list-of-deficits/img.png" width="128" height="128" alt="p65"></amp-img>
+  <amp-img option="31" src="{{ site.resources_repository }}/monday-messages/64-ambiguous-instructions/img.png" width="128" height="128" alt="p64"></amp-img>
+  <amp-img option="32" src="{{ site.resources_repository }}/monday-messages/63-communication-parents-teachers/img.png" width="128" height="128" alt="p63"></amp-img>
+  <amp-img option="33" src="{{ site.resources_repository }}/monday-messages/62-school-sensory/img.png" width="128" height="128" alt="p62"></amp-img>
+  <amp-img option="34" src="{{ site.resources_repository }}/monday-messages/61-how-are-you/img.png" width="128" height="128" alt="p61"></amp-img>
+  <amp-img option="35" src="{{ site.resources_repository }}/monday-messages/60-back-to-school/img.png" width="128" height="128" alt="p60"></amp-img>
+  <amp-img option="36" src="{{ site.resources_repository }}/monday-messages/59-school-prep/img.png" width="128" height="128" alt="p59"></amp-img>
+  <amp-img option="37" src="{{ site.resources_repository }}/monday-messages/58-help-from-peers/img.png" width="128" height="128" alt="p58"></amp-img>
+  <amp-img option="38" src="{{ site.resources_repository }}/monday-messages/57-summer-camp/img.png" width="128" height="128" alt="p57"></amp-img>
+  <amp-img option="39" src="{{ site.resources_repository }}/monday-messages/56-friends/img.png" width="128" height="128" alt="p56"></amp-img>
+  <amp-img option="40" src="{{ site.resources_repository }}/monday-messages/55-restaurant/img.png" width="128" height="128" alt="p55"></amp-img>
+  <amp-img option="41" src="{{ site.resources_repository }}/monday-messages/54-holidays/img.png" width="128" height="128" alt="p54"></amp-img>
+  <amp-img option="42" src="{{ site.resources_repository }}/monday-messages/53-holidays-monument/img.png" width="128" height="128" alt="p53"></amp-img>
+  <amp-img option="43" src="{{ site.resources_repository }}/monday-messages/52-inclusion-is-mandatory/img.png" width="128" height="128" alt="p52"></amp-img>
+  <amp-img option="44" src="{{ site.resources_repository }}/monday-messages/51-temperature/img.png" width="128" height="128" alt="p51"></amp-img>
+  <amp-img option="45" src="{{ site.resources_repository }}/monday-messages/50-teacher-inclusion/img.png" width="128" height="128" alt="p50"></amp-img>
+  <amp-img option="46" src="{{ site.resources_repository }}/monday-messages/49-exams/img.png" width="128" height="128" alt="p49"></amp-img>
+  <amp-img option="47" src="{{ site.resources_repository }}/monday-messages/48-stimming/img.png" width="128" height="128" alt="p48"></amp-img>
+  <amp-img option="48" src="{{ site.resources_repository }}/monday-messages/47-special-interest/img.png" width="128" height="128" alt="p47"></amp-img>
+  <amp-img option="49" src="{{ site.resources_repository }}/monday-messages/46-sport/img.png" width="128" height="128" alt="p46"></amp-img>
+  <amp-img option="50" src="{{ site.resources_repository }}/monday-messages/45-siblings/img.png" width="128" height="128" alt="p45"></amp-img>
+  <amp-img option="51" src="{{ site.resources_repository }}/monday-messages/44-sensory-tools/img.png" width="128" height="128" alt="p44"></amp-img>
+  <amp-img option="52" src="{{ site.resources_repository }}/monday-messages/43-need/img.png" width="128" height="128" alt="p43"></amp-img>
+  <amp-img option="53" src="{{ site.resources_repository }}/monday-messages/42-phone/img.png" width="128" height="128" alt="p42"></amp-img>
+  <amp-img option="54" src="{{ site.resources_repository }}/monday-messages/42bis-may-day/img.png" width="128" height="128" alt="p42bis"></amp-img>
+  <amp-img option="55" src="{{ site.resources_repository }}/monday-messages/41-assistance-dog/img.png" width="128" height="128" alt="p41"></amp-img>
+  <amp-img option="56" src="{{ site.resources_repository }}/monday-messages/40-stared/img.png" width="128" height="128" alt="p40"></amp-img>
+  <amp-img option="57" src="{{ site.resources_repository }}/monday-messages/39-not-only-communication-but-also-sensory/img.png" width="128" height="128" alt="p39"></amp-img>
+  <amp-img option="58" src="{{ site.resources_repository }}/monday-messages/38-autism-awareness-month/img.png" width="128" height="128" alt="p38"></amp-img>
+  <amp-img option="59" src="{{ site.resources_repository }}/monday-messages/37-autistic-people-are-people-first/img.png" width="128" height="128" alt="p37"></amp-img>
+  <amp-img option="60" src="{{ site.resources_repository }}/monday-messages/36-accepting-a-child-in-school-is-only-the-first-step-to-inclusion/img.png" width="128" height="128" alt="p36"></amp-img>
+  <amp-img option="61" src="{{ site.resources_repository }}/monday-messages/35-we-do-not-have-the-same-standards/img.png" width="128" height="128" alt="p35"></amp-img>
+  <amp-img option="62" src="{{ site.resources_repository }}/monday-messages/34-inclusion/img.png" width="128" height="128" alt="p34"></amp-img>
+  <amp-img option="63" src="{{ site.resources_repository }}/monday-messages/33-uncertainty/img.png" width="128" height="128" alt="p33"></amp-img>
+  <amp-img option="64" src="{{ site.resources_repository }}/monday-messages/32-finding-a-job-is-one-of-the-most-difficul-thing/img.png" width="128" height="128" alt="p32"></amp-img>
+  <amp-img option="65" src="{{ site.resources_repository }}/monday-messages/31-one-world/img.png" width="128" height="128" alt="p31"></amp-img>
+  <amp-img option="66" src="{{ site.resources_repository }}/monday-messages/30-exhausting/img.png" width="128" height="128" alt="p30"></amp-img>
+  <amp-img option="67" src="{{ site.resources_repository }}/monday-messages/29x-depression/img.png" width="128" height="128" alt="p29x"></amp-img>
+  <amp-img option="68" src="{{ site.resources_repository }}/monday-messages/29-autism-should-not-be-a-dirty-secret/img.png" width="128" height="128" alt="p29"></amp-img>
+  <amp-img option="69" src="{{ site.resources_repository }}/monday-messages/28-job-advert/img.png" width="128" height="128" alt="p28"></amp-img>
+  <amp-img option="70" src="{{ site.resources_repository }}/monday-messages/27-meltdown/img.png" width="128" height="128" alt="p27"></amp-img>
+  <amp-img option="71" src="{{ site.resources_repository }}/monday-messages/26-correlation-iq-difficulties/img.png" width="128" height="128" alt="p26"></amp-img>
+  <amp-img option="72" src="{{ site.resources_repository }}/monday-messages/25-new-year/img.png" width="128" height="128" alt="p25"></amp-img>
+  <amp-img option="73" src="{{ site.resources_repository }}/monday-messages/24-christmas/img.png" width="128" height="128" alt="p24"></amp-img>
+  <amp-img option="74" src="{{ site.resources_repository }}/monday-messages/23-christmas/img.png" width="128" height="128" alt="p23"></amp-img>
+  <amp-img option="75" src="{{ site.resources_repository }}/monday-messages/22-transports/img.png" width="128" height="128" alt="p22"></amp-img>
+  <amp-img option="76" src="{{ site.resources_repository }}/monday-messages/21-charity/img.png" width="128" height="128" alt="p21"></amp-img>
+  <amp-img option="77" src="{{ site.resources_repository }}/monday-messages/20-recruitment/img.png" width="128" height="128" alt="p20"></amp-img>
+  <amp-img option="78" src="{{ site.resources_repository }}/monday-messages/19-doctors/img.png" width="128" height="128" alt="p19"></amp-img>
+  <amp-img option="79" src="{{ site.resources_repository }}/monday-messages/18-reasonable-accommodations/img.png" width="128" height="128" alt="p18"></amp-img>
+  <amp-img option="80" src="{{ site.resources_repository }}/monday-messages/17-autism-is-for-everybody/img.png" width="128" height="128" alt="p17"></amp-img>
+  <amp-img option="81" src="{{ site.resources_repository }}/monday-messages/16-all-people-can-have-a-job/img.png" width="128" height="128" alt="p16"></amp-img>
+  <amp-img option="82" src="{{ site.resources_repository }}/monday-messages/15-sexuality/img.png" width="128" height="128" alt="p15"></amp-img>
+  <amp-img option="83" src="{{ site.resources_repository }}/monday-messages/14-we-do-not-talk-about-because-we-lack-of-understanding/img.png" width="128" height="128" alt="p14"></amp-img>
+  <amp-img option="84" src="{{ site.resources_repository }}/monday-messages/13-how-to-choose-a-school/img.png" width="128" height="128" alt="p13"></amp-img>
+  <amp-img option="85" src="{{ site.resources_repository }}/monday-messages/12-bullying/img.png" width="128" height="128" alt="p12"></amp-img>
+  <amp-img option="86" src="{{ site.resources_repository }}/monday-messages/11-lack-of-knowledge-lead-to-stigma/img.png" width="128" height="128" alt="p11"></amp-img>
+  <amp-img option="87" src="{{ site.resources_repository }}/monday-messages/10-dont-judge-a-book-by-its-cover/img.png" width="128" height="128" alt="p10"></amp-img>
+  <amp-img option="88" src="{{ site.resources_repository }}/monday-messages/09-inclusion-is-important/img.png" width="128" height="128" alt="p09"></amp-img>
+  <amp-img option="89" src="{{ site.resources_repository }}/monday-messages/08-every-person-with-autism-is-unique/img.png" width="128" height="128" alt="p08"></amp-img>
+  <amp-img option="90" src="{{ site.resources_repository }}/monday-messages/07-eye-contact/img.png" width="128" height="128" alt="p07"></amp-img>
+  <amp-img option="91" src="{{ site.resources_repository }}/monday-messages/06-stimming/img.png" width="128" height="128" alt="p06"></amp-img>
+  <amp-img option="92" src="{{ site.resources_repository }}/monday-messages/05-sentences/img.png" width="128" height="128" alt="p05"></amp-img>
+  <amp-img option="93" src="{{ site.resources_repository }}/monday-messages/04-proprioceptive-system/img.png" width="128" height="128" alt="p04"></amp-img>
+  <amp-img option="94" src="{{ site.resources_repository }}/monday-messages/03-we-all-need-visual-instructions/img.png" width="128" height="128" alt="p03"></amp-img>
+  <amp-img option="95" src="{{ site.resources_repository }}/monday-messages/02-noise/img.png" width="128" height="128" alt="p02"></amp-img>
+  <amp-img option="96" src="{{ site.resources_repository }}/monday-messages/01-everyone-knows-somebody-with-autism/img.png" width="128" height="128" alt="p01"></amp-img>
+ </amp-carousel>
+</amp-selector>
 </div>
 
+<!--
 <div class="carousel-preview">
 <button on="tap:carousel.goToSlide(index=0)"><amp-img src="{{ site.resources_repository }}/monday-messages/95-meltdown/img.png" width="128" height="128" alt="p95"></amp-img></button>
 <button on="tap:carousel.goToSlide(index=1)"><amp-img src="{{ site.resources_repository }}/monday-messages/94-clothes/img.png" width="128" height="128" alt="p94"></amp-img></button>
@@ -697,3 +800,4 @@ de sensibiliser le grand public. Ci-dessous, les différentes images publiées j
 <button on="tap:carousel.goToSlide(index=95)"><amp-img src="{{ site.resources_repository }}/monday-messages/02-noise/img.png" width="128" height="128" alt="p02"></amp-img></button>
 <button on="tap:carousel.goToSlide(index=96)"><amp-img src="{{ site.resources_repository }}/monday-messages/01-everyone-knows-somebody-with-autism/img.png" width="128" height="128" alt="p01"></amp-img></button>
 </div>
+-->
