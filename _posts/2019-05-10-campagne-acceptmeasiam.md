@@ -39,6 +39,31 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
  <div class="slide">
   <amp-fit-text width="600" height="300" layout="responsive" max-font-size="17">
    <strong>Jour 2 - Temps de traitement de l'information. Rencontrez Katelynn.</strong><br /><br />
+   «&nbsp;Parfois, lorsque les personnes me parlent, j'ai besoin d'un peu de temps pour comprendre ce qu'ils me disent, même si j'entends parfaitement.
+   Vous pouvez m'aider en étant direct et en me laissant le temps de répondre.&nbsp;»
+
+   Les personnes autistes traitent l'information différemment&nbsp;:
+    - Elles peuvent avoir besoin de plus de temps pour comprendre ce que vous dites, pour que les sons que vous prononcez se convertissent en mots.<br />
+    - Une personne peut se souvenir de la première et de la dernière instruction que vous donnez mais pas des instructions intermédiaires.<br />
+    - Certaines personnes peuvent s'arrêter au milieu d'une conversation car cela peut devenir trop difficile de suivre.<br />
+    - D'autres peuvent avoir du mal à discuter dans un environnement bruyant<br />
+
+   Ce que vous pouvez faire&nbsp;:
+    - Soyez patient, laisser le temps de traiter l'information<br />
+    - Donnez-vous la possibilité d'écrire les instructions<br />
+    - N'hésitez pas à répéter si la personne vous le demande<br />
+    - Déplacez-vous dans des lieux calmes pour discuter<br />
+    - Ne donnez pas trop d'instructions à la fois
+  </amp-fit-text>
+  <amp-twitter width="600" height="800" data-tweetid="1113741232130461696"><blockquote placeholder>
+   @AsIAmIreland: Day 2 - Processing time. Meet Katelynn.
+   </blockquote></amp-twitter>
+ </div>
+</amp-carousel>
+
+ <div class="slide">
+  <amp-fit-text width="600" height="300" layout="responsive" max-font-size="17">
+   <strong>Jour 3 - . Rencontrez Katelynn.</strong><br /><br />
    Parfois, lorsque les personnes me parlent, j'ai besoin d'un peu de temps pour comprendre ce qu'ils me disent, même si j'entends parfaitement.
    Vous pouvez m'aider en étant direct et en me laissant le temps de répondre.
   </amp-fit-text>
