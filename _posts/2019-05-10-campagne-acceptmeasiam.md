@@ -21,7 +21,7 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
 
 
 <div class="center">
-<amp-carousel width="600" height="900" layout="intrinsic" type="slides" class="white" id="carousel">
+<amp-carousel width="600" height="1050" layout="intrinsic" type="slides" class="white" id="carousel">
  <div class="slide">
   <amp-fit-text width="600" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 1 - L'autisme est invisible. Rencontrez Liam.</strong></p>
@@ -33,7 +33,7 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    Et s'ils sont accompagnés par une femme, cela signifie de devoir utiliser les toilettes pour filles.
    Prenez le temps de comprendre cela car parfois nous ne pouvons pas attendre&nbsp;!</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="800" data-tweetid="1113414191283671041"><blockquote placeholder>
+  <amp-twitter width="600" height="850" data-tweetid="1113414191283671041"><blockquote placeholder>
    @AsIAmIreland: Day 1 - Autism is invisible. Meet Liam.
    </blockquote></amp-twitter>
  </div>
@@ -45,7 +45,7 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    <p>«&nbsp;Parfois, lorsque les personnes me parlent, j'ai besoin d'un peu de temps pour comprendre ce qu'ils me disent, même si j'entends parfaitement.
    Vous pouvez m'aider en étant direct et en me laissant le temps de répondre.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="800" data-tweetid="1113741232130461696"><blockquote placeholder>
+  <amp-twitter width="600" height="850" data-tweetid="1113741232130461696"><blockquote placeholder>
    @AsIAmIreland: Day 2 - Processing time. Meet Katelynn.
    </blockquote></amp-twitter>
  </div>
@@ -56,7 +56,7 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    <p>«&nbsp;Tout le monde devrait être inclus dans les jeux sportifs.
    Une façon d'y arriver est de se focaliser plus sur la possibilité donnée d'y participer plutôt que sur le sport en lui-même.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="800" data-tweetid="1114074206684295168"><blockquote placeholder>
+  <amp-twitter width="600" height="850" data-tweetid="1114074206684295168"><blockquote placeholder>
    @AsIAmIreland: Day 3 - Autism and sport. Meet Cormac.
    </blockquote></amp-twitter>
  </div>
@@ -69,7 +69,7 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    À l'école, j'avais une AVS et un enseignant qui ne seront plus avec moi l'année prochaine. J'espère que mes camarades de promotion à l'université pourront me soutenir et sauront que les
    bons moments sont plus nombreux que les mauvais.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="800" data-tweetid="1114422508713803776"><blockquote placeholder>
+  <amp-twitter width="600" height="850" data-tweetid="1114422508713803776"><blockquote placeholder>
    @AsIAmIreland: Day 4 - Becoming an adult. Meet Jeanette.
    </blockquote></amp-twitter>
  </div>
@@ -82,10 +82,9 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    <p>Lorsque je suis dans un magasin ou que je rencontre des gens dans la rue, je planifie ce que je vais dire, et ce que les autres vont probablement répondre.</p>
    <p>Parfois, je prépare des scripts très élaborés avec toutes les possibilités dont la conversation pourrait se passer, mais les gens sortent souvent du script.
    Lorsqu'ils disent quelque chose à laquelle je ne m'attends pas, je n'entends que le son, comme une langue étrangère que je ne connais. Il me faut du temps pour que cela se transforme
-   en mots mais dans la queue des magasins, il n'y a souvent pas le temps.</p>
-   <p>Parfois je mets ma main sur mon oreille et dit "désolé, je ne vous ai pas entendu", mais le caissier pense pense que je suis sourd.&nbsp;»</p>
+   en mots mais dans la queue des magasins, il n'y a souvent pas le temps. Il m'arrive de mettre ma main sur mon oreille et dit "désolé, je ne vous ai pas entendu", mais le caissier pense pense que je suis sourd.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="800" data-tweetid="1114784931111165954"><blockquote placeholder>
+  <amp-twitter width="600" height="850" data-tweetid="1114784931111165954"><blockquote placeholder>
    @AsIAmIreland: Day 5 - Keep up with a conversation. Meet Stuart.
    </blockquote></amp-twitter>
  </div>
@@ -93,10 +92,10 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
  <div class="slide">
   <amp-fit-text width="600" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 6 - Exprimer mes besoins. Rencontrez Aidan.</strong></p>
-   <p>«&nbsp;Parfois, lorsque je suis contrarié, je ne peux pas communiquer. Cela mène à des incompréhensions comme me voir reprocher des choses que je n'ai pas faites. Cela me rend
+   <p>«&nbsp;Parfois, lorsque je suis contrarié, je ne peux pas communiquer.<br />Cela mène à des incompréhensions comme me voir reprocher des choses que je n'ai pas faites. Cela me rend
    souvent impuissant et isolé. Prenez le temps de m'écouter. &nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="800" data-tweetid="1115147301440323586"><blockquote placeholder>
+  <amp-twitter width="600" height="850" data-tweetid="1115147301440323586"><blockquote placeholder>
    @AsIAmIreland: Day 6 - Advocating for myself. Meet Aidan.
    </blockquote></amp-twitter>
  </div>
@@ -106,7 +105,7 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    <p><strong>Jour 7 - L'amitié et la socialisation. Rencontrez Julie.</strong></p>
    <p>«&nbsp;Les amis sont les personnes qui vous autorisent à être vous même. Malheureusement, j'ai rarement été acceptée telle que je suis.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="800" data-tweetid="1115509738337447936"><blockquote placeholder>
+  <amp-twitter width="600" height="850" data-tweetid="1115509738337447936"><blockquote placeholder>
    @AsIAmIreland: Day 7 - Friendship and socialising. Meet Julie.
    </blockquote></amp-twitter>
  </div>
@@ -116,9 +115,10 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
   <amp-fit-text width="600" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 8 - Valorisez mes intérêts. Rencontrez Gáibhin.</strong></p>
    <p>«&nbsp;J'ai toujours adoré lire et écrire. Créer des choses et faire croire.
-   Lorsque j'étais enfant, l'intensité de ces intérêts était gênant et je ne savais pas comment canaliser toute cette fascination en quelque chose de constructif.&nbsp;»</p>
+   Lorsque j'étais enfant, l'intensité de ces intérêts était gênant et je ne savais pas comment canaliser toute cette fascination en quelque chose de constructif.</p>
+   <p>J'ai eu la chance d'avoir les bonnes personnes autour de moi, qui m'ont aidé à diriger cette énergie pour que je puisse faire ce que je fais aujourd'hui.&nbsp;»
   </amp-fit-text>
-  <amp-twitter width="600" height="800" data-tweetid="1115884773577297921"><blockquote placeholder>
+  <amp-twitter width="600" height="850" data-tweetid="1115884773577297921"><blockquote placeholder>
    @AsIAmIreland: Day 8 - Valuing my interests. Meet Gáibhin.
    </blockquote></amp-twitter>
  </div>
