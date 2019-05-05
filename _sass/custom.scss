@@ -182,39 +182,8 @@ a.big span.subtitle {
 }
 
 /* carousel */
-/*
-amp-carousel div.caption {
- position: absolute;
- bottom: 0;
- left: 0;
- right: 0;
- padding: 8px;
- background: rgba(0,0,0,.6);
- color: #ddd;
- font-size: smaller;
- max-height: 30%;
-}
-*/
-amp-carousel .slide {
- display: flex;
- flex-flow: column nowrap;
- justify-content: center;
-}
-amp-carousel div.caption {
- display: block;
- padding: 8px;
- background: rgba(0,0,0,.6);
- color: #ddd;
-}
-@media (max-width: 400px) {
- amp-carousel div.caption {
-  font-size: 1.5vw;
- }
-}
-amp-carousel.white div.caption {
- background-color: transparent;
- color: #000;
- padding: 15px;
+amp-carousel.white amp-fit-text {
+ padding: 10px;
 }
 amp-carousel.white {
  border: 1px solid #424242;
