@@ -70,7 +70,6 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    @AsIAmIreland: Day 2 - Processing time. Meet Katelynn.
    </blockquote></amp-twitter>
  </div>
-</amp-carousel>
 
  <div class="slide">
   <amp-fit-text width="600" height="300" layout="responsive" max-font-size="17">
@@ -82,8 +81,6 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    @AsIAmIreland: Day 3 - Autism and sport. Meet Cormac.
    </blockquote></amp-twitter>
  </div>
+
 </amp-carousel>
-
-
-
 </div>
