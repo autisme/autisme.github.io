@@ -216,10 +216,9 @@ amp-carousel.white {
 }
 .carousel-preview {
  display: flex;
- flex-direction: row;
- flex-wrap: wrap;
- flex-flow: center;
+ flex-flow: row wrap;
  align-items: center;
+ justify-content: center;
 }
 .carousel-preview button {
  flex: 0 0 134px;
