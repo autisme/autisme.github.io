@@ -24,12 +24,14 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
 <amp-carousel width="600" height="1100" layout="intrinsic" type="slides" class="white" id="carousel">
  <div class="slide">
   <amp-fit-text width="600" height="300" layout="responsive" max-font-size="17">
-   <strong>Jour 1 - L'autisme est invisible. Rencontrez Liam.</strong><br /><br />
-   Lorsque vous devez vraiment y aller (mais que vous ne pouvez pas y aller seul).
-   Certains adultes autistes ont des difficultés avec les compétences sociales et la notion de danger.
-   Ils peuvent avoir besoin d'un accompagenement constant, que ce soit pour traverser la route ou aller aux toilettes.
+   <p><strong>Jour 1 - L'autisme est invisible. Rencontrez Liam.</strong></p>
+
+   <p>Lorsque vous devez vraiment y aller (mais que vous ne pouvez pas y aller seul).
+   Certains adultes autistes ont des difficultés avec les compétences sociales et la notion de danger.</P>
+
+   <p>Ils peuvent avoir besoin d'un accompagenement constant, que ce soit pour traverser la route ou aller aux toilettes.
    Et s'ils sont accompagnés par une femme, cela signifie de devoir utiliser les toilettes pour filles.
-   Prenez le temps de comprendre cela car parfois nous ne pouvons pas attendre&nbsp;!
+   Prenez le temps de comprendre cela car parfois nous ne pouvons pas attendre&nbsp;!</p>
   </amp-fit-text>
   <amp-twitter width="600" height="800" data-tweetid="1113414191283671041"><blockquote placeholder>
    @AsIAmIreland: Day 1 - Autism is invisible. Meet Liam.
@@ -38,9 +40,10 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
 
  <div class="slide">
   <amp-fit-text width="600" height="300" layout="responsive" max-font-size="17">
-   <strong>Jour 2 - Temps de traitement de l'information. Rencontrez Katelynn.</strong><br /><br />
-   «&nbsp;Parfois, lorsque les personnes me parlent, j'ai besoin d'un peu de temps pour comprendre ce qu'ils me disent, même si j'entends parfaitement.
-   Vous pouvez m'aider en étant direct et en me laissant le temps de répondre.&nbsp;»
+   <p><strong>Jour 2 - Temps de traitement de l'information. Rencontrez Katelynn.</strong></p>
+
+   <p>«&nbsp;Parfois, lorsque les personnes me parlent, j'ai besoin d'un peu de temps pour comprendre ce qu'ils me disent, même si j'entends parfaitement.
+   Vous pouvez m'aider en étant direct et en me laissant le temps de répondre.&nbsp;»</p>
 
    <p class=".align-left">
    Les personnes autistes traitent l'information différemment&nbsp;:
@@ -71,9 +74,9 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
 
  <div class="slide">
   <amp-fit-text width="600" height="300" layout="responsive" max-font-size="17">
-   <strong>Jour 3 - Autisme et sport. Rencontrez Cormac.</strong><br /><br />
-   «&nbsp;Tout le monde devrait être inclus dans les jeux sportifs.
-   Une façon d'y arriver est de se focaliser plus sur la possibilité donnée d'y participer plutôt que sur le sport en lui-même.&nbsp;»
+   <p><strong>Jour 3 - Autisme et sport. Rencontrez Cormac.</strong></p>
+   <p>«&nbsp;Tout le monde devrait être inclus dans les jeux sportifs.
+   Une façon d'y arriver est de se focaliser plus sur la possibilité donnée d'y participer plutôt que sur le sport en lui-même.&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="800" data-tweetid="1114074206684295168"><blockquote placeholder>
    @AsIAmIreland: Day 3 - Autism and sport. Meet Cormac.
