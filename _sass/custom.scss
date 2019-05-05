@@ -214,6 +214,19 @@ amp-carousel.white {
  padding: 30px;
  border-radius: 10px;
 }
+.carousel-preview {
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+ flex-flow: center;
+ align-items: center;
+}
+.carousel-preview button {
+ flex: 0 0 134px;
+ border: 1px solid #424242;
+ padding: 3px;
+ margin: 3px;
+}
 /* accordion */
 amp-accordion {
 }
