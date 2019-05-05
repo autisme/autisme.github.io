@@ -13,6 +13,7 @@ banner_image: /assets/posts/2019-04-10/banner.jpg
 modules:
   - fit-text
   - carousel
+  - twitter
 ---
 
 Pendant tout le mois dernier, AsIAm, une association Irlandaise a interrogé des personnes autistes et leur a demandé quels étaient les obstacles qu'elles rencontraient dans leur vie de tous les jours et ce qui pouvait être fait pour leur simplifier la vie.
