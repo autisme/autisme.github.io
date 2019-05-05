@@ -20,7 +20,7 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
 
 
 <div class="center">
-<amp-carousel width="600" height="1100" layout="intrinsic" type="slides" class="white" id="carousel" on="slideChange: carousel-selector.toggle(index=event.index, value=true), carousel-preview.goToSlide(index=event.index)">
+<amp-carousel width="600" height="1100" layout="intrinsic" type="slides" class="white" id="carousel">
  <div class="slide">
   <amp-fit-text width="600" height="400" layout="responsive" max-font-size="17">
    <strong>Jour 1 - L'autisme est invisible. Rencontrez Liam.</strong><br />
