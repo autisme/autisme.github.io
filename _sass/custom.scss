@@ -195,6 +195,11 @@ amp-carousel div.caption {
  max-height: 30%;
 }
 */
+amp-carousel .slide {
+ display: flex;
+ flex-flow: column nowrap;
+ justify-content: center;
+}
 amp-carousel div.caption {
  display: block;
  padding: 8px;
@@ -202,6 +207,7 @@ amp-carousel div.caption {
  color: #ddd;
  font-size: smaller;
  max-height: 30%;
+ flex: 0 0 30%;
 }
 amp-carousel.white div.caption {
  background-color: transparent;
