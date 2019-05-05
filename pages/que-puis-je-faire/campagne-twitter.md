@@ -9,6 +9,7 @@ courtesis:
 oembed_image: /assets/pages/que-puis-je-faire/campagne-twitter/opengraph.jpg
 banner_image: /assets/pages/que-puis-je-faire/campagne-twitter/banner.jpg
 modules:
+  - selector
   - carousel
 breadcrumbs:
   - /que-puis-je-faire/
@@ -19,7 +20,7 @@ Depuis juillet 2017, nous postons chaque lundi, une image en lien avec l'autisme
 de sensibiliser le grand public. Ci-dessous, les différentes images publiées jusqu'à présent.
 
 <div class="center">
-<amp-carousel width="600" height="700" layout="intrinsic" type="slides" class="white" id="carousel">
+<amp-carousel width="600" height="700" layout="intrinsic" type="slides" class="white" id="carousel" on="slideChange: carousel-selector.toggle(index=event.index, value=true), carousel-preview.goToSlide(index=event.index)">
  <div class="slide">
   <div class="caption">95/ Lorsqu'une personne autiste fait une crise, ce n'est pas pour se faire remarquer. C'est qu'à force de stress, la personne perd totalement le contrôle d'elle-même. La laisser seule pour qu'elle puisse reprendre ses esprits est la meilleure chose à faire.</div>
   <a href="" target="_blank">
@@ -599,7 +600,7 @@ de sensibiliser le grand public. Ci-dessous, les différentes images publiées j
 
 <amp-selector id="carousel-selector" on="select:carousel.goToSlide(index=event.targetOption)" layout="container">
  <amp-carousel id="carousel-preview" class="carousel-preview" height="128" layout="fixed-height" type="carousel">
-  <amp-img option="0" src="{{ site.resources_repository }}/monday-messages/95-meltdown/img.png" width="128" height="128" alt="p95"></amp-img>
+  <amp-img option="0" selected src="{{ site.resources_repository }}/monday-messages/95-meltdown/img.png" width="128" height="128" alt="p95"></amp-img>
   <amp-img option="1" src="{{ site.resources_repository }}/monday-messages/94-clothes/img.png" width="128" height="128" alt="p94"></amp-img>
   <amp-img option="2" src="{{ site.resources_repository }}/monday-messages/93-easter/img.png" width="128" height="128" alt="p93"></amp-img>
   <amp-img option="3" src="{{ site.resources_repository }}/monday-messages/92-grades-is-not-support/img.png" width="128" height="128" alt="p92"></amp-img>
