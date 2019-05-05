@@ -199,6 +199,7 @@ amp-carousel .slide {
  display: flex;
  flex-flow: column nowrap;
  justify-content: center;
+ align-items: flex-end;
 }
 amp-carousel div.caption {
  display: block;
