@@ -45,24 +45,24 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    <p>«&nbsp;Parfois, lorsque les personnes me parlent, j'ai besoin d'un peu de temps pour comprendre ce qu'ils me disent, même si j'entends parfaitement.
    Vous pouvez m'aider en étant direct et en me laissant le temps de répondre.&nbsp;»</p>
 
-   <p class=".align-left">
+   <p class="align-left">
    Les personnes autistes traitent l'information différemment&nbsp;:
-   <ul class=".align-left">
-    <li class=".align-left">Elles peuvent avoir besoin de plus de temps pour comprendre ce que vous dites, pour que les sons que vous prononcez se convertissent en mots.</li>
-    <li class=".align-left">Une personne peut se souvenir de la première et de la dernière instruction que vous donnez mais pas des instructions intermédiaires.</li>
-    <li class=".align-left">Certaines personnes peuvent s'arrêter au milieu d'une conversation car cela peut devenir trop difficile de suivre.</li>
-    <li class=".align-left">D'autres peuvent avoir du mal à discuter dans un environnement bruyant</li>
+   <ul class="align-left">
+    <li class="align-left">Elles peuvent avoir besoin de plus de temps pour comprendre ce que vous dites, pour que les sons que vous prononcez se convertissent en mots.</li>
+    <li class="align-left">Une personne peut se souvenir de la première et de la dernière instruction que vous donnez mais pas des instructions intermédiaires.</li>
+    <li class="align-left">Certaines personnes peuvent s'arrêter au milieu d'une conversation car cela peut devenir trop difficile de suivre.</li>
+    <li class="align-left">D'autres peuvent avoir du mal à discuter dans un environnement bruyant</li>
    </ul>
    </p>
 
-   <p class=".align-left">
+   <p class="align-left">
    Ce que vous pouvez faire&nbsp;:
-   <ul class=".align-left">
-    <li class=".align-left">Soyez patient, laisser le temps de traiter l'information</li>
-    <li class=".align-left">Donnez-vous la possibilité d'écrire les instructions</li>
-    <li class=".align-left">N'hésitez pas à répéter si la personne vous le demande</li>
-    <li class=".align-left">Déplacez-vous dans des lieux calmes pour discuter</li>
-    <li class=".align-left">Ne donnez pas trop d'instructions à la fois</li>
+   <ul class="align-left">
+    <li class="align-left">Soyez patient, laisser le temps de traiter l'information</li>
+    <li class="align-left">Donnez-vous la possibilité d'écrire les instructions</li>
+    <li class="align-left">N'hésitez pas à répéter si la personne vous le demande</li>
+    <li class="align-left">Déplacez-vous dans des lieux calmes pour discuter</li>
+    <li class="align-left">Ne donnez pas trop d'instructions à la fois</li>
    </ul>
    </p>
   </amp-fit-text>
