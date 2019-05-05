@@ -206,6 +206,11 @@ amp-carousel div.caption {
  background: rgba(0,0,0,.6);
  color: #ddd;
 }
+@media (max-width: 400px) {
+ amp-carousel div.caption {
+  font-size: 0.8rem;
+ }
+}
 amp-carousel.white div.caption {
  background-color: transparent;
  color: #000;
@@ -533,9 +538,6 @@ ul.contact {
 }
 
 @media (max-width: $min-width-for-twitter) {
- amp-carousel div.caption {
-  font-size: 0.8rem;
- }
  #cols .col-blog {
   margin-right: 30px;
   flex: 1 0 100%;
