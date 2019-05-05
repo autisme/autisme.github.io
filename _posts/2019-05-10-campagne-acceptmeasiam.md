@@ -176,7 +176,7 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    Éteindre la musique ou mettre une musique douce aide vraiment Riley. Il ne sort pas son casque antibruit et son chien d'assistance l'aide beaucoup à faire face
    à l'environnement sensoriel.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1116959222460235776"><blockquote placeholder>
+  <amp-twitter width="600" height="850" data-tweetid="1117321650217914368"><blockquote placeholder>
    @AsIAmIreland: Day 12 - Managing busy environments. Meet Riley.
    </blockquote></amp-twitter>
  </div>
