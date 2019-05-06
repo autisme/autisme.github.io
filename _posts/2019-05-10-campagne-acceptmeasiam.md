@@ -234,117 +234,117 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    <p>Comprenez que nous avons besoin de moments seuls pour nous reposer et que cela ne signifie pas que nous ne vous aimons pas ou que nous n'en n'avons rien à faire de vous.&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="850" data-tweetid="1118771226573443072"><blockquote placeholder>
-   @AsIAmIreland: Day 16 - <span class="green1">Recharging after social activity. Meet Maja.
+   @AsIAmIreland: Day 16 - Recharging after social activity. Meet Maja.
    </blockquote></amp-twitter>
  </div>
 
  <div class="slide">
   <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
-   <p><strong>Jour 17 - Parler de l'autisme.</span> Rencontrez Brian.</strong></p>
+   <p><strong>Jour 17 - <span class="green1">Parler de l'autisme.</span> Rencontrez Brian.</strong></p>
    <p>«&nbsp;Parler de l'autisme m'aide à comprendre mon ressenti et mes expériences en tant que personne autiste. Lorsque nous parlons de l'autisme avec des amis ou à un événement, j'apprends beaucoup sur moi-même.
    Je découvre des nouvelles façons d'exprimer mes idées. Cela me donne  confiance pour parler de mon vécu et aider les autres à être entendus.</p>
    <p>L'opportunité qui m'a été donnée de parler en public et de m'impliquer dans ce mouvement cherchant à rendre notre société plus accueillante et inclusive en vaut la peine et aide à rendre notre mon meilleur&nbsp;!&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="850" data-tweetid="1119133581740101632"><blockquote placeholder>
-   @AsIAmIreland: Day 17 - <span class="green1">Talking about my autism. Meet Brian.
+   @AsIAmIreland: Day 17 - Talking about my autism. Meet Brian.
    </blockquote></amp-twitter>
  </div>
 
  <div class="slide">
   <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
-   <p><strong>Jour 18 - Vivre de façon autonome.</span> Rencontrez Anthony.</strong></p>
+   <p><strong>Jour 18 - <span class="green1">Vivre de façon autonome.</span> Rencontrez Anthony.</strong></p>
    <p>«&nbsp;Lorsque j'ai décidé de vivre seul, j'étais un peu nerveux. Je me posais des questions comme&nbsp;: "serai-je capable mon loyer et mes factures&nbsp;?", "pourrai-je faire mes courses chaque semaine&nbsp;?".
    Maintenant, cela fait 7/8 mois que j'ai déménagé et toutes ces peurs ont disparu.
    Je sais que je peux toujours demander des conseils à un ami ou à ma famille si j'ai du mal à gérer mon argent et que je peux toujours revenir chez mes parents le weekend.&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="850" data-tweetid="1119499848150073345"><blockquote placeholder>
-   @AsIAmIreland: Day 18 - <span class="green1">Living independently. Meet Anthony.
+   @AsIAmIreland: Day 18 - Living independently. Meet Anthony.
    </blockquote></amp-twitter>
  </div>
 
  <div class="slide">
   <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
-   <p><strong>Jour 19 - L'importance de l'éducation.</span> Rencontrez Joan.</strong></p>
+   <p><strong>Jour 19 - <span class="green1">L'importance de l'éducation.</span> Rencontrez Joan.</strong></p>
    <p>«&nbsp;Pourquoi que je pense que l'éducation est quelque chose d'important&nbsp;? J'adore apprendre car cela m'aide à grandir et cela peut être drôle aussi.</p>
    <p>Cela va-t-il m'aider à avoir un travail&nbsp;? Oui, parce que je peux montrer à tout le monde ma capacité à apprendre des choses nouvelles.</p>
    <p>Ce que je voudrais dire aux personnes qui veulent poursuivre leurs études ou aller à l'université&nbsp;? Faites de votre mieux. Si vous êtes passionés par quelque chose, apprenez pour vous-mêmes. Même si certaines choses sont plus difficiles, n'oubliez pas qu'il y a toujours moyen d'atteindre votre but.&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="850" data-tweetid="1119861566147424256"><blockquote placeholder>
-   @AsIAmIreland: Day 19 - <span class="green1">Importance of education. Meet Joan.
+   @AsIAmIreland: Day 19 - Importance of education. Meet Joan.
    </blockquote></amp-twitter>
  </div>
 
  <div class="slide">
   <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
-   <p><strong>Jour 20 - Traverser une crise.</span> Rencontrez Gavin.</strong></p>
+   <p><strong>Jour 20 - <span class="green1">Traverser une crise.</span> Rencontrez Gavin.</strong></p>
    <p>«&nbsp;Traverser une crise peut être difficile pour moi. Parfois j'ai besoin de réconfort ou d'un peu d'espace, mais je ne peux pas l'exprimer car je suis semi-verbal.</p>
    <p>Les crises sont parfois vues comme un mauvais comportement mais c'est ma façon de me réguler après une surcharge sensorielle.&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="850" data-tweetid="1120221200477818880"><blockquote placeholder>
-   @AsIAmIreland: Day 20 - <span class="green1">Going through a meltdown. Meet Gavin.
+   @AsIAmIreland: Day 20 - Going through a meltdown. Meet Gavin.
    </blockquote></amp-twitter>
  </div>
 
  <div class="slide">
   <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
-   <p><strong>Jour 21 - Écouter les personnes autistes.</span> Rencontrez Elaine.</strong></p>
+   <p><strong>Jour 21 - <span class="green1">Écouter les personnes autistes.</span> Rencontrez Elaine.</strong></p>
    <p>«&nbsp;Pour moi, ce qui est le plus difficile à vivre en tant que personne autiste est l'attitude des autres.</p>
    <p>Par exemple, j'adore peindre mais on m'a dit plusieurs fois que les personnes autistes ne pouvaient pas faire de l'art et donc que je n'étais pas réellement autiste.</p>
    <p>Les gens parfois refusent d'écouter ce que nous avons à dire lorsque nous avons une difficulté quelconque et ensuite ne comprennent pas pourquoi nous finissons par faire une crise.</p>
    <p>Pour beaucoup d'entre nous, parler est difficile mais ce n'est pas impossible, il y a d'autres moyens de communiquer et vous devez trouver d'autres moyen de nous écouter.&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="850" data-tweetid="1120716500678205442"><blockquote placeholder>
-   @AsIAmIreland: Day 21 - <span class="green1">Listen to autistic people. Meet Elaine.
+   @AsIAmIreland: Day 21 - Listen to autistic people. Meet Elaine.
    </blockquote></amp-twitter>
  </div>
 
  <div class="slide">
   <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
-   <p><strong>Jour 22 - L'autisme est un spectre.</span> Rencontrez Joan et John.</strong></p>
+   <p><strong>Jour 22 - <span class="green1">L'autisme est un spectre.</span> Rencontrez Joan et John.</strong></p>
    <p>«&nbsp;Un frère, une sœur<br/>L'un aime les choses brillantes; l'autre ne les remarque généralement pas<br/>L’un est enseignant; l'autre ne sait pas ce qu’est l’école.<br />L'un aime faire un tour en voiture; l'autre est malade de voyage.<br />
    L'un forme les gens à l’autisme; l'autre n’en a jamais entendu parler<br />L'un peut utiliser quelques sons pour parler; l'autre peut parler trop, trop vite.</p><p>Un amour, un autisme.<br />
    Pour sortir ensemble, nous avons besoin de vous, que vous soyez calme, que vous nous demandiez si vous pouvez nous aider si nous semblons coincés, que vous nous acceptiez comme nous sommes.&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="850" data-tweetid="1120990366470156288"><blockquote placeholder>
-   @AsIAmIreland: Day 22 - <span class="green1">Autism is a spectrum. Meet Joan and John.
+   @AsIAmIreland: Day 22 - Autism is a spectrum. Meet Joan and John.
    </blockquote></amp-twitter>
  </div>
 
  <div class="slide">
   <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
-   <p><strong>Jour 23 - Se concentrer.</span> Rencontrez Rachel.</strong></p>
+   <p><strong>Jour 23 - <span class="green1">Se concentrer.</span> Rencontrez Rachel.</strong></p>
    <p>«&nbsp;Me concentrer sur une tâche peut être vraiment difficile, surtout si on me donne une liste d'instructions qui sont vagues ou énoncées clairement. Faire plusieurs choses à la fois est un défi supplémentaire
    car je dois gérer l'environnement, comme les personnes autour de moi, les sons et les lumières. Cela me rend anxieuse lorsque je dois faire des choses nouvelles ou aller dans un lieu que je ne connais pas.&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="850" data-tweetid="1121320990452199424"><blockquote placeholder>
-   @AsIAmIreland: Day 23 - <span class="green1">Concentrate on tasks. Meet Rachel.
+   @AsIAmIreland: Day 23 - Concentrate on tasks. Meet Rachel.
    </blockquote></amp-twitter>
  </div>
 
  <div class="slide">
   <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
-   <p><strong>Jour 24 - Rentrer dans une case.</span> Rencontrez Ollie.</strong></p>
+   <p><strong>Jour 24 - <span class="green1">Rentrer dans une case.</span> Rencontrez Ollie.</strong></p>
    <p>«&nbsp;Parce que je suis autiste, beaucoup de monde pense que je ne peux pas exprimer ce que j'ai à dire. Parce que je suis autiste, ils pensent que ne peux pas être transgenre. 
    Mais c'est ce que je suis et je le sais. Je me considère comme un activiste pour les droits des personnes autistes et des personnes transgenres. Je peux être les deux car je suis les deux&nbsp;!&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="850" data-tweetid="1121320990452199424"><blockquote placeholder>
-   @AsIAmIreland: Day 24 - <span class="green1">Being stereotyped. Meet Ollie.
+   @AsIAmIreland: Day 24 - Being stereotyped. Meet Ollie.
    </blockquote></amp-twitter>
  </div>
 
  <div class="slide">
   <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
-   <p><strong>Jour 25 - Emploi.</span> Rencontrez Kevin.</strong></p>
+   <p><strong>Jour 25 - <span class="green1">Emploi.</span> Rencontrez Kevin.</strong></p>
    <p>«&nbsp;Si vous pouvez donner un emploi à une personne autiste, elle vous montrera sa façon de penser ce qui fera naître de grandes idées&nbsp;!&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="850" data-tweetid="1122079211886399488"><blockquote placeholder>
-   @AsIAmIreland: Day 25 - <span class="green1">Employment. Meet Kevin.
+   @AsIAmIreland: Day 25 - Employment. Meet Kevin.
    </blockquote></amp-twitter>
  </div>
 
  <div class="slide">
   <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
-   <p><strong>Jour 26 - Auto-stimulation.</span> Rencontrez Danni.</strong></p>
+   <p><strong>Jour 26 - <span class="green1">Auto-stimulation.</span> Rencontrez Danni.</strong></p>
    <p>«&nbsp;J'ai l'habitude de masquer mon auto-stimulation lorsque je suis avec d'autres gens. J'ai été diagnostiqué à 28 ans. Je ne savais rien à propos de l'autisme et je n'avais jamais entendu parler d'auto-stimulation.
    La seule chose que je savais c'est que cela m'aidait beaucoup mais que cela n'était pas acceptable de le faire en public.</p>
    <p>Cela m'a fait souffrir mentalement. C'est pourquoi j'ai arrêté de me cacher. </p>
@@ -352,30 +352,30 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    <p>J'aime lorsque les autres me souris en retour. Si quelqu'un est dérangé par mon comportement, c'est son problème&nbsp;! L'auto-stimulation m'aide à me concentrer et à interagir avec mon environnement. Cela me rend joyeux.&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="850" data-tweetid="1122413198693556225"><blockquote placeholder>
-   @AsIAmIreland: Day 26 - <span class="green1">Stimming in public. Meet Danni.
+   @AsIAmIreland: Day 26 - Stimming in public. Meet Danni.
    </blockquote></amp-twitter>
  </div>
 
  <div class="slide">
   <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
-   <p><strong>Jour 27 - Montrez de l'empathy.</span> Rencontrez James.</strong></p>
+   <p><strong>Jour 27 - <span class="green1">Montrez de l'empathy.</span> Rencontrez James.</strong></p>
    <p>«&nbsp;Je m'appelle James. J'aime chanter, lire, penser, créer des cartes. J'ai un grand sens de l'humour et j'aime rire. Je suis aussi gentils et je pense aux autres.
 Je prends soin de ma famille et de mes amis. En fait, mon ressenti est tellement intesne que lorsque je m'inquiète pour un de mes amis, mes émotions peuvent me submerger, cela est difficile à exprimer et stressant.</p>
 <p>Je fais toujours de mon mieux et puisque je suis plein de compassion, je suis le meilleur ami que vous puissiez trouver.&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="850" data-tweetid="1122755881127612416"><blockquote placeholder>
-   @AsIAmIreland: Day 27 - <span class="green1">Showing empathy. Meet James.
+   @AsIAmIreland: Day 27 - Showing empathy. Meet James.
    </blockquote></amp-twitter>
  </div>
 
  <div class="slide">
   <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
-   <p><strong>Jour 28 - Valorisation en entreprise.</span> Rencontrez Sinead.</strong></p>
+   <p><strong>Jour 28 - <span class="green1">Valorisation en entreprise.</span> Rencontrez Sinead.</strong></p>
    <p>«&nbsp;Les personnes autistes peuvent être les employés qui travaillent le plus dur dans votre équipe.
 La passion, l'implication et l'éthique au travail sont des valeurs que la plupart des personnes autistes ont, ce qui est inestimable aux yeux de beaucoup de managers.&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="850" data-tweetid="1123190916737634304"><blockquote placeholder>
-   @AsIAmIreland: Day 28 - <span class="green1">Value in the workplace. Meet Sinead.
+   @AsIAmIreland: Day 28 - Value in the workplace. Meet Sinead.
    </blockquote></amp-twitter>
  </div>
 
