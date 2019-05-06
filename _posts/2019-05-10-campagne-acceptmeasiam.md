@@ -27,7 +27,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
 <div class="center">
 <amp-carousel width="600" height="1050" layout="intrinsic" type="slides" class="white" id="carousel">
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 1 - L'autisme est invisible. Rencontrez Liam.</strong></p>
 
    <p>Lorsque vous devez vraiment y aller (mais que vous ne pouvez pas y aller seul).
@@ -43,7 +43,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 2 - Temps de traitement de l'information. Rencontrez Katelynn.</strong></p>
 
    <p>«&nbsp;Parfois, lorsque les personnes me parlent, j'ai besoin d'un peu de temps pour comprendre ce qu'ils me disent, même si j'entends parfaitement.
@@ -55,7 +55,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 3 - Autisme et sport. Rencontrez Cormac.</strong></p>
    <p>«&nbsp;Tout le monde devrait être inclus dans les jeux sportifs.
    Une façon d'y arriver est de se focaliser plus sur la possibilité donnée d'y participer plutôt que sur le sport en lui-même.&nbsp;»</p>
@@ -66,7 +66,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 4 - Devenir adulte. Rencontrez Jeanette.</strong></p>
    <p>«&nbsp;Devenir adulte est un réel défi.</p>
    <p>Ce qui me fait le plus peur de devnir adulte et de quitter l'école, c'est que j'aurai beaucoup moins de personnes autour de moi. Qui me calmera dans les moments difficiles&nbsp;?
@@ -79,7 +79,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 5 - Suivre une conversation. Rencontrez Stuart.</strong></p>
    <p>«&nbsp;Lorsque que quelqu'un dit quelque chose à laquelle je ne m'attends pas, ce qu'il dit me semble être une langue étrangère. Parfois j'ai besoin d'un peu de temps
    pour réellement décoder ce que les gens me disent.</p>
@@ -94,7 +94,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 6 - Exprimer mes besoins. Rencontrez Aidan.</strong></p>
    <p>«&nbsp;Parfois, lorsque je suis contrarié, je ne peux pas communiquer.<br />Cela mène à des incompréhensions comme me voir reprocher des choses que je n'ai pas faites. Cela me rend
    souvent impuissant et isolé. Prenez le temps de m'écouter. &nbsp;»</p>
@@ -105,7 +105,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 7 - L'amitié et la socialisation. Rencontrez Julie.</strong></p>
    <p>«&nbsp;Les amis sont les personnes qui vous autorisent à être vous même. Malheureusement, j'ai rarement été acceptée telle que je suis.&nbsp;»</p>
   </amp-fit-text>
@@ -116,7 +116,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
 
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 8 - Valorisez mes intérêts. Rencontrez Gáibhin.</strong></p>
    <p>«&nbsp;J'ai toujours adoré lire et écrire. Créer des choses et faire croire.
    Lorsque j'étais enfant, l'intensité de ces intérêts était gênant et je ne savais pas comment canaliser toute cette fascination en quelque chose de constructif.</p>
@@ -128,7 +128,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 9 - Soyez attentif de l'environnement sensoriel dans les commerces. Rencontrez Eleanor.</strong></p>
    <p>«&nbsp;Se rendre dans les commerces peut être un champ de mines sensoriel, avec des lumières vives, une musique forte, et une large foule, ce qui peut être rapidement épuisant.
    Pour de multiples raisons, je ne veux pas utiliser le commerce en ligne&nbsp;: j'ai besoin de sentir les textures et d'essayer les vêtements avant de les acheter.</p>
@@ -142,7 +142,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 10 - Faire la queue. Rencontrez Grace.</strong></p>
    <p>«&nbsp;Pour certaines personnes autistes, aller dans les grands magasins peut être épuisant. Avoir supporté la lumière vive, les bruits forts, signifie qu'au moment d'aller à la caisse
    elle n'en peuvent plus. Devoir rester debout à attendre peut les pousser à faire une crise, et de quitter le magasin sans rien acheter.</p>
@@ -156,7 +156,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 11 - Utiliser le téléphone. Rencontrez Fiona.</strong></p>
    <p>«&nbsp;Parler au téléphone peut être vraiment stressant, car j'ai parfois besoin de voir la personne à qui je parle pour la comprendre.
    Si je connais la personne à qui je parle au bout du fil, cela rend les choses plus facile mais si c'est quelqu'un que je ne connais pas, cela peut me rendre très anxieuse.</p>
@@ -169,7 +169,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 12 - Faire face à l'environnement. Rencontrez Riley.</strong></p>
    <p>«&nbsp;Qu'est-ce qui est difficile&nbsp;?<br />
    Riley trouve que le bruit est quelque chose d'insupportable et met souvent des bouchons d'oreille pour aider à le supporter.
@@ -186,7 +186,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 13 - Communiquer. Rencontrez Lochlan.</strong></p>
    <p>«&nbsp;J'ai du mal à socialiser et communiquer avec d'autres personnes. La plupart de mes phrases sont répétitives et sont issues de films ou de Youtube.
    J'associe certains jeux ou objet avec des phrases que j'ai entendues dans ces vidéos et chaque fois que je vois un jeu, je commence à réciter le script que j'ai appris.</p>
@@ -199,7 +199,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 14 - Lorsque le plan change. Rencontrez Luke.</strong></p>
    <p>«&nbsp;Les environnements imprévisibles sont difficiles à gérer. La vie est chargée et change tout le temps.
    La plupart des gens font l'erreur de penser que je ne les entends mais j'entends, je vois et je ressens tout autour de moi.
@@ -213,7 +213,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 15 - Prendre les transports en commun. Rencontrez Bastien.</strong></p>
    <p>«&nbsp;Prendre les transports en commun est vraiment stressant pour moi. Le bus sera-t-il à l'heure&nbsp;? Ai-je pris la bonne ligne&nbsp;? Ai-je raté l'endroit auquel je dois descendre&nbsp;? Quand dois-je appuyer sur le bouton pour demander l'arrêt&nbsp;?</p>
    <p>Cela est tellement stressant que j'ai appris à prendre le bus il y a seulement deux ans, mais même encore aujourd'hui, je ne peux pas l'utiliser régulièrement.
@@ -225,7 +225,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 16 - Recharger ses batteries après une activité sociale. Rencontrez Maja.</strong></p>
    <p>«&nbsp;J'ai besoin de temps pour récupérer après une activité sociale.</p>
    <p>Je suis très motivée pour socialiser et cela me rend heureuse d'intéragir avec les autres. Mais, comme je traite l'information différement, cela me demande beaucoup d'effort et finit par ce que j'appelle "la gueule de bois sociale".</p>
@@ -239,7 +239,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 17 - Parler de l'autisme. Rencontrez Brian.</strong></p>
    <p>«&nbsp;Parler de l'autisme m'aide à comprendre mon ressenti et mes expériences en tant que personne autiste. Lorsque nous parlons de l'autisme avec des amis ou à un événement, j'apprends beaucoup sur moi-même.
    Je découvre des nouvelles façons d'exprimer mes idées. Cela me donne  confiance pour parler de mon vécu et aider les autres à être entendus.</p>
@@ -251,7 +251,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 18 - Vivre de façon autonome. Rencontrez Anthony.</strong></p>
    <p>«&nbsp;Lorsque j'ai décidé de vivre seul, j'étais un peu nerveux. Je me posais des questions comme&nbsp;: "serai-je capable mon loyer et mes factures&nbsp;?", "pourrai-je faire mes courses chaque semaine&nbsp;?".
    Maintenant, cela fait 7/8 mois que j'ai déménagé et toutes ces peurs ont disparu.
@@ -263,7 +263,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 19 - L'importance de l'éducation. Rencontrez Joan.</strong></p>
    <p>«&nbsp;Pourquoi que je pense que l'éducation est quelque chose d'important&nbsp;? J'adore apprendre car cela m'aide à grandir et cela peut être drôle aussi.</p>
    <p>Cela va-t-il m'aider à avoir un travail&nbsp;? Oui, parce que je peux montrer à tout le monde ma capacité à apprendre des choses nouvelles.</p>
@@ -275,7 +275,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 20 - Traverser une crise. Rencontrez Gavin.</strong></p>
    <p>«&nbsp;Traverser une crise peut être difficile pour moi. Parfois j'ai besoin de réconfort ou d'un peu d'espace, mais je ne peux pas l'exprimer car je suis semi-verbal.</p>
    <p>Les crises sont parfois vues comme un mauvais comportement mais c'est ma façon de me réguler après une surcharge sensorielle.&nbsp;»</p>
@@ -286,7 +286,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 21 - Écouter les personnes autistes. Rencontrez Elaine.</strong></p>
    <p>«&nbsp;Pour moi, ce qui est le plus difficile à vivre en tant que personne autiste est l'attitude des autres.</p>
    <p>Par exemple, j'adore peindre mais on m'a dit plusieurs fois que les personnes autistes ne pouvaient pas faire de l'art et donc que je n'étais pas réellement autiste.</p>
@@ -299,7 +299,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 22 - L'autisme est un spectre. Rencontrez Joan et John.</strong></p>
    <p>«&nbsp;Un frère, une sœur<br/>L'un aime les choses brillantes; l'autre ne les remarque généralement pas<br/>L’un est enseignant; l'autre ne sait pas ce qu’est l’école.<br />L'un aime faire un tour en voiture; l'autre est malade de voyage.<br />
    L'un forme les gens à l’autisme; l'autre n’en a jamais entendu parler<br />L'un peut utiliser quelques sons pour parler; l'autre peut parler trop, trop vite.</p><p>Un amour, un autisme.<br />
@@ -311,7 +311,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 23 - Se concentrer. Rencontrez Rachel.</strong></p>
    <p>«&nbsp;Me concentrer sur une tâche peut être vraiment difficile, surtout si on me donne une liste d'instructions qui sont vagues ou énoncées clairement. Faire plusieurs choses à la fois est un défi supplémentaire
    car je dois gérer l'environnement, comme les personnes autour de moi, les sons et les lumières. Cela me rend anxieuse lorsque je dois faire des choses nouvelles ou aller dans un lieu que je ne connais pas.&nbsp;»</p>
@@ -322,7 +322,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 24 - Rentrer dans une case. Rencontrez Ollie.</strong></p>
    <p>«&nbsp;Parce que je suis autiste, beaucoup de monde pense que je ne peux pas exprimer ce que j'ai à dire. Parce que je suis autiste, ils pensent que ne peux pas être transgenre. 
    Mais c'est ce que je suis et je le sais. Je me considère comme un activiste pour les droits des personnes autistes et des personnes transgenres. Je peux être les deux car je suis les deux&nbsp;!&nbsp;»</p>
@@ -333,7 +333,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 25 - Emploi. Rencontrez Kevin.</strong></p>
    <p>«&nbsp;Si vous pouvez donner un emploi à une personne autiste, elle vous montrera sa façon de penser ce qui fera naître de grandes idées&nbsp;!&nbsp;»</p>
   </amp-fit-text>
@@ -343,7 +343,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 26 - Auto-stimulation. Rencontrez Danni.</strong></p>
    <p>«&nbsp;J'ai l'habitude de masquer mon auto-stimulation lorsque je suis avec d'autres gens. J'ai été diagnostiqué à 28 ans. Je ne savais rien à propos de l'autisme et je n'avais jamais entendu parler d'auto-stimulation.
    La seule chose que je savais c'est que cela m'aidait beaucoup mais que cela n'était pas acceptable de le faire en public.</p>
@@ -357,7 +357,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 27 - Montrez de l'empathy. Rencontrez James.</strong></p>
    <p>«&nbsp;Je m'appelle James. J'aime chanter, lire, penser, créer des cartes. J'ai un grand sens de l'humour et j'aime rire. Je suis aussi gentils et je pense aux autres.
 Je prends soin de ma famille et de mes amis. En fait, mon ressenti est tellement intesne que lorsque je m'inquiète pour un de mes amis, mes émotions peuvent me submerger, cela est difficile à exprimer et stressant.</p>
@@ -369,7 +369,7 @@ Je prends soin de ma famille et de mes amis. En fait, mon ressenti est tellement
  </div>
 
  <div class="slide">
-  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="fixed-height" max-font-size="17">
+  <amp-fit-text width="600" class="acceptmeasiam" height="200" layout="responsive" max-font-size="17">
    <p><strong>Jour 28 - Valorisation en entreprise. Rencontrez Sinead.</strong></p>
    <p>«&nbsp;Les personnes autistes peuvent être les employés qui travaillent le plus dur dans votre équipe.
 La passion, l'implication et l'éthique au travail sont des valeurs que la plupart des personnes autistes ont, ce qui est inestimable aux yeux de beaucoup de managers.&nbsp;»</p>
