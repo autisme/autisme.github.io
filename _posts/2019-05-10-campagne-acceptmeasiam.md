@@ -37,7 +37,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    Et s'ils sont accompagnés par une femme, cela signifie de devoir utiliser les toilettes pour filles.
    Prenez le temps de comprendre cela car parfois nous ne pouvons pas attendre&nbsp;!</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1113414191283671041"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1113414191283671041"><blockquote placeholder>
    @AsIAmIreland: Day 1 - Autism is invisible. Meet Liam.
    </blockquote></amp-twitter>
  </div>
@@ -49,7 +49,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    <p>«&nbsp;Parfois, lorsque les personnes me parlent, j'ai besoin d'un peu de temps pour comprendre ce qu'ils me disent, même si j'entends parfaitement.
    Vous pouvez m'aider en étant direct et en me laissant le temps de répondre.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1113741232130461696"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1113741232130461696"><blockquote placeholder>
    @AsIAmIreland: Day 2 - Processing time. Meet Katelynn.
    </blockquote></amp-twitter>
  </div>
@@ -60,7 +60,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    <p>«&nbsp;Tout le monde devrait être inclus dans les jeux sportifs.
    Une façon d'y arriver est de se focaliser plus sur la possibilité donnée d'y participer plutôt que sur le sport en lui-même.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1114074206684295168"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1114074206684295168"><blockquote placeholder>
    @AsIAmIreland: Day 3 - Autism and sport. Meet Cormac.
    </blockquote></amp-twitter>
  </div>
@@ -73,7 +73,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    À l'école, j'avais une AVS et un enseignant qui ne seront plus avec moi l'année prochaine. J'espère que mes camarades de promotion à l'université pourront me soutenir et sauront que les
    bons moments sont plus nombreux que les mauvais.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1114422508713803776"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1114422508713803776"><blockquote placeholder>
    @AsIAmIreland: Day 4 - Becoming an adult. Meet Jeanette.
    </blockquote></amp-twitter>
  </div>
@@ -88,7 +88,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    Lorsqu'ils disent quelque chose à laquelle je ne m'attends pas, je n'entends que le son, comme une langue étrangère que je ne connais. Il me faut du temps pour que cela se transforme
    en mots mais dans la queue des magasins, il n'y a souvent pas le temps. Il m'arrive de mettre ma main sur mon oreille et dit "désolé, je ne vous ai pas entendu", mais le caissier pense pense que je suis sourd.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1114784931111165954"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1114784931111165954"><blockquote placeholder>
    @AsIAmIreland: Day 5 - Keep up with a conversation. Meet Stuart.
    </blockquote></amp-twitter>
  </div>
@@ -99,7 +99,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    <p>«&nbsp;Parfois, lorsque je suis contrarié, je ne peux pas communiquer.<br />Cela mène à des incompréhensions comme me voir reprocher des choses que je n'ai pas faites. Cela me rend
    souvent impuissant et isolé. Prenez le temps de m'écouter. &nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1115147301440323586"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1115147301440323586"><blockquote placeholder>
    @AsIAmIreland: Day 6 - Advocating for myself. Meet Aidan.
    </blockquote></amp-twitter>
  </div>
@@ -109,7 +109,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    <p><strong>Jour 7 - <span class="green1">L'amitié et la socialisation.</span> Rencontrez Julie.</strong></p>
    <p>«&nbsp;Les amis sont les personnes qui vous autorisent à être vous même. Malheureusement, j'ai rarement été acceptée telle que je suis.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1115509738337447936"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1115509738337447936"><blockquote placeholder>
    @AsIAmIreland: Day 7 - Friendship and socialising. Meet Julie.
    </blockquote></amp-twitter>
  </div>
@@ -122,7 +122,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    Lorsque j'étais enfant, l'intensité de ces intérêts était gênant et je ne savais pas comment canaliser toute cette fascination en quelque chose de constructif.</p>
    <p>J'ai eu la chance d'avoir les bonnes personnes autour de moi, qui m'ont aidé à diriger cette énergie pour que je puisse faire ce que je fais aujourd'hui.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1115884773577297921"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1115884773577297921"><blockquote placeholder>
    @AsIAmIreland: Day 8 - Valuing my interests. Meet Gáibhin.
    </blockquote></amp-twitter>
  </div>
@@ -136,7 +136,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    est que je pense que le genre ne doit pas influer sur la façon dont nous nous s'habillons.</p>
    <p>Quoi de plus important que de faire attention à l'environnement sensoriel pendant que nous choisissons et achetons nos vêtements!&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1116254064927485954"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1116254064927485954"><blockquote placeholder>
    @AsIAmIreland: Day 9 - Be mindful of sensory processing when shopping. Meet Eleanor.
    </blockquote></amp-twitter>
  </div>
@@ -150,7 +150,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    Cela est valable dans de nombreuses situations comme attendre pour voir un film, pour aller chez le coiffeur mais aussi pendant les déplacements.</p>
    <p>Votre gentillesse améliore la qualité de vie de toute la famille d'une personne autiste car vous leur permettez d'avoir de profiter des mêmes activités que tout le monde.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1116596942752980992"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1116596942752980992"><blockquote placeholder>
    @AsIAmIreland: Day 10 - Queuing. Meet Grace.
    </blockquote></amp-twitter>
  </div>
@@ -163,7 +163,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    <p>Si je reçois un appel, j'ai besoin de connaître la raison exacte en avance pour m'y préparer. S'il s'agit de quelque chose qui peut être discuté par écrit, cela rend les choses plus simple
    car cela me laisse le temps de traiter l'information.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1116959222460235776"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1116959222460235776"><blockquote placeholder>
    @AsIAmIreland: Day 11 - Using the telephone. Meet Fiona.
    </blockquote></amp-twitter>
  </div>
@@ -180,7 +180,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    Éteindre la musique ou mettre une musique douce aide vraiment Riley. Il ne sort pas son casque antibruit et son chien d'assistance l'aide beaucoup à faire face
    à l'environnement sensoriel.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1117321650217914368"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1117321650217914368"><blockquote placeholder>
    @AsIAmIreland: Day 12 - Managing busy environments. Meet Riley.
    </blockquote></amp-twitter>
  </div>
@@ -193,7 +193,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    <p>Les autres ne comprennent pas que c'est ma façon de réguler mes pensées.</p>
    <p>Mais d'un autre côté, je suis très bon à l'école. Je suis premier en lecture et en mathématiques même si je suis scolarisé dans une classe pour enfants autistes&nbsp;!&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1117705707137241088"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1117705707137241088"><blockquote placeholder>
    @AsIAmIreland: Day 13 - Communicating with my peers. Meet Lochlan.
    </blockquote></amp-twitter>
  </div>
@@ -207,7 +207,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    de traiter l'environnement avant d'appliquer le changement. Comme beaucoup d'adolescents autistes, je peux mieux me concentrer si j'ai des instructions visuelles.</p>
    <p>Je n'arrive pas à faire confiance aux gens qui ne me laissent pasle temps. Je ressens leur frustration et je finis par éviter ces personnes.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1118205975872331777"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1118205975872331777"><blockquote placeholder>
    @AsIAmIreland: Day 14 - When plans change. Meet Luke.
    </blockquote></amp-twitter>
  </div>
@@ -219,7 +219,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    <p>Cela est tellement stressant que j'ai appris à prendre le bus il y a seulement deux ans, mais même encore aujourd'hui, je ne peux pas l'utiliser régulièrement.
    Je suis vraiment reconnaissant que ma mère puisse m'emmener au travail matin et soir.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1118408863999508481"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1118408863999508481"><blockquote placeholder>
    @AsIAmIreland: Day 15 - Using public transport. Meet Bastien.
    </blockquote></amp-twitter>
  </div>
@@ -233,7 +233,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    Je n'ai rien contre eux - c'est juste que mes batteries ont besoin d'être rechargées avant de pouvoir les utiliser à nouveau.</p>
    <p>Comprenez que nous avons besoin de moments seuls pour nous reposer et que cela ne signifie pas que nous ne vous aimons pas ou que nous n'en n'avons rien à faire de vous.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1118771226573443072"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1118771226573443072"><blockquote placeholder>
    @AsIAmIreland: Day 16 - Recharging after social activity. Meet Maja.
    </blockquote></amp-twitter>
  </div>
@@ -245,7 +245,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    Je découvre des nouvelles façons d'exprimer mes idées. Cela me donne  confiance pour parler de mon vécu et aider les autres à être entendus.</p>
    <p>L'opportunité qui m'a été donnée de parler en public et de m'impliquer dans ce mouvement cherchant à rendre notre société plus accueillante et inclusive en vaut la peine et aide à rendre notre mon meilleur&nbsp;!&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1119133581740101632"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1119133581740101632"><blockquote placeholder>
    @AsIAmIreland: Day 17 - Talking about my autism. Meet Brian.
    </blockquote></amp-twitter>
  </div>
@@ -257,7 +257,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    Maintenant, cela fait 7/8 mois que j'ai déménagé et toutes ces peurs ont disparu.
    Je sais que je peux toujours demander des conseils à un ami ou à ma famille si j'ai du mal à gérer mon argent et que je peux toujours revenir chez mes parents le weekend.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1119499848150073345"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1119499848150073345"><blockquote placeholder>
    @AsIAmIreland: Day 18 - Living independently. Meet Anthony.
    </blockquote></amp-twitter>
  </div>
@@ -269,7 +269,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    <p>Cela va-t-il m'aider à avoir un travail&nbsp;? Oui, parce que je peux montrer à tout le monde ma capacité à apprendre des choses nouvelles.</p>
    <p>Ce que je voudrais dire aux personnes qui veulent poursuivre leurs études ou aller à l'université&nbsp;? Faites de votre mieux. Si vous êtes passionés par quelque chose, apprenez pour vous-mêmes. Même si certaines choses sont plus difficiles, n'oubliez pas qu'il y a toujours moyen d'atteindre votre but.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1119861566147424256"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1119861566147424256"><blockquote placeholder>
    @AsIAmIreland: Day 19 - Importance of education. Meet Joan.
    </blockquote></amp-twitter>
  </div>
@@ -280,7 +280,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    <p>«&nbsp;Traverser une crise peut être difficile pour moi. Parfois j'ai besoin de réconfort ou d'un peu d'espace, mais je ne peux pas l'exprimer car je suis semi-verbal.</p>
    <p>Les crises sont parfois vues comme un mauvais comportement mais c'est ma façon de me réguler après une surcharge sensorielle.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1120221200477818880"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1120221200477818880"><blockquote placeholder>
    @AsIAmIreland: Day 20 - Going through a meltdown. Meet Gavin.
    </blockquote></amp-twitter>
  </div>
@@ -293,7 +293,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    <p>Les gens parfois refusent d'écouter ce que nous avons à dire lorsque nous avons une difficulté quelconque et ensuite ne comprennent pas pourquoi nous finissons par faire une crise.</p>
    <p>Pour beaucoup d'entre nous, parler est difficile mais ce n'est pas impossible, il y a d'autres moyens de communiquer et vous devez trouver d'autres moyen de nous écouter.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1120716500678205442"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1120716500678205442"><blockquote placeholder>
    @AsIAmIreland: Day 21 - Listen to autistic people. Meet Elaine.
    </blockquote></amp-twitter>
  </div>
@@ -305,7 +305,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    L'un forme les gens à l’autisme; l'autre n’en a jamais entendu parler<br />L'un peut utiliser quelques sons pour parler; l'autre peut parler trop, trop vite.</p><p>Un amour, un autisme.<br />
    Pour sortir ensemble, nous avons besoin de vous, que vous soyez calme, que vous nous demandiez si vous pouvez nous aider si nous semblons coincés, que vous nous acceptiez comme nous sommes.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1120990366470156288"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1120990366470156288"><blockquote placeholder>
    @AsIAmIreland: Day 22 - Autism is a spectrum. Meet Joan and John.
    </blockquote></amp-twitter>
  </div>
@@ -316,7 +316,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    <p>«&nbsp;Me concentrer sur une tâche peut être vraiment difficile, surtout si on me donne une liste d'instructions qui sont vagues ou énoncées clairement. Faire plusieurs choses à la fois est un défi supplémentaire
    car je dois gérer l'environnement, comme les personnes autour de moi, les sons et les lumières. Cela me rend anxieuse lorsque je dois faire des choses nouvelles ou aller dans un lieu que je ne connais pas.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1121320990452199424"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1121320990452199424"><blockquote placeholder>
    @AsIAmIreland: Day 23 - Concentrate on tasks. Meet Rachel.
    </blockquote></amp-twitter>
  </div>
@@ -327,7 +327,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    <p>«&nbsp;Parce que je suis autiste, beaucoup de monde pense que je ne peux pas exprimer ce que j'ai à dire. Parce que je suis autiste, ils pensent que ne peux pas être transgenre. 
    Mais c'est ce que je suis et je le sais. Je me considère comme un activiste pour les droits des personnes autistes et des personnes transgenres. Je peux être les deux car je suis les deux&nbsp;!&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1121320990452199424"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1121320990452199424"><blockquote placeholder>
    @AsIAmIreland: Day 24 - Being stereotyped. Meet Ollie.
    </blockquote></amp-twitter>
  </div>
@@ -337,7 +337,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    <p><strong>Jour 25 - <span class="green1">Emploi.</span> Rencontrez Kevin.</strong></p>
    <p>«&nbsp;Si vous pouvez donner un emploi à une personne autiste, elle vous montrera sa façon de penser ce qui fera naître de grandes idées&nbsp;!&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1122079211886399488"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1122079211886399488"><blockquote placeholder>
    @AsIAmIreland: Day 25 - Employment. Meet Kevin.
    </blockquote></amp-twitter>
  </div>
@@ -351,7 +351,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    <p>Je suis la personne qui vous croise dans la rue avec mes écouteurs, en faisant du "flapping" avec mes mains, en rigolant et en chantant à moi-même.</P>
    <p>J'aime lorsque les autres me souris en retour. Si quelqu'un est dérangé par mon comportement, c'est son problème&nbsp;! L'auto-stimulation m'aide à me concentrer et à interagir avec mon environnement. Cela me rend joyeux.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1122413198693556225"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1122413198693556225"><blockquote placeholder>
    @AsIAmIreland: Day 26 - Stimming in public. Meet Danni.
    </blockquote></amp-twitter>
  </div>
@@ -363,7 +363,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
 Je prends soin de ma famille et de mes amis. En fait, mon ressenti est tellement intesne que lorsque je m'inquiète pour un de mes amis, mes émotions peuvent me submerger, cela est difficile à exprimer et stressant.</p>
 <p>Je fais toujours de mon mieux et puisque je suis plein de compassion, je suis le meilleur ami que vous puissiez trouver.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1122755881127612416"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1122755881127612416"><blockquote placeholder>
    @AsIAmIreland: Day 27 - Showing empathy. Meet James.
    </blockquote></amp-twitter>
  </div>
@@ -374,7 +374,7 @@ Je prends soin de ma famille et de mes amis. En fait, mon ressenti est tellement
    <p>«&nbsp;Les personnes autistes peuvent être les employés qui travaillent le plus dur dans votre équipe.
 La passion, l'implication et l'éthique au travail sont des valeurs que la plupart des personnes autistes ont, ce qui est inestimable aux yeux de beaucoup de managers.&nbsp;»</p>
   </amp-fit-text>
-  <amp-twitter width="600" height="850" data-tweetid="1123190916737634304"><blockquote placeholder>
+  <amp-twitter width="600" height="850" layout="responsive" data-tweetid="1123190916737634304"><blockquote placeholder>
    @AsIAmIreland: Day 28 - Value in the workplace. Meet Sinead.
    </blockquote></amp-twitter>
  </div>
