@@ -181,5 +181,58 @@ Nous pensons réellement qu'une telle campagne devrait avoir un impact qui va au
    </blockquote></amp-twitter>
  </div>
 
+ <div class="slide">
+  <amp-fit-text width="600" height="200" layout="responsive" max-font-size="17">
+   <p><strong>Jour 13 - Communiquer. Rencontrez Lochlan.</strong></p>
+   <p>«&nbsp;J'ai du mal à socialiser et communiquer avec d'autres personnes. La plupart de mes phrases sont répétitives et sont issues de films ou de Youtube.
+   J'associe certains jeux ou objet avec des phrases que j'ai entendues dans ces vidéos et chaque fois que je vois un jeu, je commence à réciter le script que j'ai appris.</p>
+   <p>Les autres ne comprennent pas que c'est ma façon de réguler mes pensées.</p>
+   <p>Mais d'un autre côté, je suis très bon à l'école. Je suis premier en lecture et en mathématiques même si je suis scolarisé dans une classe pour enfants autistes&nbsp;!&nbsp;»</p>
+  </amp-fit-text>
+  <amp-twitter width="600" height="850" data-tweetid="1117705707137241088"><blockquote placeholder>
+   @AsIAmIreland: Day 13 - Communicating with my peers. Meet Lochlan.
+   </blockquote></amp-twitter>
+ </div>
+
+ <div class="slide">
+  <amp-fit-text width="600" height="200" layout="responsive" max-font-size="17">
+   <p><strong>Jour 14 - Lorsque le plan change. Rencontrez Luke.</strong></p>
+   <p>«&nbsp;Les environnements imprévisibles sont difficiles à gérer. La vie est chargée et change tout le temps.
+   La plupart des gens font l'erreur de penser que je ne les entends mais j'entends, je vois et je ressens tout autour de moi.
+   J'ai du mal à filtrer quelle sont les informations importantes. Lorsqu'il y a un changement soudain dans ce qui était prévu, cela se passe mieux si j'ai le temps
+   de traiter l'environnement avant d'appliquer le changement. Comme beaucoup d'adolescents autistes, je peux mieux me concentrer si j'ai des instructions visuelles.</p>
+   <p>Je n'arrive pas à faire confiance aux gens qui ne me laissent pasle temps. Je ressens leur frustration et je finis par éviter ces personnes.&nbsp;»</p>
+  </amp-fit-text>
+  <amp-twitter width="600" height="850" data-tweetid="1118205975872331777"><blockquote placeholder>
+   @AsIAmIreland: Day 14 - When plans change. Meet Luke.
+   </blockquote></amp-twitter>
+ </div>
+
+ <div class="slide">
+  <amp-fit-text width="600" height="200" layout="responsive" max-font-size="17">
+   <p><strong>Jour 15 - Prendre les transports en commun. Rencontrez Bastien.</strong></p>
+   <p>«&nbsp;Prendre les transports en commun est vraiment stressant pour moi. Le bus sera-t-il à l'heure&nbsp;? Ai-je pris la bonne ligne&nbsp;? Ai-je raté l'endroit auquel je dois descendre&nbsp;? Quand dois-je appuyer sur le bouton pour demander l'arrêt&nbsp;?
+   Et que faire en cas de contrôle des tickets&nbsp;?</p>
+   <p>Cela est tellement stressant que j'ai appris à prendre le bus il y a seulement deux ans, mais même encore aujourd'hui, je ne peux pas l'utiliser régulièrement.
+   Je suis vraiment reconnaissant que ma mère puisse m'emmener au travail matin et soir.&nbsp;»</p>
+  </amp-fit-text>
+  <amp-twitter width="600" height="850" data-tweetid="1118408863999508481"><blockquote placeholder>
+   @AsIAmIreland: Day 15 - Using public transport. Meet Bastien.
+   </blockquote></amp-twitter>
+ </div>
+
+ <div class="slide">
+  <amp-fit-text width="600" height="200" layout="responsive" max-font-size="17">
+   <p><strong>Jour 15 - Prendre les transports en commu. Rencontrez Maja.</strong></p>
+   <p>«&nbsp;Prendre les transports en commun est vraiment stressant pour moi. Le bus sera-t-il à l'heure&nbsp;? Ai-je pris la bonne ligne&nbsp;? Ai-je raté l'endroit auquel je dois descendre&nbsp;? Quand dois-je appuyer sur le bouton pour demander l'arrêt&nbsp;?
+   Et que faire en cas de contrôle des tickets&nbsp;?</p>
+   <p>Cela est tellement stressant que j'ai appris à prendre le bus il y a seulement deux ans, mais même encore aujourd'hui, je ne peux pas l'utiliser régulièrement.
+   Je suis vraiment reconnaissant que ma mère puisse me conduire en voiture au travail chaque matin et chaque soir.&nbsp;»</p>
+  </amp-fit-text>
+  <amp-twitter width="600" height="850" data-tweetid="1118205975872331777"><blockquote placeholder>
+   @AsIAmIreland: Day 15 - Using public transport. Meet Bastien.
+   </blockquote></amp-twitter>
+ </div>
+
 </amp-carousel>
 </div>
