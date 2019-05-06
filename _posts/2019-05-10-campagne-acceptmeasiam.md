@@ -50,7 +50,7 @@ Nous vous proposons une traduction des 28 messages postés sur twitter.
    Vous pouvez m'aider en étant direct et en me laissant le temps de répondre.&nbsp;»</p>
   </amp-fit-text>
   <amp-twitter width="600" height="850" data-tweetid="1113741232130461696"><blockquote placeholder>
-   @AsIAmIreland: Day 2 - <span class="green1">Processing time. Meet Katelynn.
+   @AsIAmIreland: Day 2 - Processing time. Meet Katelynn.
    </blockquote></amp-twitter>
  </div>
 
