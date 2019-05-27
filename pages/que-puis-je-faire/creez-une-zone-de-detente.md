@@ -37,7 +37,7 @@ Les espaces sensoriels peuvent facilement être mis en place lorsque nous avons 
  <section>
   <h4 class="n"><span></span>Éclairage</h4>
   <div>
-<p>Vous n’avez pas besoin d’équipements de haute technologie. Vous pouvez simplement ajouter une lumière relaxante en utilisant des lumières des guirlandes, des bougies à piles, des bâtons lumineux ou des lampes à lave. L’éclairage est quelque chose de très puissant. Il influence de façon subtile notre humeur. Par exemple, les lampes fluorescentes qui émettent une couleur froide peuvent nous mettre mal à l’aise. Un éclairage chaud et doux peut nous détendre. N’ayez pas peur de créer une ambiance relaxante et confortable.</p>
+<p>Vous n’avez pas besoin d’équipements de haute technologie. Vous pouvez simplement ajouter une lumière relaxante en utilisant des guirlandes lumineuses, des bougies à piles, des bâtons lumineux ou des lampes à lave. L’éclairage est quelque chose de très puissant. Il influence de façon subtile notre humeur. Par exemple, les lampes fluorescentes qui émettent une couleur froide peuvent nous mettre mal à l’aise. Un éclairage chaud et doux peut nous détendre. N’ayez pas peur de créer une ambiance relaxante et confortable.</p>
   </div>
  </section>
  <section>
