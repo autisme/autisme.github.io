@@ -571,7 +571,10 @@ span.green1 {
 }
 
 /* acceptmeasiam */
+/*
 .acceptmeasiam .i-amphtml-fill-content {
+*/
+.acceptmeasiam > div:first-of-type {
  display: block;
 }
 .acceptmeasiam {
