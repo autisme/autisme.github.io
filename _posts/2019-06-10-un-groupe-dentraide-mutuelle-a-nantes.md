@@ -21,7 +21,7 @@ Nous avons également mis à en ligne un questionnaire dans le but de recueillir
 
 <div class="center">
 
-[https://docs.google.com/forms/d/e/1FAIpQLSeyk298n2L5ZoVuY6s43QNEKsauLmSjGOTBFk7YiQ7vgfOJHQ/viewform](Accéder au questionnaire !)
+<a class="big" href="https://docs.google.com/forms/d/e/1FAIpQLSeyk298n2L5ZoVuY6s43QNEKsauLmSjGOTBFk7YiQ7vgfOJHQ/viewform">Accéder au questionnaire !</a>
 
 </div>
 
