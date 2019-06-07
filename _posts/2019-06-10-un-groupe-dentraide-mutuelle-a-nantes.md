@@ -62,7 +62,7 @@ leurs besoins en matière d’accessibilité dans la société pour faciliter le
 Notre objectif est aussi de sensibiliser les employeurs, les professionnels, les responsables de lieux
 publics et les élus locaux afin de les inciter à construire une société plus inclusive.
 
-## Objectif 1 : Créer un espace communautaire
+## Objectif 1 : créer un espace communautaire
 
 Nous souhaitons fournir un espace rassurant et plaisant pour les personnes autistes, afin qu’elles
 puissent partager leurs expériences, leurs difficultés et leurs idées avec les autres. Nous voulons
@@ -98,7 +98,7 @@ ressources juridiques, l'accès aux soins, au logement social ou accompagné, l'
 démarches et aux rédactions administratives.
 
 
-## Objectif 2 : Construire une société inclusive
+## Objectif 2 : construire une société inclusive
 
 Nous espérons qu’en communiquant auprès des professionnels et du grand public sur les
 difficultés que rencontrent les personnes autistes, ils puissent mieux comprendre ce que vivent
