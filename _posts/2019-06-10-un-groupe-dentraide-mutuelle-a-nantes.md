@@ -74,12 +74,12 @@ permettra à chacun de nouer des liens et de se sentir valorisé.
 
 À cet effet, le GEM peut proposer :
 
-  - *Des activités dans les locaux adaptés pour les adhérents* : ateliers « citoyenneté » (accès aux
+  - **Des activités dans les locaux adaptés pour les adhérents** : ateliers « citoyenneté » (accès aux
 droits, aux soins, au logement, au numérique), ateliers adaptés aux troubles sensoriels
 (écoute, bien-être, relaxation), ateliers de loisirs (arts plastiques, écriture, cuisine,
 informatique, conseil en image), ateliers d'habiletés sociales (en communication, groupe de
 parole et d'entraide).
-  - *Des activités en extérieur pour les adhérents* : des sorties culturelles, des activités physiques
+  - **Des activités en extérieur pour les adhérents** : des sorties culturelles, des activités physiques
 et sportives, pique-niques, bricolage, soirées, médiation animale ou autres activités
 extérieures en fonction des attentes et du budget.
 
@@ -88,11 +88,11 @@ exemple :
 
 
 
-  - *Des moments d'échanges ouverts à tous* : accueil informel, sensibilisation à l'autisme, cafés-
+  - **Des moments d'échanges ouverts à tous** : accueil informel, sensibilisation à l'autisme, cafés-
 débats, jeux, repas confectionnés puis partagés avec des personnes non autistes,
 organisation de rencontres avec des centres de formation et des entreprises, avec le milieu
 associatif.
-  - *Un accompagnement individuel pour les adhérents* : favoriser et accompagner les
+  - **Un accompagnement individuel pour les adhérents** : favoriser et accompagner les
 démarches pour la recherche et le maintien dans l'emploi, l'accès aux droits et aux
 ressources juridiques, l'accès aux soins, au logement social ou accompagné, l'aide aux
 démarches et aux rédactions administratives.
