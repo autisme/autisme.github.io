@@ -26,7 +26,7 @@ Nous tenons également à rappeler que le directeur de SAP est ouvert pour que n
 ---
 
 <amp-img src="/assets/posts/2019-06-20/p1.jpg" layout="intrinsic" class="center" width="1000" height="666"></amp-img>
-<div class="center">De gauche à droite&nbsp;: Sarah McDonough, Directrice d'Atomic DNA,
+<div class="center italic">De gauche à droite&nbsp;: Sarah McDonough, Directrice d'Atomic DNA,
 Brian Duffy, President EMEA nord chez SAP,
 Nick Rankin, Spécialiste du support produit chez SAP
 Kristen Doran, Directrice des ressources humaines chez SAP,
@@ -102,7 +102,7 @@ Tout le monde est différent, chacun de nous est unique - nous le savons déjà 
 
 
 <amp-img src="/assets/posts/2019-06-20/p2.jpg" layout="intrinsic" class="center" width="1024" height="683"></amp-img>
-<div class="center">
+<div class="center italic">
 De gauche à droite : Kristen
 Kristen Doran, Directrice des ressources humaines chez SAP,
 Liam Ryan, Directeur SAP Irlande,
@@ -159,7 +159,7 @@ Par exemple, AsIAm.ie propose, entre autres, des programmes permettant aux emplo
 # 5. Les progrès et les améliorations profitent à tous
 
 <amp-img src="/assets/posts/2019-06-20/p3.jpg" layout="intrinsic" class="center" width="1024" height="683"></amp-img>
-<div class="center">
+<div class="center italic">
 Adam Harris, PDG et fondateur d'AsIAm.ie
 </div>
 
