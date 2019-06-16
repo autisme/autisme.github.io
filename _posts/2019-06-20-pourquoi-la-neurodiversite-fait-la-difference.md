@@ -16,12 +16,13 @@ translated:
 ---
 
 
-<div class="italic">
 Nous avons eu la chance le mois dernier d'assister à la table ronde intitulée « l'autisme au travail » organisée conjointement par Atomic DNA et SAP, une entreprise d'informatique qui a
 mis en place un processus d'inclusion des personnes autistes. Cette table ronde était pour eux l'occasion de faire un retour sur ce dispositif.
 
 Nous tenons également à rappeler que le directeur de SAP est ouvert pour que n'importe quelle entreprise qui souhaiterait employer des personnes autistes le contacte à ce sujet.
-</div>
+
+
+<p>&nbsp;</p>
 
 ---
 
