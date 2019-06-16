@@ -25,7 +25,7 @@ Nous tenons également à rappeler que le directeur de SAP est ouvert pour que n
 
 ---
 
-<amp-img src="/assets/posts/2019-06-20/p1.jpg" layout="intrinsic" class="center" width="1000" height="666"></amp-img>
+<amp-img src="/assets/posts/2019-06-20/p1.jpg" layout="intrinsic" class="center" width="1000" height="666" alt="De gauche à droite : Sarah McDonough, Directrice d'Atomic DNA, Brian Duffy, President EMEA nord chez SAP, Nick Rankin, Spécialiste du support produit chez SAP Kristen Doran, Directrice des ressources humaines chez SAP, Liam Ryan, Directeur SAP Irlande, Peter Brabazon, Directeur général de Specialisterne Irlande et Adam Harris, PDG et fondateur d'AsIAm.ie"></amp-img>
 <div class="center italic">De gauche à droite&nbsp;: Sarah McDonough, Directrice d'Atomic DNA,
 Brian Duffy, President EMEA nord chez SAP,
 Nick Rankin, Spécialiste du support produit chez SAP
@@ -101,9 +101,9 @@ d'aide pour obtenir un diagnostic.
 Tout le monde est différent, chacun de nous est unique - nous le savons déjà de manière générale, mais il est bon de nous le rappeler quand il s’agit de personnes dont la différence vient d’un handicap.
 
 
-<amp-img src="/assets/posts/2019-06-20/p2.jpg" layout="intrinsic" class="center" width="1024" height="683"></amp-img>
+<amp-img src="/assets/posts/2019-06-20/p2.jpg" layout="intrinsic" class="center" width="1024" height="683" alt="De gauche à droite : Kristen Kristen Doran, Directrice des ressources humaines chez SAP, Liam Ryan, Directeur SAP Irlande, et Peter Brabazon, Directeur général de Specialisterne Irlande."></amp-img>
 <div class="center italic">
-De gauche à droite : Kristen
+De gauche à droite&nbsp;: Kristen
 Kristen Doran, Directrice des ressources humaines chez SAP,
 Liam Ryan, Directeur SAP Irlande,
 et Peter Brabazon, Directeur général de Specialisterne Irlande.</div>
@@ -158,7 +158,7 @@ Par exemple, AsIAm.ie propose, entre autres, des programmes permettant aux emplo
 
 # 5. Les progrès et les améliorations profitent à tous
 
-<amp-img src="/assets/posts/2019-06-20/p3.jpg" layout="intrinsic" class="center" width="1024" height="683"></amp-img>
+<amp-img src="/assets/posts/2019-06-20/p3.jpg" layout="intrinsic" class="center" width="1024" height="683" alt="Adam Harris, PDG et fondateur d'AsIAm.ie"></amp-img>
 <div class="center italic">
 Adam Harris, PDG et fondateur d'AsIAm.ie
 </div>
