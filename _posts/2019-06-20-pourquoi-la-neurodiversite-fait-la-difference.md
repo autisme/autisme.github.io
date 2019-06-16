@@ -5,9 +5,6 @@ date:   2019-06-20 08:00:00 +0100
 categories:
   - Ressources
 author: Bastien
-courtesis:
-  image:
-    bank: freepik
 oembed_image: /assets/posts/2019-06-20/opengraph.jpg
 banner_image: /assets/posts/2019-06-20/banner.jpg
 translated:
