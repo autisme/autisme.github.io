@@ -3,10 +3,10 @@ layout: post
 title:  "Angleterre : Recommandations pour un plan autisme"
 date:   2019-07-10 08:00:00 +0100
 categories:
-  - Ressources
+  - Inclusion
 author: Bastien
-oembed_image: /assets/posts/2019-06-20/opengraph.jpg
-banner_image: /assets/posts/2019-06-20/banner.jpg
+oembed_image: /assets/posts/2019-07-10/opengraph.jpg
+banner_image: /assets/posts/2019-07-10/banner.jpg
 translated:
   website: autistica-uk
   url: /news/autism-strategy
