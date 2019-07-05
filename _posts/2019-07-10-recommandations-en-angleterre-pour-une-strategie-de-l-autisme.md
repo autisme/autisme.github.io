@@ -13,7 +13,7 @@ translated:
 ---
 
 Autistica, une association anglaise, a rédigé un rapport à destination du gouvernement Britanique contenant une liste de recommandations pour une stratégie de l'autisme outre-manche.
-Nous pensons qu'il est utile de partager de telles recommandations qui pourraient trouver toute leur place dans les politique de notre pays et plus particulièrement dans nos plans autisme.
+Nous pensons qu'il est utile de partager de telles recommandations qui pourraient trouver toute leur place dans la politique de notre pays et plus particulièrement dans nos plans autisme.
 
 <p>&nbsp;</p>
 
