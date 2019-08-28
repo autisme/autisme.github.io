@@ -10,6 +10,9 @@ oembed_image: /assets/pages/que-puis-je-faire/guides-inclusion-scolaire/opengrap
 banner_image: /assets/pages/que-puis-je-faire/guides-inclusion-scolaire/banner.jpg
 breadcrumbs:
   - /que-puis-je-faire/
+translated:
+  website: asiam
+  url: /download-today-asiam-back-school-handbooks/
 ---
 
 
