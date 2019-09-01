@@ -9,7 +9,8 @@ oembed_image: /assets/posts/2019-09-01/opengraph.jpg
 banner_image: /assets/posts/2019-09-01/banner.jpg
 ---
 
-Cet article est la traduction d'un guide proposé par Aspire Ireland.
+Cet article est la traduction d'un guide proposé par un groupe de personnes autistes
+rassemblés dans une association appelée Aspire Ireland.
 
 
 # Lycée vs l'université
