@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Effectuer la transition du lycée vers l'université"
+title:  "Transition du lycée vers l'université"
 date:   2019-09-01 08:00:00 +0100
 categories:
   - Inclusion
