@@ -17,7 +17,7 @@ Nous cherchons actuellement à créer un groupe d'entraide mutuelle à Nantes.
 Vous trouverez ci-dessous une présentation du projet.
 L'objectif est de permettre aux personnes autistes à sortir de chez elles mais également de leurs donner l'opportunité d'exprimer leurs besoins auprès des professionnels et du grand public. 
  
-Nous avons également mis à en ligne un questionnaire dans le but de recueillir les attentes des personnes autistes.
+Nous avons également mis à en ligne un questionnaire dans le but de recueillir les attentes des personnes autistes, de leurs parents et des professionnels vis-à-vis de ce projet.
 
 <div class="center">
 
