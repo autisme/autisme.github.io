@@ -46,8 +46,7 @@ Ces difficultés ne sont pas des caractéristiques du handicap mais sont la cons
 dont la société accueille ces personnes.
 
 # 2. Population concernée
-Il s’agit de personnes autistes, à partir de 18 ans, résidant en Loire Atlantique, avec peu ou sans déficience
-intellectuelle. Le diagnostic n’étant pas requis.
+Il s’agit de personnes autistes, à partir de 18 ans, résidant en Loire Atlantique. Le diagnostic n’étant pas requis.
 La situation sociale des participants au groupe est très diverse et participe à sa cohésion: chacun
 s’enrichissant des uns et des autres.
 
