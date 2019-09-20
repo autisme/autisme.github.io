@@ -96,6 +96,7 @@ Thank you
 
 
 
+PS: Here is a video recorded few weeks ago while the preparation of the speech.
 
 <amp-iframe width="800" height="500" sandbox="allow-scripts allow-same-origin" src="https://storage.confais.org/apps/video/?t=syno_web&v=AsIAmConfv1"></amp-iframe>
 
