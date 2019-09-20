@@ -7,6 +7,8 @@ categories:
 author: Bastien
 oembed_image: /assets/posts/2019-09-20/opengraph.jpg
 banner_image: /assets/posts/2019-09-20/banner.jpg
+modules:
+  - iframe
 ---
 
 Bastien Confais is delighted to have successfully delivered a speech at the AsIAm National Conference yesterday.
@@ -93,4 +95,4 @@ Most autistic people have something they are interested in and it is an excellen
 Thank you
 
 
-
+<amp-iframe width="800" height="450" sandbox="allow-scripts" src="https://storage.confais.org/apps/video/?t=syno_web&v=AsIAmConfv1"></amp-iframe>

@@ -38,7 +38,7 @@ Cela a été encore plus clair lorsque je suis entré à l'université où, dès
 Je pense qu'étudier ce que j'aime a rendu la transition vers l'enseignement supérieur beaucoup plus facile que ce que mes enseignants et mes parents pouvaient imaginer. Dans ce sens, je pense vraiment que l'enseignement supérieur peut être une excellente occasion pour tous les autistes de travailler sur ce qu'ils veulent, de faire connaissance de personnes qui partageant les mêmes intérêts et de se faire des amis.
 
 
-## Parler de ce qui nous intéresse nous aide à nous sentir considéré pour nos compétences
+## Les centres d'intérêts mettent en valeur nos compétences
 
 Au-delà de rendre le premier contact plus facile, je pense que prendre en compte les passions et les forces d’une personne lui donne l’opportunité de montrer ses connaissances, ses aptitudes et ses compétences et, en conséquence, de se sentir valorisée.
 
@@ -54,7 +54,7 @@ Je pense également que cette ambiance a permis d'éviter le harcèlement, car l
 Nous ne devons pas non plus oublier que certains centres d’intérêt peuvent également être la source d’aménagements (par exemple: communiquer par ordinateur). Tous mes professeurs me permettaient de faire mes devoirs sur mon ordinateur. C’était un bon moyen de m’inciter à faire mes devoirs en mélangeant ordinateur et les matières scolaires, mais c’était aussi une aide précieuse, car écrire avec un clavier m’était plus facile que d’écrire avec un stylo, surtout le soir après avoir passé de nombreuses heures en classe.
 
 
-## Les centres d'intérêts peuvent être utilisés par tout le monde
+## Tout le monde peut utiliser les centres d'intérêt
 
 Contrairement à une idée reçue, trouver un intérêt ou une force sur laquelle vous pouvez compter pour interagir quelqu'un n'est pas quelque chose de difficile. Ce n'est pas parce que quelqu'un est bon en maths que seul un professeur de maths peut réussir à utiliser cet intérêt.
 
