@@ -66,7 +66,7 @@ Another example I can use is a French teacher who asked everybody to read books 
 
 So, there is always an opportunity to engage someone and to highlight their interests, so that they could be involved and valued.
 
-## Interests also reassure other people
+## Reassuring other people
 
 Reaching for someone through their interests can be very reassuring. It can not only reassure the autistic person but also the other people. During my education, I met several people wondering if I was able to study in their class or if I was able to do an internship in their company. They were often afraid of not knowing how to interact with me or how to support me.
 
