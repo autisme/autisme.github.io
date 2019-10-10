@@ -6,8 +6,8 @@ categories:
   - Inclusion
   - Conseils
 author: Bastien
-oembed_image: /assets/posts/2019-09-01/opengraph.jpg
-banner_image: /assets/posts/2019-09-01/banner.jpg
+oembed_image: /assets/posts/2019-10-15/opengraph.jpg
+banner_image: /assets/posts/2019-10-15/banner.jpg
 courtesis:
   image:
     bank: freepik
