@@ -16,7 +16,7 @@ translated:
   url: /autism-behind-the-wheel-teaching-teens-and-young-adults-on-the-spectrum-to-drive-carmen-adams/
 ---
 
-* Note de l'éditeur : cet article écrit par Carmen Adam a été écrit dans un contexte américain. Toutes les situations qui y sont décrites ne peuvent pas s'appliquer en France *
+* Note de l'éditeur : cet article écrit par Carmen Adam a été originellement publié dans un contexte américain. Toutes les situations qui y sont décrites ne peuvent pas s'appliquer en France *
 
 
 Passer le permis est une étape importante dans la vie des adolescents et des jeunes adultes. 
