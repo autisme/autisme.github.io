@@ -3,8 +3,7 @@ layout: post
 title:  "Scénario social pour Halloween"
 date:   2019-10-31 08:00:00 +0100
 categories:
-  - Inclusion
-  - Conseils
+  - Ressources
 author: Bastien
 oembed_image: /assets/posts/2019-10-31/opengraph.jpg
 banner_image: /assets/posts/2019-10-31/banner.jpg
