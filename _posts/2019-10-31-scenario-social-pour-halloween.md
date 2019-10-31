@@ -15,13 +15,18 @@ translated:
   url: /halloween-social-story/
 ---
 
-Chez AsIAm, nous comprenons qu'Halloween peut générer du stress et de l'anxiété chez les personnes autistes de tout âge.
+
+Nous comprenons qu'Halloween peut générer du stress et de l'anxiété chez les personnes autistes de tout âge.
 Les lumières, les feux d'artifice et les costumes sont difficiles à éviter.
 
 Nous comprenons cependant, que les enfants autistes ont le droit de fêter Halloween, comme tout le monde.
 C'est dans cet esprit que nous avons conçu ce scénario social permettant aux parents d'expliquer à leur enfant ce à quoi il doivent s'attendre.
 
-De la part de tous les membres de l'AsIAm, nous vous souhaitons un Joyeux Halloween&nbsp;!
+<p class="center">
+
+Nous vous souhaitons un Joyeux Halloween&nbsp;!
+
+</p>
 
 
 # Scénario social
