@@ -22,7 +22,7 @@ Vous trouverez ci-dessous son intervention sous-titrée en français.
 
 
 <div class="center">
-<amp-iframe layout="intrinsic" width="650" height="364" sandbox="allow-scripts" src="https://storage.confais.org/apps/video/?v=A1AUdaH-EPM&t=yt&s=fr,syno_web,Why%20everything%20you%20know%20about%20autism%20is%20wrong/french.vtt" scrolling="no">
+<amp-iframe layout="intrinsic" width="650" height="364" sandbox="allow-scripts allow-same-origin" src="https://storage.confais.org/apps/video/?v=A1AUdaH-EPM&t=yt&s=fr,syno_web,Why%20everything%20you%20know%20about%20autism%20is%20wrong/french.vtt" scrolling="no">
  <amp-img layout="intrinsic" width="650" height="364" src="/assets/posts/2019-11-08/placeholder.jpg" placeholder></amp-img>
 </amp-iframe>
 </div>
