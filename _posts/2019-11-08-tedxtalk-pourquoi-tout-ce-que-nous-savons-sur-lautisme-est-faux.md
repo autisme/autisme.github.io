@@ -6,7 +6,7 @@ categories:
   - Ressources
 author: Bastien
 oembed_image: /assets/posts/2019-11-08/opengraph.jpg
-banner_image: /assets/posts/2019-11-08/banner.jpg
+banner_image: false
 courtesis:
   image:
     bank: custom
