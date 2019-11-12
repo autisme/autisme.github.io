@@ -15,7 +15,6 @@ translated:
   url: /halloween-social-story/
 ---
 
-
 Nous comprenons qu'Halloween peut générer du stress et de l'anxiété chez les personnes autistes de tout âge.
 Les lumières, les feux d'artifice et les costumes sont difficiles à éviter.
 
@@ -42,7 +41,6 @@ Je peux être nerveux à ce moment et être stressé à l'idée de parler à des
 C'est normal. Toutes les autres personnes personnes fêtant Halloween ressentiront la même chose.
 
 <amp-img src="/assets/posts/2019-10-31/img2.jpg" layout="intrinsic" class="center" width="1000" height="345" alt="Halloween 2"></amp-img>
-
 
 Lorsque le voisin ouvrira la porte, je dirai «&nbsp;des bonbons ou un sort&nbsp;».
 Le voisin peut me poser des questions sur mon costume. Ensuite, ils mettra des bonbons dans mon sac de friandises. 
