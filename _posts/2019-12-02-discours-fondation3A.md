@@ -5,8 +5,8 @@ date:   2019-12-02 08:00:00 +0100
 categories:
   - Conference
 author: Bastien
-oembed_image: /assets/posts/2019-09-20/opengraph.jpg
-banner_image: /assets/posts/2019-09-20/banner.jpg
+oembed_image: /assets/posts/2019-12-02/opengraph.jpg
+banner_image: /assets/posts/2019-12-02/banner.jpg
 ---
 
 Ci-dessous, le discours prononcé par Bastien Confais lors de l'assemblée générale de
