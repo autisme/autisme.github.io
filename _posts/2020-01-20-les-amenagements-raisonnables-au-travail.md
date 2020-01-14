@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Les aménagements raisonnables au travail
 date: 2020-01-20 08:00:00 +0100
 categories:
