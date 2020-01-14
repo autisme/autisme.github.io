@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Colloque international : autisme et études supérieures
+title: "Colloque international : autisme et études supérieures"
 date: 2020-01-21 08:00:00 +0100
 categories:
   - Conférence
 author: Bastien
-oembed_image: /assets/posts/2020-01-20/opengraph.jpg
+oembed_image: /assets/posts/2020-01-21/opengraph.jpg
 banner_image: false
 ---
 
