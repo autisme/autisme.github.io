@@ -9,7 +9,7 @@ courtesis:
   image:
     bank: freepik
 oembed_image: /assets/posts/2020-01-20/opengraph.jpg
-banner_image: false
+banner_image: /assets/posts/2020-01-20/banner.jpg
 translated:
   website: asiam
   url: /reasonable-accommodations-in-the-workplace-adrian-carroll/
