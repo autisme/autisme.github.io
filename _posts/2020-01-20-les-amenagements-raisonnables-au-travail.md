@@ -15,7 +15,7 @@ translated:
   url: /reasonable-accommodations-in-the-workplace-adrian-carroll/
 ---
 
-# Aménagements raisonnables au travail
+## Aménagements raisonnables au travail
 
 Lorsque les personnes autistes postulent pour un emploi, elles peuvent craindre que leur handicap soit non seulement une barrière 
 pour trouver du travail mais également au-delà, si elles veulent faire leur travail selon les mêmes normes que leurs collègues qui ne sont pas autistes.
@@ -53,7 +53,7 @@ d'emploi précis.
 Les aménagements en entreprise contribuent à faire en sorte que les personnes autistes (et handicapées en général) soient valorisées
 et appréciées dans le monde travail.
 
-# Quels sont les exemples d'aménagements raisonnables dont les personnes autistes peuvent bénéficier
+## Quels sont les exemples d'aménagements raisonnables dont les personnes autistes peuvent bénéficier
 
 
 Le principal avantage pour les personnes autistes d'annoncer leur handicap à leur employeur
