@@ -35,6 +35,7 @@ Ci-dessous, une liste des différents travaux et des actions que nous avons réa
 ## Éducation
 <ul class="thumb" id="Education">
  {% include thumb.html url="/que-puis-je-faire/guides-inclusion-scolaire" title="Guides pour inclure les élèves autistes en classe" img="/assets/pages/que-puis-je-faire/guides-inclusion-scolaire/opengraph.jpg" %}
+ {% include thumb.html url="/que-puis-je-faire/cartes-pour-la-classe" title="Cartes pour que les élèves autistes puissent s'exprimer en classe" img="/assets/pages/que-puis-je-faire/cartes-pour-la-classe/opengraph.jpg" %}
 </ul>
 
 
