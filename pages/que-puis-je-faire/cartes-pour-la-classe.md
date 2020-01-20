@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cartes pour que les élèves autistes puissent s'exprimer en classe
-permalink: /cartes-pour-la-classe
+permalink: /que-puis-je-faire/cartes-pour-la-classe
 header_link: false
 courtesis:
   image:
