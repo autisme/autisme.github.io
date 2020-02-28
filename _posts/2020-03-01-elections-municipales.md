@@ -22,7 +22,7 @@ Pour beaucoup de personnes autistes, sortir de chez elles pour aller à l'école
 De la même manière, prendre les transports en commun, faire leurs courses, rencontrer d'autres gens ou même visiter un musée sont des choses qui leur demande une énergie considérable.
 Certaines personnes sont même incapables de faire cela de façon autonome et ont besoin d'être accompagnées.
 
-En conséquence, les personnes autistes vivent souvent isolées, sont malheureuses, en mauvaise santé et ont une vie plus courte que les autres*.
+En conséquence, les personnes autistes vivent souvent isolées, sont malheureuses, en mauvaise santé et ont une vie plus courte que les autres <a href="#section1" id="ref1">[1]</a>.
 Nous appelons donc l'ensemble des candidats à promouvoir les droits des personnes autistes et à faire du handicap un élément clé de leur programme.
 
 Ci-dessous, nous vous proposons une liste de thèmes qui doivent 
@@ -74,11 +74,11 @@ Afin d'améliorer l'accessibilité de ces lieux, nous vous proposons de prendre 
 
 
 
-<small>
-\* les personnes autistes ont une vie raccourcie de 16 ans en moyenne par rapport aux personnes non autistes.
+<div class="small" id="section1">
+<a href="#ref1">[1]</a>: les personnes autistes ont une vie raccourcie de 16 ans en moyenne par rapport aux personnes non autistes.
 Hirvikoski, T., Mittendorfer-Rutz, E., Boman, M., Larsson, H., Lichtenstein, P., & Bölte, S. - <a href="https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/premature-mortality-in-autism-spectrum-disorder/4C9260DB64DFC29AF945D32D1C15E8F2">
 Premature mortality in autism spectrum disorder
 </a> - The British Journal of Psychiatry - 2016
-</small>
+</div>
 
 
