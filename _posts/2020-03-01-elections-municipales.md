@@ -13,7 +13,7 @@ modules:
   - carousel
 ---
 
-Les élections muniicpales sont l'occasion d'élire les représentants de toutes les villes de France.
+Les élections municipales sont l'occasion d'élire les représentants de toutes les villes de France.
 Nous pensons que cela doit être également l'opportunité de rendre les villes accessibles à tous, et notamment aux personnes autistes.
 
 # Un programme de campagne électorale
