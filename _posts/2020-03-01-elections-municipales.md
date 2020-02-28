@@ -54,8 +54,8 @@ Nous vous proposons ci-dessous, une liste de points qui doivent vous permettre d
 <amp-selector id="carousel-selector" on="select:carousel.goToSlide(index=event.targetOption)" layout="container">
  <amp-carousel id="carousel-preview" class="carousel-preview" height="128" layout="fixed-height" type="carousel">
   <amp-img option="0" selected src="{{ site.resources_repository }}/elections/services_et_infrastructures.png" width="170" height="128" alt="p1"></amp-img>
-  <amp-img option="0" selected src="{{ site.resources_repository }}/elections/security_and_inclusion.png" width="170" height="128" alt="p2"></amp-img>
-  <amp-img option="0" selected src="{{ site.resources_repository }}/elections/loisirs_et_activites_culturelles.png" width="170" height="128" alt="p3"></amp-img>
+  <amp-img option="1" src="{{ site.resources_repository }}/elections/security_and_inclusion.png" width="170" height="128" alt="p2"></amp-img>
+  <amp-img option="2" src="{{ site.resources_repository }}/elections/loisirs_et_activites_culturelles.png" width="170" height="128" alt="p3"></amp-img>
  </amp-carousel>
 </amp-selector>
 </div>
