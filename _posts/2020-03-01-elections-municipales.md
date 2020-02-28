@@ -16,6 +16,8 @@ modules:
 Les élections muniicpales sont l'occasion d'élire les représentants de toutes les villes de France.
 Nous pensons que cela doit être également l'opportunité de rendre les villes accessibles à tous, et notamment aux personnes autistes.
 
+# Un programme de campagne électorale
+
 Pour beaucoup de personnes autistes, sortir de chez elles pour aller à l'école ou au travail leur demande de nombreux efforts.
 De la même manière, prendre les transports en commun, faire leurs courses, rencontrer d'autres gens ou même visiter un musée sont des choses qui leur demande une énergie considérable.
 Certaines personnes sont même incapables de faire cela de façon autonome et ont besoin d'être accompagnées.
@@ -57,6 +59,19 @@ Nous vous proposons ci-dessous, une liste de points qui doivent vous permettre d
  </amp-carousel>
 </amp-selector>
 </div>
+
+# Accessibilité des bureaux de vote
+
+Au-delà de la campagne électorale, nous rappelons à toutes les personnes qui organisent les élections que les personnes autistes comme toutes les personnes, ont le droit de vote.
+Pourtant, très peu de bureaux de vote sont accessibles.
+
+Afin d'améliorer l'accessibilité de ces lieux, nous vous proposons de prendre connaissance des points suivants :
+
+  - Publiez des photos du lieu de vote afin que les personnes autistes puissent s'y préparer
+  - Indiquez la fréquentation prévue. À quelle heure y aura-t-il le moins de monde ?
+  - Pourquoi ne pas créer une "social story" qui explique comment se déroule le vote ?
+
+
 
 
 <small>
