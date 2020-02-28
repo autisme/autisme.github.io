@@ -30,10 +30,20 @@ Nous vous proposons ci-dessous, une liste de points qui doivent vous permettre d
 
 
 <div class="center">
-<amp-carousel width="600" height="700" layout="intrinsic" type="slides" class="white" id="carousel" on="slideChange: carousel-selector.toggle(index=event.index, value=true), carousel-preview.goToSlide(index=event.index)">
+<amp-carousel width="800" height="600" layout="intrinsic" type="slides" class="white" id="carousel" on="slideChange: carousel-selector.toggle(index=event.index, value=true), carousel-preview.goToSlide(index=event.index)">
  <div class="slide">
   <a href="" target="_blank">
-   <amp-img src="{{ site.resources_repository }}/monday-messages/95-meltdown/img.png" layout="intrinsic" width="600" height="600" alt="95"></amp-img>
+   <amp-img src="{{ site.resources_repository }}/elections/services_et_infrastructures.png" layout="intrinsic" width="800" height="600" alt="95"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <a href="" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/elections/security_and_inclusion.png" layout="intrinsic" width="800" height="600" alt="95"></amp-img>
+  </a>
+ </div>
+ <div class="slide">
+  <a href="" target="_blank">
+   <amp-img src="{{ site.resources_repository }}/elections/loisirs_et_activites_culturelles.png" layout="intrinsic" width="800" height="600" alt="95"></amp-img>
   </a>
  </div>
 </amp-carousel>
