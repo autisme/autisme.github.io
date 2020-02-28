@@ -75,7 +75,7 @@ Afin d'améliorer l'accessibilité de ces lieux, nous vous proposons de prendre 
 
 
 <small>
-* les personnes autistes ont une vie raccourcie de 16 ans en moyenne par rapport aux personnes non autistes.
+\* les personnes autistes ont une vie raccourcie de 16 ans en moyenne par rapport aux personnes non autistes.
 Hirvikoski, T., Mittendorfer-Rutz, E., Boman, M., Larsson, H., Lichtenstein, P., & Bölte, S. - <a href="https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/premature-mortality-in-autism-spectrum-disorder/4C9260DB64DFC29AF945D32D1C15E8F2">
 Premature mortality in autism spectrum disorder
 </a> - The British Journal of Psychiatry - 2016
