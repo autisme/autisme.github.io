@@ -6,7 +6,7 @@ categories:
   - Inclusion
 author: Bastien
 oembed_image: /assets/posts/2020-03-01/opengraph.jpg
-banner_image: false
+banner_image: /assets/posts/2020-03-01/banner.jpg
 modules:
   - selector
   - fit-text
