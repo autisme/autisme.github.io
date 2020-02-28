@@ -67,12 +67,14 @@ Pourtant, très peu de bureaux de vote sont accessibles.
 
 Afin d'améliorer l'accessibilité de ces lieux, nous vous proposons de prendre connaissance des points suivants :
 
-  - Publiez des photos du lieu de vote afin que les personnes autistes puissent s'y préparer
+  - Publiez des photos du lieu de vote afin que les personnes autistes puissent préparer leur venue
+  - Vous pouvez également organiser des visites des lieux avant le jour des élections
   - Indiquez la fréquentation prévue. À quelle heure y aura-t-il le moins de monde ?
-  - Pourquoi ne pas créer une "social story" qui explique comment se déroule le vote ?
+  - Pourquoi ne pas créer un scénario social qui explique comment se déroule le vote ?
 
 
 
+<p>&nbsp;</p>
 
 <div class="small" id="section1">
 <a href="#ref1">[1]</a>: les personnes autistes ont une vie raccourcie de 16 ans en moyenne par rapport aux personnes non autistes.
