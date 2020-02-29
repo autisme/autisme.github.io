@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Élections municipales"
-date: 2020-01-21 08:00:00 +0100
+date: 2020-03-01 08:00:00 +0100
 categories:
   - Inclusion
 author: Bastien
