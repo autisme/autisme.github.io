@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peter Vermeulen : Autisme et le Corona Virus : 20 conseils"
+title: "Peter Vermeulen : Autisme et Corona Virus : 20 conseils"
 date: 2020-03-29 08:00:00 +0100
 categories:
   - Conseils
