@@ -5,7 +5,7 @@
 layout: blog
 permalink: /blog/
 header_link: 3
-paginate: {"year": "2019"}
+paginate: {"year": "2020"}
 title: Blog
 ---
 
