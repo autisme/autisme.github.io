@@ -9,8 +9,12 @@ oembed_image: /assets/posts/2020-03-15/opengraph.jpg
 banner_image: /assets/posts/2020-03-15/banner.jpg
 ---
 
-Le docteur Peter Vermeulen a publié l'article suivant sur son site web personnel : <a href="https://petervermeulenblog.wordpress.com/2020/03/16/autism-and-the-corona-virus-20-tips/">https://petervermeulenblog.wordpress.com/2020/03/16/autism-and-the-corona-virus-20-tips/</a>.
-Nous vous en proposons une traduction en français ci-dessous.
+*Le docteur Peter Vermeulen a publié l'article suivant sur son site web personnel : <a href="https://petervermeulenblog.wordpress.com/2020/03/16/autism-and-the-corona-virus-20-tips/">https://petervermeulenblog.wordpress.com/2020/03/16/autism-and-the-corona-virus-20-tips/</a>.
+Nous vous en proposons une traduction en français ci-dessous.*
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 COVID-19 est une nouvelle maladie causée par le Corona Virus.
