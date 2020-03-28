@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adrian Caroll: Impacts du Corona virus sur les employés autistes"
-date: 2020-03-28 08:00:00 +0100
+date: 2020-03-29 09:00:00 +0100
 categories:
   - Conseils
 author: Bastien
