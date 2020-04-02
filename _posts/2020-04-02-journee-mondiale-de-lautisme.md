@@ -5,7 +5,7 @@ date: 2020-04-02 08:00:00 +0100
 categories:
   - Conseils
 author: Bastien
-oembed_image: /assets/posts/2020-04-02/opengraph.jpg
+oembed_image: /assets/posts/2020-04-02-1/opengraph.jpg
 banner_image: false
 translated:
   website: asiam
