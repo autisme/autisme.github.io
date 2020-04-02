@@ -59,6 +59,16 @@ Toutefois, le président de la république M. Emanuel Macron vient d'annoncer
 un assouplissement des mesures de confinement pour les personnes autistes.
 </a>
 
+
+Les nouvelles conditions sont les suivantes
+
+ -  Pour les personnes en situation de handicap domiciliées chez elles, leurs parents ou leurs proches : leurs sorties, soit seules soit accompagnées, en voiture ou non, ne sont pas limitées à 1H, ni contraintes à 1Km du domicile pour permettre notamment d’aller dans un lieu de dépaysement, ni régulées dans leur fréquence et leur objet, dès lors que la personne ou son accompagnant justifie aux forces de l'ordre d'un document attestant de la situation particulière de handicap.
+ -  S'agissant des déplacements d'un tiers professionnel ou non pour la prise en charge de personnes en situation de handicap : ce déplacement entre dans le cadre des déplacements pour assistance à personnes vulnérables, sans condition de durée ou de distance.
+
+Attention : cette mesure ne fait pas l’objet d’une attestation dédiée, mais consigne est donnée aux préfets et aux forces de l’ordre d’une prise en compte spécifique. Il faut donc toujours pour autant remplir et avoir l’attestation habituelle dérogatoire de déplacement.
+
+
+
 Nous sommes vraiment heureux de cela et nous espérons que cela contribuera à aider les personnes autistes à vivre cette période dans de meilleures conditions.
 
 
