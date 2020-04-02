@@ -22,7 +22,7 @@ Les personnes autistes sont facilement anxieuses et cela est devenu assez extrê
 AsIAm a réalisé un sondage en Irlande pour recueillir le vécu, les questions et les besoins pendant cette urgence sanitaire.
 Il ressort cela :
 
--> 70&nbsp;% des familles reportent que la crise est "difficiles" ou "très difficile" à gérer et 23&nbsp;% pensent que cela va empirer si la situation n'évolue pas favorablement rapidement.
+-> 70&nbsp;% des familles reportent que la crise est «&nbsp;difficiles&nbsp;» ou «&nbsp;très difficile&nbsp;» à gérer et 23&nbsp;% pensent que cela va empirer si la situation n'évolue pas favorablement rapidement.
 
 -> 72&nbsp;% des personnes autistes n'ont pas d'autre solution si la personne qui s'occupe d'elle tombe malade
 
@@ -43,7 +43,7 @@ Il ressort cela :
 -> 80&nbsp;% des familles déclarent que les personnes autistes ont du mal à rester confinées à la maison, sans que cela ne génère des comportements inappropriés.
 
 Les principales préoccupations mentionnées par les familles et les personnes autistes comprenaient 
-le manque de structure, une augmentation des "crises, le respect des restrictions
+le manque de structure, une augmentation des «&nbsp;crises&nbsp;», le respect des restrictions
 et les règles de distanciation sociale et enfin, ce qu'il se passerait si une personne autiste ou un proche tombait malade.
 
 Pour les personnes autistes, tous ces facteurs contribuent à leur faire perdre des compétences clés,
