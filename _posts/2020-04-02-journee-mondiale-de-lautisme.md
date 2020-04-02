@@ -60,9 +60,7 @@ Nous sommes vraiment heureux de cela et nous espérons que cela contribuera à a
 
 
 <a href="https://www.elysee.fr/emmanuel-macron/2020/04/02/autisme">
-
-<amp-img src="/assets/posts/2020-04-02-1/Image-1.jpeg" layout="intrinsic" class="center" width="500" height="282" alt="Mon message à celles et ceux qui vivent avec l'autisme"></amp-img>
-
+<amp-img src="/assets/posts/2020-04-02-1/Image-1.jpeg" layout="fixed" class="center" width="500" height="282" alt="Mon message à celles et ceux qui vivent avec l'autisme"></amp-img>
 </a>
 
 
