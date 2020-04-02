@@ -54,12 +54,15 @@ ces temps incertains peuvent être encore plus difficiles.
 
 
 Nous avons de fortes raisons de penser que les personnes autistes vivant en France font face aux mêmes difficultés.
-Toutefois, le président de la république M. Emanuel Macron vient d'annoncer un assouplissement des mesures de confinement pour les personnes autistes.
+Toutefois, le président de la république M. Emanuel Macron vient d'annoncer 
+<a href="https://www.elysee.fr/emmanuel-macron/2020/04/02/autisme">
+un assouplissement des mesures de confinement pour les personnes autistes.
+</a>
 
 Nous sommes vraiment heureux de cela et nous espérons que cela contribuera à aider les personnes autistes à vivre cette période dans de meilleures conditions.
 
 
-<a href="https://www.elysee.fr/emmanuel-macron/2020/04/02/autisme" class="center"><amp-img src="/assets/posts/2020-04-02-1/Image-1.jpeg" layout="fixed" class="center" width="500" height="282" alt="Mon message à celles et ceux qui vivent avec l'autisme"></amp-img></a>
+<amp-img src="/assets/posts/2020-04-02-1/Image-1.jpeg" layout="fixed" class="center" width="500" height="282" alt="Mon message à celles et ceux qui vivent avec l'autisme"></amp-img>
 
 
 ## Joyeux mois de l'autisme
