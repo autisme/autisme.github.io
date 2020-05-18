@@ -60,5 +60,5 @@ Ci-dessous, une liste des différents travaux et des actions que nous avons réa
 
 ## Santé
 <ul class="thumb" id="Sante">
- {% include thumb.html url="/que-puis-je-faire/passeport-sante" title="Accueillir les personnes autistes en consultation" img="/assets/pages/que-puis-je-faire/passeport-sante/opengraph.jpg" %}
+ {% include thumb.html url="/que-puis-je-faire/passeport-sante" title="Guide pour les personnels de santé" img="/assets/pages/que-puis-je-faire/passeport-sante/opengraph.jpg" %}
 </ul>

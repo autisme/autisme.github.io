@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guides pour inclure les élèves autistes en classe
+title: Guide pour les personnels de santé
 permalink: /que-puis-je-faire/passeport-sante
 header_link: false
 courtesis:
