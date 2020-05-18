@@ -49,7 +49,17 @@ La meilleure façon de déterminer quels sont les aménagements à mettre en pla
 
 ## Utilisez le passeport santé
 
-Nous avons développé un passeport santé disponible à l'adresse suivante : <a href="http://raw.githack.com/autisme/twitter-campaign/master/passeport-sante/passeport-sante.pdf">http://raw.githack.com/autisme/twitter-campaign/master/passeport-sante/passeport-sante.pdf</a>.
+Nous avons développé un passeport santé disponible ci-dessous :
+
+
+<ul class="thumb">
+ {% capture download_url %}{{ site.resources_repository }}/passeport-sante/passeport-sante.pdf{% endcapture %}
+ {% include thumb.html url=download_url title="Passeport Santé (PDF)" img="/assets/pages/que-puis-je-faire/passeport-sante/passeport-sante.jpg" color="blue" %}
+</ul>
+
+
+
+
 Bien que cela prend du temps de regarder ce document et de le lire en détails, il réduit le temps que vous allez passer à déterminer comment répondre aux besoins du patient
 sans le stresser ou sans le rendre encore plus anxieux.
 Les personnes autistes ont passé du temps à remplir ce document avec les informations qu'ils semblaient pertinentes de vous communiquer.
