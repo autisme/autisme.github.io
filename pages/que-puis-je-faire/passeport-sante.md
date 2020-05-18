@@ -10,6 +10,9 @@ oembed_image: /assets/pages/que-puis-je-faire/passeport-sante/opengraph.jpg
 banner_image: /assets/pages/que-puis-je-faire/passeport-sante/banner.jpg
 breadcrumbs:
   - /que-puis-je-faire/
+translated:
+  website: asiam
+  url: /wp-content/uploads/2020/05/guide-for-frontline-staff.pdf
 ---
 
 Cher professionnel de santé,
