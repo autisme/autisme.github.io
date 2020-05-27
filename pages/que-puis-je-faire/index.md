@@ -16,7 +16,7 @@ Depuis 2016, nous avons réalisé un certain nombre de campagnes afin de nous ra
 Nous cherchons à impliquer le plus grand nombre de personne possible dans la société afin que la pupart des individus comprennent ce qu'est l'autisme et que
 les groupes, les organisation et les services deviennent plus accessibles aux personnes concernées.
 
-Ci-dessous, une liste des différents travaux et des actions que nous avons réalisés ces dernières années.
+Ci-dessous, une liste des différents travaux et des actions que nous avons réalisées ces dernières années.
 
 ## Sensibilisation
 <ul class="thumb" id="Sensibilisation">
