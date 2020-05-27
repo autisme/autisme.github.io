@@ -30,7 +30,7 @@ AsIAm.ie met à disposition des lettres qui peuvent vous aider à expliquer pour
 
 <ul class="thumb">
  {% capture download_url %}{{ site.resources_repository }}/covid-19/distanciation-sociale/lettre-distanciation-sociale.pdf{% endcapture %}
- {% include thumb.html url=download_url title="Lettre par rapport au COVID-19 et à la distanciation sociale" img="/assets/redirect/2020-04-05-covid-letter.jpg" color="blue" %}
+ {% include thumb.html url=download_url title="Lettre par rapport à la distanciation sociale" img="/assets/redirect/2020-04-05-covid-letter.jpg" color="blue" %}
  {% capture download_url %}{{ site.resources_repository }}/covid-19/sortie/lettre-sortie.pdf{% endcapture %}
  {% include thumb.html url=download_url title="Lettre par rapport aux sorties pendant le confinement" img="/assets/redirect/2020-04-05-covid-letter.jpg" color="green" %}
  {% capture download_url %}{{ site.resources_repository }}/covid-19/mask/lettre-masque.pdf{% endcapture %}
