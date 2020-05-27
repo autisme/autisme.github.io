@@ -5,7 +5,7 @@ date: 2020-05-30 10:00:00 +0100
 categories:
   - Ressources
 author: Bastien
-oembed_image: /assets/posts/2020-04-02/opengraph.jpg
+oembed_image: /assets/posts/2020-05-30/opengraph.jpg
 banner_image: false
 ---
 
