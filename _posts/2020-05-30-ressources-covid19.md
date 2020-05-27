@@ -15,7 +15,7 @@ Certaines apprécient cette période pendant laquelle les interactions sociales 
 tandis que d'autres sont perdues à cause de la perte de routine.
 Une chose est certaines, pour tout le monde, le retour à la vie normale sera difficile.
 
-Au cours des dernières semaines AsIAm a publié de nombreuses ressources pour aider les personnes autistes à vivre cette période.
+Au cours des dernières semaines l'association Irlandaise AsIAm.ie a publié de nombreuses ressources pour aider les personnes autistes à vivre cette période.
 Nous les avons traduit en français et nous espérons que celles-ci vous soient utiles.
 
 
