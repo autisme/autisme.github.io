@@ -43,7 +43,7 @@ AsIAm.ie met à disposition des lettres qui peuvent vous aider à expliquer pour
 
 <ul class="thumb">
  {% capture download_url %}https://storage.confais.org/apps/video/?cache=5e9025b93308f&v=fsEAVPkAfng&t=yt&s=fr%2Csyno_web%2CAsIAm%20seminar%20-%20COVID%20and%20Change%2Ffr.vtt&p={% endcapture %}
- {% include thumb.html url=download_url title="Vidéo: COVID-19 et le changement" img="/assets/posts/2020-05-30/webinar.jpg" color="blue" %}
+ {% include thumb.html url=download_url title="Vidéo: Faire face aux changements" img="/assets/posts/2020-05-30/webinar.jpg" color="blue" %}
  {% capture download_url %}{{ site.resources_repository }}/covid-19/school/school.pdf{% endcapture %}
  {% include thumb.html url=download_url title="Conseils pour poursuivre ses études à la maison" img="/assets/posts/2020-05-30/school.jpg" color="green" %}
  {% capture download_url %}{{ site.resources_repository }}/covid-19/lockdown/lockdown2.pdf{% endcapture %}
