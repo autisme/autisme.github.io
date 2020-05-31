@@ -49,7 +49,7 @@ AsIAm.ie met à disposition des lettres qui peuvent vous aider à expliquer pour
  {% capture download_url %}{{ site.resources_repository }}/covid-19/school/school.pdf{% endcapture %}
  {% include thumb.html url=download_url title="Conseils pour poursuivre ses études à la maison" img="/assets/posts/2020-05-30/school.jpg" color="green" %}
  {% capture download_url %}{{ site.resources_repository }}/covid-19/lockdown/lockdown2.pdf{% endcapture %}
- {% include thumb.html url=download_url title="Guide visuel pour le confinement" img="/assets/posts/2020-04-02/opengraph.jpg" color="purple" %}
+ {% include thumb.html url=download_url title="Guide visuel sur le confinement" img="/assets/posts/2020-04-02/opengraph.jpg" color="purple" %}
 </ul>
 
 # Se faire tester pour le coronavirus
