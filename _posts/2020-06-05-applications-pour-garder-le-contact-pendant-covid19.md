@@ -134,7 +134,7 @@ L'application a une option pour enregistrer les parties, permettant aux utilisat
 
 ## Smule
 
-<amp-img src="/assets/posts/2020-06-05/smule.jpg" layout="fixed" class="center" width="250" height="250" alt="Smule"></amp-img>
+<amp-img src="/assets/posts/2020-06-05/smule.png" layout="fixed" class="center" width="250" height="250" alt="Smule"></amp-img>
 
 Vous êtes fan de Karaoké ? Smule peut vous permettre de changer avec vos amis ou avec des étrangers.
 Vous pouvez chanter seul ou avoir quelqu'un qui chante une partie de la chanson pour vous.
