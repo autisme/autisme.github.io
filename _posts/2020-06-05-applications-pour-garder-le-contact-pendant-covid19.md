@@ -29,7 +29,7 @@ Nous avons fait une liste ici des meilleurs applications.
 
 ## Zoom
 
-<amp-img src="/assets/posts/2020-06-05/zoom.jpg" layout="intrinsic" class="center" width="500" height="492" alt="Zoom"></amp-img>
+<amp-img src="/assets/posts/2020-06-05/zoom.jpg" layout="fixed" class="center" width="250" height="247" alt="Zoom"></amp-img>
 
 Je vais commencer par l'outil le plus crucial.
 Zoom est un système de vidéo conférence qui est très bien pour les personnes qui travaillent sur leur ordinateur.
@@ -43,7 +43,7 @@ C'est un logiciel à avoir pour rester en contact avec sa famille !
 
 ## Marco Polo
 
-<amp-img src="/assets/posts/2020-06-05/marco_polo.jpg" layout="intrinsic" class="center" width="550" height="550" alt="Marco Polo"></amp-img>
+<amp-img src="/assets/posts/2020-06-05/marco_polo.jpg" layout="fixed" class="center" width="250" height="250" alt="Marco Polo"></amp-img>
 
 
 Vous avez déjà voulu raconter une histoire à un ami mais le fait de taper au clavier ou de téléphoner demande trop d'efforts ?
@@ -63,7 +63,7 @@ Surnommé l'application "talkie-walkie", Marco Polo est idéal pour ceux qui ont
 
 ## Netflix Party
 
-<amp-img src="/assets/posts/2020-06-05/netflix_party.jpg" layout="intrinsic" class="center" width="550" height="343" alt="Netflix party"></amp-img>
+<amp-img src="/assets/posts/2020-06-05/netflix_party.jpg" layout="fixed" class="center" width="250" height="155" alt="Netflix party"></amp-img>
 
 L'extension Netflix Party pour Google Chrome est bien pour organiser des soirées vidéos virtuelles !
 
@@ -80,7 +80,7 @@ Il y a également un chat pour échanger des commentaires car il n'y a rien de p
 
 ## JackBox
 
-<amp-img src="/assets/posts/2020-06-05/jackbox.jpg" layout="intrinsic" class="center" width="550" height="280" alt="JackBox"></amp-img>
+<amp-img src="/assets/posts/2020-06-05/jackbox.jpg" layout="fixed" class="center" width="250" height="128" alt="JackBox"></amp-img>
 
 C'est l'une des rares applications de cette liste qui n'est pas gratuite.
 Cependant JackBox mérite l'investissement, en permettant de jouer à des jeux société en ligne.
@@ -101,7 +101,7 @@ D'autres jeux permettent de tester sa culture générale comme Trivia Murder Par
 
 ## Squad
 
-<amp-img src="/assets/posts/2020-06-05/squad.jpg" layout="intrinsic" class="center" width="400" height="400" alt="Squad"></amp-img>
+<amp-img src="/assets/posts/2020-06-05/squad.jpg" layout="fixed" class="center" width="250" height="250" alt="Squad"></amp-img>
 
 Si vous souhaitez avoir de la compagnie sans interrompre votre routine, Squad peut satisfaire ce besoin.
 Cela est particulièrement bénéfique si vous aimez vous asseoir avec des amis pour partager des news ou des memes.
@@ -120,7 +120,7 @@ Il est donc facile de présenter vos photos souvenir, de demander un avis pour l
 
 ## Heads Up!
 
-<amp-img src="/assets/posts/2020-06-05/heads_up.jpg" layout="intrinsic" class="center" width="400" height="400" alt="Heads Up!"></amp-img>
+<amp-img src="/assets/posts/2020-06-05/heads_up.jpg" layout="fixed" class="center" width="250" height="250" alt="Heads Up!"></amp-img>
 
 Heads Up est une autre application parfaite pour faire votre pitre.
 Le but du jeu est de deviner quel est le mot qui est écrit sur la carte au-dessus de votre tête, en vous appuyant sur les indices fournis par vos amis
@@ -134,7 +134,7 @@ L'application a une option pour enregistrer les parties, permettant aux utilisat
 
 ## Smule
 
-<amp-img src="/assets/posts/2020-06-05/smule.jpg" layout="intrinsic" class="center" width="400" height="400" alt="Smule"></amp-img>
+<amp-img src="/assets/posts/2020-06-05/smule.jpg" layout="fixed" class="center" width="250" height="250" alt="Smule"></amp-img>
 
 Vous êtes fan de Karaoké ? Smule peut vous permettre de changer avec vos amis ou avec des étrangers.
 Vous pouvez chanter seul ou avoir quelqu'un qui chante une partie de la chanson pour vous.
@@ -156,7 +156,7 @@ Vous pouvez également jouer à des jeux comme Trivia ou Heads Up!
 
 ## Google Duo
 
-<amp-img src="/assets/posts/2020-06-05/google_duo.jpg" layout="intrinsic" class="center" width="400" height="400" alt="Google Duo"></amp-img>
+<amp-img src="/assets/posts/2020-06-05/google_duo.jpg" layout="fixed" class="center" width="250" height="250" alt="Google Duo"></amp-img>
 
 <a href="https://duo.google.com/about/">Google Duo</a> est un chat vidéo développé par Google, qui est disponible sur les systèmes Android et iOs.
 Vous pouvez discuter avec 8 personnes simultanément.
@@ -167,7 +167,7 @@ Cette application propose une fonctionnalité pour savoir si la personne qui vou
 
 ## Kahoot
 
-<amp-img src="/assets/posts/2020-06-05/kahoot.jpg" layout="intrinsic" class="center" width="550" height="366" alt="Kahoot"></amp-img>
+<amp-img src="/assets/posts/2020-06-05/kahoot.jpg" layout="fixed" class="center" width="250" height="166" alt="Kahoot"></amp-img>
 
 Pour tous les âges, Kahoot a été au départ conçu pour les salles de classe.
 Une personne organise un questionnaire et toutes les personnes présentes peuvent utiliser leur téléphone pour répondre aux questions.
