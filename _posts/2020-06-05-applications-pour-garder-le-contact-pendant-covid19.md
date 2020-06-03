@@ -120,7 +120,7 @@ Il est donc facile de présenter vos photos souvenir, de demander un avis pour l
 
 ## Heads Up!
 
-<amp-img src="/assets/posts/2020-06-05/heads_up.jpg" layout="fixed" class="center" width="250" height="250" alt="Heads Up!"></amp-img>
+<amp-img src="/assets/posts/2020-06-05/heads_up.png" layout="fixed" class="center" width="250" height="250" alt="Heads Up!"></amp-img>
 
 Heads Up est une autre application parfaite pour faire votre pitre.
 Le but du jeu est de deviner quel est le mot qui est écrit sur la carte au-dessus de votre tête, en vous appuyant sur les indices fournis par vos amis
