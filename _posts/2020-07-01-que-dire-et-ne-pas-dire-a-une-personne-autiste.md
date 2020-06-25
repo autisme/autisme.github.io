@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Que dire et ne pas dire à une personne autiste&nbsp;?"
+title: "Que dire et ne pas dire à une personne autiste ?"
 date: 2020-07-01 10:00:00 +0100
 categories:
   - Ressources
