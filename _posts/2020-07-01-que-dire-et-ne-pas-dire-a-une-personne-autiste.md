@@ -5,7 +5,7 @@ date: 2020-07-01 10:00:00 +0100
 categories:
   - Ressources
 author: Bastien
-oembed_image: /assets/posts/2020-06-05/opengraph.jpg
+oembed_image: /assets/posts/2020-07-01/opengraph.jpg
 banner_image: false
 translated:
   url: https://researchautism.org/what-to-say-what-not-to-say-to-someone-with-autism/
