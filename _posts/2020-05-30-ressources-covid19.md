@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Covid-19 : Ressources"
-date: 2020-05-30 10:00:00 +0100
+date: 2020-09-30 10:00:00 +0100
 categories:
   - Ressources
 author: Bastien
