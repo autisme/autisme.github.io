@@ -5,8 +5,8 @@ date: 2021-03-07 08:00:00 +0100
 categories:
   - Conseils
 author: Bastien
-oembed_image: /assets/posts/2020-07-03/opengraph.jpg
-banner_image: /assets/posts/2020-07-03/banner.jpg
+oembed_image: /assets/posts/2021-07-03/opengraph.jpg
+banner_image: /assets/posts/2021-07-03/banner.jpg
 translated:
   website: asiam
   url: /autism-and-eating-disorders/
@@ -41,7 +41,7 @@ Parfois, lorsque nous avons une jeune femme qui n’est pas diagnostiquée, le r
 habituels ne fonctionnent pas, et les cliniciens ne comprennent pas pourquoi.
 
 
-<amp-img src="/assets/posts/2020-07-03/img1.jpg" layout="intrinsic" class="center" width="380" height="253" alt="Img1"></amp-img>
+<amp-img src="/assets/posts/2021-07-03/img1.jpg" layout="intrinsic" class="center" width="380" height="253" alt="Img1"></amp-img>
 
 
 ## Avez-vous note des différences avant et après le diagnostic de ces personnes ?
@@ -64,7 +64,7 @@ famille, mais nous nous sommes surtout concentrés sur Niamh. Elle va maintenant
 pas pu s'exprimer quand elle était plus jeune avec Sharleen. Elle est maintenant fière de son diagnostic et cela lui a donné beaucoup de recul.
 
 
-<amp-img src="/assets/posts/2020-07-03/img2.jpg" layout="intrinsic" class="center" width="451" height="339" alt="Img2"></amp-img>
+<amp-img src="/assets/posts/2021-07-03/img2.jpg" layout="intrinsic" class="center" width="451" height="339" alt="Img2"></amp-img>
 
 ## Est-ce que les troubles alimentaires chez les personnes autistes se déclenchent différemment des personnes non autistes ?
 
