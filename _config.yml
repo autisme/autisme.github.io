@@ -7,11 +7,11 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://autisme.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-twitter_username: BastienConfais1
+#twitter_username: BastienConfais1
 github_username:  autisme
-facebook:
-  username: Bastien Confais
-  id: 100011387942681
+#facebook:
+#  username: Bastien Confais
+#  id: 100011387942681
 author: Bastien
 email: autisme@confais.org
 
