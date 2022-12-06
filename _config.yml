@@ -5,7 +5,8 @@ lang: fr
 description: > # this means to ignore newlines until "baseurl:"
   Faire comprendre ce qu'est l'autisme au grand public et construire une société inclusive.
 baseurl: ""
-url: "https://autisme.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://autisme.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.autism-friendly.fr"
 
 #twitter_username: BastienConfais1
 github_username:  autisme
